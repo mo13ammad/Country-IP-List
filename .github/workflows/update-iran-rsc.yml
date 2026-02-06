@@ -31,8 +31,8 @@ jobs:
             exit 0
           fi
 
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "Mohammad"
+          git config user.email "mohammadsaadati74@gmail.com"
 
           git add generated/iran.rsc generated/iran.commands.rsc generated/iran.prefixes.txt
           git commit -m "chore: update Iran IP lists (RSC + commands)"
