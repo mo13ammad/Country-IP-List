@@ -1,7 +1,6 @@
 # Last update: 2026-02-06 17:12:07 UTC
-# Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=IR&v4_format=prefix
+# Paste into MikroTik Terminal (adds only; no remove)
 
-/ipv6 firewall address-list remove [/ipv6 firewall address-list find list=IRv6]
 /ipv6 firewall address-list
 :do { add address=2001:678:b0::/46 list=IRv6 } on-error={}
 :do { add address=2001:678:428::/48 list=IRv6 } on-error={}
@@ -575,7 +574,6 @@
 :do { add address=2a14:f780::/29 list=IRv6 } on-error={}
 :do { add address=2a14:f880::/29 list=IRv6 } on-error={}
 
-/ip firewall address-list remove [/ip firewall address-list find list=IP-IRAN]
 /ip firewall address-list
 :do { add address=10.0.0.0/8 list=IP-IRAN } on-error={}
 :do { add address=2.57.3.0/24 list=IP-IRAN } on-error={}
