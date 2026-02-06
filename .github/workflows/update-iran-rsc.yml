@@ -1,0 +1,37 @@
+name: Update Iran RSC
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # هر ساعت (دقیقه ۰)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
+
+      - name: Generate RSC
+        run: |
+          ./scripts/generate_iran_rsc.sh generated/iran.rsc
+
+      - name: Commit & Push if changed
+        run: |
+          if git diff --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add generated/iran.rsc
+          git commit -m "chore: update Iran IP list (RSC)"
+          git push
