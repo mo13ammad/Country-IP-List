@@ -2,7 +2,6 @@
 
 Generate MikroTik address-list `.rsc` files (IPv4 + IPv6) for multiple countries using RIPE Stat data.
 
-Repository: https://github.com/mo13ammad/Country-IP-List
 
 ## How to use (MikroTik)
 
