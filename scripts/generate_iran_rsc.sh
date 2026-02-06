@@ -9,47 +9,69 @@ filterv6='.data.resources.ipv6[]'
 
 output="$(curl -s --http2-prior-knowledge -H 'Connection: close' "$url")"
 
-rsc_fwv4() {
-  echo "# Last update: $last"
-  echo "/ip firewall address-list remove [/ip firewall address-list find list=IP-IRAN]"
-  echo "/ip firewall address-list"
-}
+OUT_RSC="${1:-generated/iran.rsc}"                 # فایل import کامل
+OUT_CMD="${2:-generated/iran.commands.rsc}"        # فقط addها برای paste
+OUT_TXT="${3:-generated/iran.prefixes.txt}"        # لیست خام (اختیاری)
 
-rsc_fwv6() {
+mkdir -p "$(dirname "$OUT_RSC")"
+
+v4_list="$(echo "$output" | jq -r "$filterv4")"
+v6_list="$(echo "$output" | jq -r "$filterv6")"
+
+# ---------- Writers ----------
+write_full_rsc() {
   echo "# Last update: $last"
+  echo "# Source: $url"
+  echo ""
+
+  # IPv6 (IRv6)
   echo "/ipv6 firewall address-list remove [/ipv6 firewall address-list find list=IRv6]"
   echo "/ipv6 firewall address-list"
-}
+  for p in $v6_list; do
+    echo ":do { add address=$p list=IRv6 } on-error={}"
+  done
+  echo ""
 
-rsc_intranetv4() {
+  # IPv4 (IP-IRAN)
+  echo "/ip firewall address-list remove [/ip firewall address-list find list=IP-IRAN]"
+  echo "/ip firewall address-list"
+  # اگر می‌خوای داخل همین لیست هم اضافه بشه:
   echo ":do { add address=10.0.0.0/8 list=IP-IRAN } on-error={}"
-}
-
-# $1: ip list
-# $2: address list name
-# $3:
-#   v4: IPv4 only
-#   v6: IPv6 only
-rsc_address_add() {
-  if [ "${3:-}" = "v4" ]; then
-    rsc_fwv4
-    rsc_intranetv4
-  elif [ "${3:-}" = "v6" ]; then
-    rsc_fwv6
-  fi
-
-  for prefix in $1; do
-    echo ":do { add address=$prefix list=$2 } on-error={}"
+  for p in $v4_list; do
+    echo ":do { add address=$p list=IP-IRAN } on-error={}"
   done
 }
 
-OUT_FILE="${1:-generated/iran.rsc}"
-mkdir -p "$(dirname "$OUT_FILE")"
-
-{
-  # IPv6
-  rsc_address_add "$(echo "$output" | jq -r "$filterv6")" IRv6 v6
+write_commands_only() {
+  echo "# Last update: $last"
+  echo "# Paste into MikroTik Terminal (adds only; no remove)"
   echo ""
-  # IPv4 
-  rsc_address_add "$(echo "$output" | jq -r "$filterv4")" IP-IRAN v4
-} > "$OUT_FILE"
+
+  # IPv6 add فقط
+  echo "/ipv6 firewall address-list"
+  for p in $v6_list; do
+    echo ":do { add address=$p list=IRv6 } on-error={}"
+  done
+  echo ""
+
+  # IPv4 add فقط
+  echo "/ip firewall address-list"
+  echo ":do { add address=10.0.0.0/8 list=IP-IRAN } on-error={}"
+  for p in $v4_list; do
+    echo ":do { add address=$p list=IP-IRAN } on-error={}"
+  done
+}
+
+write_prefixes_txt() {
+  echo "# Last update: $last"
+  echo "# IPv4:"
+  echo "$v4_list"
+  echo ""
+  echo "# IPv6:"
+  echo "$v6_list"
+}
+
+# ---------- Generate files ----------
+write_full_rsc > "$OUT_RSC"
+write_commands_only > "$OUT_CMD"
+write_prefixes_txt > "$OUT_TXT"

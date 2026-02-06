@@ -21,8 +21,8 @@ jobs:
       - name: Make script executable
         run: chmod +x scripts/generate_iran_rsc.sh
 
-      - name: Generate RSC
-        run: ./scripts/generate_iran_rsc.sh generated/iran.rsc
+      - name: Generate RSC files
+        run: ./scripts/generate_iran_rsc.sh generated/iran.rsc generated/iran.commands.rsc generated/iran.prefixes.txt
 
       - name: Commit & Push if changed
         run: |
@@ -31,9 +31,9 @@ jobs:
             exit 0
           fi
 
-          git config user.name "mo13ammad"
-          git config user.email "mohammadsaadati74@gmail.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add generated/iran.rsc
-          git commit -m "chore: update Iran IP list (RSC)"
+          git add generated/iran.rsc generated/iran.commands.rsc generated/iran.prefixes.txt
+          git commit -m "chore: update Iran IP lists (RSC + commands)"
           git push
