@@ -1,4 +1,4 @@
-# Last update: 2026-02-07 09:20:00 UTC
+# Last update: 2026-02-07 10:14:37 UTC
 # Country: PL
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PL&v4_format=prefix
 
