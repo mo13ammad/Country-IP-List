@@ -1,4 +1,4 @@
-# Last update: 2026-02-07 18:18:57 UTC
+# Last update: 2026-02-07 19:15:47 UTC
 # Country: MW
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MW&v4_format=prefix
 
