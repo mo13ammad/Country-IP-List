@@ -1,4 +1,4 @@
-# Last update: 2026-02-09 12:40:19 UTC
+# Last update: 2026-02-09 15:43:16 UTC
 # Country: IM
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=IM&v4_format=prefix
 
