@@ -1,4 +1,4 @@
-# Last update: 2026-02-09 04:15:09 UTC
+# Last update: 2026-02-09 06:00:52 UTC
 # Country: IN
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=IN&v4_format=prefix
 
