@@ -1,4 +1,4 @@
-# Last update: 2026-02-11 15:48:47 UTC
+# Last update: 2026-02-11 16:51:53 UTC
 # Country: CY
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CY&v4_format=prefix
 
@@ -32,7 +32,6 @@
 :do { add address=2a03:1740::/32 list=CYv6 } on-error={}
 :do { add address=2a03:3b20::/32 list=CYv6 } on-error={}
 :do { add address=2a03:a7a0::/32 list=CYv6 } on-error={}
-:do { add address=2a03:db40::/29 list=CYv6 } on-error={}
 :do { add address=2a04:1480::/29 list=CYv6 } on-error={}
 :do { add address=2a04:5f80::/29 list=CYv6 } on-error={}
 :do { add address=2a04:e880::/29 list=CYv6 } on-error={}

@@ -1,4 +1,4 @@
-# Last update: 2026-02-11 15:48:47 UTC
+# Last update: 2026-02-11 16:51:53 UTC
 # Country: GR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GR&v4_format=prefix
 
@@ -44,7 +44,6 @@
 :do { add address=2a02:4900::/29 list=GRv6 } on-error={}
 :do { add address=2a02:4fc0::/32 list=GRv6 } on-error={}
 :do { add address=2a02:5440::/32 list=GRv6 } on-error={}
-:do { add address=2a02:c500::/29 list=GRv6 } on-error={}
 :do { add address=2a02:ce00::/29 list=GRv6 } on-error={}
 :do { add address=2a02:fa80::/32 list=GRv6 } on-error={}
 :do { add address=2a03:e40::/32 list=GRv6 } on-error={}
@@ -66,7 +65,6 @@
 :do { add address=2a06:5200::/29 list=GRv6 } on-error={}
 :do { add address=2a06:5780::/29 list=GRv6 } on-error={}
 :do { add address=2a06:e780::/29 list=GRv6 } on-error={}
-:do { add address=2a07:8c0::/29 list=GRv6 } on-error={}
 :do { add address=2a07:9b00::/29 list=GRv6 } on-error={}
 :do { add address=2a09:68c0::/29 list=GRv6 } on-error={}
 :do { add address=2a09:a1c0::/29 list=GRv6 } on-error={}
@@ -319,7 +317,6 @@
 :do { add address=185.1.172.0/24 list=IP-GR } on-error={}
 :do { add address=185.3.220.0/22 list=IP-GR } on-error={}
 :do { add address=185.4.88.0/22 list=IP-GR } on-error={}
-:do { add address=185.4.132.0/22 list=IP-GR } on-error={}
 :do { add address=185.4.236.0/24 list=IP-GR } on-error={}
 :do { add address=185.4.237.0/24 list=IP-GR } on-error={}
 :do { add address=185.4.238.0/23 list=IP-GR } on-error={}
@@ -373,7 +370,6 @@
 :do { add address=185.117.35.0/24 list=IP-GR } on-error={}
 :do { add address=185.118.125.0/24 list=IP-GR } on-error={}
 :do { add address=185.134.112.0/22 list=IP-GR } on-error={}
-:do { add address=185.138.40.0/22 list=IP-GR } on-error={}
 :do { add address=185.140.240.0/22 list=IP-GR } on-error={}
 :do { add address=185.143.52.0/22 list=IP-GR } on-error={}
 :do { add address=185.145.164.0/22 list=IP-GR } on-error={}
