@@ -1,4 +1,4 @@
-# Last update: 2026-02-11 12:40:19 UTC
+# Last update: 2026-02-11 14:08:06 UTC
 # Country: NG
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=NG&v4_format=prefix
 
