@@ -1,4 +1,4 @@
-# Last update: 2026-02-12 20:22:48 UTC
+# Last update: 2026-02-12 21:23:22 UTC
 # Country: MN
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MN&v4_format=prefix
 
