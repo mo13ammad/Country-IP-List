@@ -1,4 +1,4 @@
-# Last update: 2026-02-12 17:49:47 UTC
+# Last update: 2026-02-12 19:43:24 UTC
 # Country: AF
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=AF&v4_format=prefix
 
