@@ -1,4 +1,4 @@
-# Last update: 2026-02-14 12:22:33 UTC
+# Last update: 2026-02-14 13:36:53 UTC
 # Country: BB
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BB&v4_format=prefix
 
