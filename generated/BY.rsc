@@ -1,4 +1,4 @@
-# Last update: 2026-02-16 05:59:33 UTC
+# Last update: 2026-02-16 07:04:17 UTC
 # Country: BY
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BY&v4_format=prefix
 
