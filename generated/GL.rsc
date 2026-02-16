@@ -1,4 +1,4 @@
-# Last update: 2026-02-16 09:40:16 UTC
+# Last update: 2026-02-16 10:38:29 UTC
 # Country: GL
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GL&v4_format=prefix
 
