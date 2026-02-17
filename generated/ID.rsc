@@ -1,4 +1,4 @@
-# Last update: 2026-02-17 17:46:02 UTC
+# Last update: 2026-02-17 18:40:47 UTC
 # Country: ID
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=ID&v4_format=prefix
 
