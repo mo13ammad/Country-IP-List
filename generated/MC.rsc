@@ -1,4 +1,4 @@
-# Last update: 2026-02-17 07:42:27 UTC
+# Last update: 2026-02-17 08:32:16 UTC
 # Country: MC
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MC&v4_format=prefix
 
