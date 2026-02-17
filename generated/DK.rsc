@@ -1,4 +1,4 @@
-# Last update: 2026-02-17 15:40:27 UTC
+# Last update: 2026-02-17 16:43:38 UTC
 # Country: DK
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=DK&v4_format=prefix
 
@@ -439,6 +439,7 @@
 :do { add address=31.3.72.0/21 list=IP-DK } on-error={}
 :do { add address=31.25.16.0/21 list=IP-DK } on-error={}
 :do { add address=31.31.80.0/21 list=IP-DK } on-error={}
+:do { add address=31.99.200.0/21 list=IP-DK } on-error={}
 :do { add address=31.131.188.0/23 list=IP-DK } on-error={}
 :do { add address=31.185.64.0/19 list=IP-DK } on-error={}
 :do { add address=31.193.232.0/21 list=IP-DK } on-error={}
