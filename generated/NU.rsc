@@ -1,4 +1,4 @@
-# Last update: 2026-02-17 04:08:05 UTC
+# Last update: 2026-02-17 05:51:07 UTC
 # Country: NU
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=NU&v4_format=prefix
 
