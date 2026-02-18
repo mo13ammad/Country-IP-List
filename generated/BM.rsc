@@ -1,4 +1,4 @@
-# Last update: 2026-02-18 17:45:40 UTC
+# Last update: 2026-02-18 18:36:55 UTC
 # Country: BM
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BM&v4_format=prefix
 
