@@ -1,4 +1,4 @@
-# Last update: 2026-02-18 15:40:05 UTC
+# Last update: 2026-02-18 16:49:30 UTC
 # Country: AL
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=AL&v4_format=prefix
 
@@ -85,6 +85,7 @@
 :do { add address=2a10:df40::/29 list=ALv6 } on-error={}
 :do { add address=2a10:f240::/29 list=ALv6 } on-error={}
 :do { add address=2a10:ff40::/29 list=ALv6 } on-error={}
+:do { add address=2a11:1580::/32 list=ALv6 } on-error={}
 :do { add address=2a11:e340::/29 list=ALv6 } on-error={}
 :do { add address=2a12:4040::/29 list=ALv6 } on-error={}
 :do { add address=2a12:7cc0::/29 list=ALv6 } on-error={}
