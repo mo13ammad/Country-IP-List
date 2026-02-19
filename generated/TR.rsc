@@ -1,4 +1,4 @@
-# Last update: 2026-02-19 16:38:53 UTC
+# Last update: 2026-02-19 17:42:13 UTC
 # Country: TR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=TR&v4_format=prefix
 
@@ -549,10 +549,13 @@
 :do { add address=2a11:940::/29 list=TRv6 } on-error={}
 :do { add address=2a11:1800::/29 list=TRv6 } on-error={}
 :do { add address=2a11:1ec0::/29 list=TRv6 } on-error={}
+:do { add address=2a11:1fc0::/32 list=TRv6 } on-error={}
+:do { add address=2a11:3640::/29 list=TRv6 } on-error={}
 :do { add address=2a11:3780::/29 list=TRv6 } on-error={}
 :do { add address=2a11:39c0::/29 list=TRv6 } on-error={}
 :do { add address=2a11:4bc0::/29 list=TRv6 } on-error={}
 :do { add address=2a11:5600::/29 list=TRv6 } on-error={}
+:do { add address=2a11:5dc0::/29 list=TRv6 } on-error={}
 :do { add address=2a11:5fc0::/29 list=TRv6 } on-error={}
 :do { add address=2a11:8200::/29 list=TRv6 } on-error={}
 :do { add address=2a11:94c0::/29 list=TRv6 } on-error={}
@@ -2448,6 +2451,7 @@
 :do { add address=212.47.44.0/24 list=IP-TR } on-error={}
 :do { add address=212.47.46.0/24 list=IP-TR } on-error={}
 :do { add address=212.47.50.0/24 list=IP-TR } on-error={}
+:do { add address=212.47.51.0/24 list=IP-TR } on-error={}
 :do { add address=212.50.32.0/19 list=IP-TR } on-error={}
 :do { add address=212.57.0.0/19 list=IP-TR } on-error={}
 :do { add address=212.58.0.0/19 list=IP-TR } on-error={}
