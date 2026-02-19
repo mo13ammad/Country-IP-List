@@ -1,4 +1,4 @@
-# Last update: 2026-02-19 07:41:29 UTC
+# Last update: 2026-02-19 08:30:29 UTC
 # Country: GR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GR&v4_format=prefix
 
