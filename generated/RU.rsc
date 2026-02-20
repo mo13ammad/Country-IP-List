@@ -1,4 +1,4 @@
-# Last update: 2026-02-20 19:29:46 UTC
+# Last update: 2026-02-20 20:18:13 UTC
 # Country: RU
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=RU&v4_format=prefix
 
