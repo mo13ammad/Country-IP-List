@@ -1,4 +1,4 @@
-# Last update: 2026-02-20 20:18:13 UTC
+# Last update: 2026-02-20 21:14:07 UTC
 # Country: SE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SE&v4_format=prefix
 
