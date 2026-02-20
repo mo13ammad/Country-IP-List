@@ -1,4 +1,4 @@
-# Last update: 2026-02-20 15:28:42 UTC
+# Last update: 2026-02-20 16:24:31 UTC
 # Country: CA
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CA&v4_format=prefix
 
@@ -1298,6 +1298,7 @@
 :do { add address=23.153.128.0/24 list=IP-CA } on-error={}
 :do { add address=23.153.132.0/24 list=IP-CA } on-error={}
 :do { add address=23.153.160.0/24 list=IP-CA } on-error={}
+:do { add address=23.153.228.0/24 list=IP-CA } on-error={}
 :do { add address=23.154.0.0/24 list=IP-CA } on-error={}
 :do { add address=23.154.1.0/24 list=IP-CA } on-error={}
 :do { add address=23.154.2.0/24 list=IP-CA } on-error={}
@@ -1713,6 +1714,7 @@
 :do { add address=64.45.173.0/24 list=IP-CA } on-error={}
 :do { add address=64.46.0.0/19 list=IP-CA } on-error={}
 :do { add address=64.46.32.0/19 list=IP-CA } on-error={}
+:do { add address=64.46.126.0/24 list=IP-CA } on-error={}
 :do { add address=64.49.24.0/22 list=IP-CA } on-error={}
 :do { add address=64.49.29.0/24 list=IP-CA } on-error={}
 :do { add address=64.50.144.0/20 list=IP-CA } on-error={}

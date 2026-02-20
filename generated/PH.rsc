@@ -1,4 +1,4 @@
-# Last update: 2026-02-20 15:28:42 UTC
+# Last update: 2026-02-20 16:24:31 UTC
 # Country: PH
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PH&v4_format=prefix
 
@@ -897,6 +897,7 @@
 :do { add address=146.88.64.0/20 list=IP-PH } on-error={}
 :do { add address=146.88.80.0/22 list=IP-PH } on-error={}
 :do { add address=147.185.169.0/24 list=IP-PH } on-error={}
+:do { add address=151.158.190.0/24 list=IP-PH } on-error={}
 :do { add address=152.32.64.0/19 list=IP-PH } on-error={}
 :do { add address=152.32.96.0/20 list=IP-PH } on-error={}
 :do { add address=152.32.112.0/21 list=IP-PH } on-error={}
