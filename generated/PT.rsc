@@ -1,4 +1,4 @@
-# Last update: 2026-02-20 16:24:31 UTC
+# Last update: 2026-02-20 17:28:41 UTC
 # Country: PT
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PT&v4_format=prefix
 
@@ -111,6 +111,7 @@
 :do { add address=2a11:6740::/29 list=PTv6 } on-error={}
 :do { add address=2a11:9ec0::/29 list=PTv6 } on-error={}
 :do { add address=2a11:bd80::/30 list=PTv6 } on-error={}
+:do { add address=2a11:e740::/32 list=PTv6 } on-error={}
 :do { add address=2a12:26c0::/29 list=PTv6 } on-error={}
 :do { add address=2a12:49c0::/29 list=PTv6 } on-error={}
 :do { add address=2a12:c1c0::/29 list=PTv6 } on-error={}

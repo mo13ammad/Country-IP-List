@@ -1,4 +1,4 @@
-# Last update: 2026-02-20 16:24:31 UTC
+# Last update: 2026-02-20 17:28:41 UTC
 # Country: BG
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BG&v4_format=prefix
 
@@ -240,6 +240,7 @@
 :do { add address=2a11:8a00::/29 list=BGv6 } on-error={}
 :do { add address=2a11:9d40::/29 list=BGv6 } on-error={}
 :do { add address=2a11:c8c0::/29 list=BGv6 } on-error={}
+:do { add address=2a11:eb00::/29 list=BGv6 } on-error={}
 :do { add address=2a12:21c0::/29 list=BGv6 } on-error={}
 :do { add address=2a12:4700::/29 list=BGv6 } on-error={}
 :do { add address=2a12:59c0::/29 list=BGv6 } on-error={}

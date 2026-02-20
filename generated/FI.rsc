@@ -1,4 +1,4 @@
-# Last update: 2026-02-20 16:24:31 UTC
+# Last update: 2026-02-20 17:28:41 UTC
 # Country: FI
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=FI&v4_format=prefix
 
@@ -17,17 +17,21 @@
 :do { add address=2001:67c:164::/48 list=FIv6 } on-error={}
 :do { add address=2001:67c:224::/48 list=FIv6 } on-error={}
 :do { add address=2001:67c:25c::/48 list=FIv6 } on-error={}
+:do { add address=2001:67c:298::/48 list=FIv6 } on-error={}
 :do { add address=2001:67c:2b0::/48 list=FIv6 } on-error={}
 :do { add address=2001:67c:408::/48 list=FIv6 } on-error={}
 :do { add address=2001:67c:8e4::/48 list=FIv6 } on-error={}
 :do { add address=2001:67c:da0::/48 list=FIv6 } on-error={}
+:do { add address=2001:67c:e8c::/48 list=FIv6 } on-error={}
 :do { add address=2001:67c:ecc::/48 list=FIv6 } on-error={}
 :do { add address=2001:67c:10a4::/48 list=FIv6 } on-error={}
 :do { add address=2001:67c:13ac::/48 list=FIv6 } on-error={}
 :do { add address=2001:67c:14c0::/48 list=FIv6 } on-error={}
 :do { add address=2001:67c:1534::/48 list=FIv6 } on-error={}
+:do { add address=2001:67c:16c8::/48 list=FIv6 } on-error={}
 :do { add address=2001:67c:17a0::/48 list=FIv6 } on-error={}
 :do { add address=2001:67c:1850::/48 list=FIv6 } on-error={}
+:do { add address=2001:67c:1908::/48 list=FIv6 } on-error={}
 :do { add address=2001:67c:19b0::/46 list=FIv6 } on-error={}
 :do { add address=2001:67c:1bb0::/48 list=FIv6 } on-error={}
 :do { add address=2001:67c:1be8::/48 list=FIv6 } on-error={}
@@ -667,6 +671,7 @@
 :do { add address=93.174.192.0/21 list=IP-FI } on-error={}
 :do { add address=93.183.0.0/18 list=IP-FI } on-error={}
 :do { add address=93.190.96.0/21 list=IP-FI } on-error={}
+:do { add address=93.190.127.0/24 list=IP-FI } on-error={}
 :do { add address=93.191.120.0/21 list=IP-FI } on-error={}
 :do { add address=94.22.0.0/16 list=IP-FI } on-error={}
 :do { add address=94.101.0.0/20 list=IP-FI } on-error={}
