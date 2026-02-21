@@ -1,4 +1,4 @@
-# Last update: 2026-02-21 16:15:16 UTC
+# Last update: 2026-02-21 17:16:18 UTC
 # Country: LT
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=LT&v4_format=prefix
 
@@ -382,6 +382,7 @@
 
 /ip firewall address-list remove [/ip firewall address-list find list=IP-LT]
 /ip firewall address-list
+:do { add address=2.24.0.0/15 list=IP-LT } on-error={}
 :do { add address=2.56.0.0/22 list=IP-LT } on-error={}
 :do { add address=2.56.184.0/22 list=IP-LT } on-error={}
 :do { add address=2.56.248.0/22 list=IP-LT } on-error={}
@@ -520,7 +521,6 @@
 :do { add address=46.33.23.0/24 list=IP-LT } on-error={}
 :do { add address=46.36.64.0/19 list=IP-LT } on-error={}
 :do { add address=46.36.200.0/24 list=IP-LT } on-error={}
-:do { add address=46.36.201.0/24 list=IP-LT } on-error={}
 :do { add address=46.102.251.0/24 list=IP-LT } on-error={}
 :do { add address=46.148.16.0/20 list=IP-LT } on-error={}
 :do { add address=46.166.160.0/20 list=IP-LT } on-error={}

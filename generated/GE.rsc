@@ -1,4 +1,4 @@
-# Last update: 2026-02-21 16:15:16 UTC
+# Last update: 2026-02-21 17:16:18 UTC
 # Country: GE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GE&v4_format=prefix
 
@@ -412,6 +412,7 @@
 :do { add address=213.134.15.0/24 list=IP-GE } on-error={}
 :do { add address=213.139.236.0/22 list=IP-GE } on-error={}
 :do { add address=213.157.192.0/19 list=IP-GE } on-error={}
+:do { add address=213.173.15.0/24 list=IP-GE } on-error={}
 :do { add address=213.177.188.0/24 list=IP-GE } on-error={}
 :do { add address=213.200.0.0/19 list=IP-GE } on-error={}
 :do { add address=213.217.16.0/22 list=IP-GE } on-error={}

@@ -1,4 +1,4 @@
-# Last update: 2026-02-21 16:15:16 UTC
+# Last update: 2026-02-21 17:16:18 UTC
 # Country: CY
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CY&v4_format=prefix
 
@@ -39,7 +39,6 @@
 :do { add address=2a04:f6c0::/29 list=CYv6 } on-error={}
 :do { add address=2a05:7880::/32 list=CYv6 } on-error={}
 :do { add address=2a05:8280::/29 list=CYv6 } on-error={}
-:do { add address=2a05:8500::/29 list=CYv6 } on-error={}
 :do { add address=2a05:b7c0::/29 list=CYv6 } on-error={}
 :do { add address=2a05:f300::/29 list=CYv6 } on-error={}
 :do { add address=2a06:2a00::/29 list=CYv6 } on-error={}
@@ -746,7 +745,6 @@
 :do { add address=185.68.128.0/22 list=IP-CY } on-error={}
 :do { add address=185.77.96.0/23 list=IP-CY } on-error={}
 :do { add address=185.78.128.0/22 list=IP-CY } on-error={}
-:do { add address=185.81.32.0/22 list=IP-CY } on-error={}
 :do { add address=185.86.92.0/22 list=IP-CY } on-error={}
 :do { add address=185.96.163.0/24 list=IP-CY } on-error={}
 :do { add address=185.97.160.0/22 list=IP-CY } on-error={}
@@ -809,7 +807,6 @@
 :do { add address=185.230.112.0/22 list=IP-CY } on-error={}
 :do { add address=185.234.52.0/24 list=IP-CY } on-error={}
 :do { add address=185.235.252.0/22 list=IP-CY } on-error={}
-:do { add address=185.237.228.0/22 list=IP-CY } on-error={}
 :do { add address=185.240.140.0/22 list=IP-CY } on-error={}
 :do { add address=185.243.214.0/23 list=IP-CY } on-error={}
 :do { add address=185.249.152.0/22 list=IP-CY } on-error={}
