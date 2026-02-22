@@ -1,9 +1,10 @@
-# Last update: 2026-02-22 16:16:13 UTC
+# Last update: 2026-02-22 17:16:19 UTC
 # Country: LC
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=LC&v4_format=prefix
 
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list=LCv6]
 /ipv6 firewall address-list
+:do { add address=2001:505:150::/48 list=LCv6 } on-error={}
 :do { add address=2600:7c00::/28 list=LCv6 } on-error={}
 :do { add address=2606:3c80::/32 list=LCv6 } on-error={}
 :do { add address=2606:5dc0::/32 list=LCv6 } on-error={}
@@ -15,9 +16,11 @@
 :do { add address=72.14.98.0/23 list=IP-LC } on-error={}
 :do { add address=104.218.216.0/22 list=IP-LC } on-error={}
 :do { add address=104.255.252.0/22 list=IP-LC } on-error={}
+:do { add address=149.112.194.0/23 list=IP-LC } on-error={}
 :do { add address=162.0.155.0/24 list=IP-LC } on-error={}
 :do { add address=162.212.208.0/23 list=IP-LC } on-error={}
 :do { add address=162.245.76.0/22 list=IP-LC } on-error={}
+:do { add address=167.150.204.0/22 list=IP-LC } on-error={}
 :do { add address=192.58.142.0/23 list=IP-LC } on-error={}
 :do { add address=192.147.231.0/24 list=IP-LC } on-error={}
 :do { add address=199.38.192.0/21 list=IP-LC } on-error={}
