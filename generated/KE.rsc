@@ -1,4 +1,4 @@
-# Last update: 2026-02-21 23:13:48 UTC
+# Last update: 2026-02-22 01:06:21 UTC
 # Country: KE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=KE&v4_format=prefix
 
