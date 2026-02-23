@@ -1,4 +1,4 @@
-# Last update: 2026-02-23 19:49:43 UTC
+# Last update: 2026-02-23 20:32:46 UTC
 # Country: JM
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=JM&v4_format=prefix
 
