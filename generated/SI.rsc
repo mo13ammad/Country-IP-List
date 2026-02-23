@@ -1,4 +1,4 @@
-# Last update: 2026-02-23 16:41:53 UTC
+# Last update: 2026-02-23 17:53:20 UTC
 # Country: SI
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SI&v4_format=prefix
 
