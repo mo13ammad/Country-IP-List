@@ -1,4 +1,4 @@
-# Last update: 2026-02-24 15:44:12 UTC
+# Last update: 2026-02-24 16:53:55 UTC
 # Country: SE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SE&v4_format=prefix
 
@@ -61,8 +61,6 @@
 :do { add address=2001:678:edc::/48 list=SEv6 } on-error={}
 :do { add address=2001:678:f20::/48 list=SEv6 } on-error={}
 :do { add address=2001:678:f40::/48 list=SEv6 } on-error={}
-:do { add address=2001:678:f78::/48 list=SEv6 } on-error={}
-:do { add address=2001:678:f7c::/48 list=SEv6 } on-error={}
 :do { add address=2001:678:f84::/48 list=SEv6 } on-error={}
 :do { add address=2001:678:fa8::/48 list=SEv6 } on-error={}
 :do { add address=2001:678:fac::/48 list=SEv6 } on-error={}
@@ -282,7 +280,6 @@
 :do { add address=2001:67c:26b0::/48 list=SEv6 } on-error={}
 :do { add address=2001:67c:26d0::/48 list=SEv6 } on-error={}
 :do { add address=2001:67c:26dc::/48 list=SEv6 } on-error={}
-:do { add address=2001:67c:26e8::/48 list=SEv6 } on-error={}
 :do { add address=2001:67c:271c::/48 list=SEv6 } on-error={}
 :do { add address=2001:67c:2770::/48 list=SEv6 } on-error={}
 :do { add address=2001:67c:2780::/48 list=SEv6 } on-error={}
@@ -832,6 +829,7 @@
 :do { add address=2a12:1580::/29 list=SEv6 } on-error={}
 :do { add address=2a12:1e00::/29 list=SEv6 } on-error={}
 :do { add address=2a12:3600::/30 list=SEv6 } on-error={}
+:do { add address=2a12:3a40::/32 list=SEv6 } on-error={}
 :do { add address=2a12:5800::/29 list=SEv6 } on-error={}
 :do { add address=2a12:5bc0::/29 list=SEv6 } on-error={}
 :do { add address=2a12:7800::/29 list=SEv6 } on-error={}

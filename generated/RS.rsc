@@ -1,4 +1,4 @@
-# Last update: 2026-02-24 15:44:12 UTC
+# Last update: 2026-02-24 16:53:55 UTC
 # Country: RS
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=RS&v4_format=prefix
 
@@ -81,6 +81,7 @@
 :do { add address=2a0c:8c00::/29 list=RSv6 } on-error={}
 :do { add address=2a0c:b240::/32 list=RSv6 } on-error={}
 :do { add address=2a0c:c940::/29 list=RSv6 } on-error={}
+:do { add address=2a0d:2a80::/29 list=RSv6 } on-error={}
 :do { add address=2a0d:a6c0::/29 list=RSv6 } on-error={}
 :do { add address=2a0e:da80::/29 list=RSv6 } on-error={}
 :do { add address=2a0e:fd80::/29 list=RSv6 } on-error={}
