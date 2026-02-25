@@ -1,4 +1,4 @@
-# Last update: 2026-02-25 11:32:13 UTC
+# Last update: 2026-02-25 12:36:36 UTC
 # Country: PG
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PG&v4_format=prefix
 
