@@ -1,4 +1,4 @@
-# Last update: 2026-02-25 06:49:19 UTC
+# Last update: 2026-02-25 07:43:51 UTC
 # Country: BH
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BH&v4_format=prefix
 
