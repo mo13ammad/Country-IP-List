@@ -1,4 +1,4 @@
-# Last update: 2026-02-25 23:19:21 UTC
+# Last update: 2026-02-26 01:03:19 UTC
 # Country: KH
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=KH&v4_format=prefix
 
