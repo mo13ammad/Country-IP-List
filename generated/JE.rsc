@@ -1,11 +1,11 @@
-# Last update: 2026-02-26 15:42:31 UTC
+# Last update: 2026-02-26 16:43:50 UTC
 # Country: JE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=JE&v4_format=prefix
 
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list=JEv6]
 /ipv6 firewall address-list
 :do { add address=2a01:94a0::/32 list=JEv6 } on-error={}
-:do { add address=2a01:a400::/32 list=JEv6 } on-error={}
+:do { add address=2a01:a400::/29 list=JEv6 } on-error={}
 :do { add address=2a02:c28::/29 list=JEv6 } on-error={}
 :do { add address=2a03:d4c0::/32 list=JEv6 } on-error={}
 :do { add address=2a07:ee40::/29 list=JEv6 } on-error={}

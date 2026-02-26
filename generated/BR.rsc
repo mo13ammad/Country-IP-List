@@ -1,4 +1,4 @@
-# Last update: 2026-02-26 15:42:31 UTC
+# Last update: 2026-02-26 16:43:50 UTC
 # Country: BR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BR&v4_format=prefix
 
@@ -7325,7 +7325,6 @@
 :do { add address=2804:7bdc::/32 list=BRv6 } on-error={}
 :do { add address=2804:7bec::/32 list=BRv6 } on-error={}
 :do { add address=2804:7bf0::/32 list=BRv6 } on-error={}
-:do { add address=2804:7bf4::/32 list=BRv6 } on-error={}
 :do { add address=2804:7bf8::/32 list=BRv6 } on-error={}
 :do { add address=2804:7bfc::/32 list=BRv6 } on-error={}
 :do { add address=2804:7c00::/32 list=BRv6 } on-error={}
@@ -8917,6 +8916,9 @@
 :do { add address=2804:97f4::/32 list=BRv6 } on-error={}
 :do { add address=2804:97f8::/32 list=BRv6 } on-error={}
 :do { add address=2804:97fc::/32 list=BRv6 } on-error={}
+:do { add address=2804:9800::/32 list=BRv6 } on-error={}
+:do { add address=2804:9804::/32 list=BRv6 } on-error={}
+:do { add address=2804:9808::/32 list=BRv6 } on-error={}
 :do { add address=2a00:aee0::/29 list=BRv6 } on-error={}
 :do { add address=2a06:b700::/29 list=BRv6 } on-error={}
 
