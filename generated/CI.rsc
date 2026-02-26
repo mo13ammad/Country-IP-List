@@ -1,4 +1,4 @@
-# Last update: 2026-02-26 22:24:51 UTC
+# Last update: 2026-02-26 23:19:32 UTC
 # Country: CI
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CI&v4_format=prefix
 
