@@ -1,4 +1,4 @@
-# Last update: 2026-02-27 16:27:39 UTC
+# Last update: 2026-02-27 17:25:01 UTC
 # Country: UA
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=UA&v4_format=prefix
 
@@ -105,6 +105,7 @@
 :do { add address=2001:67c:a14::/48 list=UAv6 } on-error={}
 :do { add address=2001:67c:a28::/48 list=UAv6 } on-error={}
 :do { add address=2001:67c:a68::/48 list=UAv6 } on-error={}
+:do { add address=2001:67c:a88::/48 list=UAv6 } on-error={}
 :do { add address=2001:67c:af0::/48 list=UAv6 } on-error={}
 :do { add address=2001:67c:af4::/48 list=UAv6 } on-error={}
 :do { add address=2001:67c:af8::/48 list=UAv6 } on-error={}
@@ -2290,6 +2291,7 @@
 :do { add address=185.219.76.0/22 list=IP-UA } on-error={}
 :do { add address=185.220.144.0/22 list=IP-UA } on-error={}
 :do { add address=185.222.23.0/24 list=IP-UA } on-error={}
+:do { add address=185.223.161.0/24 list=IP-UA } on-error={}
 :do { add address=185.225.196.0/24 list=IP-UA } on-error={}
 :do { add address=185.225.212.0/22 list=IP-UA } on-error={}
 :do { add address=185.225.226.0/24 list=IP-UA } on-error={}

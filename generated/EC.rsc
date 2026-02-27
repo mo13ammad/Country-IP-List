@@ -1,4 +1,4 @@
-# Last update: 2026-02-27 16:27:39 UTC
+# Last update: 2026-02-27 17:25:01 UTC
 # Country: EC
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=EC&v4_format=prefix
 
@@ -380,6 +380,7 @@
 :do { add address=138.122.108.0/22 list=IP-EC } on-error={}
 :do { add address=138.185.136.0/22 list=IP-EC } on-error={}
 :do { add address=143.255.248.0/22 list=IP-EC } on-error={}
+:do { add address=148.227.163.0/24 list=IP-EC } on-error={}
 :do { add address=148.227.173.0/24 list=IP-EC } on-error={}
 :do { add address=157.100.0.0/16 list=IP-EC } on-error={}
 :do { add address=160.20.164.0/22 list=IP-EC } on-error={}
