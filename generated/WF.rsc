@@ -1,4 +1,4 @@
-# Last update: 2026-02-27 12:31:40 UTC
+# Last update: 2026-02-27 13:51:25 UTC
 # Country: WF
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=WF&v4_format=prefix
 
