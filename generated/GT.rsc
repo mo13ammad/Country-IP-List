@@ -1,4 +1,4 @@
-# Last update: 2026-02-27 15:28:53 UTC
+# Last update: 2026-02-27 16:27:39 UTC
 # Country: GT
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GT&v4_format=prefix
 
@@ -66,6 +66,7 @@
 :do { add address=2803:b860::/32 list=GTv6 } on-error={}
 :do { add address=2803:b910::/32 list=GTv6 } on-error={}
 :do { add address=2803:ba00::/32 list=GTv6 } on-error={}
+:do { add address=2803:bc30::/32 list=GTv6 } on-error={}
 :do { add address=2803:bee0::/32 list=GTv6 } on-error={}
 :do { add address=2803:bf40::/32 list=GTv6 } on-error={}
 :do { add address=2803:bf60::/32 list=GTv6 } on-error={}
@@ -122,6 +123,7 @@
 :do { add address=143.208.180.0/22 list=IP-GT } on-error={}
 :do { add address=148.222.58.0/23 list=IP-GT } on-error={}
 :do { add address=148.224.60.0/24 list=IP-GT } on-error={}
+:do { add address=148.227.208.0/20 list=IP-GT } on-error={}
 :do { add address=148.230.16.0/20 list=IP-GT } on-error={}
 :do { add address=167.250.220.0/22 list=IP-GT } on-error={}
 :do { add address=168.194.72.0/22 list=IP-GT } on-error={}
