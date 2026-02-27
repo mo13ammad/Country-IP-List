@@ -1,4 +1,4 @@
-# Last update: 2026-02-27 14:31:50 UTC
+# Last update: 2026-02-27 15:28:53 UTC
 # Country: LY
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=LY&v4_format=prefix
 
