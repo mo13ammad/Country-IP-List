@@ -1,4 +1,4 @@
-# Last update: 2026-03-01 14:14:50 UTC
+# Last update: 2026-03-01 15:12:23 UTC
 # Country: HN
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=HN&v4_format=prefix
 
