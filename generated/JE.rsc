@@ -1,4 +1,4 @@
-# Last update: 2026-03-01 16:14:40 UTC
+# Last update: 2026-03-01 17:13:32 UTC
 # Country: JE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=JE&v4_format=prefix
 
