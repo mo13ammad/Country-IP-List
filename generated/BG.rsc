@@ -1,4 +1,4 @@
-# Last update: 2026-03-03 11:23:34 UTC
+# Last update: 2026-03-03 12:31:35 UTC
 # Country: BG
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BG&v4_format=prefix
 
