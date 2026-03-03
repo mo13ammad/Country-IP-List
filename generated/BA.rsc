@@ -1,4 +1,4 @@
-# Last update: 2026-03-03 12:31:35 UTC
+# Last update: 2026-03-03 13:51:10 UTC
 # Country: BA
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BA&v4_format=prefix
 
