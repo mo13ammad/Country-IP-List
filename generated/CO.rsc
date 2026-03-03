@@ -1,4 +1,4 @@
-# Last update: 2026-03-02 23:14:59 UTC
+# Last update: 2026-03-03 01:06:35 UTC
 # Country: CO
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CO&v4_format=prefix
 
