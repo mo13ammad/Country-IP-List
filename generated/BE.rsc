@@ -1,4 +1,4 @@
-# Last update: 2026-03-04 15:28:46 UTC
+# Last update: 2026-03-04 16:30:18 UTC
 # Country: BE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BE&v4_format=prefix
 
@@ -271,7 +271,6 @@
 :do { add address=2a0c:7400::/29 list=BEv6 } on-error={}
 :do { add address=2a0c:9c40::/32 list=BEv6 } on-error={}
 :do { add address=2a0c:b640::/29 list=BEv6 } on-error={}
-:do { add address=2a0d:5040::/29 list=BEv6 } on-error={}
 :do { add address=2a0d:61c0::/29 list=BEv6 } on-error={}
 :do { add address=2a0d:6e40::/29 list=BEv6 } on-error={}
 :do { add address=2a0d:e640::/29 list=BEv6 } on-error={}
@@ -690,7 +689,21 @@
 :do { add address=149.126.56.0/21 list=IP-BE } on-error={}
 :do { add address=149.134.0.0/16 list=IP-BE } on-error={}
 :do { add address=149.154.192.0/18 list=IP-BE } on-error={}
-:do { add address=150.251.0.0/16 list=IP-BE } on-error={}
+:do { add address=150.251.0.0/18 list=IP-BE } on-error={}
+:do { add address=150.251.64.0/19 list=IP-BE } on-error={}
+:do { add address=150.251.96.0/20 list=IP-BE } on-error={}
+:do { add address=150.251.112.0/22 list=IP-BE } on-error={}
+:do { add address=150.251.116.0/22 list=IP-BE } on-error={}
+:do { add address=150.251.120.0/22 list=IP-BE } on-error={}
+:do { add address=150.251.124.0/22 list=IP-BE } on-error={}
+:do { add address=150.251.128.0/19 list=IP-BE } on-error={}
+:do { add address=150.251.160.0/20 list=IP-BE } on-error={}
+:do { add address=150.251.176.0/20 list=IP-BE } on-error={}
+:do { add address=150.251.192.0/19 list=IP-BE } on-error={}
+:do { add address=150.251.224.0/20 list=IP-BE } on-error={}
+:do { add address=150.251.240.0/21 list=IP-BE } on-error={}
+:do { add address=150.251.248.0/22 list=IP-BE } on-error={}
+:do { add address=150.251.252.0/22 list=IP-BE } on-error={}
 :do { add address=152.55.156.0/22 list=IP-BE } on-error={}
 :do { add address=152.152.0.0/16 list=IP-BE } on-error={}
 :do { add address=153.89.0.0/16 list=IP-BE } on-error={}
@@ -827,7 +840,6 @@
 :do { add address=185.111.204.0/22 list=IP-BE } on-error={}
 :do { add address=185.114.48.0/22 list=IP-BE } on-error={}
 :do { add address=185.115.216.0/22 list=IP-BE } on-error={}
-:do { add address=185.116.72.0/22 list=IP-BE } on-error={}
 :do { add address=185.119.156.0/22 list=IP-BE } on-error={}
 :do { add address=185.120.164.0/22 list=IP-BE } on-error={}
 :do { add address=185.122.248.0/22 list=IP-BE } on-error={}

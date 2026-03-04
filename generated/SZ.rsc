@@ -1,4 +1,4 @@
-# Last update: 2026-03-04 15:28:46 UTC
+# Last update: 2026-03-04 16:30:18 UTC
 # Country: SZ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SZ&v4_format=prefix
 
@@ -27,6 +27,7 @@
 :do { add address=102.67.144.0/22 list=IP-SZ } on-error={}
 :do { add address=102.68.48.0/22 list=IP-SZ } on-error={}
 :do { add address=102.203.114.0/23 list=IP-SZ } on-error={}
+:do { add address=102.204.96.0/24 list=IP-SZ } on-error={}
 :do { add address=102.209.176.0/22 list=IP-SZ } on-error={}
 :do { add address=102.212.200.0/22 list=IP-SZ } on-error={}
 :do { add address=102.212.228.0/24 list=IP-SZ } on-error={}

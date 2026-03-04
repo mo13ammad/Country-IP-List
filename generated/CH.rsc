@@ -1,4 +1,4 @@
-# Last update: 2026-03-04 15:28:46 UTC
+# Last update: 2026-03-04 16:30:18 UTC
 # Country: CH
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CH&v4_format=prefix
 
@@ -237,7 +237,7 @@
 :do { add address=2a00:10c0::/32 list=CHv6 } on-error={}
 :do { add address=2a00:1128::/32 list=CHv6 } on-error={}
 :do { add address=2a00:17c8::/29 list=CHv6 } on-error={}
-:do { add address=2a00:17e0::/32 list=CHv6 } on-error={}
+:do { add address=2a00:17e0::/29 list=CHv6 } on-error={}
 :do { add address=2a00:1840::/32 list=CHv6 } on-error={}
 :do { add address=2a00:41c0::/29 list=CHv6 } on-error={}
 :do { add address=2a00:4740::/32 list=CHv6 } on-error={}
@@ -1595,6 +1595,8 @@
 :do { add address=95.36.96.0/22 list=IP-CH } on-error={}
 :do { add address=95.128.32.0/21 list=IP-CH } on-error={}
 :do { add address=95.128.80.0/21 list=IP-CH } on-error={}
+:do { add address=95.128.157.0/24 list=IP-CH } on-error={}
+:do { add address=95.128.199.0/24 list=IP-CH } on-error={}
 :do { add address=95.130.200.0/21 list=IP-CH } on-error={}
 :do { add address=95.143.48.0/20 list=IP-CH } on-error={}
 :do { add address=95.152.64.0/18 list=IP-CH } on-error={}
@@ -2296,6 +2298,7 @@
 :do { add address=185.173.128.0/24 list=IP-CH } on-error={}
 :do { add address=185.174.140.0/22 list=IP-CH } on-error={}
 :do { add address=185.174.216.0/22 list=IP-CH } on-error={}
+:do { add address=185.176.134.0/24 list=IP-CH } on-error={}
 :do { add address=185.176.224.0/22 list=IP-CH } on-error={}
 :do { add address=185.176.236.0/22 list=IP-CH } on-error={}
 :do { add address=185.177.60.0/22 list=IP-CH } on-error={}
@@ -2433,6 +2436,7 @@
 :do { add address=185.235.156.0/22 list=IP-CH } on-error={}
 :do { add address=185.235.188.0/22 list=IP-CH } on-error={}
 :do { add address=185.237.24.0/22 list=IP-CH } on-error={}
+:do { add address=185.237.93.0/24 list=IP-CH } on-error={}
 :do { add address=185.237.108.0/22 list=IP-CH } on-error={}
 :do { add address=185.237.112.0/22 list=IP-CH } on-error={}
 :do { add address=185.237.116.0/22 list=IP-CH } on-error={}
