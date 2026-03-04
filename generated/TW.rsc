@@ -1,4 +1,4 @@
-# Last update: 2026-03-04 18:32:20 UTC
+# Last update: 2026-03-04 19:30:25 UTC
 # Country: TW
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=TW&v4_format=prefix
 
