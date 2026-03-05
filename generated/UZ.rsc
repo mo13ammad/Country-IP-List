@@ -1,4 +1,4 @@
-# Last update: 2026-03-05 11:25:19 UTC
+# Last update: 2026-03-05 13:53:55 UTC
 # Country: UZ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=UZ&v4_format=prefix
 
