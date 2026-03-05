@@ -1,4 +1,4 @@
-# Last update: 2026-03-05 15:39:21 UTC
+# Last update: 2026-03-05 17:52:03 UTC
 # Country: CR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CR&v4_format=prefix
 
@@ -113,6 +113,7 @@
 :do { add address=2803:f8e0::/32 list=CRv6 } on-error={}
 :do { add address=2803:fb40::/32 list=CRv6 } on-error={}
 :do { add address=2803:fe40::/32 list=CRv6 } on-error={}
+:do { add address=2a05:c0::/32 list=CRv6 } on-error={}
 
 /ip firewall address-list remove [/ip firewall address-list find list=IP-CR]
 /ip firewall address-list

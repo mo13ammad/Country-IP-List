@@ -1,4 +1,4 @@
-# Last update: 2026-03-05 15:39:21 UTC
+# Last update: 2026-03-05 17:52:03 UTC
 # Country: MX
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MX&v4_format=prefix
 
@@ -295,7 +295,6 @@
 :do { add address=2806:2fe::/32 list=MXv6 } on-error={}
 :do { add address=2806:2ff::/32 list=MXv6 } on-error={}
 :do { add address=2806:300::/32 list=MXv6 } on-error={}
-:do { add address=2806:301::/32 list=MXv6 } on-error={}
 :do { add address=2806:302::/32 list=MXv6 } on-error={}
 :do { add address=2806:303::/32 list=MXv6 } on-error={}
 :do { add address=2806:304::/32 list=MXv6 } on-error={}
@@ -420,7 +419,6 @@
 :do { add address=2806:3bd::/32 list=MXv6 } on-error={}
 :do { add address=2806:3be::/32 list=MXv6 } on-error={}
 :do { add address=2806:3bf::/32 list=MXv6 } on-error={}
-:do { add address=2806:3c0::/32 list=MXv6 } on-error={}
 :do { add address=2806:3c1::/32 list=MXv6 } on-error={}
 :do { add address=2806:3c2::/32 list=MXv6 } on-error={}
 :do { add address=2806:3c3::/32 list=MXv6 } on-error={}
@@ -431,8 +429,6 @@
 :do { add address=2806:3c9::/32 list=MXv6 } on-error={}
 :do { add address=2806:3ca::/32 list=MXv6 } on-error={}
 :do { add address=2806:3cb::/32 list=MXv6 } on-error={}
-:do { add address=2806:3cc::/32 list=MXv6 } on-error={}
-:do { add address=2806:3cd::/32 list=MXv6 } on-error={}
 :do { add address=2806:3ce::/32 list=MXv6 } on-error={}
 :do { add address=2806:3cf::/32 list=MXv6 } on-error={}
 :do { add address=2806:3d0::/32 list=MXv6 } on-error={}
