@@ -1,4 +1,4 @@
-# Last update: 2026-03-05 07:34:31 UTC
+# Last update: 2026-03-05 08:27:28 UTC
 # Country: IE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=IE&v4_format=prefix
 
