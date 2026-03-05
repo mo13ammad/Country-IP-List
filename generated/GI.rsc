@@ -1,4 +1,4 @@
-# Last update: 2026-03-04 23:19:53 UTC
+# Last update: 2026-03-05 01:05:38 UTC
 # Country: GI
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GI&v4_format=prefix
 
