@@ -1,4 +1,4 @@
-# Last update: 2026-03-06 19:26:58 UTC
+# Last update: 2026-03-06 20:19:14 UTC
 # Country: VU
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=VU&v4_format=prefix
 
