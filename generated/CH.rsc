@@ -1,4 +1,4 @@
-# Last update: 2026-03-06 15:26:22 UTC
+# Last update: 2026-03-06 16:26:28 UTC
 # Country: CH
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CH&v4_format=prefix
 
@@ -88,12 +88,6 @@
 :do { add address=2001:67c:920::/48 list=CHv6 } on-error={}
 :do { add address=2001:67c:938::/48 list=CHv6 } on-error={}
 :do { add address=2001:67c:990::/48 list=CHv6 } on-error={}
-:do { add address=2001:67c:99c::/48 list=CHv6 } on-error={}
-:do { add address=2001:67c:9a0::/48 list=CHv6 } on-error={}
-:do { add address=2001:67c:9a4::/48 list=CHv6 } on-error={}
-:do { add address=2001:67c:9a8::/48 list=CHv6 } on-error={}
-:do { add address=2001:67c:9ac::/48 list=CHv6 } on-error={}
-:do { add address=2001:67c:9b0::/48 list=CHv6 } on-error={}
 :do { add address=2001:67c:a7c::/48 list=CHv6 } on-error={}
 :do { add address=2001:67c:ac0::/48 list=CHv6 } on-error={}
 :do { add address=2001:67c:bf4::/48 list=CHv6 } on-error={}
@@ -1660,6 +1654,7 @@
 :do { add address=131.117.0.0/17 list=IP-CH } on-error={}
 :do { add address=131.152.0.0/16 list=IP-CH } on-error={}
 :do { add address=134.21.0.0/16 list=IP-CH } on-error={}
+:do { add address=134.82.64.0/20 list=IP-CH } on-error={}
 :do { add address=134.90.216.0/21 list=IP-CH } on-error={}
 :do { add address=136.144.20.0/23 list=IP-CH } on-error={}
 :do { add address=136.144.36.0/22 list=IP-CH } on-error={}
