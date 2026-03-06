@@ -1,4 +1,4 @@
-# Last update: 2026-03-06 16:26:28 UTC
+# Last update: 2026-03-06 17:26:01 UTC
 # Country: BR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BR&v4_format=prefix
 
@@ -3337,7 +3337,6 @@
 :do { add address=2804:34d0::/32 list=BRv6 } on-error={}
 :do { add address=2804:34d4::/32 list=BRv6 } on-error={}
 :do { add address=2804:34d8::/32 list=BRv6 } on-error={}
-:do { add address=2804:34dc::/32 list=BRv6 } on-error={}
 :do { add address=2804:34e0::/32 list=BRv6 } on-error={}
 :do { add address=2804:34e4::/32 list=BRv6 } on-error={}
 :do { add address=2804:34e8::/32 list=BRv6 } on-error={}
@@ -17786,7 +17785,9 @@
 :do { add address=186.209.220.0/23 list=IP-BR } on-error={}
 :do { add address=186.209.222.0/23 list=IP-BR } on-error={}
 :do { add address=186.209.224.0/20 list=IP-BR } on-error={}
-:do { add address=186.209.240.0/20 list=IP-BR } on-error={}
+:do { add address=186.209.240.0/22 list=IP-BR } on-error={}
+:do { add address=186.209.244.0/22 list=IP-BR } on-error={}
+:do { add address=186.209.248.0/21 list=IP-BR } on-error={}
 :do { add address=186.210.0.0/16 list=IP-BR } on-error={}
 :do { add address=186.211.0.0/20 list=IP-BR } on-error={}
 :do { add address=186.211.16.0/20 list=IP-BR } on-error={}
