@@ -1,4 +1,4 @@
-# Last update: 2026-03-06 21:18:52 UTC
+# Last update: 2026-03-06 22:16:19 UTC
 # Country: VA
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=VA&v4_format=prefix
 
