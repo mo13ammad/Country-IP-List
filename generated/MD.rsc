@@ -1,4 +1,4 @@
-# Last update: 2026-03-07 16:14:46 UTC
+# Last update: 2026-03-07 17:11:58 UTC
 # Country: MD
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MD&v4_format=prefix
 
@@ -146,6 +146,7 @@
 :do { add address=2a11:4c00::/29 list=MDv6 } on-error={}
 :do { add address=2a11:7e00::/29 list=MDv6 } on-error={}
 :do { add address=2a12:1c0::/29 list=MDv6 } on-error={}
+:do { add address=2a12:e040::/32 list=MDv6 } on-error={}
 :do { add address=2a12:f9c0::/29 list=MDv6 } on-error={}
 :do { add address=2a13:400::/29 list=MDv6 } on-error={}
 :do { add address=2a13:4c0::/29 list=MDv6 } on-error={}
