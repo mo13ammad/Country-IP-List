@@ -1,4 +1,4 @@
-# Last update: 2026-03-07 15:12:26 UTC
+# Last update: 2026-03-07 16:14:46 UTC
 # Country: ME
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=ME&v4_format=prefix
 
