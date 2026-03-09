@@ -1,4 +1,4 @@
-# Last update: 2026-03-09 04:05:39 UTC
+# Last update: 2026-03-09 05:49:02 UTC
 # Country: GP
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GP&v4_format=prefix
 
