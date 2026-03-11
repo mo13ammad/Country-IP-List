@@ -1,4 +1,4 @@
-# Last update: 2026-03-11 15:37:15 UTC
+# Last update: 2026-03-11 16:38:11 UTC
 # Country: TW
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=TW&v4_format=prefix
 
@@ -84,7 +84,6 @@
 :do { add address=2400:b0a0::/32 list=TWv6 } on-error={}
 :do { add address=2400:b380::/32 list=TWv6 } on-error={}
 :do { add address=2400:b480::/32 list=TWv6 } on-error={}
-:do { add address=2400:ba20::/32 list=TWv6 } on-error={}
 :do { add address=2400:ba60::/32 list=TWv6 } on-error={}
 :do { add address=2400:bb20::/32 list=TWv6 } on-error={}
 :do { add address=2400:bea0::/32 list=TWv6 } on-error={}
@@ -324,7 +323,6 @@
 :do { add address=2407:9fc0::/32 list=TWv6 } on-error={}
 :do { add address=2407:a0c0::/32 list=TWv6 } on-error={}
 :do { add address=2407:a740::/32 list=TWv6 } on-error={}
-:do { add address=2407:ab40::/32 list=TWv6 } on-error={}
 :do { add address=2407:d240::/32 list=TWv6 } on-error={}
 :do { add address=2407:d2c0::/32 list=TWv6 } on-error={}
 :do { add address=2407:e4c0::/32 list=TWv6 } on-error={}
@@ -478,7 +476,6 @@
 :do { add address=103.21.60.0/22 list=IP-TW } on-error={}
 :do { add address=103.22.212.0/22 list=IP-TW } on-error={}
 :do { add address=103.23.108.0/22 list=IP-TW } on-error={}
-:do { add address=103.24.52.0/23 list=IP-TW } on-error={}
 :do { add address=103.24.54.0/23 list=IP-TW } on-error={}
 :do { add address=103.25.232.0/22 list=IP-TW } on-error={}
 :do { add address=103.25.236.0/22 list=IP-TW } on-error={}
@@ -680,7 +677,6 @@
 :do { add address=103.169.106.0/23 list=IP-TW } on-error={}
 :do { add address=103.169.126.0/23 list=IP-TW } on-error={}
 :do { add address=103.169.212.0/23 list=IP-TW } on-error={}
-:do { add address=103.170.14.0/23 list=IP-TW } on-error={}
 :do { add address=103.172.126.0/23 list=IP-TW } on-error={}
 :do { add address=103.172.128.0/23 list=IP-TW } on-error={}
 :do { add address=103.173.94.0/23 list=IP-TW } on-error={}
