@@ -1,4 +1,4 @@
-# Last update: 2026-03-11 10:27:50 UTC
+# Last update: 2026-03-11 11:24:56 UTC
 # Country: CL
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CL&v4_format=prefix
 
