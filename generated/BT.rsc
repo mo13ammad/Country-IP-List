@@ -1,4 +1,4 @@
-# Last update: 2026-03-12 18:37:21 UTC
+# Last update: 2026-03-12 19:34:22 UTC
 # Country: BT
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BT&v4_format=prefix
 
