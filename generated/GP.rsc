@@ -1,9 +1,10 @@
-# Last update: 2026-03-12 15:45:33 UTC
+# Last update: 2026-03-12 16:46:57 UTC
 # Country: GP
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GP&v4_format=prefix
 
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list=GPv6]
 /ipv6 firewall address-list
+:do { add address=2602:faf8::/40 list=GPv6 } on-error={}
 :do { add address=2604:1800::/32 list=GPv6 } on-error={}
 :do { add address=2605:adc0::/32 list=GPv6 } on-error={}
 :do { add address=2606:3180::/32 list=GPv6 } on-error={}

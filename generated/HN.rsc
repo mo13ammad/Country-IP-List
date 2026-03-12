@@ -1,4 +1,4 @@
-# Last update: 2026-03-12 15:45:33 UTC
+# Last update: 2026-03-12 16:46:57 UTC
 # Country: HN
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=HN&v4_format=prefix
 
@@ -82,6 +82,7 @@
 :do { add address=2803:8f80::/32 list=HNv6 } on-error={}
 :do { add address=2803:9080::/32 list=HNv6 } on-error={}
 :do { add address=2803:9160::/32 list=HNv6 } on-error={}
+:do { add address=2803:9230::/32 list=HNv6 } on-error={}
 :do { add address=2803:9340::/32 list=HNv6 } on-error={}
 :do { add address=2803:97c0::/32 list=HNv6 } on-error={}
 :do { add address=2803:9ae0::/32 list=HNv6 } on-error={}

@@ -1,4 +1,4 @@
-# Last update: 2026-03-12 15:45:33 UTC
+# Last update: 2026-03-12 16:46:57 UTC
 # Country: PE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PE&v4_format=prefix
 
@@ -59,6 +59,7 @@
 :do { add address=2803:2fa0::/32 list=PEv6 } on-error={}
 :do { add address=2803:3050::/32 list=PEv6 } on-error={}
 :do { add address=2803:3140::/32 list=PEv6 } on-error={}
+:do { add address=2803:3230::/32 list=PEv6 } on-error={}
 :do { add address=2803:34e0::/32 list=PEv6 } on-error={}
 :do { add address=2803:3580::/32 list=PEv6 } on-error={}
 :do { add address=2803:3750::/32 list=PEv6 } on-error={}
@@ -174,6 +175,7 @@
 :do { add address=2803:c9d0::/32 list=PEv6 } on-error={}
 :do { add address=2803:c9e0::/32 list=PEv6 } on-error={}
 :do { add address=2803:cd60::/32 list=PEv6 } on-error={}
+:do { add address=2803:d230::/32 list=PEv6 } on-error={}
 :do { add address=2803:d5d0::/32 list=PEv6 } on-error={}
 :do { add address=2803:d680::/32 list=PEv6 } on-error={}
 :do { add address=2803:d710::/32 list=PEv6 } on-error={}
@@ -235,6 +237,7 @@
 :do { add address=45.172.8.0/22 list=IP-PE } on-error={}
 :do { add address=45.173.72.0/22 list=IP-PE } on-error={}
 :do { add address=45.173.200.0/22 list=IP-PE } on-error={}
+:do { add address=45.174.226.0/24 list=IP-PE } on-error={}
 :do { add address=45.177.20.0/22 list=IP-PE } on-error={}
 :do { add address=45.177.196.0/23 list=IP-PE } on-error={}
 :do { add address=45.178.196.0/22 list=IP-PE } on-error={}
@@ -358,6 +361,8 @@
 :do { add address=190.8.128.0/19 list=IP-PE } on-error={}
 :do { add address=190.12.64.0/20 list=IP-PE } on-error={}
 :do { add address=190.12.80.0/20 list=IP-PE } on-error={}
+:do { add address=190.15.251.0/24 list=IP-PE } on-error={}
+:do { add address=190.15.252.0/22 list=IP-PE } on-error={}
 :do { add address=190.40.0.0/17 list=IP-PE } on-error={}
 :do { add address=190.40.128.0/17 list=IP-PE } on-error={}
 :do { add address=190.41.0.0/17 list=IP-PE } on-error={}
@@ -416,7 +421,9 @@
 :do { add address=200.4.192.0/18 list=IP-PE } on-error={}
 :do { add address=200.10.64.0/19 list=IP-PE } on-error={}
 :do { add address=200.10.130.0/23 list=IP-PE } on-error={}
+:do { add address=200.10.163.0/24 list=IP-PE } on-error={}
 :do { add address=200.10.188.0/24 list=IP-PE } on-error={}
+:do { add address=200.10.204.0/24 list=IP-PE } on-error={}
 :do { add address=200.10.250.0/24 list=IP-PE } on-error={}
 :do { add address=200.11.32.0/24 list=IP-PE } on-error={}
 :do { add address=200.11.34.0/23 list=IP-PE } on-error={}

@@ -1,4 +1,4 @@
-# Last update: 2026-03-12 15:45:33 UTC
+# Last update: 2026-03-12 16:46:57 UTC
 # Country: TR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=TR&v4_format=prefix
 
@@ -1405,7 +1405,9 @@
 :do { add address=131.222.237.0/24 list=IP-TR } on-error={}
 :do { add address=131.222.238.0/23 list=IP-TR } on-error={}
 :do { add address=131.222.240.0/22 list=IP-TR } on-error={}
-:do { add address=131.222.244.0/22 list=IP-TR } on-error={}
+:do { add address=131.222.244.0/24 list=IP-TR } on-error={}
+:do { add address=131.222.245.0/24 list=IP-TR } on-error={}
+:do { add address=131.222.246.0/23 list=IP-TR } on-error={}
 :do { add address=131.222.248.0/21 list=IP-TR } on-error={}
 :do { add address=134.19.200.0/21 list=IP-TR } on-error={}
 :do { add address=134.255.199.0/24 list=IP-TR } on-error={}
@@ -1435,6 +1437,7 @@
 :do { add address=149.3.171.0/24 list=IP-TR } on-error={}
 :do { add address=149.140.0.0/16 list=IP-TR } on-error={}
 :do { add address=151.135.0.0/16 list=IP-TR } on-error={}
+:do { add address=151.237.237.0/24 list=IP-TR } on-error={}
 :do { add address=151.250.0.0/16 list=IP-TR } on-error={}
 :do { add address=152.89.36.0/22 list=IP-TR } on-error={}
 :do { add address=152.114.206.0/24 list=IP-TR } on-error={}
