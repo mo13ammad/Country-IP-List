@@ -1,4 +1,4 @@
-# Last update: 2026-03-12 13:54:42 UTC
+# Last update: 2026-03-12 14:40:18 UTC
 # Country: PS
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PS&v4_format=prefix
 
