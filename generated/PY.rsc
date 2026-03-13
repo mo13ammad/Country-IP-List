@@ -1,4 +1,4 @@
-# Last update: 2026-03-13 09:28:45 UTC
+# Last update: 2026-03-13 10:24:10 UTC
 # Country: PY
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PY&v4_format=prefix
 
