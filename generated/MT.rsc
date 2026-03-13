@@ -1,4 +1,4 @@
-# Last update: 2026-03-13 19:23:46 UTC
+# Last update: 2026-03-13 20:21:11 UTC
 # Country: MT
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MT&v4_format=prefix
 
