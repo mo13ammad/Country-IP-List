@@ -1,4 +1,4 @@
-# Last update: 2026-03-13 04:01:26 UTC
+# Last update: 2026-03-13 05:40:16 UTC
 # Country: KP
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=KP&v4_format=prefix
 
