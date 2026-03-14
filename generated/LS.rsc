@@ -1,4 +1,4 @@
-# Last update: 2026-03-14 07:28:15 UTC
+# Last update: 2026-03-14 08:21:08 UTC
 # Country: LS
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=LS&v4_format=prefix
 
