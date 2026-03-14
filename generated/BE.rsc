@@ -1,4 +1,4 @@
-# Last update: 2026-03-14 16:18:00 UTC
+# Last update: 2026-03-14 17:16:46 UTC
 # Country: BE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BE&v4_format=prefix
 
@@ -315,6 +315,7 @@
 :do { add address=2a12:c240::/29 list=BEv6 } on-error={}
 :do { add address=2a12:c640::/29 list=BEv6 } on-error={}
 :do { add address=2a12:d140::/29 list=BEv6 } on-error={}
+:do { add address=2a12:fdc0::/29 list=BEv6 } on-error={}
 :do { add address=2a13:1c40::/29 list=BEv6 } on-error={}
 :do { add address=2a13:1fc0::/29 list=BEv6 } on-error={}
 :do { add address=2a13:40c0::/29 list=BEv6 } on-error={}

@@ -1,4 +1,4 @@
-# Last update: 2026-03-14 16:18:00 UTC
+# Last update: 2026-03-14 17:16:46 UTC
 # Country: TL
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=TL&v4_format=prefix
 
@@ -13,6 +13,7 @@
 :do { add address=2401:4b80::/32 list=TLv6 } on-error={}
 :do { add address=2401:b660::/32 list=TLv6 } on-error={}
 :do { add address=2401:f720::/32 list=TLv6 } on-error={}
+:do { add address=2402:51e0::/32 list=TLv6 } on-error={}
 :do { add address=2402:d080::/32 list=TLv6 } on-error={}
 :do { add address=2405:1f00::/32 list=TLv6 } on-error={}
 :do { add address=2405:d540::/32 list=TLv6 } on-error={}
@@ -50,6 +51,7 @@
 :do { add address=151.158.20.0/23 list=IP-TL } on-error={}
 :do { add address=160.22.52.0/23 list=IP-TL } on-error={}
 :do { add address=160.30.30.0/23 list=IP-TL } on-error={}
+:do { add address=163.128.48.0/23 list=IP-TL } on-error={}
 :do { add address=163.223.148.0/23 list=IP-TL } on-error={}
 :do { add address=180.189.160.0/20 list=IP-TL } on-error={}
 :do { add address=185.126.46.0/23 list=IP-TL } on-error={}

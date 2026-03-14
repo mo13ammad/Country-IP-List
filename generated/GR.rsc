@@ -1,4 +1,4 @@
-# Last update: 2026-03-14 16:18:00 UTC
+# Last update: 2026-03-14 17:16:46 UTC
 # Country: GR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GR&v4_format=prefix
 
@@ -107,6 +107,7 @@
 :do { add address=2a14:80::/29 list=GRv6 } on-error={}
 :do { add address=2a14:4280::/29 list=GRv6 } on-error={}
 :do { add address=2a14:6700::/29 list=GRv6 } on-error={}
+:do { add address=2a14:7240::/29 list=GRv6 } on-error={}
 :do { add address=2a14:8100::/29 list=GRv6 } on-error={}
 :do { add address=2a14:9200::/29 list=GRv6 } on-error={}
 :do { add address=2a14:ed00::/29 list=GRv6 } on-error={}

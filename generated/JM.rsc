@@ -1,4 +1,4 @@
-# Last update: 2026-03-14 16:18:00 UTC
+# Last update: 2026-03-14 17:16:46 UTC
 # Country: JM
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=JM&v4_format=prefix
 
@@ -6,6 +6,7 @@
 /ipv6 firewall address-list
 :do { add address=2001:504:3e::/48 list=JMv6 } on-error={}
 :do { add address=2600:1b00::/24 list=JMv6 } on-error={}
+:do { add address=2602:81d:5000::/44 list=JMv6 } on-error={}
 :do { add address=2602:fc86::/36 list=JMv6 } on-error={}
 :do { add address=2604:c9c0::/32 list=JMv6 } on-error={}
 :do { add address=2605:5900::/32 list=JMv6 } on-error={}
