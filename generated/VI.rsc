@@ -1,4 +1,4 @@
-# Last update: 2026-03-16 08:00:37 UTC
+# Last update: 2026-03-16 09:52:50 UTC
 # Country: VI
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=VI&v4_format=prefix
 
