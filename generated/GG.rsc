@@ -1,4 +1,4 @@
-# Last update: 2026-03-16 22:22:14 UTC
+# Last update: 2026-03-16 23:20:14 UTC
 # Country: GG
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GG&v4_format=prefix
 
