@@ -1,4 +1,4 @@
-# Last update: 2026-03-16 09:52:50 UTC
+# Last update: 2026-03-16 10:42:53 UTC
 # Country: TM
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=TM&v4_format=prefix
 
