@@ -1,4 +1,4 @@
-# Last update: 2026-03-17 15:53:16 UTC
+# Last update: 2026-03-17 16:53:46 UTC
 # Country: MH
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MH&v4_format=prefix
 
@@ -21,3 +21,4 @@
 :do { add address=185.207.196.0/22 list=IP-MH } on-error={}
 :do { add address=193.227.113.0/24 list=IP-MH } on-error={}
 :do { add address=203.78.152.0/22 list=IP-MH } on-error={}
+:do { add address=204.236.0.0/19 list=IP-MH } on-error={}

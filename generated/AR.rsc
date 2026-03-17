@@ -1,4 +1,4 @@
-# Last update: 2026-03-17 15:53:16 UTC
+# Last update: 2026-03-17 16:53:46 UTC
 # Country: AR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=AR&v4_format=prefix
 
@@ -628,6 +628,7 @@
 :do { add address=2803:7160::/32 list=ARv6 } on-error={}
 :do { add address=2803:71d0::/32 list=ARv6 } on-error={}
 :do { add address=2803:7220::/32 list=ARv6 } on-error={}
+:do { add address=2803:7230::/32 list=ARv6 } on-error={}
 :do { add address=2803:7240::/32 list=ARv6 } on-error={}
 :do { add address=2803:72a0::/32 list=ARv6 } on-error={}
 :do { add address=2803:72c0::/32 list=ARv6 } on-error={}

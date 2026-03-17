@@ -1,4 +1,4 @@
-# Last update: 2026-03-17 15:53:16 UTC
+# Last update: 2026-03-17 16:53:46 UTC
 # Country: US
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=US&v4_format=prefix
 
@@ -1171,6 +1171,7 @@
 :do { add address=2602:81d:2000::/40 list=USv6 } on-error={}
 :do { add address=2602:81d:3000::/44 list=USv6 } on-error={}
 :do { add address=2602:81d:4000::/40 list=USv6 } on-error={}
+:do { add address=2602:f426::/40 list=USv6 } on-error={}
 :do { add address=2602:f427::/40 list=USv6 } on-error={}
 :do { add address=2602:f428::/40 list=USv6 } on-error={}
 :do { add address=2602:f429::/40 list=USv6 } on-error={}
@@ -35530,7 +35531,10 @@
 :do { add address=161.101.0.0/16 list=IP-US } on-error={}
 :do { add address=161.102.0.0/16 list=IP-US } on-error={}
 :do { add address=161.103.0.0/16 list=IP-US } on-error={}
-:do { add address=161.104.0.0/17 list=IP-US } on-error={}
+:do { add address=161.104.0.0/18 list=IP-US } on-error={}
+:do { add address=161.104.64.0/19 list=IP-US } on-error={}
+:do { add address=161.104.96.0/20 list=IP-US } on-error={}
+:do { add address=161.104.112.0/20 list=IP-US } on-error={}
 :do { add address=161.104.128.0/19 list=IP-US } on-error={}
 :do { add address=161.104.160.0/20 list=IP-US } on-error={}
 :do { add address=161.104.184.0/21 list=IP-US } on-error={}

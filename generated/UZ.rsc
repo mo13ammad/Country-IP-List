@@ -1,4 +1,4 @@
-# Last update: 2026-03-17 15:53:16 UTC
+# Last update: 2026-03-17 16:53:46 UTC
 # Country: UZ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=UZ&v4_format=prefix
 
@@ -195,6 +195,7 @@
 :do { add address=185.196.216.0/22 list=IP-UZ } on-error={}
 :do { add address=185.203.236.0/22 list=IP-UZ } on-error={}
 :do { add address=185.208.176.0/22 list=IP-UZ } on-error={}
+:do { add address=185.210.231.0/24 list=IP-UZ } on-error={}
 :do { add address=185.211.128.0/22 list=IP-UZ } on-error={}
 :do { add address=185.213.228.0/22 list=IP-UZ } on-error={}
 :do { add address=185.215.5.0/24 list=IP-UZ } on-error={}
