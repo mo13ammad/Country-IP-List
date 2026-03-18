@@ -1,4 +1,4 @@
-# Last update: 2026-03-18 15:59:01 UTC
+# Last update: 2026-03-18 16:59:02 UTC
 # Country: RU
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=RU&v4_format=prefix
 
@@ -2127,6 +2127,7 @@
 :do { add address=2a13:3c80::/29 list=RUv6 } on-error={}
 :do { add address=2a13:3d80::/29 list=RUv6 } on-error={}
 :do { add address=2a13:4040::/29 list=RUv6 } on-error={}
+:do { add address=2a13:42c0::/29 list=RUv6 } on-error={}
 :do { add address=2a13:43c0::/29 list=RUv6 } on-error={}
 :do { add address=2a13:4fc0::/29 list=RUv6 } on-error={}
 :do { add address=2a13:51c0::/29 list=RUv6 } on-error={}
@@ -4043,6 +4044,7 @@
 :do { add address=79.171.114.0/24 list=IP-RU } on-error={}
 :do { add address=79.171.115.0/24 list=IP-RU } on-error={}
 :do { add address=79.171.116.0/24 list=IP-RU } on-error={}
+:do { add address=79.171.152.0/24 list=IP-RU } on-error={}
 :do { add address=79.171.168.0/23 list=IP-RU } on-error={}
 :do { add address=79.171.170.0/23 list=IP-RU } on-error={}
 :do { add address=79.171.172.0/23 list=IP-RU } on-error={}
@@ -8220,6 +8222,7 @@
 :do { add address=159.255.28.0/22 list=IP-RU } on-error={}
 :do { add address=159.255.64.0/18 list=IP-RU } on-error={}
 :do { add address=160.20.156.0/22 list=IP-RU } on-error={}
+:do { add address=161.104.96.0/21 list=IP-RU } on-error={}
 :do { add address=164.138.32.0/21 list=IP-RU } on-error={}
 :do { add address=164.138.88.0/21 list=IP-RU } on-error={}
 :do { add address=164.138.100.0/22 list=IP-RU } on-error={}

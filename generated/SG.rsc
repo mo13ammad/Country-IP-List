@@ -1,4 +1,4 @@
-# Last update: 2026-03-18 15:59:01 UTC
+# Last update: 2026-03-18 16:59:02 UTC
 # Country: SG
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SG&v4_format=prefix
 
@@ -200,6 +200,7 @@
 :do { add address=2001:df6:9980::/48 list=SGv6 } on-error={}
 :do { add address=2001:df6:9c80::/48 list=SGv6 } on-error={}
 :do { add address=2001:df6:bb00::/48 list=SGv6 } on-error={}
+:do { add address=2001:df6:d4c0::/48 list=SGv6 } on-error={}
 :do { add address=2001:df6:ed00::/48 list=SGv6 } on-error={}
 :do { add address=2001:df7:6e80::/48 list=SGv6 } on-error={}
 :do { add address=2001:df7:6e81::/48 list=SGv6 } on-error={}
@@ -490,6 +491,7 @@
 :do { add address=2602:f548::/40 list=SGv6 } on-error={}
 :do { add address=2602:f741::/36 list=SGv6 } on-error={}
 :do { add address=2602:f74f::/36 list=SGv6 } on-error={}
+:do { add address=2602:f834::/40 list=SGv6 } on-error={}
 :do { add address=2602:f902::/40 list=SGv6 } on-error={}
 :do { add address=2602:fbfc::/36 list=SGv6 } on-error={}
 :do { add address=2602:fc51::/36 list=SGv6 } on-error={}
@@ -539,6 +541,7 @@
 :do { add address=23.132.60.0/24 list=IP-SG } on-error={}
 :do { add address=23.146.76.0/24 list=IP-SG } on-error={}
 :do { add address=23.177.56.0/24 list=IP-SG } on-error={}
+:do { add address=23.187.136.0/24 list=IP-SG } on-error={}
 :do { add address=27.0.8.0/22 list=IP-SG } on-error={}
 :do { add address=27.0.96.0/19 list=IP-SG } on-error={}
 :do { add address=27.50.48.0/20 list=IP-SG } on-error={}
@@ -1465,6 +1468,7 @@
 :do { add address=129.126.0.0/16 list=IP-SG } on-error={}
 :do { add address=129.226.0.0/16 list=IP-SG } on-error={}
 :do { add address=129.227.0.0/16 list=IP-SG } on-error={}
+:do { add address=130.12.40.0/22 list=IP-SG } on-error={}
 :do { add address=131.143.160.0/22 list=IP-SG } on-error={}
 :do { add address=132.147.64.0/18 list=IP-SG } on-error={}
 :do { add address=134.42.225.0/24 list=IP-SG } on-error={}
@@ -1612,6 +1616,7 @@
 :do { add address=163.61.130.0/23 list=IP-SG } on-error={}
 :do { add address=163.61.198.0/23 list=IP-SG } on-error={}
 :do { add address=163.128.6.0/23 list=IP-SG } on-error={}
+:do { add address=163.128.62.0/23 list=IP-SG } on-error={}
 :do { add address=163.223.198.0/23 list=IP-SG } on-error={}
 :do { add address=163.223.236.0/23 list=IP-SG } on-error={}
 :do { add address=163.227.209.0/24 list=IP-SG } on-error={}

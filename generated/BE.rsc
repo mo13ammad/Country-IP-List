@@ -1,4 +1,4 @@
-# Last update: 2026-03-18 15:59:01 UTC
+# Last update: 2026-03-18 16:59:02 UTC
 # Country: BE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BE&v4_format=prefix
 
@@ -471,6 +471,7 @@
 :do { add address=80.91.144.0/20 list=IP-BE } on-error={}
 :do { add address=80.200.0.0/15 list=IP-BE } on-error={}
 :do { add address=80.236.128.0/17 list=IP-BE } on-error={}
+:do { add address=80.248.141.0/24 list=IP-BE } on-error={}
 :do { add address=81.11.128.0/17 list=IP-BE } on-error={}
 :do { add address=81.82.0.0/15 list=IP-BE } on-error={}
 :do { add address=81.92.112.0/20 list=IP-BE } on-error={}

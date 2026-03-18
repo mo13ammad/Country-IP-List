@@ -1,4 +1,4 @@
-# Last update: 2026-03-18 15:59:01 UTC
+# Last update: 2026-03-18 16:59:02 UTC
 # Country: BM
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BM&v4_format=prefix
 
@@ -8,6 +8,7 @@
 :do { add address=2001:4910::/32 list=BMv6 } on-error={}
 :do { add address=2604:140::/32 list=BMv6 } on-error={}
 :do { add address=2605:e80::/32 list=BMv6 } on-error={}
+:do { add address=2605:5b80::/32 list=BMv6 } on-error={}
 :do { add address=2606:480::/32 list=BMv6 } on-error={}
 :do { add address=2606:b80::/32 list=BMv6 } on-error={}
 :do { add address=2606:1ec0::/32 list=BMv6 } on-error={}
