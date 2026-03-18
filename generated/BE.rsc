@@ -1,4 +1,4 @@
-# Last update: 2026-03-18 07:44:14 UTC
+# Last update: 2026-03-18 08:35:08 UTC
 # Country: BE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BE&v4_format=prefix
 
