@@ -1,4 +1,4 @@
-# Last update: 2026-03-19 15:41:34 UTC
+# Last update: 2026-03-19 16:44:39 UTC
 # Country: VU
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=VU&v4_format=prefix
 
@@ -8,6 +8,7 @@
 :do { add address=2001:df0:410::/48 list=VUv6 } on-error={}
 :do { add address=2001:df2:a700::/48 list=VUv6 } on-error={}
 :do { add address=2001:df5:6d40::/44 list=VUv6 } on-error={}
+:do { add address=2001:dfc::/32 list=VUv6 } on-error={}
 :do { add address=2400:3100::/32 list=VUv6 } on-error={}
 :do { add address=2400:3400::/32 list=VUv6 } on-error={}
 :do { add address=2400:c0c0::/32 list=VUv6 } on-error={}
