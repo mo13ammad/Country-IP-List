@@ -1,4 +1,4 @@
-# Last update: 2026-03-19 08:29:04 UTC
+# Last update: 2026-03-19 09:32:23 UTC
 # Country: SD
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SD&v4_format=prefix
 
