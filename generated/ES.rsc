@@ -1,4 +1,4 @@
-# Last update: 2026-03-19 06:43:02 UTC
+# Last update: 2026-03-19 07:39:03 UTC
 # Country: ES
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=ES&v4_format=prefix
 
