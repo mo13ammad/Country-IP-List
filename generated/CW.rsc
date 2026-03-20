@@ -1,4 +1,4 @@
-# Last update: 2026-03-20 08:28:15 UTC
+# Last update: 2026-03-20 09:29:51 UTC
 # Country: CW
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CW&v4_format=prefix
 
