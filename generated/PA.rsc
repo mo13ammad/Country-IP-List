@@ -1,4 +1,4 @@
-# Last update: 2026-03-21 16:15:52 UTC
+# Last update: 2026-03-21 17:16:10 UTC
 # Country: PA
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PA&v4_format=prefix
 
@@ -54,6 +54,7 @@
 :do { add address=2803:7280::/32 list=PAv6 } on-error={}
 :do { add address=2803:7bc0::/32 list=PAv6 } on-error={}
 :do { add address=2803:8960::/32 list=PAv6 } on-error={}
+:do { add address=2803:8a30::/32 list=PAv6 } on-error={}
 :do { add address=2803:8c80::/32 list=PAv6 } on-error={}
 :do { add address=2803:9590::/32 list=PAv6 } on-error={}
 :do { add address=2803:96c0::/32 list=PAv6 } on-error={}
