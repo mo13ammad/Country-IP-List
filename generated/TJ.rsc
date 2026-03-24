@@ -1,4 +1,4 @@
-# Last update: 2026-03-24 15:54:51 UTC
+# Last update: 2026-03-24 16:50:02 UTC
 # Country: TJ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=TJ&v4_format=prefix
 
@@ -86,6 +86,7 @@
 :do { add address=193.111.10.0/23 list=IP-TJ } on-error={}
 :do { add address=194.117.50.0/26 list=IP-TJ } on-error={}
 :do { add address=195.26.238.0/23 list=IP-TJ } on-error={}
+:do { add address=195.58.156.0/24 list=IP-TJ } on-error={}
 :do { add address=195.246.102.0/23 list=IP-TJ } on-error={}
 :do { add address=195.246.192.0/24 list=IP-TJ } on-error={}
 :do { add address=217.8.32.0/20 list=IP-TJ } on-error={}

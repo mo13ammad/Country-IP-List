@@ -1,4 +1,4 @@
-# Last update: 2026-03-24 15:54:51 UTC
+# Last update: 2026-03-24 16:50:02 UTC
 # Country: HU
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=HU&v4_format=prefix
 
@@ -163,6 +163,7 @@
 :do { add address=2a13:dc0::/29 list=HUv6 } on-error={}
 :do { add address=2a13:3bc0::/29 list=HUv6 } on-error={}
 :do { add address=2a13:46c0::/29 list=HUv6 } on-error={}
+:do { add address=2a13:7240::/29 list=HUv6 } on-error={}
 :do { add address=2a13:9e00::/32 list=HUv6 } on-error={}
 :do { add address=2a14:1440::/29 list=HUv6 } on-error={}
 :do { add address=2a14:2f40::/29 list=HUv6 } on-error={}

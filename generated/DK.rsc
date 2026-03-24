@@ -1,4 +1,4 @@
-# Last update: 2026-03-24 15:54:51 UTC
+# Last update: 2026-03-24 16:50:02 UTC
 # Country: DK
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=DK&v4_format=prefix
 
@@ -39,6 +39,7 @@
 :do { add address=2001:67c:9c0::/48 list=DKv6 } on-error={}
 :do { add address=2001:67c:b48::/48 list=DKv6 } on-error={}
 :do { add address=2001:67c:bec::/48 list=DKv6 } on-error={}
+:do { add address=2001:67c:c70::/48 list=DKv6 } on-error={}
 :do { add address=2001:67c:d1c::/48 list=DKv6 } on-error={}
 :do { add address=2001:67c:1034::/48 list=DKv6 } on-error={}
 :do { add address=2001:67c:1068::/48 list=DKv6 } on-error={}
@@ -875,6 +876,7 @@
 :do { add address=141.98.12.0/24 list=IP-DK } on-error={}
 :do { add address=141.98.13.0/24 list=IP-DK } on-error={}
 :do { add address=141.98.14.0/23 list=IP-DK } on-error={}
+:do { add address=145.11.32.0/21 list=IP-DK } on-error={}
 :do { add address=145.255.56.0/21 list=IP-DK } on-error={}
 :do { add address=146.19.99.0/24 list=IP-DK } on-error={}
 :do { add address=147.29.0.0/16 list=IP-DK } on-error={}
@@ -1781,6 +1783,7 @@
 :do { add address=195.49.232.0/22 list=IP-DK } on-error={}
 :do { add address=195.50.32.0/19 list=IP-DK } on-error={}
 :do { add address=195.54.64.0/19 list=IP-DK } on-error={}
+:do { add address=195.58.128.0/21 list=IP-DK } on-error={}
 :do { add address=195.58.144.0/21 list=IP-DK } on-error={}
 :do { add address=195.60.90.128/25 list=IP-DK } on-error={}
 :do { add address=195.60.160.0/23 list=IP-DK } on-error={}
@@ -1877,13 +1880,11 @@
 :do { add address=195.226.199.0/24 list=IP-DK } on-error={}
 :do { add address=195.231.128.0/17 list=IP-DK } on-error={}
 :do { add address=195.234.155.0/24 list=IP-DK } on-error={}
-:do { add address=195.234.160.0/24 list=IP-DK } on-error={}
 :do { add address=195.242.120.0/23 list=IP-DK } on-error={}
 :do { add address=195.242.130.0/23 list=IP-DK } on-error={}
 :do { add address=195.242.160.0/24 list=IP-DK } on-error={}
 :do { add address=195.242.192.0/23 list=IP-DK } on-error={}
 :do { add address=195.242.194.0/23 list=IP-DK } on-error={}
-:do { add address=195.245.193.0/24 list=IP-DK } on-error={}
 :do { add address=195.245.210.0/24 list=IP-DK } on-error={}
 :do { add address=195.246.198.0/24 list=IP-DK } on-error={}
 :do { add address=195.249.0.0/16 list=IP-DK } on-error={}

@@ -1,4 +1,4 @@
-# Last update: 2026-03-24 15:54:51 UTC
+# Last update: 2026-03-24 16:50:02 UTC
 # Country: BG
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BG&v4_format=prefix
 
@@ -1138,7 +1138,8 @@
 :do { add address=93.123.16.0/24 list=IP-BG } on-error={}
 :do { add address=93.123.18.0/23 list=IP-BG } on-error={}
 :do { add address=93.123.21.0/24 list=IP-BG } on-error={}
-:do { add address=93.123.22.0/23 list=IP-BG } on-error={}
+:do { add address=93.123.22.0/24 list=IP-BG } on-error={}
+:do { add address=93.123.23.0/24 list=IP-BG } on-error={}
 :do { add address=93.123.24.0/24 list=IP-BG } on-error={}
 :do { add address=93.123.26.0/23 list=IP-BG } on-error={}
 :do { add address=93.123.28.0/22 list=IP-BG } on-error={}
@@ -1160,7 +1161,8 @@
 :do { add address=93.123.104.0/22 list=IP-BG } on-error={}
 :do { add address=93.123.109.0/24 list=IP-BG } on-error={}
 :do { add address=93.123.110.0/24 list=IP-BG } on-error={}
-:do { add address=93.123.112.0/22 list=IP-BG } on-error={}
+:do { add address=93.123.112.0/24 list=IP-BG } on-error={}
+:do { add address=93.123.114.0/23 list=IP-BG } on-error={}
 :do { add address=93.123.116.0/24 list=IP-BG } on-error={}
 :do { add address=93.123.118.0/24 list=IP-BG } on-error={}
 :do { add address=93.123.120.0/21 list=IP-BG } on-error={}
