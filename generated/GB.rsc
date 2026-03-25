@@ -1,4 +1,4 @@
-# Last update: 2026-03-24 23:20:41 UTC
+# Last update: 2026-03-25 01:07:53 UTC
 # Country: GB
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GB&v4_format=prefix
 
