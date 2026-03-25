@@ -1,4 +1,4 @@
-# Last update: 2026-03-25 15:58:14 UTC
+# Last update: 2026-03-25 16:59:20 UTC
 # Country: IS
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=IS&v4_format=prefix
 
@@ -130,6 +130,7 @@
 :do { add address=93.95.224.0/21 list=IP-IS } on-error={}
 :do { add address=94.142.152.0/21 list=IP-IS } on-error={}
 :do { add address=94.198.48.0/23 list=IP-IS } on-error={}
+:do { add address=94.198.190.0/24 list=IP-IS } on-error={}
 :do { add address=128.140.232.0/21 list=IP-IS } on-error={}
 :do { add address=130.208.0.0/16 list=IP-IS } on-error={}
 :do { add address=141.138.152.0/21 list=IP-IS } on-error={}
@@ -231,6 +232,7 @@
 :do { add address=213.181.96.0/19 list=IP-IS } on-error={}
 :do { add address=213.190.96.0/19 list=IP-IS } on-error={}
 :do { add address=213.213.128.0/19 list=IP-IS } on-error={}
+:do { add address=213.218.160.0/24 list=IP-IS } on-error={}
 :do { add address=213.220.64.0/18 list=IP-IS } on-error={}
 :do { add address=217.9.128.0/20 list=IP-IS } on-error={}
 :do { add address=217.28.176.0/20 list=IP-IS } on-error={}

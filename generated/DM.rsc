@@ -1,4 +1,4 @@
-# Last update: 2026-03-25 15:58:14 UTC
+# Last update: 2026-03-25 16:59:20 UTC
 # Country: DM
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=DM&v4_format=prefix
 
@@ -21,7 +21,6 @@
 :do { add address=104.245.204.0/22 list=IP-DM } on-error={}
 :do { add address=162.213.168.0/22 list=IP-DM } on-error={}
 :do { add address=162.253.100.0/22 list=IP-DM } on-error={}
-:do { add address=192.243.48.0/20 list=IP-DM } on-error={}
 :do { add address=193.169.160.0/23 list=IP-DM } on-error={}
 :do { add address=198.101.28.0/22 list=IP-DM } on-error={}
 :do { add address=199.127.196.0/22 list=IP-DM } on-error={}
