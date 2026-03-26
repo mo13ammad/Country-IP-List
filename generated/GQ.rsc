@@ -1,4 +1,4 @@
-# Last update: 2026-03-26 12:46:04 UTC
+# Last update: 2026-03-26 14:19:06 UTC
 # Country: GQ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GQ&v4_format=prefix
 
