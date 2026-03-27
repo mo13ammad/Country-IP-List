@@ -1,4 +1,4 @@
-# Last update: 2026-03-27 06:05:27 UTC
+# Last update: 2026-03-27 07:52:29 UTC
 # Country: LV
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=LV&v4_format=prefix
 
