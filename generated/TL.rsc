@@ -1,4 +1,4 @@
-# Last update: 2026-03-27 15:40:18 UTC
+# Last update: 2026-03-27 16:40:50 UTC
 # Country: TL
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=TL&v4_format=prefix
 
@@ -57,3 +57,5 @@
 :do { add address=185.126.46.0/23 list=IP-TL } on-error={}
 :do { add address=185.242.38.0/23 list=IP-TL } on-error={}
 :do { add address=192.52.185.0/24 list=IP-TL } on-error={}
+:do { add address=223.29.230.0/23 list=IP-TL } on-error={}
+:do { add address=223.29.236.0/22 list=IP-TL } on-error={}

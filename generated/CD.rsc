@@ -1,4 +1,4 @@
-# Last update: 2026-03-27 15:40:18 UTC
+# Last update: 2026-03-27 16:40:50 UTC
 # Country: CD
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CD&v4_format=prefix
 
@@ -8,6 +8,7 @@
 :do { add address=2001:43f8:3c1::/48 list=CDv6 } on-error={}
 :do { add address=2001:43f8:1460::/48 list=CDv6 } on-error={}
 :do { add address=2001:43ff:6000::/48 list=CDv6 } on-error={}
+:do { add address=2c0f:8a0::/32 list=CDv6 } on-error={}
 :do { add address=2c0f:e00::/28 list=CDv6 } on-error={}
 :do { add address=2c0f:fc0::/32 list=CDv6 } on-error={}
 :do { add address=2c0f:19c0::/32 list=CDv6 } on-error={}
@@ -53,6 +54,7 @@
 :do { add address=102.68.152.0/22 list=IP-CD } on-error={}
 :do { add address=102.69.180.0/22 list=IP-CD } on-error={}
 :do { add address=102.135.176.0/21 list=IP-CD } on-error={}
+:do { add address=102.202.248.0/22 list=IP-CD } on-error={}
 :do { add address=102.203.4.0/22 list=IP-CD } on-error={}
 :do { add address=102.204.126.0/24 list=IP-CD } on-error={}
 :do { add address=102.205.123.0/24 list=IP-CD } on-error={}

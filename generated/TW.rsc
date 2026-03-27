@@ -1,4 +1,4 @@
-# Last update: 2026-03-27 15:40:18 UTC
+# Last update: 2026-03-27 16:40:50 UTC
 # Country: TW
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=TW&v4_format=prefix
 
@@ -1092,7 +1092,10 @@
 :do { add address=202.6.104.0/23 list=IP-TW } on-error={}
 :do { add address=202.8.14.0/23 list=IP-TW } on-error={}
 :do { add address=202.12.76.0/22 list=IP-TW } on-error={}
-:do { add address=202.39.0.0/16 list=IP-TW } on-error={}
+:do { add address=202.39.0.0/18 list=IP-TW } on-error={}
+:do { add address=202.39.64.0/19 list=IP-TW } on-error={}
+:do { add address=202.39.96.0/19 list=IP-TW } on-error={}
+:do { add address=202.39.128.0/17 list=IP-TW } on-error={}
 :do { add address=202.41.146.0/24 list=IP-TW } on-error={}
 :do { add address=202.47.172.0/23 list=IP-TW } on-error={}
 :do { add address=202.55.224.0/19 list=IP-TW } on-error={}
@@ -1139,9 +1142,19 @@
 :do { add address=203.15.150.0/24 list=IP-TW } on-error={}
 :do { add address=203.18.156.0/23 list=IP-TW } on-error={}
 :do { add address=203.55.118.0/24 list=IP-TW } on-error={}
-:do { add address=203.64.0.0/14 list=IP-TW } on-error={}
-:do { add address=203.68.0.0/14 list=IP-TW } on-error={}
-:do { add address=203.72.0.0/14 list=IP-TW } on-error={}
+:do { add address=203.64.0.0/16 list=IP-TW } on-error={}
+:do { add address=203.65.0.0/17 list=IP-TW } on-error={}
+:do { add address=203.65.128.0/19 list=IP-TW } on-error={}
+:do { add address=203.65.160.0/19 list=IP-TW } on-error={}
+:do { add address=203.65.192.0/19 list=IP-TW } on-error={}
+:do { add address=203.65.224.0/19 list=IP-TW } on-error={}
+:do { add address=203.66.0.0/16 list=IP-TW } on-error={}
+:do { add address=203.67.0.0/16 list=IP-TW } on-error={}
+:do { add address=203.68.0.0/16 list=IP-TW } on-error={}
+:do { add address=203.69.0.0/16 list=IP-TW } on-error={}
+:do { add address=203.70.0.0/15 list=IP-TW } on-error={}
+:do { add address=203.72.0.0/15 list=IP-TW } on-error={}
+:do { add address=203.74.0.0/15 list=IP-TW } on-error={}
 :do { add address=203.77.0.0/22 list=IP-TW } on-error={}
 :do { add address=203.77.4.0/22 list=IP-TW } on-error={}
 :do { add address=203.77.8.0/21 list=IP-TW } on-error={}
@@ -1202,10 +1215,26 @@
 :do { add address=210.17.0.0/17 list=IP-TW } on-error={}
 :do { add address=210.58.0.0/17 list=IP-TW } on-error={}
 :do { add address=210.58.128.0/17 list=IP-TW } on-error={}
-:do { add address=210.59.0.0/16 list=IP-TW } on-error={}
-:do { add address=210.60.0.0/14 list=IP-TW } on-error={}
-:do { add address=210.64.0.0/14 list=IP-TW } on-error={}
-:do { add address=210.68.0.0/14 list=IP-TW } on-error={}
+:do { add address=210.59.0.0/17 list=IP-TW } on-error={}
+:do { add address=210.59.128.0/17 list=IP-TW } on-error={}
+:do { add address=210.60.0.0/16 list=IP-TW } on-error={}
+:do { add address=210.61.0.0/16 list=IP-TW } on-error={}
+:do { add address=210.62.0.0/17 list=IP-TW } on-error={}
+:do { add address=210.62.128.0/19 list=IP-TW } on-error={}
+:do { add address=210.62.160.0/20 list=IP-TW } on-error={}
+:do { add address=210.62.176.0/20 list=IP-TW } on-error={}
+:do { add address=210.62.192.0/19 list=IP-TW } on-error={}
+:do { add address=210.62.224.0/20 list=IP-TW } on-error={}
+:do { add address=210.62.240.0/21 list=IP-TW } on-error={}
+:do { add address=210.62.248.0/21 list=IP-TW } on-error={}
+:do { add address=210.63.0.0/16 list=IP-TW } on-error={}
+:do { add address=210.64.0.0/16 list=IP-TW } on-error={}
+:do { add address=210.65.0.0/16 list=IP-TW } on-error={}
+:do { add address=210.66.0.0/15 list=IP-TW } on-error={}
+:do { add address=210.68.0.0/15 list=IP-TW } on-error={}
+:do { add address=210.70.0.0/16 list=IP-TW } on-error={}
+:do { add address=210.71.0.0/17 list=IP-TW } on-error={}
+:do { add address=210.71.128.0/17 list=IP-TW } on-error={}
 :do { add address=210.79.150.0/23 list=IP-TW } on-error={}
 :do { add address=210.79.154.0/23 list=IP-TW } on-error={}
 :do { add address=210.80.64.0/20 list=IP-TW } on-error={}
@@ -1240,13 +1269,29 @@
 :do { add address=210.209.192.0/18 list=IP-TW } on-error={}
 :do { add address=210.211.30.0/23 list=IP-TW } on-error={}
 :do { add address=210.240.0.0/16 list=IP-TW } on-error={}
-:do { add address=210.241.0.0/16 list=IP-TW } on-error={}
-:do { add address=210.242.0.0/15 list=IP-TW } on-error={}
+:do { add address=210.241.0.0/17 list=IP-TW } on-error={}
+:do { add address=210.241.128.0/18 list=IP-TW } on-error={}
+:do { add address=210.241.192.0/19 list=IP-TW } on-error={}
+:do { add address=210.241.224.0/19 list=IP-TW } on-error={}
+:do { add address=210.242.0.0/16 list=IP-TW } on-error={}
+:do { add address=210.243.0.0/16 list=IP-TW } on-error={}
 :do { add address=210.244.0.0/17 list=IP-TW } on-error={}
-:do { add address=210.244.128.0/17 list=IP-TW } on-error={}
+:do { add address=210.244.128.0/18 list=IP-TW } on-error={}
+:do { add address=210.244.192.0/19 list=IP-TW } on-error={}
+:do { add address=210.244.224.0/19 list=IP-TW } on-error={}
 :do { add address=211.20.0.0/14 list=IP-TW } on-error={}
-:do { add address=211.72.0.0/14 list=IP-TW } on-error={}
-:do { add address=211.76.0.0/15 list=IP-TW } on-error={}
+:do { add address=211.72.0.0/16 list=IP-TW } on-error={}
+:do { add address=211.73.0.0/16 list=IP-TW } on-error={}
+:do { add address=211.74.0.0/16 list=IP-TW } on-error={}
+:do { add address=211.75.0.0/16 list=IP-TW } on-error={}
+:do { add address=211.76.0.0/17 list=IP-TW } on-error={}
+:do { add address=211.76.128.0/20 list=IP-TW } on-error={}
+:do { add address=211.76.144.0/20 list=IP-TW } on-error={}
+:do { add address=211.76.160.0/19 list=IP-TW } on-error={}
+:do { add address=211.76.192.0/19 list=IP-TW } on-error={}
+:do { add address=211.76.224.0/20 list=IP-TW } on-error={}
+:do { add address=211.76.240.0/20 list=IP-TW } on-error={}
+:do { add address=211.77.0.0/16 list=IP-TW } on-error={}
 :do { add address=211.78.0.0/18 list=IP-TW } on-error={}
 :do { add address=211.78.64.0/18 list=IP-TW } on-error={}
 :do { add address=211.78.128.0/17 list=IP-TW } on-error={}

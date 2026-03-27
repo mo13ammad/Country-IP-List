@@ -1,4 +1,4 @@
-# Last update: 2026-03-27 15:40:18 UTC
+# Last update: 2026-03-27 16:40:50 UTC
 # Country: FI
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=FI&v4_format=prefix
 
@@ -303,6 +303,7 @@
 :do { add address=2a13:4f80::/29 list=FIv6 } on-error={}
 :do { add address=2a13:5300::/29 list=FIv6 } on-error={}
 :do { add address=2a13:81c0::/29 list=FIv6 } on-error={}
+:do { add address=2a13:82c0::/29 list=FIv6 } on-error={}
 :do { add address=2a13:8680::/29 list=FIv6 } on-error={}
 :do { add address=2a13:8c00::/32 list=FIv6 } on-error={}
 :do { add address=2a13:aec0::/32 list=FIv6 } on-error={}
@@ -944,6 +945,7 @@
 :do { add address=185.195.150.0/23 list=IP-FI } on-error={}
 :do { add address=185.196.4.0/22 list=IP-FI } on-error={}
 :do { add address=185.196.232.0/22 list=IP-FI } on-error={}
+:do { add address=185.204.144.0/22 list=IP-FI } on-error={}
 :do { add address=185.205.0.0/22 list=IP-FI } on-error={}
 :do { add address=185.206.176.0/22 list=IP-FI } on-error={}
 :do { add address=185.207.84.0/22 list=IP-FI } on-error={}

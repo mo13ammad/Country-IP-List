@@ -1,4 +1,4 @@
-# Last update: 2026-03-27 15:40:18 UTC
+# Last update: 2026-03-27 16:40:50 UTC
 # Country: GB
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GB&v4_format=prefix
 
@@ -1949,6 +1949,8 @@
 :do { add address=2a13:7a00::/29 list=GBv6 } on-error={}
 :do { add address=2a13:7dc0::/29 list=GBv6 } on-error={}
 :do { add address=2a13:7ec0::/29 list=GBv6 } on-error={}
+:do { add address=2a13:7f40::/32 list=GBv6 } on-error={}
+:do { add address=2a13:8040::/29 list=GBv6 } on-error={}
 :do { add address=2a13:80c0::/29 list=GBv6 } on-error={}
 :do { add address=2a13:8240::/32 list=GBv6 } on-error={}
 :do { add address=2a13:8400::/32 list=GBv6 } on-error={}
@@ -6214,7 +6216,6 @@
 :do { add address=167.162.0.0/16 list=IP-GB } on-error={}
 :do { add address=167.179.26.0/24 list=IP-GB } on-error={}
 :do { add address=167.179.33.0/24 list=IP-GB } on-error={}
-:do { add address=167.179.34.0/24 list=IP-GB } on-error={}
 :do { add address=167.186.0.0/16 list=IP-GB } on-error={}
 :do { add address=167.203.0.0/16 list=IP-GB } on-error={}
 :do { add address=167.231.0.0/16 list=IP-GB } on-error={}
@@ -10575,6 +10576,7 @@
 :do { add address=206.197.208.0/24 list=IP-GB } on-error={}
 :do { add address=206.209.210.0/24 list=IP-GB } on-error={}
 :do { add address=206.245.192.0/18 list=IP-GB } on-error={}
+:do { add address=207.89.16.0/21 list=IP-GB } on-error={}
 :do { add address=207.103.0.0/16 list=IP-GB } on-error={}
 :do { add address=207.211.208.0/21 list=IP-GB } on-error={}
 :do { add address=207.229.64.0/24 list=IP-GB } on-error={}
@@ -11258,7 +11260,7 @@
 :do { add address=217.179.76.0/22 list=IP-GB } on-error={}
 :do { add address=217.179.80.0/22 list=IP-GB } on-error={}
 :do { add address=217.179.84.0/22 list=IP-GB } on-error={}
-:do { add address=217.179.88.0/21 list=IP-GB } on-error={}
+:do { add address=217.179.92.0/22 list=IP-GB } on-error={}
 :do { add address=217.179.96.0/20 list=IP-GB } on-error={}
 :do { add address=217.179.112.0/21 list=IP-GB } on-error={}
 :do { add address=217.179.120.0/22 list=IP-GB } on-error={}
