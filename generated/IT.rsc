@@ -1,4 +1,4 @@
-# Last update: 2026-03-28 15:20:14 UTC
+# Last update: 2026-03-28 16:19:58 UTC
 # Country: IT
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=IT&v4_format=prefix
 
@@ -6,7 +6,6 @@
 /ipv6 firewall address-list
 :do { add address=2001:678:12::/48 list=ITv6 } on-error={}
 :do { add address=2001:678:d4::/48 list=ITv6 } on-error={}
-:do { add address=2001:678:500::/48 list=ITv6 } on-error={}
 :do { add address=2001:678:79c::/48 list=ITv6 } on-error={}
 :do { add address=2001:678:b08::/48 list=ITv6 } on-error={}
 :do { add address=2001:678:bd0::/48 list=ITv6 } on-error={}
