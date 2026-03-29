@@ -1,4 +1,4 @@
-# Last update: 2026-03-29 07:44:03 UTC
+# Last update: 2026-03-29 08:27:41 UTC
 # Country: AU
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=AU&v4_format=prefix
 
@@ -917,7 +917,6 @@
 :do { add address=2400:c500::/32 list=AUv6 } on-error={}
 :do { add address=2400:cba0::/32 list=AUv6 } on-error={}
 :do { add address=2400:cc00::/32 list=AUv6 } on-error={}
-:do { add address=2400:d2c0::/32 list=AUv6 } on-error={}
 :do { add address=2400:d400::/32 list=AUv6 } on-error={}
 :do { add address=2400:d480::/32 list=AUv6 } on-error={}
 :do { add address=2400:d500::/32 list=AUv6 } on-error={}
@@ -3024,7 +3023,6 @@
 :do { add address=103.112.102.0/23 list=IP-AU } on-error={}
 :do { add address=103.112.104.0/23 list=IP-AU } on-error={}
 :do { add address=103.112.176.0/24 list=IP-AU } on-error={}
-:do { add address=103.112.188.0/24 list=IP-AU } on-error={}
 :do { add address=103.112.200.0/22 list=IP-AU } on-error={}
 :do { add address=103.113.1.0/24 list=IP-AU } on-error={}
 :do { add address=103.113.169.0/24 list=IP-AU } on-error={}
@@ -3078,7 +3076,6 @@
 :do { add address=103.118.161.0/24 list=IP-AU } on-error={}
 :do { add address=103.118.162.0/23 list=IP-AU } on-error={}
 :do { add address=103.119.32.0/24 list=IP-AU } on-error={}
-:do { add address=103.119.33.0/24 list=IP-AU } on-error={}
 :do { add address=103.119.222.0/24 list=IP-AU } on-error={}
 :do { add address=103.119.253.0/24 list=IP-AU } on-error={}
 :do { add address=103.120.7.0/24 list=IP-AU } on-error={}
@@ -3758,7 +3755,6 @@
 :do { add address=103.212.216.0/22 list=IP-AU } on-error={}
 :do { add address=103.212.240.0/22 list=IP-AU } on-error={}
 :do { add address=103.213.100.0/22 list=IP-AU } on-error={}
-:do { add address=103.213.120.0/23 list=IP-AU } on-error={}
 :do { add address=103.213.200.0/24 list=IP-AU } on-error={}
 :do { add address=103.213.229.0/24 list=IP-AU } on-error={}
 :do { add address=103.214.28.0/23 list=IP-AU } on-error={}
@@ -3773,7 +3769,6 @@
 :do { add address=103.215.15.0/24 list=IP-AU } on-error={}
 :do { add address=103.215.22.0/24 list=IP-AU } on-error={}
 :do { add address=103.215.23.0/24 list=IP-AU } on-error={}
-:do { add address=103.215.64.0/22 list=IP-AU } on-error={}
 :do { add address=103.215.88.0/22 list=IP-AU } on-error={}
 :do { add address=103.215.128.0/22 list=IP-AU } on-error={}
 :do { add address=103.215.132.0/23 list=IP-AU } on-error={}
@@ -4931,6 +4926,7 @@
 :do { add address=163.128.92.0/23 list=IP-AU } on-error={}
 :do { add address=163.128.95.0/24 list=IP-AU } on-error={}
 :do { add address=163.128.97.0/24 list=IP-AU } on-error={}
+:do { add address=163.128.119.0/24 list=IP-AU } on-error={}
 :do { add address=163.189.0.0/16 list=IP-AU } on-error={}
 :do { add address=163.223.22.0/23 list=IP-AU } on-error={}
 :do { add address=163.223.109.0/24 list=IP-AU } on-error={}
