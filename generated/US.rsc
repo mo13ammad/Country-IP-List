@@ -1,4 +1,4 @@
-# Last update: 2026-03-31 08:00:31 UTC
+# Last update: 2026-03-31 09:53:07 UTC
 # Country: US
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=US&v4_format=prefix
 
@@ -1174,6 +1174,8 @@
 :do { add address=2602:81d:3000::/44 list=USv6 } on-error={}
 :do { add address=2602:81d:4000::/40 list=USv6 } on-error={}
 :do { add address=2602:81d:6000::/44 list=USv6 } on-error={}
+:do { add address=2602:f412::/40 list=USv6 } on-error={}
+:do { add address=2602:f413::/36 list=USv6 } on-error={}
 :do { add address=2602:f414::/40 list=USv6 } on-error={}
 :do { add address=2602:f415::/36 list=USv6 } on-error={}
 :do { add address=2602:f416::/40 list=USv6 } on-error={}
@@ -22037,6 +22039,7 @@
 :do { add address=69.71.211.0/24 list=IP-US } on-error={}
 :do { add address=69.71.212.0/22 list=IP-US } on-error={}
 :do { add address=69.71.216.0/21 list=IP-US } on-error={}
+:do { add address=69.71.220.0/24 list=IP-US } on-error={}
 :do { add address=69.71.224.0/19 list=IP-US } on-error={}
 :do { add address=69.72.0.0/22 list=IP-US } on-error={}
 :do { add address=69.72.4.0/23 list=IP-US } on-error={}
@@ -33751,6 +33754,7 @@
 :do { add address=151.181.192.0/19 list=IP-US } on-error={}
 :do { add address=151.181.224.0/20 list=IP-US } on-error={}
 :do { add address=151.181.240.0/20 list=IP-US } on-error={}
+:do { add address=151.185.0.0/19 list=IP-US } on-error={}
 :do { add address=151.185.0.0/19 list=IP-US } on-error={}
 :do { add address=151.185.64.0/18 list=IP-US } on-error={}
 :do { add address=151.185.128.0/17 list=IP-US } on-error={}
@@ -79287,6 +79291,8 @@
 :do { add address=216.177.128.0/20 list=IP-US } on-error={}
 :do { add address=216.177.144.0/21 list=IP-US } on-error={}
 :do { add address=216.177.152.0/22 list=IP-US } on-error={}
+:do { add address=216.177.153.0/24 list=IP-US } on-error={}
+:do { add address=216.177.154.0/24 list=IP-US } on-error={}
 :do { add address=216.177.156.0/24 list=IP-US } on-error={}
 :do { add address=216.177.157.0/24 list=IP-US } on-error={}
 :do { add address=216.177.158.0/23 list=IP-US } on-error={}

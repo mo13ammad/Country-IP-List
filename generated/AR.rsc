@@ -1,4 +1,4 @@
-# Last update: 2026-03-31 08:00:31 UTC
+# Last update: 2026-03-31 09:53:07 UTC
 # Country: AR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=AR&v4_format=prefix
 
@@ -976,7 +976,6 @@
 :do { add address=2803:cd20::/32 list=ARv6 } on-error={}
 :do { add address=2803:cd40::/32 list=ARv6 } on-error={}
 :do { add address=2803:cdd0::/32 list=ARv6 } on-error={}
-:do { add address=2803:cde0::/32 list=ARv6 } on-error={}
 :do { add address=2803:ce40::/32 list=ARv6 } on-error={}
 :do { add address=2803:ce60::/32 list=ARv6 } on-error={}
 :do { add address=2803:ce80::/32 list=ARv6 } on-error={}
@@ -2450,7 +2449,8 @@
 :do { add address=190.110.224.0/24 list=IP-AR } on-error={}
 :do { add address=190.110.225.0/24 list=IP-AR } on-error={}
 :do { add address=190.110.229.0/24 list=IP-AR } on-error={}
-:do { add address=190.110.232.0/21 list=IP-AR } on-error={}
+:do { add address=190.110.232.0/22 list=IP-AR } on-error={}
+:do { add address=190.110.236.0/22 list=IP-AR } on-error={}
 :do { add address=190.110.240.0/24 list=IP-AR } on-error={}
 :do { add address=190.110.242.0/23 list=IP-AR } on-error={}
 :do { add address=190.110.244.0/24 list=IP-AR } on-error={}
@@ -2486,7 +2486,12 @@
 :do { add address=190.113.236.0/22 list=IP-AR } on-error={}
 :do { add address=190.114.64.0/20 list=IP-AR } on-error={}
 :do { add address=190.114.80.0/20 list=IP-AR } on-error={}
-:do { add address=190.114.96.0/19 list=IP-AR } on-error={}
+:do { add address=190.114.96.0/22 list=IP-AR } on-error={}
+:do { add address=190.114.100.0/23 list=IP-AR } on-error={}
+:do { add address=190.114.102.0/24 list=IP-AR } on-error={}
+:do { add address=190.114.103.0/24 list=IP-AR } on-error={}
+:do { add address=190.114.104.0/21 list=IP-AR } on-error={}
+:do { add address=190.114.112.0/20 list=IP-AR } on-error={}
 :do { add address=190.114.128.0/19 list=IP-AR } on-error={}
 :do { add address=190.114.160.0/19 list=IP-AR } on-error={}
 :do { add address=190.114.192.0/19 list=IP-AR } on-error={}
@@ -2814,7 +2819,10 @@
 :do { add address=200.50.169.0/24 list=IP-AR } on-error={}
 :do { add address=200.50.170.0/23 list=IP-AR } on-error={}
 :do { add address=200.50.172.0/22 list=IP-AR } on-error={}
-:do { add address=200.50.176.0/20 list=IP-AR } on-error={}
+:do { add address=200.50.184.0/22 list=IP-AR } on-error={}
+:do { add address=200.50.188.0/23 list=IP-AR } on-error={}
+:do { add address=200.50.190.0/24 list=IP-AR } on-error={}
+:do { add address=200.50.191.0/24 list=IP-AR } on-error={}
 :do { add address=200.50.240.0/21 list=IP-AR } on-error={}
 :do { add address=200.50.248.0/21 list=IP-AR } on-error={}
 :do { add address=200.51.0.0/16 list=IP-AR } on-error={}

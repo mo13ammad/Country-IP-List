@@ -1,4 +1,4 @@
-# Last update: 2026-03-31 08:00:31 UTC
+# Last update: 2026-03-31 09:53:07 UTC
 # Country: DE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=DE&v4_format=prefix
 
@@ -13,11 +13,9 @@
 :do { add address=2001:678:a8::/48 list=DEv6 } on-error={}
 :do { add address=2001:678:c0::/48 list=DEv6 } on-error={}
 :do { add address=2001:678:c4::/48 list=DEv6 } on-error={}
-:do { add address=2001:678:f8::/48 list=DEv6 } on-error={}
 :do { add address=2001:678:114::/48 list=DEv6 } on-error={}
 :do { add address=2001:678:118::/48 list=DEv6 } on-error={}
 :do { add address=2001:678:140::/48 list=DEv6 } on-error={}
-:do { add address=2001:678:14c::/48 list=DEv6 } on-error={}
 :do { add address=2001:678:154::/48 list=DEv6 } on-error={}
 :do { add address=2001:678:168::/48 list=DEv6 } on-error={}
 :do { add address=2001:678:180::/48 list=DEv6 } on-error={}
@@ -98,7 +96,6 @@
 :do { add address=2001:678:6b0::/48 list=DEv6 } on-error={}
 :do { add address=2001:678:6bc::/48 list=DEv6 } on-error={}
 :do { add address=2001:678:6c8::/48 list=DEv6 } on-error={}
-:do { add address=2001:678:6cc::/48 list=DEv6 } on-error={}
 :do { add address=2001:678:6dc::/48 list=DEv6 } on-error={}
 :do { add address=2001:678:6e0::/45 list=DEv6 } on-error={}
 :do { add address=2001:678:760::/48 list=DEv6 } on-error={}
@@ -138,7 +135,6 @@
 :do { add address=2001:678:9fc::/48 list=DEv6 } on-error={}
 :do { add address=2001:678:a00::/48 list=DEv6 } on-error={}
 :do { add address=2001:678:a04::/48 list=DEv6 } on-error={}
-:do { add address=2001:678:a08::/48 list=DEv6 } on-error={}
 :do { add address=2001:678:a14::/48 list=DEv6 } on-error={}
 :do { add address=2001:678:a34::/48 list=DEv6 } on-error={}
 :do { add address=2001:678:a40::/48 list=DEv6 } on-error={}
@@ -261,13 +257,6 @@
 :do { add address=2001:678:1148::/48 list=DEv6 } on-error={}
 :do { add address=2001:678:1180::/48 list=DEv6 } on-error={}
 :do { add address=2001:678:1190::/48 list=DEv6 } on-error={}
-:do { add address=2001:678:11c0::/48 list=DEv6 } on-error={}
-:do { add address=2001:678:11c4::/48 list=DEv6 } on-error={}
-:do { add address=2001:678:11c8::/48 list=DEv6 } on-error={}
-:do { add address=2001:678:11cc::/48 list=DEv6 } on-error={}
-:do { add address=2001:678:11d0::/48 list=DEv6 } on-error={}
-:do { add address=2001:678:11d4::/48 list=DEv6 } on-error={}
-:do { add address=2001:678:11d8::/48 list=DEv6 } on-error={}
 :do { add address=2001:678:11f0::/48 list=DEv6 } on-error={}
 :do { add address=2001:678:1210::/48 list=DEv6 } on-error={}
 :do { add address=2001:678:1220::/48 list=DEv6 } on-error={}
@@ -397,10 +386,6 @@
 :do { add address=2001:67c:a6c::/48 list=DEv6 } on-error={}
 :do { add address=2001:67c:a78::/48 list=DEv6 } on-error={}
 :do { add address=2001:67c:a84::/48 list=DEv6 } on-error={}
-:do { add address=2001:67c:a90::/48 list=DEv6 } on-error={}
-:do { add address=2001:67c:a94::/48 list=DEv6 } on-error={}
-:do { add address=2001:67c:a98::/48 list=DEv6 } on-error={}
-:do { add address=2001:67c:a9c::/48 list=DEv6 } on-error={}
 :do { add address=2001:67c:adc::/48 list=DEv6 } on-error={}
 :do { add address=2001:67c:ae0::/48 list=DEv6 } on-error={}
 :do { add address=2001:67c:ae4::/48 list=DEv6 } on-error={}
@@ -730,7 +715,6 @@
 :do { add address=2001:67c:2f78::/48 list=DEv6 } on-error={}
 :do { add address=2001:67c:2f84::/48 list=DEv6 } on-error={}
 :do { add address=2001:67c:2fa4::/48 list=DEv6 } on-error={}
-:do { add address=2001:67c:2fb0::/48 list=DEv6 } on-error={}
 :do { add address=2001:67c:2fd8::/48 list=DEv6 } on-error={}
 :do { add address=2001:67c:2fdc::/48 list=DEv6 } on-error={}
 :do { add address=2001:748::/32 list=DEv6 } on-error={}
