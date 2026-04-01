@@ -1,4 +1,4 @@
-# Last update: 2026-04-01 08:08:00 UTC
+# Last update: 2026-04-01 09:57:39 UTC
 # Country: BR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BR&v4_format=prefix
 
@@ -554,7 +554,6 @@
 :do { add address=2801:81:190::/48 list=BRv6 } on-error={}
 :do { add address=2801:81:1a0::/48 list=BRv6 } on-error={}
 :do { add address=2801:81:1b0::/48 list=BRv6 } on-error={}
-:do { add address=2801:81:1c0::/48 list=BRv6 } on-error={}
 :do { add address=2801:81:1d0::/48 list=BRv6 } on-error={}
 :do { add address=2801:81:1e0::/48 list=BRv6 } on-error={}
 :do { add address=2801:81:1f0::/48 list=BRv6 } on-error={}
@@ -562,6 +561,7 @@
 :do { add address=2801:81:220::/48 list=BRv6 } on-error={}
 :do { add address=2801:81:230::/48 list=BRv6 } on-error={}
 :do { add address=2801:81:240::/48 list=BRv6 } on-error={}
+:do { add address=2801:81:250::/48 list=BRv6 } on-error={}
 :do { add address=2801:82::/32 list=BRv6 } on-error={}
 :do { add address=2801:84::/32 list=BRv6 } on-error={}
 :do { add address=2801:86::/32 list=BRv6 } on-error={}
@@ -8937,6 +8937,7 @@
 :do { add address=2804:9878::/32 list=BRv6 } on-error={}
 :do { add address=2804:987c::/32 list=BRv6 } on-error={}
 :do { add address=2804:9880::/32 list=BRv6 } on-error={}
+:do { add address=2804:9884::/32 list=BRv6 } on-error={}
 :do { add address=2a00:aee0::/29 list=BRv6 } on-error={}
 :do { add address=2a06:b700::/29 list=BRv6 } on-error={}
 
@@ -11092,7 +11093,9 @@
 :do { add address=45.227.24.0/22 list=IP-BR } on-error={}
 :do { add address=45.227.28.0/22 list=IP-BR } on-error={}
 :do { add address=45.227.40.0/22 list=IP-BR } on-error={}
-:do { add address=45.227.44.0/22 list=IP-BR } on-error={}
+:do { add address=45.227.44.0/23 list=IP-BR } on-error={}
+:do { add address=45.227.46.0/24 list=IP-BR } on-error={}
+:do { add address=45.227.47.0/24 list=IP-BR } on-error={}
 :do { add address=45.227.52.0/22 list=IP-BR } on-error={}
 :do { add address=45.227.56.0/22 list=IP-BR } on-error={}
 :do { add address=45.227.61.0/24 list=IP-BR } on-error={}

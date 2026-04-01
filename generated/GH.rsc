@@ -1,4 +1,4 @@
-# Last update: 2026-04-01 08:08:00 UTC
+# Last update: 2026-04-01 09:57:39 UTC
 # Country: GH
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GH&v4_format=prefix
 
@@ -102,6 +102,7 @@
 :do { add address=102.164.123.0/24 list=IP-GH } on-error={}
 :do { add address=102.176.0.0/17 list=IP-GH } on-error={}
 :do { add address=102.177.100.0/22 list=IP-GH } on-error={}
+:do { add address=102.202.228.0/22 list=IP-GH } on-error={}
 :do { add address=102.203.0.0/24 list=IP-GH } on-error={}
 :do { add address=102.203.160.0/22 list=IP-GH } on-error={}
 :do { add address=102.204.32.0/22 list=IP-GH } on-error={}

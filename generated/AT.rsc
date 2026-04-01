@@ -1,4 +1,4 @@
-# Last update: 2026-04-01 08:08:00 UTC
+# Last update: 2026-04-01 09:57:39 UTC
 # Country: AT
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=AT&v4_format=prefix
 
@@ -807,6 +807,7 @@
 :do { add address=63.247.208.0/20 list=IP-AT } on-error={}
 :do { add address=64.34.16.0/22 list=IP-AT } on-error={}
 :do { add address=64.239.60.0/23 list=IP-AT } on-error={}
+:do { add address=66.203.252.0/24 list=IP-AT } on-error={}
 :do { add address=77.72.160.0/21 list=IP-AT } on-error={}
 :do { add address=77.74.112.0/21 list=IP-AT } on-error={}
 :do { add address=77.75.16.0/21 list=IP-AT } on-error={}

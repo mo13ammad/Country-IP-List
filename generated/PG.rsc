@@ -1,4 +1,4 @@
-# Last update: 2026-04-01 08:08:00 UTC
+# Last update: 2026-04-01 09:57:39 UTC
 # Country: PG
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PG&v4_format=prefix
 
@@ -8,7 +8,6 @@
 :do { add address=2001:dea:8000::/48 list=PGv6 } on-error={}
 :do { add address=2001:df1:b00::/48 list=PGv6 } on-error={}
 :do { add address=2001:df1:bdc0::/48 list=PGv6 } on-error={}
-:do { add address=2001:df1:fb80::/48 list=PGv6 } on-error={}
 :do { add address=2001:df2:1500::/48 list=PGv6 } on-error={}
 :do { add address=2001:df3:4c00::/48 list=PGv6 } on-error={}
 :do { add address=2001:df3:c880::/48 list=PGv6 } on-error={}
@@ -65,7 +64,6 @@
 :do { add address=103.127.90.0/24 list=IP-PG } on-error={}
 :do { add address=103.136.226.0/23 list=IP-PG } on-error={}
 :do { add address=103.145.26.0/24 list=IP-PG } on-error={}
-:do { add address=103.145.49.0/24 list=IP-PG } on-error={}
 :do { add address=103.146.200.0/23 list=IP-PG } on-error={}
 :do { add address=103.152.8.0/24 list=IP-PG } on-error={}
 :do { add address=103.153.108.0/24 list=IP-PG } on-error={}

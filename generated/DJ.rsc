@@ -1,4 +1,4 @@
-# Last update: 2026-04-01 08:08:00 UTC
+# Last update: 2026-04-01 09:57:39 UTC
 # Country: DJ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=DJ&v4_format=prefix
 
@@ -14,6 +14,7 @@
 /ip firewall address-list
 :do { add address=41.189.224.0/19 list=IP-DJ } on-error={}
 :do { add address=91.209.83.0/24 list=IP-DJ } on-error={}
+:do { add address=102.202.232.0/22 list=IP-DJ } on-error={}
 :do { add address=102.205.104.0/23 list=IP-DJ } on-error={}
 :do { add address=102.214.90.0/24 list=IP-DJ } on-error={}
 :do { add address=196.49.10.0/24 list=IP-DJ } on-error={}

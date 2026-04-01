@@ -1,4 +1,4 @@
-# Last update: 2026-04-01 08:08:00 UTC
+# Last update: 2026-04-01 09:57:39 UTC
 # Country: NP
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=NP&v4_format=prefix
 
@@ -77,6 +77,7 @@
 :do { add address=2001:df6:bb80::/48 list=NPv6 } on-error={}
 :do { add address=2001:df6:c280::/48 list=NPv6 } on-error={}
 :do { add address=2001:df6:c380::/48 list=NPv6 } on-error={}
+:do { add address=2001:df6:dbc0::/48 list=NPv6 } on-error={}
 :do { add address=2001:df6:f700::/48 list=NPv6 } on-error={}
 :do { add address=2001:df7:5200::/48 list=NPv6 } on-error={}
 :do { add address=2001:df7:5680::/48 list=NPv6 } on-error={}
@@ -397,6 +398,7 @@
 :do { add address=163.61.118.0/23 list=IP-NP } on-error={}
 :do { add address=163.61.248.0/23 list=IP-NP } on-error={}
 :do { add address=163.128.44.0/23 list=IP-NP } on-error={}
+:do { add address=163.128.128.0/24 list=IP-NP } on-error={}
 :do { add address=163.223.98.0/23 list=IP-NP } on-error={}
 :do { add address=163.223.234.0/23 list=IP-NP } on-error={}
 :do { add address=163.227.8.0/23 list=IP-NP } on-error={}
