@@ -1,4 +1,4 @@
-# Last update: 2026-04-02 07:57:32 UTC
+# Last update: 2026-04-02 08:50:38 UTC
 # Country: AM
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=AM&v4_format=prefix
 
@@ -6,6 +6,7 @@
 /ipv6 firewall address-list
 :do { add address=2001:678:ca4::/48 list=AMv6 } on-error={}
 :do { add address=2001:67c:21c::/48 list=AMv6 } on-error={}
+:do { add address=2001:67c:924::/48 list=AMv6 } on-error={}
 :do { add address=2001:67c:2cdc::/48 list=AMv6 } on-error={}
 :do { add address=2001:7f8:94::/48 list=AMv6 } on-error={}
 :do { add address=2001:7f9:8::/48 list=AMv6 } on-error={}

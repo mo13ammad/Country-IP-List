@@ -1,10 +1,10 @@
-# Last update: 2026-04-02 07:57:32 UTC
+# Last update: 2026-04-02 08:50:38 UTC
 # Country: VA
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=VA&v4_format=prefix
 
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list=VAv6]
 /ipv6 firewall address-list
-:do { add address=2a01:b8::/32 list=VAv6 } on-error={}
+:do { add address=2a01:b8::/29 list=VAv6 } on-error={}
 :do { add address=2a04:640::/29 list=VAv6 } on-error={}
 :do { add address=2a07:8100::/29 list=VAv6 } on-error={}
 

@@ -1,4 +1,4 @@
-# Last update: 2026-04-02 07:57:32 UTC
+# Last update: 2026-04-02 08:50:38 UTC
 # Country: HR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=HR&v4_format=prefix
 
@@ -285,6 +285,7 @@
 :do { add address=185.253.188.0/22 list=IP-HR } on-error={}
 :do { add address=185.254.176.0/22 list=IP-HR } on-error={}
 :do { add address=185.254.252.0/22 list=IP-HR } on-error={}
+:do { add address=188.94.43.0/24 list=IP-HR } on-error={}
 :do { add address=188.95.88.0/24 list=IP-HR } on-error={}
 :do { add address=188.125.0.0/19 list=IP-HR } on-error={}
 :do { add address=188.129.0.0/17 list=IP-HR } on-error={}
