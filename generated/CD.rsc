@@ -1,4 +1,4 @@
-# Last update: 2026-04-02 06:05:02 UTC
+# Last update: 2026-04-02 07:57:32 UTC
 # Country: CD
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CD&v4_format=prefix
 
