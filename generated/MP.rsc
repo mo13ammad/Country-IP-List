@@ -1,4 +1,4 @@
-# Last update: 2026-04-02 12:44:06 UTC
+# Last update: 2026-04-02 14:15:00 UTC
 # Country: MP
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MP&v4_format=prefix
 
