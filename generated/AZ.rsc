@@ -1,4 +1,4 @@
-# Last update: 2026-04-03 10:32:26 UTC
+# Last update: 2026-04-03 11:29:53 UTC
 # Country: AZ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=AZ&v4_format=prefix
 
