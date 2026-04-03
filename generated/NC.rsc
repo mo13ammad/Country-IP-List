@@ -1,4 +1,4 @@
-# Last update: 2026-04-03 09:42:50 UTC
+# Last update: 2026-04-03 10:32:26 UTC
 # Country: NC
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=NC&v4_format=prefix
 
