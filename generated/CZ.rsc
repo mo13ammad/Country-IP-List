@@ -1,4 +1,4 @@
-# Last update: 2026-04-03 07:54:31 UTC
+# Last update: 2026-04-03 08:40:13 UTC
 # Country: CZ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CZ&v4_format=prefix
 
@@ -1154,6 +1154,7 @@
 :do { add address=86.61.128.0/17 list=IP-CZ } on-error={}
 :do { add address=86.63.192.0/19 list=IP-CZ } on-error={}
 :do { add address=86.111.213.0/24 list=IP-CZ } on-error={}
+:do { add address=87.232.96.0/19 list=IP-CZ } on-error={}
 :do { add address=87.236.192.0/21 list=IP-CZ } on-error={}
 :do { add address=87.249.140.0/22 list=IP-CZ } on-error={}
 :do { add address=87.249.144.0/20 list=IP-CZ } on-error={}
@@ -2122,7 +2123,6 @@
 :do { add address=193.124.44.0/22 list=IP-CZ } on-error={}
 :do { add address=193.124.50.0/24 list=IP-CZ } on-error={}
 :do { add address=193.124.55.0/24 list=IP-CZ } on-error={}
-:do { add address=193.124.56.0/22 list=IP-CZ } on-error={}
 :do { add address=193.124.60.0/24 list=IP-CZ } on-error={}
 :do { add address=193.124.88.0/21 list=IP-CZ } on-error={}
 :do { add address=193.124.112.0/22 list=IP-CZ } on-error={}
@@ -2292,6 +2292,7 @@
 :do { add address=195.47.252.0/24 list=IP-CZ } on-error={}
 :do { add address=195.58.32.0/19 list=IP-CZ } on-error={}
 :do { add address=195.60.89.0/25 list=IP-CZ } on-error={}
+:do { add address=195.63.192.0/18 list=IP-CZ } on-error={}
 :do { add address=195.70.128.0/19 list=IP-CZ } on-error={}
 :do { add address=195.74.76.0/24 list=IP-CZ } on-error={}
 :do { add address=195.78.122.0/23 list=IP-CZ } on-error={}

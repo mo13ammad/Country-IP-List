@@ -1,4 +1,4 @@
-# Last update: 2026-04-03 07:54:31 UTC
+# Last update: 2026-04-03 08:40:13 UTC
 # Country: MT
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MT&v4_format=prefix
 
@@ -16,7 +16,6 @@
 :do { add address=2a01:abc0::/32 list=MTv6 } on-error={}
 :do { add address=2a02:dd0::/32 list=MTv6 } on-error={}
 :do { add address=2a02:79a0::/32 list=MTv6 } on-error={}
-:do { add address=2a03:9a0::/32 list=MTv6 } on-error={}
 :do { add address=2a03:b20::/32 list=MTv6 } on-error={}
 :do { add address=2a03:3bc0::/32 list=MTv6 } on-error={}
 :do { add address=2a03:6bc0::/29 list=MTv6 } on-error={}
