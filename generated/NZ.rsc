@@ -1,4 +1,4 @@
-# Last update: 2026-04-03 12:36:14 UTC
+# Last update: 2026-04-03 13:55:45 UTC
 # Country: NZ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=NZ&v4_format=prefix
 
