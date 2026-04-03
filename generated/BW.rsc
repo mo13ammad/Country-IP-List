@@ -1,4 +1,4 @@
-# Last update: 2026-04-03 19:31:20 UTC
+# Last update: 2026-04-03 20:23:06 UTC
 # Country: BW
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BW&v4_format=prefix
 
