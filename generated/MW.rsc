@@ -1,4 +1,4 @@
-# Last update: 2026-04-04 08:27:49 UTC
+# Last update: 2026-04-04 09:26:59 UTC
 # Country: MW
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MW&v4_format=prefix
 
@@ -17,6 +17,7 @@
 :do { add address=2001:43fd:1000::/48 list=MWv6 } on-error={}
 :do { add address=2001:43fd:d000::/48 list=MWv6 } on-error={}
 :do { add address=2001:43fd:f000::/48 list=MWv6 } on-error={}
+:do { add address=2001:43ff:4800::/48 list=MWv6 } on-error={}
 :do { add address=2001:43ff:f000::/48 list=MWv6 } on-error={}
 :do { add address=2c0e:7800::/24 list=MWv6 } on-error={}
 :do { add address=2c0e:7e80::/28 list=MWv6 } on-error={}
@@ -57,6 +58,7 @@
 :do { add address=102.70.0.0/15 list=IP-MW } on-error={}
 :do { add address=102.130.101.0/24 list=IP-MW } on-error={}
 :do { add address=102.176.250.0/24 list=IP-MW } on-error={}
+:do { add address=102.202.223.0/24 list=IP-MW } on-error={}
 :do { add address=102.206.152.0/22 list=IP-MW } on-error={}
 :do { add address=102.208.52.0/24 list=IP-MW } on-error={}
 :do { add address=102.209.16.0/23 list=IP-MW } on-error={}
