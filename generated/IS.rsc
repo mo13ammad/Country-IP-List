@@ -1,4 +1,4 @@
-# Last update: 2026-04-04 13:43:47 UTC
+# Last update: 2026-04-04 14:23:53 UTC
 # Country: IS
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=IS&v4_format=prefix
 
