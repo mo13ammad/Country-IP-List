@@ -1,4 +1,4 @@
-# Last update: 2026-04-05 08:30:50 UTC
+# Last update: 2026-04-05 09:28:34 UTC
 # Country: PK
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PK&v4_format=prefix
 
