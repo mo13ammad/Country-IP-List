@@ -1,4 +1,4 @@
-# Last update: 2026-04-05 07:47:51 UTC
+# Last update: 2026-04-05 08:30:50 UTC
 # Country: US
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=US&v4_format=prefix
 
@@ -1176,6 +1176,7 @@
 :do { add address=2602:81d:4000::/40 list=USv6 } on-error={}
 :do { add address=2602:81d:6000::/44 list=USv6 } on-error={}
 :do { add address=2602:81d:8000::/40 list=USv6 } on-error={}
+:do { add address=2602:f40a::/40 list=USv6 } on-error={}
 :do { add address=2602:f40b::/40 list=USv6 } on-error={}
 :do { add address=2602:f40c::/40 list=USv6 } on-error={}
 :do { add address=2602:f40d::/40 list=USv6 } on-error={}
@@ -11764,6 +11765,7 @@
 :do { add address=23.139.52.0/24 list=IP-US } on-error={}
 :do { add address=23.139.56.0/24 list=IP-US } on-error={}
 :do { add address=23.139.60.0/24 list=IP-US } on-error={}
+:do { add address=23.139.61.0/24 list=IP-US } on-error={}
 :do { add address=23.139.64.0/24 list=IP-US } on-error={}
 :do { add address=23.139.65.0/24 list=IP-US } on-error={}
 :do { add address=23.139.66.0/24 list=IP-US } on-error={}
@@ -12673,9 +12675,11 @@
 :do { add address=23.155.176.0/24 list=IP-US } on-error={}
 :do { add address=23.155.177.0/24 list=IP-US } on-error={}
 :do { add address=23.155.178.0/24 list=IP-US } on-error={}
+:do { add address=23.155.180.0/24 list=IP-US } on-error={}
 :do { add address=23.155.200.0/24 list=IP-US } on-error={}
 :do { add address=23.155.224.0/24 list=IP-US } on-error={}
 :do { add address=23.155.232.0/24 list=IP-US } on-error={}
+:do { add address=23.155.236.0/24 list=IP-US } on-error={}
 :do { add address=23.155.248.0/24 list=IP-US } on-error={}
 :do { add address=23.156.8.0/24 list=IP-US } on-error={}
 :do { add address=23.156.40.0/24 list=IP-US } on-error={}
@@ -19882,7 +19886,8 @@
 :do { add address=66.203.250.0/24 list=IP-US } on-error={}
 :do { add address=66.203.251.0/24 list=IP-US } on-error={}
 :do { add address=66.203.253.0/24 list=IP-US } on-error={}
-:do { add address=66.203.254.0/23 list=IP-US } on-error={}
+:do { add address=66.203.254.0/24 list=IP-US } on-error={}
+:do { add address=66.203.255.0/24 list=IP-US } on-error={}
 :do { add address=66.204.0.0/16 list=IP-US } on-error={}
 :do { add address=66.205.0.0/18 list=IP-US } on-error={}
 :do { add address=66.205.96.0/19 list=IP-US } on-error={}
@@ -37318,6 +37323,7 @@
 :do { add address=162.253.56.0/22 list=IP-US } on-error={}
 :do { add address=162.253.60.0/23 list=IP-US } on-error={}
 :do { add address=162.253.62.0/24 list=IP-US } on-error={}
+:do { add address=162.253.63.0/24 list=IP-US } on-error={}
 :do { add address=162.253.64.0/22 list=IP-US } on-error={}
 :do { add address=162.253.68.0/22 list=IP-US } on-error={}
 :do { add address=162.253.72.0/21 list=IP-US } on-error={}
@@ -38392,7 +38398,11 @@
 :do { add address=167.104.50.0/23 list=IP-US } on-error={}
 :do { add address=167.104.52.0/22 list=IP-US } on-error={}
 :do { add address=167.104.56.0/21 list=IP-US } on-error={}
-:do { add address=167.104.64.0/18 list=IP-US } on-error={}
+:do { add address=167.104.64.0/19 list=IP-US } on-error={}
+:do { add address=167.104.96.0/20 list=IP-US } on-error={}
+:do { add address=167.104.112.0/21 list=IP-US } on-error={}
+:do { add address=167.104.120.0/22 list=IP-US } on-error={}
+:do { add address=167.104.124.0/22 list=IP-US } on-error={}
 :do { add address=167.104.128.0/18 list=IP-US } on-error={}
 :do { add address=167.104.192.0/20 list=IP-US } on-error={}
 :do { add address=167.104.216.0/21 list=IP-US } on-error={}
@@ -74049,7 +74059,8 @@
 :do { add address=207.207.160.0/19 list=IP-US } on-error={}
 :do { add address=207.207.192.0/24 list=IP-US } on-error={}
 :do { add address=207.207.193.0/24 list=IP-US } on-error={}
-:do { add address=207.207.194.0/23 list=IP-US } on-error={}
+:do { add address=207.207.194.0/24 list=IP-US } on-error={}
+:do { add address=207.207.195.0/24 list=IP-US } on-error={}
 :do { add address=207.207.196.0/22 list=IP-US } on-error={}
 :do { add address=207.207.200.0/22 list=IP-US } on-error={}
 :do { add address=207.207.204.0/22 list=IP-US } on-error={}
