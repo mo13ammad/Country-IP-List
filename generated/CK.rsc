@@ -1,4 +1,4 @@
-# Last update: 2026-04-05 12:31:02 UTC
+# Last update: 2026-04-05 13:45:18 UTC
 # Country: CK
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CK&v4_format=prefix
 
