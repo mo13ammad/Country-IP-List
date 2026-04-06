@@ -1,4 +1,4 @@
-# Last update: 2026-04-06 15:36:28 UTC
+# Last update: 2026-04-06 16:34:29 UTC
 # Country: TJ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=TJ&v4_format=prefix
 
