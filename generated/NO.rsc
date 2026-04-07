@@ -1,4 +1,4 @@
-# Last update: 2026-04-07 21:33:22 UTC
+# Last update: 2026-04-07 22:27:04 UTC
 # Country: NO
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=NO&v4_format=prefix
 
