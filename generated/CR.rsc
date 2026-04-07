@@ -1,4 +1,4 @@
-# Last update: 2026-04-07 08:04:11 UTC
+# Last update: 2026-04-07 09:56:54 UTC
 # Country: CR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CR&v4_format=prefix
 
@@ -57,6 +57,7 @@
 :do { add address=2803:3200::/32 list=CRv6 } on-error={}
 :do { add address=2803:3600::/32 list=CRv6 } on-error={}
 :do { add address=2803:3710::/32 list=CRv6 } on-error={}
+:do { add address=2803:3a30::/32 list=CRv6 } on-error={}
 :do { add address=2803:4580::/32 list=CRv6 } on-error={}
 :do { add address=2803:4910::/32 list=CRv6 } on-error={}
 :do { add address=2803:4920::/32 list=CRv6 } on-error={}
