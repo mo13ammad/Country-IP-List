@@ -1,4 +1,4 @@
-# Last update: 2026-04-07 22:27:04 UTC
+# Last update: 2026-04-07 23:27:57 UTC
 # Country: EE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=EE&v4_format=prefix
 
