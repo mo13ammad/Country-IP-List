@@ -1,4 +1,4 @@
-# Last update: 2026-04-08 08:05:13 UTC
+# Last update: 2026-04-08 09:57:24 UTC
 # Country: JE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=JE&v4_format=prefix
 
@@ -35,7 +35,9 @@
 :do { add address=109.68.192.0/22 list=IP-JE } on-error={}
 :do { add address=146.19.127.0/24 list=IP-JE } on-error={}
 :do { add address=165.250.0.0/16 list=IP-JE } on-error={}
-:do { add address=173.255.144.0/21 list=IP-JE } on-error={}
+:do { add address=173.255.144.0/22 list=IP-JE } on-error={}
+:do { add address=173.255.149.0/24 list=IP-JE } on-error={}
+:do { add address=173.255.151.0/24 list=IP-JE } on-error={}
 :do { add address=185.3.52.0/22 list=IP-JE } on-error={}
 :do { add address=185.16.68.0/22 list=IP-JE } on-error={}
 :do { add address=185.48.60.0/22 list=IP-JE } on-error={}
