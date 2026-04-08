@@ -1,4 +1,4 @@
-# Last update: 2026-04-08 17:56:59 UTC
+# Last update: 2026-04-08 19:05:23 UTC
 # Country: BD
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BD&v4_format=prefix
 
