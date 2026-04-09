@@ -1,4 +1,4 @@
-# Last update: 2026-04-09 08:09:50 UTC
+# Last update: 2026-04-09 10:01:27 UTC
 # Country: MK
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MK&v4_format=prefix
 
@@ -44,6 +44,7 @@
 :do { add address=2a10:66c0::/29 list=MKv6 } on-error={}
 :do { add address=2a10:e340::/29 list=MKv6 } on-error={}
 :do { add address=2a13:3580::/29 list=MKv6 } on-error={}
+:do { add address=2a13:ac00::/29 list=MKv6 } on-error={}
 :do { add address=2a14:2680::/29 list=MKv6 } on-error={}
 
 /ip firewall address-list remove [/ip firewall address-list find list=IP-MK]
