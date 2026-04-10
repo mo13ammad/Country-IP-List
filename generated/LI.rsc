@@ -1,4 +1,4 @@
-# Last update: 2026-04-10 21:26:16 UTC
+# Last update: 2026-04-10 22:25:33 UTC
 # Country: LI
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=LI&v4_format=prefix
 
