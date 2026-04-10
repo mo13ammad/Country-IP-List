@@ -1,4 +1,4 @@
-# Last update: 2026-04-10 08:14:54 UTC
+# Last update: 2026-04-10 09:58:51 UTC
 # Country: AE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=AE&v4_format=prefix
 
@@ -16,6 +16,7 @@
 :do { add address=2001:67c:29d8::/48 list=AEv6 } on-error={}
 :do { add address=2001:7f8:7a::/48 list=AEv6 } on-error={}
 :do { add address=2001:7f8:96::/48 list=AEv6 } on-error={}
+:do { add address=2001:7f8:178::/48 list=AEv6 } on-error={}
 :do { add address=2001:8f8::/29 list=AEv6 } on-error={}
 :do { add address=2001:df4:1980::/48 list=AEv6 } on-error={}
 :do { add address=2001:df6:a040::/48 list=AEv6 } on-error={}
@@ -1059,6 +1060,7 @@
 :do { add address=91.213.35.0/24 list=IP-AE } on-error={}
 :do { add address=91.213.50.0/24 list=IP-AE } on-error={}
 :do { add address=91.213.99.0/24 list=IP-AE } on-error={}
+:do { add address=91.213.211.0/26 list=IP-AE } on-error={}
 :do { add address=91.216.13.0/24 list=IP-AE } on-error={}
 :do { add address=91.216.59.0/24 list=IP-AE } on-error={}
 :do { add address=91.216.185.0/24 list=IP-AE } on-error={}
@@ -1283,6 +1285,7 @@
 :do { add address=153.56.156.0/22 list=IP-AE } on-error={}
 :do { add address=153.56.160.0/19 list=IP-AE } on-error={}
 :do { add address=153.56.192.0/18 list=IP-AE } on-error={}
+:do { add address=153.75.80.0/20 list=IP-AE } on-error={}
 :do { add address=158.255.77.0/24 list=IP-AE } on-error={}
 :do { add address=167.17.32.0/19 list=IP-AE } on-error={}
 :do { add address=167.17.176.0/20 list=IP-AE } on-error={}

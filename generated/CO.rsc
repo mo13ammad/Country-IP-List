@@ -1,4 +1,4 @@
-# Last update: 2026-04-10 08:14:54 UTC
+# Last update: 2026-04-10 09:58:51 UTC
 # Country: CO
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CO&v4_format=prefix
 
@@ -288,7 +288,6 @@
 :do { add address=2801:110::/35 list=COv6 } on-error={}
 :do { add address=2801:111::/44 list=COv6 } on-error={}
 :do { add address=2801:112::/40 list=COv6 } on-error={}
-:do { add address=2801:114::/44 list=COv6 } on-error={}
 :do { add address=2801:115::/44 list=COv6 } on-error={}
 :do { add address=2801:116::/40 list=COv6 } on-error={}
 :do { add address=2801:119::/44 list=COv6 } on-error={}
@@ -580,7 +579,6 @@
 :do { add address=2803:9190::/32 list=COv6 } on-error={}
 :do { add address=2803:9250::/32 list=COv6 } on-error={}
 :do { add address=2803:9260::/32 list=COv6 } on-error={}
-:do { add address=2803:9310::/32 list=COv6 } on-error={}
 :do { add address=2803:9410::/32 list=COv6 } on-error={}
 :do { add address=2803:9430::/32 list=COv6 } on-error={}
 :do { add address=2803:9460::/32 list=COv6 } on-error={}
@@ -813,7 +811,6 @@
 :do { add address=45.226.112.0/22 list=IP-CO } on-error={}
 :do { add address=45.226.186.0/23 list=IP-CO } on-error={}
 :do { add address=45.227.5.0/24 list=IP-CO } on-error={}
-:do { add address=45.227.88.0/22 list=IP-CO } on-error={}
 :do { add address=45.228.66.0/24 list=IP-CO } on-error={}
 :do { add address=45.229.72.0/23 list=IP-CO } on-error={}
 :do { add address=45.229.192.0/23 list=IP-CO } on-error={}
