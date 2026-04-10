@@ -1,4 +1,4 @@
-# Last update: 2026-04-10 06:25:16 UTC
+# Last update: 2026-04-10 08:14:54 UTC
 # Country: NR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=NR&v4_format=prefix
 
