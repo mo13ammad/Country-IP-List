@@ -1,4 +1,4 @@
-# Last update: 2026-04-09 22:29:51 UTC
+# Last update: 2026-04-10 01:16:52 UTC
 # Country: AM
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=AM&v4_format=prefix
 
