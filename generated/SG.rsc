@@ -1,4 +1,4 @@
-# Last update: 2026-04-11 07:42:00 UTC
+# Last update: 2026-04-11 08:29:43 UTC
 # Country: SG
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SG&v4_format=prefix
 
@@ -489,9 +489,11 @@
 :do { add address=240b:4000::/22 list=SGv6 } on-error={}
 :do { add address=240d:c000::/24 list=SGv6 } on-error={}
 :do { add address=2410::/17 list=SGv6 } on-error={}
+:do { add address=2602:f402::/40 list=SGv6 } on-error={}
 :do { add address=2602:f548::/40 list=SGv6 } on-error={}
 :do { add address=2602:f741::/36 list=SGv6 } on-error={}
 :do { add address=2602:f74f::/36 list=SGv6 } on-error={}
+:do { add address=2602:f832::/40 list=SGv6 } on-error={}
 :do { add address=2602:f834::/40 list=SGv6 } on-error={}
 :do { add address=2602:f902::/40 list=SGv6 } on-error={}
 :do { add address=2602:fbfc::/36 list=SGv6 } on-error={}
@@ -541,7 +543,9 @@
 :do { add address=23.131.228.0/24 list=IP-SG } on-error={}
 :do { add address=23.132.60.0/24 list=IP-SG } on-error={}
 :do { add address=23.146.76.0/24 list=IP-SG } on-error={}
+:do { add address=23.156.44.0/24 list=IP-SG } on-error={}
 :do { add address=23.177.56.0/24 list=IP-SG } on-error={}
+:do { add address=23.187.88.0/24 list=IP-SG } on-error={}
 :do { add address=23.187.136.0/24 list=IP-SG } on-error={}
 :do { add address=27.0.8.0/22 list=IP-SG } on-error={}
 :do { add address=27.0.96.0/19 list=IP-SG } on-error={}
@@ -1470,6 +1474,7 @@
 :do { add address=129.226.0.0/16 list=IP-SG } on-error={}
 :do { add address=129.227.0.0/16 list=IP-SG } on-error={}
 :do { add address=130.12.40.0/22 list=IP-SG } on-error={}
+:do { add address=130.12.48.0/22 list=IP-SG } on-error={}
 :do { add address=131.143.160.0/22 list=IP-SG } on-error={}
 :do { add address=132.147.64.0/18 list=IP-SG } on-error={}
 :do { add address=134.42.225.0/24 list=IP-SG } on-error={}

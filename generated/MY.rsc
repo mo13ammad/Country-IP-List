@@ -1,4 +1,4 @@
-# Last update: 2026-04-11 07:42:00 UTC
+# Last update: 2026-04-11 08:29:43 UTC
 # Country: MY
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MY&v4_format=prefix
 
@@ -342,6 +342,7 @@
 :do { add address=2407:f800::/32 list=MYv6 } on-error={}
 :do { add address=2602:f416::/40 list=MYv6 } on-error={}
 :do { add address=2602:f41e::/40 list=MYv6 } on-error={}
+:do { add address=2602:f833::/40 list=MYv6 } on-error={}
 :do { add address=2602:f8fa::/40 list=MYv6 } on-error={}
 
 /ip firewall address-list remove [/ip firewall address-list find list=IP-MY]
@@ -360,6 +361,7 @@
 :do { add address=23.155.52.0/24 list=IP-MY } on-error={}
 :do { add address=23.155.92.0/24 list=IP-MY } on-error={}
 :do { add address=23.177.232.0/24 list=IP-MY } on-error={}
+:do { add address=23.187.104.0/24 list=IP-MY } on-error={}
 :do { add address=27.0.4.0/22 list=IP-MY } on-error={}
 :do { add address=27.110.80.0/20 list=IP-MY } on-error={}
 :do { add address=27.121.108.0/22 list=IP-MY } on-error={}
@@ -924,6 +926,7 @@
 :do { add address=124.195.128.0/20 list=IP-MY } on-error={}
 :do { add address=124.197.224.0/19 list=IP-MY } on-error={}
 :do { add address=124.217.224.0/19 list=IP-MY } on-error={}
+:do { add address=130.12.56.0/22 list=IP-MY } on-error={}
 :do { add address=131.143.128.0/22 list=IP-MY } on-error={}
 :do { add address=135.84.232.0/21 list=IP-MY } on-error={}
 :do { add address=137.59.80.0/22 list=IP-MY } on-error={}

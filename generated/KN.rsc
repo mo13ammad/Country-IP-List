@@ -1,9 +1,10 @@
-# Last update: 2026-04-11 07:42:00 UTC
+# Last update: 2026-04-11 08:29:43 UTC
 # Country: KN
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=KN&v4_format=prefix
 
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list=KNv6]
 /ipv6 firewall address-list
+:do { add address=2602:f3fc::/36 list=KNv6 } on-error={}
 :do { add address=2602:fb78::/40 list=KNv6 } on-error={}
 :do { add address=2620:18:c000::/48 list=KNv6 } on-error={}
 :do { add address=2620:6b:2000::/48 list=KNv6 } on-error={}
