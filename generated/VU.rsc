@@ -1,4 +1,4 @@
-# Last update: 2026-04-12 07:56:02 UTC
+# Last update: 2026-04-12 08:37:22 UTC
 # Country: VU
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=VU&v4_format=prefix
 
@@ -32,6 +32,7 @@
 :do { add address=103.226.22.0/23 list=IP-VU } on-error={}
 :do { add address=113.11.240.0/21 list=IP-VU } on-error={}
 :do { add address=160.187.44.0/23 list=IP-VU } on-error={}
+:do { add address=163.128.190.0/24 list=IP-VU } on-error={}
 :do { add address=180.222.208.0/22 list=IP-VU } on-error={}
 :do { add address=194.127.164.0/22 list=IP-VU } on-error={}
 :do { add address=202.4.251.0/24 list=IP-VU } on-error={}
