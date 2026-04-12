@@ -1,4 +1,4 @@
-# Last update: 2026-04-12 11:25:22 UTC
+# Last update: 2026-04-12 12:34:34 UTC
 # Country: VN
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=VN&v4_format=prefix
 
