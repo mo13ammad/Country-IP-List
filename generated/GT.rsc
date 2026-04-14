@@ -1,4 +1,4 @@
-# Last update: 2026-04-14 06:24:26 UTC
+# Last update: 2026-04-14 08:19:29 UTC
 # Country: GT
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GT&v4_format=prefix
 
