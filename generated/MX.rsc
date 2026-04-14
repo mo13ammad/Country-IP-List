@@ -1,4 +1,4 @@
-# Last update: 2026-04-14 08:19:29 UTC
+# Last update: 2026-04-14 10:05:31 UTC
 # Country: MX
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MX&v4_format=prefix
 
@@ -53,7 +53,6 @@
 :do { add address=2001:13c7:7000::/48 list=MXv6 } on-error={}
 :do { add address=2001:13c7:7014::/48 list=MXv6 } on-error={}
 :do { add address=2602:ff73::/40 list=MXv6 } on-error={}
-:do { add address=2606:58c0::/32 list=MXv6 } on-error={}
 :do { add address=2801:c0::/32 list=MXv6 } on-error={}
 :do { add address=2801:c4::/48 list=MXv6 } on-error={}
 :do { add address=2801:c4:10::/48 list=MXv6 } on-error={}
@@ -1096,7 +1095,6 @@
 :do { add address=192.153.155.0/24 list=IP-MX } on-error={}
 :do { add address=192.160.111.0/24 list=IP-MX } on-error={}
 :do { add address=192.190.30.0/23 list=IP-MX } on-error={}
-:do { add address=192.190.144.0/22 list=IP-MX } on-error={}
 :do { add address=192.203.177.0/24 list=IP-MX } on-error={}
 :do { add address=192.207.204.0/23 list=IP-MX } on-error={}
 :do { add address=192.234.102.0/24 list=IP-MX } on-error={}
@@ -1953,4 +1951,3 @@
 :do { add address=208.88.68.0/24 list=IP-MX } on-error={}
 :do { add address=209.35.184.0/22 list=IP-MX } on-error={}
 :do { add address=209.178.128.0/18 list=IP-MX } on-error={}
-:do { add address=209.209.52.0/22 list=IP-MX } on-error={}
