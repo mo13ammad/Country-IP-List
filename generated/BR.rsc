@@ -1,4 +1,4 @@
-# Last update: 2026-04-15 19:19:18 UTC
+# Last update: 2026-04-15 20:36:41 UTC
 # Country: BR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BR&v4_format=prefix
 
