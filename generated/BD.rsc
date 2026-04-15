@@ -1,4 +1,4 @@
-# Last update: 2026-04-15 08:20:48 UTC
+# Last update: 2026-04-15 10:06:13 UTC
 # Country: BD
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BD&v4_format=prefix
 
@@ -871,6 +871,8 @@
 :do { add address=2001:df6:dfc0::/48 list=BDv6 } on-error={}
 :do { add address=2001:df6:e080::/48 list=BDv6 } on-error={}
 :do { add address=2001:df6:e540::/48 list=BDv6 } on-error={}
+:do { add address=2001:df6:e940::/48 list=BDv6 } on-error={}
+:do { add address=2001:df6:ea40::/48 list=BDv6 } on-error={}
 :do { add address=2001:df6:f380::/48 list=BDv6 } on-error={}
 :do { add address=2001:df6:f680::/48 list=BDv6 } on-error={}
 :do { add address=2001:df6:fa80::/48 list=BDv6 } on-error={}
@@ -1006,7 +1008,6 @@
 :do { add address=2400:a2c0::/32 list=BDv6 } on-error={}
 :do { add address=2400:a3a0::/32 list=BDv6 } on-error={}
 :do { add address=2400:a460::/32 list=BDv6 } on-error={}
-:do { add address=2400:a540::/32 list=BDv6 } on-error={}
 :do { add address=2400:a720::/32 list=BDv6 } on-error={}
 :do { add address=2400:a740::/32 list=BDv6 } on-error={}
 :do { add address=2400:a760::/32 list=BDv6 } on-error={}
@@ -1270,6 +1271,7 @@
 :do { add address=2402:5460::/32 list=BDv6 } on-error={}
 :do { add address=2402:54c0::/32 list=BDv6 } on-error={}
 :do { add address=2402:55c0::/32 list=BDv6 } on-error={}
+:do { add address=2402:5720::/32 list=BDv6 } on-error={}
 :do { add address=2402:5840::/32 list=BDv6 } on-error={}
 :do { add address=2402:5e80::/32 list=BDv6 } on-error={}
 :do { add address=2402:5fc0::/32 list=BDv6 } on-error={}
@@ -3727,6 +3729,8 @@
 :do { add address=163.128.144.0/23 list=IP-BD } on-error={}
 :do { add address=163.128.150.0/23 list=IP-BD } on-error={}
 :do { add address=163.128.188.0/23 list=IP-BD } on-error={}
+:do { add address=163.128.210.0/23 list=IP-BD } on-error={}
+:do { add address=163.128.216.0/23 list=IP-BD } on-error={}
 :do { add address=163.223.20.0/23 list=IP-BD } on-error={}
 :do { add address=163.223.34.0/23 list=IP-BD } on-error={}
 :do { add address=163.223.38.0/23 list=IP-BD } on-error={}

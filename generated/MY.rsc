@@ -1,4 +1,4 @@
-# Last update: 2026-04-15 08:20:48 UTC
+# Last update: 2026-04-15 10:06:13 UTC
 # Country: MY
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MY&v4_format=prefix
 
@@ -151,6 +151,7 @@
 :do { add address=2001:df6:b400::/48 list=MYv6 } on-error={}
 :do { add address=2001:df6:c180::/48 list=MYv6 } on-error={}
 :do { add address=2001:df6:e100::/48 list=MYv6 } on-error={}
+:do { add address=2001:df6:ebc0::/48 list=MYv6 } on-error={}
 :do { add address=2001:df7:2480::/48 list=MYv6 } on-error={}
 :do { add address=2001:df7:2980::/48 list=MYv6 } on-error={}
 :do { add address=2001:df7:3680::/48 list=MYv6 } on-error={}
@@ -989,6 +990,7 @@
 :do { add address=163.61.92.0/23 list=IP-MY } on-error={}
 :do { add address=163.61.102.0/23 list=IP-MY } on-error={}
 :do { add address=163.128.146.0/23 list=IP-MY } on-error={}
+:do { add address=163.128.218.0/24 list=IP-MY } on-error={}
 :do { add address=163.223.146.0/23 list=IP-MY } on-error={}
 :do { add address=163.223.158.0/23 list=IP-MY } on-error={}
 :do { add address=165.84.232.0/21 list=IP-MY } on-error={}

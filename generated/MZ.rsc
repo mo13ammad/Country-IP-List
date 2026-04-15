@@ -1,4 +1,4 @@
-# Last update: 2026-04-15 08:20:48 UTC
+# Last update: 2026-04-15 10:06:13 UTC
 # Country: MZ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MZ&v4_format=prefix
 
@@ -43,6 +43,7 @@
 :do { add address=102.36.146.0/24 list=IP-MZ } on-error={}
 :do { add address=102.67.188.0/22 list=IP-MZ } on-error={}
 :do { add address=102.176.248.0/23 list=IP-MZ } on-error={}
+:do { add address=102.202.196.0/24 list=IP-MZ } on-error={}
 :do { add address=102.203.152.0/22 list=IP-MZ } on-error={}
 :do { add address=102.205.224.0/22 list=IP-MZ } on-error={}
 :do { add address=102.207.76.0/22 list=IP-MZ } on-error={}

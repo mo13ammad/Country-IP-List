@@ -1,4 +1,4 @@
-# Last update: 2026-04-15 08:20:48 UTC
+# Last update: 2026-04-15 10:06:13 UTC
 # Country: GY
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GY&v4_format=prefix
 
@@ -7,6 +7,7 @@
 :do { add address=2800:3c0::/32 list=GYv6 } on-error={}
 :do { add address=2801:16:e0::/48 list=GYv6 } on-error={}
 :do { add address=2803:d00::/32 list=GYv6 } on-error={}
+:do { add address=2803:2630::/32 list=GYv6 } on-error={}
 :do { add address=2803:77e0::/32 list=GYv6 } on-error={}
 :do { add address=2803:da00::/32 list=GYv6 } on-error={}
 :do { add address=2803:e340::/32 list=GYv6 } on-error={}

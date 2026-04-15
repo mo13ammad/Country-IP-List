@@ -1,4 +1,4 @@
-# Last update: 2026-04-15 08:20:48 UTC
+# Last update: 2026-04-15 10:06:13 UTC
 # Country: MX
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MX&v4_format=prefix
 
@@ -773,7 +773,6 @@
 :do { add address=148.224.52.0/22 list=IP-MX } on-error={}
 :do { add address=148.224.56.0/23 list=IP-MX } on-error={}
 :do { add address=148.224.58.0/23 list=IP-MX } on-error={}
-:do { add address=148.224.61.0/24 list=IP-MX } on-error={}
 :do { add address=148.224.64.0/18 list=IP-MX } on-error={}
 :do { add address=148.224.128.0/17 list=IP-MX } on-error={}
 :do { add address=148.225.0.0/16 list=IP-MX } on-error={}
