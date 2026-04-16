@@ -1,4 +1,4 @@
-# Last update: 2026-04-16 08:21:09 UTC
+# Last update: 2026-04-16 10:06:20 UTC
 # Country: IE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=IE&v4_format=prefix
 
@@ -173,6 +173,7 @@
 :do { add address=2a0c:4240::/29 list=IEv6 } on-error={}
 :do { add address=2a0c:4f80::/29 list=IEv6 } on-error={}
 :do { add address=2a0c:5780::/29 list=IEv6 } on-error={}
+:do { add address=2a0c:9880::/32 list=IEv6 } on-error={}
 :do { add address=2a0c:ce00::/29 list=IEv6 } on-error={}
 :do { add address=2a0c:dc00::/32 list=IEv6 } on-error={}
 :do { add address=2a0c:f200::/29 list=IEv6 } on-error={}
@@ -222,7 +223,6 @@
 /ip firewall address-list remove [/ip firewall address-list find list=IP-IE]
 /ip firewall address-list
 :do { add address=2.57.24.0/22 list=IP-IE } on-error={}
-:do { add address=2.58.60.0/22 list=IP-IE } on-error={}
 :do { add address=2.58.180.0/22 list=IP-IE } on-error={}
 :do { add address=2.59.104.0/22 list=IP-IE } on-error={}
 :do { add address=5.61.112.0/21 list=IP-IE } on-error={}
@@ -235,7 +235,6 @@
 :do { add address=5.179.32.0/19 list=IP-IE } on-error={}
 :do { add address=5.179.64.0/21 list=IP-IE } on-error={}
 :do { add address=5.181.8.0/22 list=IP-IE } on-error={}
-:do { add address=5.181.161.0/24 list=IP-IE } on-error={}
 :do { add address=5.183.196.0/22 list=IP-IE } on-error={}
 :do { add address=5.253.124.0/22 list=IP-IE } on-error={}
 :do { add address=31.7.48.0/21 list=IP-IE } on-error={}
@@ -911,7 +910,6 @@
 :do { add address=194.46.192.0/18 list=IP-IE } on-error={}
 :do { add address=194.48.3.0/24 list=IP-IE } on-error={}
 :do { add address=194.48.191.0/24 list=IP-IE } on-error={}
-:do { add address=194.48.203.0/24 list=IP-IE } on-error={}
 :do { add address=194.50.183.0/24 list=IP-IE } on-error={}
 :do { add address=194.60.81.0/24 list=IP-IE } on-error={}
 :do { add address=194.61.12.0/22 list=IP-IE } on-error={}
