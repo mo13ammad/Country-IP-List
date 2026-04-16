@@ -1,4 +1,4 @@
-# Last update: 2026-04-16 21:33:16 UTC
+# Last update: 2026-04-16 22:28:56 UTC
 # Country: GW
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GW&v4_format=prefix
 
