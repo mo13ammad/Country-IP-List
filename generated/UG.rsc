@@ -1,4 +1,4 @@
-# Last update: 2026-04-19 16:26:14 UTC
+# Last update: 2026-04-19 17:26:48 UTC
 # Country: UG
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=UG&v4_format=prefix
 
