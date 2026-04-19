@@ -1,4 +1,4 @@
-# Last update: 2026-04-19 21:24:14 UTC
+# Last update: 2026-04-19 22:22:57 UTC
 # Country: RS
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=RS&v4_format=prefix
 
