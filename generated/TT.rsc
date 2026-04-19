@@ -1,4 +1,4 @@
-# Last update: 2026-04-19 08:54:52 UTC
+# Last update: 2026-04-19 09:37:16 UTC
 # Country: TT
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=TT&v4_format=prefix
 
