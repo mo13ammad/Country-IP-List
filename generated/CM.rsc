@@ -1,4 +1,4 @@
-# Last update: 2026-04-19 07:59:26 UTC
+# Last update: 2026-04-19 08:54:52 UTC
 # Country: CM
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CM&v4_format=prefix
 
@@ -14,6 +14,7 @@
 :do { add address=2001:43fe:c000::/48 list=CMv6 } on-error={}
 :do { add address=2001:43ff:8000::/44 list=CMv6 } on-error={}
 :do { add address=2001:43ff:b000::/48 list=CMv6 } on-error={}
+:do { add address=2c0f:a20::/32 list=CMv6 } on-error={}
 :do { add address=2c0f:3100::/32 list=CMv6 } on-error={}
 :do { add address=2c0f:3640::/32 list=CMv6 } on-error={}
 :do { add address=2c0f:3d40::/32 list=CMv6 } on-error={}

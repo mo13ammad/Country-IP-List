@@ -1,4 +1,4 @@
-# Last update: 2026-04-19 07:59:26 UTC
+# Last update: 2026-04-19 08:54:52 UTC
 # Country: TZ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=TZ&v4_format=prefix
 
@@ -24,6 +24,7 @@
 :do { add address=2001:43f8:1390::/48 list=TZv6 } on-error={}
 :do { add address=2001:43f8:14d0::/48 list=TZv6 } on-error={}
 :do { add address=2001:43fc:2000::/48 list=TZv6 } on-error={}
+:do { add address=2001:43fd:6800::/48 list=TZv6 } on-error={}
 :do { add address=2001:43fd:e000::/48 list=TZv6 } on-error={}
 :do { add address=2001:43fe:b000::/48 list=TZv6 } on-error={}
 :do { add address=2001:43fe:e800::/48 list=TZv6 } on-error={}
@@ -33,6 +34,7 @@
 :do { add address=2c0f:320::/32 list=TZv6 } on-error={}
 :do { add address=2c0f:600::/32 list=TZv6 } on-error={}
 :do { add address=2c0f:700::/32 list=TZv6 } on-error={}
+:do { add address=2c0f:aa0::/32 list=TZv6 } on-error={}
 :do { add address=2c0f:b80::/32 list=TZv6 } on-error={}
 :do { add address=2c0f:cc0::/32 list=TZv6 } on-error={}
 :do { add address=2c0f:17c0::/32 list=TZv6 } on-error={}
@@ -118,6 +120,7 @@
 :do { add address=102.69.164.0/22 list=IP-TZ } on-error={}
 :do { add address=102.165.191.0/24 list=IP-TZ } on-error={}
 :do { add address=102.177.80.0/21 list=IP-TZ } on-error={}
+:do { add address=102.202.180.0/22 list=IP-TZ } on-error={}
 :do { add address=102.202.221.0/24 list=IP-TZ } on-error={}
 :do { add address=102.203.113.0/24 list=IP-TZ } on-error={}
 :do { add address=102.203.120.0/22 list=IP-TZ } on-error={}
