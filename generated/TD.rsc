@@ -1,4 +1,4 @@
-# Last update: 2026-04-21 21:35:39 UTC
+# Last update: 2026-04-21 22:29:45 UTC
 # Country: TD
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=TD&v4_format=prefix
 
