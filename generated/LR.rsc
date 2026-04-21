@@ -1,4 +1,4 @@
-# Last update: 2026-04-21 18:54:43 UTC
+# Last update: 2026-04-21 19:58:05 UTC
 # Country: LR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=LR&v4_format=prefix
 
