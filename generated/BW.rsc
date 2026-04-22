@@ -1,4 +1,4 @@
-# Last update: 2026-04-22 06:28:11 UTC
+# Last update: 2026-04-22 08:23:02 UTC
 # Country: BW
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BW&v4_format=prefix
 
@@ -6,6 +6,8 @@
 /ipv6 firewall address-list
 :do { add address=2001:43f8:2a0::/48 list=BWv6 } on-error={}
 :do { add address=2001:43f8:17c0::/48 list=BWv6 } on-error={}
+:do { add address=2001:43fd:8800::/48 list=BWv6 } on-error={}
+:do { add address=2001:43ff:6800::/48 list=BWv6 } on-error={}
 :do { add address=2c0f:1340::/32 list=BWv6 } on-error={}
 :do { add address=2c0f:1840::/32 list=BWv6 } on-error={}
 :do { add address=2c0f:30c0::/32 list=BWv6 } on-error={}
@@ -45,6 +47,8 @@
 :do { add address=102.134.160.0/20 list=IP-BW } on-error={}
 :do { add address=102.141.112.0/21 list=IP-BW } on-error={}
 :do { add address=102.165.128.0/19 list=IP-BW } on-error={}
+:do { add address=102.202.190.0/24 list=IP-BW } on-error={}
+:do { add address=102.202.191.0/24 list=IP-BW } on-error={}
 :do { add address=102.204.97.0/24 list=IP-BW } on-error={}
 :do { add address=102.204.208.0/22 list=IP-BW } on-error={}
 :do { add address=102.205.8.0/23 list=IP-BW } on-error={}

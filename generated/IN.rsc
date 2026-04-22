@@ -1,4 +1,4 @@
-# Last update: 2026-04-22 06:28:11 UTC
+# Last update: 2026-04-22 08:23:02 UTC
 # Country: IN
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=IN&v4_format=prefix
 
@@ -10726,6 +10726,7 @@
 :do { add address=161.248.228.0/23 list=IP-IN } on-error={}
 :do { add address=161.248.230.0/23 list=IP-IN } on-error={}
 :do { add address=161.248.242.0/23 list=IP-IN } on-error={}
+:do { add address=162.4.2.0/23 list=IP-IN } on-error={}
 :do { add address=162.12.244.0/22 list=IP-IN } on-error={}
 :do { add address=162.56.0.0/16 list=IP-IN } on-error={}
 :do { add address=162.216.140.0/22 list=IP-IN } on-error={}
