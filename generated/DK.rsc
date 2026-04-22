@@ -1,4 +1,4 @@
-# Last update: 2026-04-22 14:42:48 UTC
+# Last update: 2026-04-22 16:01:17 UTC
 # Country: DK
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=DK&v4_format=prefix
 
