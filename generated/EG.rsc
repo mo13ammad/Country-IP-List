@@ -1,4 +1,4 @@
-# Last update: 2026-04-22 11:50:26 UTC
+# Last update: 2026-04-22 12:56:56 UTC
 # Country: EG
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=EG&v4_format=prefix
 
