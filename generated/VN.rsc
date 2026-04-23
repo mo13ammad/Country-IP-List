@@ -1,4 +1,4 @@
-# Last update: 2026-04-23 06:54:03 UTC
+# Last update: 2026-04-23 08:27:32 UTC
 # Country: VN
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=VN&v4_format=prefix
 
@@ -512,6 +512,7 @@
 :do { add address=2001:df6:d680::/48 list=VNv6 } on-error={}
 :do { add address=2001:df6:db00::/48 list=VNv6 } on-error={}
 :do { add address=2001:df6:dd00::/48 list=VNv6 } on-error={}
+:do { add address=2001:df6:f540::/48 list=VNv6 } on-error={}
 :do { add address=2001:df6:fc80::/48 list=VNv6 } on-error={}
 :do { add address=2001:df7:1500::/48 list=VNv6 } on-error={}
 :do { add address=2001:df7:1700::/48 list=VNv6 } on-error={}
@@ -2403,6 +2404,7 @@
 :do { add address=161.248.212.0/23 list=IP-VN } on-error={}
 :do { add address=161.248.236.0/23 list=IP-VN } on-error={}
 :do { add address=161.248.238.0/23 list=IP-VN } on-error={}
+:do { add address=162.4.8.0/23 list=IP-VN } on-error={}
 :do { add address=163.44.192.0/22 list=IP-VN } on-error={}
 :do { add address=163.44.200.0/24 list=IP-VN } on-error={}
 :do { add address=163.44.204.0/22 list=IP-VN } on-error={}

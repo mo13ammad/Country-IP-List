@@ -1,4 +1,4 @@
-# Last update: 2026-04-23 06:54:03 UTC
+# Last update: 2026-04-23 08:27:32 UTC
 # Country: IN
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=IN&v4_format=prefix
 
@@ -1552,6 +1552,7 @@
 :do { add address=2001:df6:f281::/48 list=INv6 } on-error={}
 :do { add address=2001:df6:f340::/48 list=INv6 } on-error={}
 :do { add address=2001:df6:f3c0::/48 list=INv6 } on-error={}
+:do { add address=2001:df6:f5c0::/48 list=INv6 } on-error={}
 :do { add address=2001:df6:f880::/48 list=INv6 } on-error={}
 :do { add address=2001:df6:f980::/48 list=INv6 } on-error={}
 :do { add address=2001:df6:fa00::/48 list=INv6 } on-error={}
@@ -2275,6 +2276,7 @@
 :do { add address=2402:5760::/32 list=INv6 } on-error={}
 :do { add address=2402:57c0::/32 list=INv6 } on-error={}
 :do { add address=2402:57e0::/32 list=INv6 } on-error={}
+:do { add address=2402:59a0::/32 list=INv6 } on-error={}
 :do { add address=2402:5b00::/32 list=INv6 } on-error={}
 :do { add address=2402:5c80::/32 list=INv6 } on-error={}
 :do { add address=2402:6340::/32 list=INv6 } on-error={}
@@ -10727,6 +10729,9 @@
 :do { add address=161.248.230.0/23 list=IP-IN } on-error={}
 :do { add address=161.248.242.0/23 list=IP-IN } on-error={}
 :do { add address=162.4.2.0/23 list=IP-IN } on-error={}
+:do { add address=162.4.10.0/23 list=IP-IN } on-error={}
+:do { add address=162.4.12.0/23 list=IP-IN } on-error={}
+:do { add address=162.4.14.0/23 list=IP-IN } on-error={}
 :do { add address=162.12.244.0/22 list=IP-IN } on-error={}
 :do { add address=162.56.0.0/16 list=IP-IN } on-error={}
 :do { add address=162.216.140.0/22 list=IP-IN } on-error={}
@@ -10822,6 +10827,7 @@
 :do { add address=163.128.234.0/24 list=IP-IN } on-error={}
 :do { add address=163.128.242.0/23 list=IP-IN } on-error={}
 :do { add address=163.128.250.0/23 list=IP-IN } on-error={}
+:do { add address=163.128.253.0/24 list=IP-IN } on-error={}
 :do { add address=163.223.0.0/23 list=IP-IN } on-error={}
 :do { add address=163.223.26.0/23 list=IP-IN } on-error={}
 :do { add address=163.223.42.0/23 list=IP-IN } on-error={}
