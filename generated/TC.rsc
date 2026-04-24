@@ -1,4 +1,4 @@
-# Last update: 2026-04-24 21:37:33 UTC
+# Last update: 2026-04-24 22:30:49 UTC
 # Country: TC
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=TC&v4_format=prefix
 
