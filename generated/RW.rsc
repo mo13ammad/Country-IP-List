@@ -1,4 +1,4 @@
-# Last update: 2026-04-25 07:58:43 UTC
+# Last update: 2026-04-25 08:50:27 UTC
 # Country: RW
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=RW&v4_format=prefix
 
@@ -12,6 +12,7 @@
 :do { add address=2001:43fc:9000::/48 list=RWv6 } on-error={}
 :do { add address=2001:43fd:8000::/48 list=RWv6 } on-error={}
 :do { add address=2001:43fe:800::/48 list=RWv6 } on-error={}
+:do { add address=2001:43ff:8800::/48 list=RWv6 } on-error={}
 :do { add address=2001:43ff:c000::/48 list=RWv6 } on-error={}
 :do { add address=2c0e:7c00::/24 list=RWv6 } on-error={}
 :do { add address=2c0f:580::/32 list=RWv6 } on-error={}
@@ -35,6 +36,7 @@
 :do { add address=41.242.140.0/22 list=IP-RW } on-error={}
 :do { add address=102.22.128.0/18 list=IP-RW } on-error={}
 :do { add address=102.130.32.0/21 list=IP-RW } on-error={}
+:do { add address=102.202.188.0/24 list=IP-RW } on-error={}
 :do { add address=102.202.208.0/22 list=IP-RW } on-error={}
 :do { add address=102.207.48.0/24 list=IP-RW } on-error={}
 :do { add address=102.207.141.0/24 list=IP-RW } on-error={}

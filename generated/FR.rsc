@@ -1,4 +1,4 @@
-# Last update: 2026-04-25 07:58:43 UTC
+# Last update: 2026-04-25 08:50:27 UTC
 # Country: FR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=FR&v4_format=prefix
 
@@ -3029,6 +3029,7 @@
 :do { add address=149.255.48.0/21 list=IP-FR } on-error={}
 :do { add address=149.255.136.0/21 list=IP-FR } on-error={}
 :do { add address=150.175.0.0/16 list=IP-FR } on-error={}
+:do { add address=150.251.248.0/22 list=IP-FR } on-error={}
 :do { add address=151.80.0.0/16 list=IP-FR } on-error={}
 :do { add address=151.87.0.0/16 list=IP-FR } on-error={}
 :do { add address=151.88.0.0/16 list=IP-FR } on-error={}
@@ -3088,6 +3089,7 @@
 :do { add address=160.238.52.0/22 list=IP-FR } on-error={}
 :do { add address=161.3.0.0/16 list=IP-FR } on-error={}
 :do { add address=161.48.0.0/16 list=IP-FR } on-error={}
+:do { add address=161.104.80.0/21 list=IP-FR } on-error={}
 :do { add address=161.104.160.0/20 list=IP-FR } on-error={}
 :do { add address=161.105.0.0/16 list=IP-FR } on-error={}
 :do { add address=161.106.0.0/16 list=IP-FR } on-error={}
@@ -3136,6 +3138,7 @@
 :do { add address=164.1.0.0/16 list=IP-FR } on-error={}
 :do { add address=164.2.0.0/16 list=IP-FR } on-error={}
 :do { add address=164.7.0.0/16 list=IP-FR } on-error={}
+:do { add address=164.37.39.0/24 list=IP-FR } on-error={}
 :do { add address=164.81.0.0/16 list=IP-FR } on-error={}
 :do { add address=164.129.0.0/16 list=IP-FR } on-error={}
 :do { add address=164.131.0.0/16 list=IP-FR } on-error={}

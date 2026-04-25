@@ -1,4 +1,4 @@
-# Last update: 2026-04-25 07:58:43 UTC
+# Last update: 2026-04-25 08:50:27 UTC
 # Country: SC
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SC&v4_format=prefix
 
@@ -760,6 +760,7 @@
 :do { add address=5.183.128.0/22 list=IP-SC } on-error={}
 :do { add address=5.183.209.0/24 list=IP-SC } on-error={}
 :do { add address=5.187.35.0/24 list=IP-SC } on-error={}
+:do { add address=5.187.38.0/23 list=IP-SC } on-error={}
 :do { add address=23.92.112.0/20 list=IP-SC } on-error={}
 :do { add address=24.235.24.0/21 list=IP-SC } on-error={}
 :do { add address=31.22.104.0/21 list=IP-SC } on-error={}
@@ -1154,7 +1155,10 @@
 :do { add address=136.234.127.0/24 list=IP-SC } on-error={}
 :do { add address=136.234.128.0/17 list=IP-SC } on-error={}
 :do { add address=137.63.0.0/17 list=IP-SC } on-error={}
-:do { add address=138.16.0.0/16 list=IP-SC } on-error={}
+:do { add address=138.16.0.0/17 list=IP-SC } on-error={}
+:do { add address=138.16.128.0/18 list=IP-SC } on-error={}
+:do { add address=138.16.192.0/19 list=IP-SC } on-error={}
+:do { add address=138.16.224.0/19 list=IP-SC } on-error={}
 :do { add address=141.133.0.0/16 list=IP-SC } on-error={}
 :do { add address=141.193.20.0/24 list=IP-SC } on-error={}
 :do { add address=146.19.10.0/24 list=IP-SC } on-error={}
@@ -1188,7 +1192,9 @@
 :do { add address=152.89.199.0/24 list=IP-SC } on-error={}
 :do { add address=153.80.0.0/17 list=IP-SC } on-error={}
 :do { add address=153.80.128.0/19 list=IP-SC } on-error={}
-:do { add address=153.80.160.0/20 list=IP-SC } on-error={}
+:do { add address=153.80.160.0/21 list=IP-SC } on-error={}
+:do { add address=153.80.168.0/22 list=IP-SC } on-error={}
+:do { add address=153.80.172.0/22 list=IP-SC } on-error={}
 :do { add address=153.80.176.0/22 list=IP-SC } on-error={}
 :do { add address=153.80.192.0/19 list=IP-SC } on-error={}
 :do { add address=154.70.160.0/19 list=IP-SC } on-error={}
@@ -1297,6 +1303,7 @@
 :do { add address=185.155.101.0/24 list=IP-SC } on-error={}
 :do { add address=185.155.200.0/22 list=IP-SC } on-error={}
 :do { add address=185.161.79.0/24 list=IP-SC } on-error={}
+:do { add address=185.161.187.0/24 list=IP-SC } on-error={}
 :do { add address=185.164.56.0/22 list=IP-SC } on-error={}
 :do { add address=185.164.173.0/24 list=IP-SC } on-error={}
 :do { add address=185.164.174.0/24 list=IP-SC } on-error={}

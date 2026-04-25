@@ -1,4 +1,4 @@
-# Last update: 2026-04-25 07:58:43 UTC
+# Last update: 2026-04-25 08:50:27 UTC
 # Country: EG
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=EG&v4_format=prefix
 
@@ -96,6 +96,7 @@
 :do { add address=102.164.114.0/23 list=IP-EG } on-error={}
 :do { add address=102.164.122.0/24 list=IP-EG } on-error={}
 :do { add address=102.184.0.0/13 list=IP-EG } on-error={}
+:do { add address=102.202.166.0/23 list=IP-EG } on-error={}
 :do { add address=102.202.222.0/24 list=IP-EG } on-error={}
 :do { add address=102.204.121.0/24 list=IP-EG } on-error={}
 :do { add address=102.206.48.0/22 list=IP-EG } on-error={}
