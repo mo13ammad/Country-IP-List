@@ -1,4 +1,4 @@
-# Last update: 2026-04-25 06:14:11 UTC
+# Last update: 2026-04-25 07:58:43 UTC
 # Country: AX
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=AX&v4_format=prefix
 
