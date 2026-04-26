@@ -1,4 +1,4 @@
-# Last update: 2026-04-26 08:10:27 UTC
+# Last update: 2026-04-26 09:42:21 UTC
 # Country: US
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=US&v4_format=prefix
 
@@ -1176,6 +1176,7 @@
 :do { add address=2602:81d:4000::/40 list=USv6 } on-error={}
 :do { add address=2602:81d:6000::/44 list=USv6 } on-error={}
 :do { add address=2602:81d:8000::/40 list=USv6 } on-error={}
+:do { add address=2602:f3e2::/36 list=USv6 } on-error={}
 :do { add address=2602:f3e3::/40 list=USv6 } on-error={}
 :do { add address=2602:f3e4::/40 list=USv6 } on-error={}
 :do { add address=2602:f3e5::/40 list=USv6 } on-error={}
@@ -74786,7 +74787,7 @@
 :do { add address=208.71.248.0/23 list=IP-US } on-error={}
 :do { add address=208.71.250.0/23 list=IP-US } on-error={}
 :do { add address=208.71.252.0/23 list=IP-US } on-error={}
-:do { add address=208.71.254.0/23 list=IP-US } on-error={}
+:do { add address=208.71.254.0/24 list=IP-US } on-error={}
 :do { add address=208.72.0.0/22 list=IP-US } on-error={}
 :do { add address=208.72.8.0/22 list=IP-US } on-error={}
 :do { add address=208.72.12.0/22 list=IP-US } on-error={}

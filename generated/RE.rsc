@@ -1,4 +1,4 @@
-# Last update: 2026-04-26 08:10:27 UTC
+# Last update: 2026-04-26 09:42:21 UTC
 # Country: RE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=RE&v4_format=prefix
 
@@ -21,6 +21,7 @@
 :do { add address=80.69.208.0/20 list=IP-RE } on-error={}
 :do { add address=102.35.0.0/16 list=IP-RE } on-error={}
 :do { add address=102.135.224.0/20 list=IP-RE } on-error={}
+:do { add address=102.202.160.0/22 list=IP-RE } on-error={}
 :do { add address=102.206.36.0/22 list=IP-RE } on-error={}
 :do { add address=102.213.8.0/22 list=IP-RE } on-error={}
 :do { add address=109.122.128.0/18 list=IP-RE } on-error={}
