@@ -1,4 +1,4 @@
-# Last update: 2026-04-27 20:49:56 UTC
+# Last update: 2026-04-27 21:44:16 UTC
 # Country: SY
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SY&v4_format=prefix
 
