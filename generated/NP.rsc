@@ -1,4 +1,4 @@
-# Last update: 2026-04-27 21:44:16 UTC
+# Last update: 2026-04-27 23:41:13 UTC
 # Country: NP
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=NP&v4_format=prefix
 
