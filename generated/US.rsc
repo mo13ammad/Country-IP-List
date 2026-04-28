@@ -1,4 +1,4 @@
-# Last update: 2026-04-28 08:02:56 UTC
+# Last update: 2026-04-28 10:52:29 UTC
 # Country: US
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=US&v4_format=prefix
 
@@ -1176,6 +1176,7 @@
 :do { add address=2602:81d:4000::/40 list=USv6 } on-error={}
 :do { add address=2602:81d:6000::/44 list=USv6 } on-error={}
 :do { add address=2602:81d:8000::/40 list=USv6 } on-error={}
+:do { add address=2602:f3e1::/36 list=USv6 } on-error={}
 :do { add address=2602:f3e2::/36 list=USv6 } on-error={}
 :do { add address=2602:f3e3::/40 list=USv6 } on-error={}
 :do { add address=2602:f3e4::/40 list=USv6 } on-error={}
@@ -7770,6 +7771,7 @@
 :do { add address=2620:18:8000::/48 list=USv6 } on-error={}
 :do { add address=2620:18:e000::/48 list=USv6 } on-error={}
 :do { add address=2620:19::/48 list=USv6 } on-error={}
+:do { add address=2620:19:4000::/48 list=USv6 } on-error={}
 :do { add address=2620:19:6000::/48 list=USv6 } on-error={}
 :do { add address=2620:19:a000::/48 list=USv6 } on-error={}
 :do { add address=2620:1a::/48 list=USv6 } on-error={}
