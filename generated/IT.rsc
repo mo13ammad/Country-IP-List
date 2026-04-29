@@ -1,4 +1,4 @@
-# Last update: 2026-04-29 19:05:45 UTC
+# Last update: 2026-04-29 20:49:50 UTC
 # Country: IT
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=IT&v4_format=prefix
 
