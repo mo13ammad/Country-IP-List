@@ -1,4 +1,4 @@
-# Last update: 2026-04-29 07:56:58 UTC
+# Last update: 2026-04-29 09:59:04 UTC
 # Country: HU
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=HU&v4_format=prefix
 
@@ -114,6 +114,7 @@
 :do { add address=2a0a:6f00::/29 list=HUv6 } on-error={}
 :do { add address=2a0a:ec40::/32 list=HUv6 } on-error={}
 :do { add address=2a0a:f640::/31 list=HUv6 } on-error={}
+:do { add address=2a0b:e40::/29 list=HUv6 } on-error={}
 :do { add address=2a0b:1e00::/29 list=HUv6 } on-error={}
 :do { add address=2a0b:3dc0::/32 list=HUv6 } on-error={}
 :do { add address=2a0b:9a80::/32 list=HUv6 } on-error={}
@@ -291,6 +292,7 @@
 :do { add address=62.112.208.0/21 list=IP-HU } on-error={}
 :do { add address=62.165.192.0/18 list=IP-HU } on-error={}
 :do { add address=62.201.64.0/18 list=IP-HU } on-error={}
+:do { add address=66.203.124.0/22 list=IP-HU } on-error={}
 :do { add address=77.74.204.0/22 list=IP-HU } on-error={}
 :do { add address=77.110.128.0/19 list=IP-HU } on-error={}
 :do { add address=77.110.160.0/19 list=IP-HU } on-error={}
@@ -622,6 +624,7 @@
 :do { add address=93.189.112.0/21 list=IP-HU } on-error={}
 :do { add address=93.190.0.0/21 list=IP-HU } on-error={}
 :do { add address=94.21.0.0/16 list=IP-HU } on-error={}
+:do { add address=94.24.36.0/23 list=IP-HU } on-error={}
 :do { add address=94.27.128.0/17 list=IP-HU } on-error={}
 :do { add address=94.44.0.0/16 list=IP-HU } on-error={}
 :do { add address=94.125.176.0/21 list=IP-HU } on-error={}
@@ -691,6 +694,7 @@
 :do { add address=157.181.0.0/16 list=IP-HU } on-error={}
 :do { add address=158.249.0.0/16 list=IP-HU } on-error={}
 :do { add address=160.114.0.0/16 list=IP-HU } on-error={}
+:do { add address=162.208.16.0/24 list=IP-HU } on-error={}
 :do { add address=171.19.0.0/16 list=IP-HU } on-error={}
 :do { add address=171.25.180.0/23 list=IP-HU } on-error={}
 :do { add address=171.31.0.0/16 list=IP-HU } on-error={}
@@ -818,6 +822,7 @@
 :do { add address=185.204.152.0/24 list=IP-HU } on-error={}
 :do { add address=185.205.72.0/22 list=IP-HU } on-error={}
 :do { add address=185.205.248.0/22 list=IP-HU } on-error={}
+:do { add address=185.206.24.0/22 list=IP-HU } on-error={}
 :do { add address=185.208.224.0/22 list=IP-HU } on-error={}
 :do { add address=185.214.28.0/22 list=IP-HU } on-error={}
 :do { add address=185.217.72.0/22 list=IP-HU } on-error={}

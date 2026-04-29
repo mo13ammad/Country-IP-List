@@ -1,4 +1,4 @@
-# Last update: 2026-04-29 07:56:58 UTC
+# Last update: 2026-04-29 09:59:04 UTC
 # Country: UA
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=UA&v4_format=prefix
 
@@ -1783,7 +1783,10 @@
 :do { add address=95.133.0.0/17 list=IP-UA } on-error={}
 :do { add address=95.133.132.0/22 list=IP-UA } on-error={}
 :do { add address=95.133.144.0/20 list=IP-UA } on-error={}
-:do { add address=95.133.160.0/19 list=IP-UA } on-error={}
+:do { add address=95.133.162.0/23 list=IP-UA } on-error={}
+:do { add address=95.133.164.0/22 list=IP-UA } on-error={}
+:do { add address=95.133.168.0/21 list=IP-UA } on-error={}
+:do { add address=95.133.176.0/20 list=IP-UA } on-error={}
 :do { add address=95.133.208.0/20 list=IP-UA } on-error={}
 :do { add address=95.133.236.0/23 list=IP-UA } on-error={}
 :do { add address=95.134.0.0/15 list=IP-UA } on-error={}
@@ -2039,8 +2042,6 @@
 :do { add address=178.216.8.0/23 list=IP-UA } on-error={}
 :do { add address=178.216.12.0/23 list=IP-UA } on-error={}
 :do { add address=178.216.14.0/24 list=IP-UA } on-error={}
-:do { add address=178.216.120.0/24 list=IP-UA } on-error={}
-:do { add address=178.216.123.0/24 list=IP-UA } on-error={}
 :do { add address=178.216.168.0/22 list=IP-UA } on-error={}
 :do { add address=178.216.224.0/21 list=IP-UA } on-error={}
 :do { add address=178.217.208.0/21 list=IP-UA } on-error={}
@@ -3106,7 +3107,6 @@
 :do { add address=195.38.8.0/22 list=IP-UA } on-error={}
 :do { add address=195.38.16.0/23 list=IP-UA } on-error={}
 :do { add address=195.38.18.0/24 list=IP-UA } on-error={}
-:do { add address=195.39.210.0/23 list=IP-UA } on-error={}
 :do { add address=195.39.232.0/23 list=IP-UA } on-error={}
 :do { add address=195.39.240.0/24 list=IP-UA } on-error={}
 :do { add address=195.39.241.0/24 list=IP-UA } on-error={}

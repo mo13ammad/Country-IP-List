@@ -1,4 +1,4 @@
-# Last update: 2026-04-29 07:56:58 UTC
+# Last update: 2026-04-29 09:59:04 UTC
 # Country: VU
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=VU&v4_format=prefix
 
@@ -19,7 +19,6 @@
 /ip firewall address-list remove [/ip firewall address-list find list=IP-VU]
 /ip firewall address-list
 :do { add address=103.7.197.0/24 list=IP-VU } on-error={}
-:do { add address=103.16.15.0/24 list=IP-VU } on-error={}
 :do { add address=103.20.232.0/23 list=IP-VU } on-error={}
 :do { add address=103.25.228.0/23 list=IP-VU } on-error={}
 :do { add address=103.36.144.0/22 list=IP-VU } on-error={}

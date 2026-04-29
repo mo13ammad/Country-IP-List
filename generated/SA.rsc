@@ -1,4 +1,4 @@
-# Last update: 2026-04-29 07:56:58 UTC
+# Last update: 2026-04-29 09:59:04 UTC
 # Country: SA
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SA&v4_format=prefix
 
@@ -79,6 +79,7 @@
 :do { add address=2a05:e940::/29 list=SAv6 } on-error={}
 :do { add address=2a06:2e00::/29 list=SAv6 } on-error={}
 :do { add address=2a06:59c0::/29 list=SAv6 } on-error={}
+:do { add address=2a06:7c40::/29 list=SAv6 } on-error={}
 :do { add address=2a06:8480::/29 list=SAv6 } on-error={}
 :do { add address=2a07:1f80::/29 list=SAv6 } on-error={}
 :do { add address=2a07:4540::/29 list=SAv6 } on-error={}

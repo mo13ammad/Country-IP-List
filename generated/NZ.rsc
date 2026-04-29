@@ -1,4 +1,4 @@
-# Last update: 2026-04-29 07:56:58 UTC
+# Last update: 2026-04-29 09:59:04 UTC
 # Country: NZ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=NZ&v4_format=prefix
 
@@ -446,7 +446,6 @@
 :do { add address=2a03:ebc0::/32 list=NZv6 } on-error={}
 :do { add address=2a05:3340::/29 list=NZv6 } on-error={}
 :do { add address=2a09:a380::/29 list=NZv6 } on-error={}
-:do { add address=2a0b:e40::/29 list=NZv6 } on-error={}
 :do { add address=2a13:c680::/29 list=NZv6 } on-error={}
 
 /ip firewall address-list remove [/ip firewall address-list find list=IP-NZ]
@@ -526,7 +525,6 @@
 :do { add address=59.153.20.0/22 list=IP-NZ } on-error={}
 :do { add address=60.234.0.0/16 list=IP-NZ } on-error={}
 :do { add address=64.246.80.0/20 list=IP-NZ } on-error={}
-:do { add address=66.203.124.0/22 list=IP-NZ } on-error={}
 :do { add address=66.235.120.0/21 list=IP-NZ } on-error={}
 :do { add address=67.215.112.0/20 list=IP-NZ } on-error={}
 :do { add address=69.30.89.0/24 list=IP-NZ } on-error={}
@@ -536,7 +534,6 @@
 :do { add address=91.208.230.0/24 list=IP-NZ } on-error={}
 :do { add address=91.208.233.0/24 list=IP-NZ } on-error={}
 :do { add address=91.218.78.0/23 list=IP-NZ } on-error={}
-:do { add address=94.24.36.0/23 list=IP-NZ } on-error={}
 :do { add address=101.53.192.0/19 list=IP-NZ } on-error={}
 :do { add address=101.98.0.0/16 list=IP-NZ } on-error={}
 :do { add address=101.100.0.0/17 list=IP-NZ } on-error={}
@@ -1204,7 +1201,6 @@
 :do { add address=161.248.127.0/24 list=IP-NZ } on-error={}
 :do { add address=162.4.18.0/23 list=IP-NZ } on-error={}
 :do { add address=162.112.0.0/16 list=IP-NZ } on-error={}
-:do { add address=162.208.16.0/24 list=IP-NZ } on-error={}
 :do { add address=163.7.128.0/19 list=IP-NZ } on-error={}
 :do { add address=163.47.109.0/24 list=IP-NZ } on-error={}
 :do { add address=163.47.112.0/22 list=IP-NZ } on-error={}
@@ -1265,7 +1261,6 @@
 :do { add address=185.71.228.0/22 list=IP-NZ } on-error={}
 :do { add address=185.125.84.0/22 list=IP-NZ } on-error={}
 :do { add address=185.176.132.0/24 list=IP-NZ } on-error={}
-:do { add address=185.206.24.0/22 list=IP-NZ } on-error={}
 :do { add address=188.125.176.0/20 list=IP-NZ } on-error={}
 :do { add address=192.51.254.0/24 list=IP-NZ } on-error={}
 :do { add address=192.54.130.0/24 list=IP-NZ } on-error={}

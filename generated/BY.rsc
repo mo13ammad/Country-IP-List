@@ -1,4 +1,4 @@
-# Last update: 2026-04-29 07:56:58 UTC
+# Last update: 2026-04-29 09:59:04 UTC
 # Country: BY
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BY&v4_format=prefix
 
@@ -39,6 +39,7 @@
 
 /ip firewall address-list remove [/ip firewall address-list find list=IP-BY]
 /ip firewall address-list
+:do { add address=5.44.44.0/24 list=IP-BY } on-error={}
 :do { add address=5.100.192.0/19 list=IP-BY } on-error={}
 :do { add address=31.24.88.0/21 list=IP-BY } on-error={}
 :do { add address=31.130.200.0/21 list=IP-BY } on-error={}
@@ -47,6 +48,7 @@
 :do { add address=37.45.0.0/16 list=IP-BY } on-error={}
 :do { add address=37.212.0.0/14 list=IP-BY } on-error={}
 :do { add address=45.128.205.0/24 list=IP-BY } on-error={}
+:do { add address=45.129.186.0/24 list=IP-BY } on-error={}
 :do { add address=46.16.35.0/24 list=IP-BY } on-error={}
 :do { add address=46.28.96.0/21 list=IP-BY } on-error={}
 :do { add address=46.53.128.0/17 list=IP-BY } on-error={}
