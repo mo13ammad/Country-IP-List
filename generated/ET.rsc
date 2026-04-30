@@ -1,4 +1,4 @@
-# Last update: 2026-04-30 22:39:58 UTC
+# Last update: 2026-04-30 23:40:45 UTC
 # Country: ET
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=ET&v4_format=prefix
 
