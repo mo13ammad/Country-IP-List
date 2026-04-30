@@ -1,4 +1,4 @@
-# Last update: 2026-04-30 07:59:56 UTC
+# Last update: 2026-04-30 10:06:26 UTC
 # Country: MC
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MC&v4_format=prefix
 
@@ -40,3 +40,4 @@
 :do { add address=195.20.192.0/23 list=IP-MC } on-error={}
 :do { add address=195.78.0.0/19 list=IP-MC } on-error={}
 :do { add address=213.133.72.0/21 list=IP-MC } on-error={}
+:do { add address=213.193.238.0/23 list=IP-MC } on-error={}

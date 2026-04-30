@@ -1,4 +1,4 @@
-# Last update: 2026-04-30 07:59:56 UTC
+# Last update: 2026-04-30 10:06:26 UTC
 # Country: OM
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=OM&v4_format=prefix
 
@@ -99,6 +99,7 @@
 :do { add address=193.3.37.0/24 list=IP-OM } on-error={}
 :do { add address=193.203.254.0/24 list=IP-OM } on-error={}
 :do { add address=194.26.102.0/24 list=IP-OM } on-error={}
+:do { add address=194.169.128.0/22 list=IP-OM } on-error={}
 :do { add address=195.245.85.0/24 list=IP-OM } on-error={}
 :do { add address=199.48.224.0/24 list=IP-OM } on-error={}
 :do { add address=206.167.33.0/24 list=IP-OM } on-error={}
