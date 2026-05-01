@@ -1,4 +1,4 @@
-# Last update: 2026-05-01 19:59:41 UTC
+# Last update: 2026-05-01 20:51:59 UTC
 # Country: YE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=YE&v4_format=prefix
 
