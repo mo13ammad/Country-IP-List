@@ -1,4 +1,4 @@
-# Last update: 2026-05-01 09:43:34 UTC
+# Last update: 2026-05-01 10:59:51 UTC
 # Country: AW
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=AW&v4_format=prefix
 
