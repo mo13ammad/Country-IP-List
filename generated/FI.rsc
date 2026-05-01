@@ -1,4 +1,4 @@
-# Last update: 2026-05-01 07:58:30 UTC
+# Last update: 2026-05-01 09:43:34 UTC
 # Country: FI
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=FI&v4_format=prefix
 
@@ -152,7 +152,6 @@
 :do { add address=2a03:a8a0::/29 list=FIv6 } on-error={}
 :do { add address=2a03:c540::/32 list=FIv6 } on-error={}
 :do { add address=2a03:d640::/32 list=FIv6 } on-error={}
-:do { add address=2a03:e580::/29 list=FIv6 } on-error={}
 :do { add address=2a03:eb00::/29 list=FIv6 } on-error={}
 :do { add address=2a04:240::/29 list=FIv6 } on-error={}
 :do { add address=2a04:680::/29 list=FIv6 } on-error={}
@@ -554,7 +553,6 @@
 :do { add address=85.188.0.0/18 list=IP-FI } on-error={}
 :do { add address=85.194.192.0/23 list=IP-FI } on-error={}
 :do { add address=85.194.194.0/23 list=IP-FI } on-error={}
-:do { add address=85.194.204.0/22 list=IP-FI } on-error={}
 :do { add address=85.194.208.0/21 list=IP-FI } on-error={}
 :do { add address=85.194.216.0/22 list=IP-FI } on-error={}
 :do { add address=85.194.220.0/22 list=IP-FI } on-error={}
@@ -678,7 +676,6 @@
 :do { add address=95.111.192.0/19 list=IP-FI } on-error={}
 :do { add address=95.130.24.0/21 list=IP-FI } on-error={}
 :do { add address=95.133.252.0/22 list=IP-FI } on-error={}
-:do { add address=95.175.96.0/19 list=IP-FI } on-error={}
 :do { add address=95.214.64.0/22 list=IP-FI } on-error={}
 :do { add address=109.68.128.0/21 list=IP-FI } on-error={}
 :do { add address=109.68.248.0/21 list=IP-FI } on-error={}
@@ -780,7 +777,6 @@
 :do { add address=164.13.0.0/16 list=IP-FI } on-error={}
 :do { add address=164.138.0.0/20 list=IP-FI } on-error={}
 :do { add address=164.141.0.0/16 list=IP-FI } on-error={}
-:do { add address=164.215.32.0/21 list=IP-FI } on-error={}
 :do { add address=171.22.241.0/24 list=IP-FI } on-error={}
 :do { add address=176.72.0.0/16 list=IP-FI } on-error={}
 :do { add address=176.93.0.0/16 list=IP-FI } on-error={}
@@ -806,7 +802,6 @@
 :do { add address=185.15.212.0/22 list=IP-FI } on-error={}
 :do { add address=185.16.96.0/22 list=IP-FI } on-error={}
 :do { add address=185.16.168.0/22 list=IP-FI } on-error={}
-:do { add address=185.18.76.0/22 list=IP-FI } on-error={}
 :do { add address=185.20.136.0/22 list=IP-FI } on-error={}
 :do { add address=185.21.0.0/22 list=IP-FI } on-error={}
 :do { add address=185.22.132.0/22 list=IP-FI } on-error={}
@@ -910,7 +905,6 @@
 :do { add address=185.153.232.0/24 list=IP-FI } on-error={}
 :do { add address=185.158.72.0/22 list=IP-FI } on-error={}
 :do { add address=185.159.236.0/22 list=IP-FI } on-error={}
-:do { add address=185.162.156.0/22 list=IP-FI } on-error={}
 :do { add address=185.163.12.0/24 list=IP-FI } on-error={}
 :do { add address=185.163.13.0/24 list=IP-FI } on-error={}
 :do { add address=185.163.14.0/24 list=IP-FI } on-error={}

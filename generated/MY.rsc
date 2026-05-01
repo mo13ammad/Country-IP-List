@@ -1,10 +1,9 @@
-# Last update: 2026-05-01 07:58:30 UTC
+# Last update: 2026-05-01 09:43:34 UTC
 # Country: MY
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MY&v4_format=prefix
 
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list=MYv6]
 /ipv6 firewall address-list
-:do { add address=2001:678:114c::/48 list=MYv6 } on-error={}
 :do { add address=2001:c18::/32 list=MYv6 } on-error={}
 :do { add address=2001:d08::/32 list=MYv6 } on-error={}
 :do { add address=2001:dd8:2::/48 list=MYv6 } on-error={}
@@ -1003,6 +1002,7 @@
 :do { add address=165.99.144.0/23 list=IP-MY } on-error={}
 :do { add address=165.99.155.0/24 list=IP-MY } on-error={}
 :do { add address=165.99.198.0/23 list=IP-MY } on-error={}
+:do { add address=167.179.26.0/24 list=IP-MY } on-error={}
 :do { add address=170.38.0.0/16 list=IP-MY } on-error={}
 :do { add address=175.28.12.0/22 list=IP-MY } on-error={}
 :do { add address=175.136.0.0/13 list=IP-MY } on-error={}

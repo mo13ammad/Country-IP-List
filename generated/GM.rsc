@@ -1,4 +1,4 @@
-# Last update: 2026-05-01 07:58:30 UTC
+# Last update: 2026-05-01 09:43:34 UTC
 # Country: GM
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GM&v4_format=prefix
 
