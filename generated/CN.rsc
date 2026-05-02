@@ -1,4 +1,4 @@
-# Last update: 2026-05-02 16:34:36 UTC
+# Last update: 2026-05-02 17:35:20 UTC
 # Country: CN
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CN&v4_format=prefix
 
