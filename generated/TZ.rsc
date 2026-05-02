@@ -1,4 +1,4 @@
-# Last update: 2026-05-02 17:35:20 UTC
+# Last update: 2026-05-02 18:40:24 UTC
 # Country: TZ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=TZ&v4_format=prefix
 
