@@ -1,4 +1,4 @@
-# Last update: 2026-05-02 08:16:27 UTC
+# Last update: 2026-05-02 09:52:27 UTC
 # Country: BD
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BD&v4_format=prefix
 
@@ -879,6 +879,7 @@
 :do { add address=2001:df6:f8c0::/48 list=BDv6 } on-error={}
 :do { add address=2001:df6:fa80::/48 list=BDv6 } on-error={}
 :do { add address=2001:df6:fc40::/48 list=BDv6 } on-error={}
+:do { add address=2001:df6:fdc0::/48 list=BDv6 } on-error={}
 :do { add address=2001:df6:fe80::/48 list=BDv6 } on-error={}
 :do { add address=2001:df7:1b80::/48 list=BDv6 } on-error={}
 :do { add address=2001:df7:1c80::/48 list=BDv6 } on-error={}
@@ -1277,6 +1278,7 @@
 :do { add address=2402:5720::/32 list=BDv6 } on-error={}
 :do { add address=2402:5840::/32 list=BDv6 } on-error={}
 :do { add address=2402:58e0::/32 list=BDv6 } on-error={}
+:do { add address=2402:5b20::/32 list=BDv6 } on-error={}
 :do { add address=2402:5e80::/32 list=BDv6 } on-error={}
 :do { add address=2402:5fc0::/32 list=BDv6 } on-error={}
 :do { add address=2402:6480::/32 list=BDv6 } on-error={}
@@ -1332,7 +1334,6 @@
 :do { add address=2402:fd40::/32 list=BDv6 } on-error={}
 :do { add address=2402:fec0::/32 list=BDv6 } on-error={}
 :do { add address=2403:140::/32 list=BDv6 } on-error={}
-:do { add address=2403:680::/32 list=BDv6 } on-error={}
 :do { add address=2403:10c0::/32 list=BDv6 } on-error={}
 :do { add address=2403:1940::/32 list=BDv6 } on-error={}
 :do { add address=2403:1e40::/32 list=BDv6 } on-error={}
@@ -3702,6 +3703,9 @@
 :do { add address=162.4.22.0/23 list=IP-BD } on-error={}
 :do { add address=162.4.34.0/23 list=IP-BD } on-error={}
 :do { add address=162.4.48.0/23 list=IP-BD } on-error={}
+:do { add address=162.4.59.0/24 list=IP-BD } on-error={}
+:do { add address=162.4.60.0/23 list=IP-BD } on-error={}
+:do { add address=162.4.64.0/23 list=IP-BD } on-error={}
 :do { add address=162.12.212.0/22 list=IP-BD } on-error={}
 :do { add address=163.47.32.0/22 list=IP-BD } on-error={}
 :do { add address=163.47.36.0/22 list=IP-BD } on-error={}

@@ -1,4 +1,4 @@
-# Last update: 2026-05-02 08:16:27 UTC
+# Last update: 2026-05-02 09:52:27 UTC
 # Country: AE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=AE&v4_format=prefix
 
@@ -1288,7 +1288,6 @@
 :do { add address=153.56.0.0/17 list=IP-AE } on-error={}
 :do { add address=153.56.131.0/24 list=IP-AE } on-error={}
 :do { add address=153.56.137.0/24 list=IP-AE } on-error={}
-:do { add address=153.56.138.0/23 list=IP-AE } on-error={}
 :do { add address=153.56.140.0/22 list=IP-AE } on-error={}
 :do { add address=153.56.144.0/21 list=IP-AE } on-error={}
 :do { add address=153.56.152.0/23 list=IP-AE } on-error={}
