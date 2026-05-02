@@ -1,4 +1,4 @@
-# Last update: 2026-05-02 01:28:58 UTC
+# Last update: 2026-05-02 04:50:20 UTC
 # Country: AG
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=AG&v4_format=prefix
 
