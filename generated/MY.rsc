@@ -1,4 +1,4 @@
-# Last update: 2026-05-03 10:42:49 UTC
+# Last update: 2026-05-03 11:34:05 UTC
 # Country: MY
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MY&v4_format=prefix
 
