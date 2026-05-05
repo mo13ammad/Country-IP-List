@@ -1,4 +1,4 @@
-# Last update: 2026-05-05 07:10:12 UTC
+# Last update: 2026-05-05 09:50:35 UTC
 # Country: KG
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=KG&v4_format=prefix
 
@@ -108,6 +108,7 @@
 :do { add address=185.53.228.0/22 list=IP-KG } on-error={}
 :do { add address=185.54.252.0/22 list=IP-KG } on-error={}
 :do { add address=185.66.252.0/22 list=IP-KG } on-error={}
+:do { add address=185.74.44.0/22 list=IP-KG } on-error={}
 :do { add address=185.81.180.0/22 list=IP-KG } on-error={}
 :do { add address=185.88.32.0/22 list=IP-KG } on-error={}
 :do { add address=185.117.148.0/22 list=IP-KG } on-error={}

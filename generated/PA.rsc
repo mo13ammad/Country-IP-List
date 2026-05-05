@@ -1,4 +1,4 @@
-# Last update: 2026-05-05 07:10:12 UTC
+# Last update: 2026-05-05 09:50:35 UTC
 # Country: PA
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PA&v4_format=prefix
 
@@ -177,6 +177,28 @@
 :do { add address=186.159.116.0/22 list=IP-PA } on-error={}
 :do { add address=186.179.112.0/20 list=IP-PA } on-error={}
 :do { add address=186.188.128.0/17 list=IP-PA } on-error={}
+:do { add address=186.247.0.0/20 list=IP-PA } on-error={}
+:do { add address=186.247.32.0/19 list=IP-PA } on-error={}
+:do { add address=186.247.64.0/20 list=IP-PA } on-error={}
+:do { add address=186.247.160.0/19 list=IP-PA } on-error={}
+:do { add address=186.247.208.0/20 list=IP-PA } on-error={}
+:do { add address=187.13.0.0/19 list=IP-PA } on-error={}
+:do { add address=187.13.128.0/20 list=IP-PA } on-error={}
+:do { add address=187.13.176.0/20 list=IP-PA } on-error={}
+:do { add address=187.13.192.0/19 list=IP-PA } on-error={}
+:do { add address=187.13.240.0/20 list=IP-PA } on-error={}
+:do { add address=187.14.48.0/20 list=IP-PA } on-error={}
+:do { add address=187.14.80.0/20 list=IP-PA } on-error={}
+:do { add address=187.14.96.0/19 list=IP-PA } on-error={}
+:do { add address=187.14.224.0/19 list=IP-PA } on-error={}
+:do { add address=187.15.80.0/20 list=IP-PA } on-error={}
+:do { add address=187.15.96.0/19 list=IP-PA } on-error={}
+:do { add address=187.15.128.0/19 list=IP-PA } on-error={}
+:do { add address=187.15.160.0/20 list=IP-PA } on-error={}
+:do { add address=187.40.16.0/20 list=IP-PA } on-error={}
+:do { add address=187.40.32.0/19 list=IP-PA } on-error={}
+:do { add address=187.40.80.0/20 list=IP-PA } on-error={}
+:do { add address=187.40.224.0/19 list=IP-PA } on-error={}
 :do { add address=190.2.224.0/20 list=IP-PA } on-error={}
 :do { add address=190.5.224.0/20 list=IP-PA } on-error={}
 :do { add address=190.5.240.0/20 list=IP-PA } on-error={}

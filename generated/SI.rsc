@@ -1,4 +1,4 @@
-# Last update: 2026-05-05 07:10:12 UTC
+# Last update: 2026-05-05 09:50:35 UTC
 # Country: SI
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SI&v4_format=prefix
 
@@ -119,7 +119,6 @@
 :do { add address=2a04:dd40::/29 list=SIv6 } on-error={}
 :do { add address=2a05:2280::/29 list=SIv6 } on-error={}
 :do { add address=2a05:33c0::/29 list=SIv6 } on-error={}
-:do { add address=2a05:4940::/29 list=SIv6 } on-error={}
 :do { add address=2a05:7740::/29 list=SIv6 } on-error={}
 :do { add address=2a05:acc0::/29 list=SIv6 } on-error={}
 :do { add address=2a06:ab40::/29 list=SIv6 } on-error={}
@@ -426,7 +425,6 @@
 :do { add address=185.72.60.0/22 list=IP-SI } on-error={}
 :do { add address=185.72.104.0/22 list=IP-SI } on-error={}
 :do { add address=185.73.4.0/22 list=IP-SI } on-error={}
-:do { add address=185.74.44.0/22 list=IP-SI } on-error={}
 :do { add address=185.78.240.0/22 list=IP-SI } on-error={}
 :do { add address=185.79.228.0/22 list=IP-SI } on-error={}
 :do { add address=185.81.28.0/22 list=IP-SI } on-error={}

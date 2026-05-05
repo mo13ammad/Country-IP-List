@@ -1,4 +1,4 @@
-# Last update: 2026-05-05 07:10:12 UTC
+# Last update: 2026-05-05 09:50:35 UTC
 # Country: DK
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=DK&v4_format=prefix
 
@@ -123,7 +123,6 @@
 :do { add address=2a00:ca40::/32 list=DKv6 } on-error={}
 :do { add address=2a00:cf80::/32 list=DKv6 } on-error={}
 :do { add address=2a00:d920::/32 list=DKv6 } on-error={}
-:do { add address=2a00:e3a0::/32 list=DKv6 } on-error={}
 :do { add address=2a00:e7c0::/32 list=DKv6 } on-error={}
 :do { add address=2a00:eec0::/32 list=DKv6 } on-error={}
 :do { add address=2a00:fbe0::/29 list=DKv6 } on-error={}
@@ -251,6 +250,7 @@
 :do { add address=2a05:a600::/29 list=DKv6 } on-error={}
 :do { add address=2a05:a900::/29 list=DKv6 } on-error={}
 :do { add address=2a05:e000::/29 list=DKv6 } on-error={}
+:do { add address=2a05:f3c0::/29 list=DKv6 } on-error={}
 :do { add address=2a05:f6c0::/29 list=DKv6 } on-error={}
 :do { add address=2a05:f700::/29 list=DKv6 } on-error={}
 :do { add address=2a06:b00::/29 list=DKv6 } on-error={}
@@ -409,7 +409,6 @@
 :do { add address=2a13:e740::/29 list=DKv6 } on-error={}
 :do { add address=2a13:ec80::/29 list=DKv6 } on-error={}
 :do { add address=2a13:f540::/29 list=DKv6 } on-error={}
-:do { add address=2a14:a00::/29 list=DKv6 } on-error={}
 :do { add address=2a14:1c80::/29 list=DKv6 } on-error={}
 :do { add address=2a14:4640::/29 list=DKv6 } on-error={}
 :do { add address=2a14:50c0::/29 list=DKv6 } on-error={}
@@ -665,7 +664,8 @@
 :do { add address=87.56.128.0/17 list=IP-DK } on-error={}
 :do { add address=87.57.0.0/16 list=IP-DK } on-error={}
 :do { add address=87.58.0.0/18 list=IP-DK } on-error={}
-:do { add address=87.58.128.0/17 list=IP-DK } on-error={}
+:do { add address=87.58.128.0/18 list=IP-DK } on-error={}
+:do { add address=87.58.224.0/19 list=IP-DK } on-error={}
 :do { add address=87.59.0.0/16 list=IP-DK } on-error={}
 :do { add address=87.60.0.0/14 list=IP-DK } on-error={}
 :do { add address=87.72.0.0/15 list=IP-DK } on-error={}
