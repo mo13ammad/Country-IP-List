@@ -1,4 +1,4 @@
-# Last update: 2026-05-06 19:18:22 UTC
+# Last update: 2026-05-06 21:00:45 UTC
 # Country: SG
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SG&v4_format=prefix
 
