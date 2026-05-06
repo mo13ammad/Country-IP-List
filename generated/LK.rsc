@@ -1,4 +1,4 @@
-# Last update: 2026-05-06 22:37:38 UTC
+# Last update: 2026-05-06 23:39:27 UTC
 # Country: LK
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=LK&v4_format=prefix
 
