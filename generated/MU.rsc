@@ -1,4 +1,4 @@
-# Last update: 2026-05-06 08:03:52 UTC
+# Last update: 2026-05-06 10:54:20 UTC
 # Country: MU
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MU&v4_format=prefix
 
@@ -21,6 +21,7 @@
 :do { add address=2001:43f8:1150::/48 list=MUv6 } on-error={}
 :do { add address=2001:43f8:1151::/48 list=MUv6 } on-error={}
 :do { add address=2001:43fe:6000::/48 list=MUv6 } on-error={}
+:do { add address=2c0f:4c20::/32 list=MUv6 } on-error={}
 :do { add address=2c0f:5140::/32 list=MUv6 } on-error={}
 :do { add address=2c0f:e808::/32 list=MUv6 } on-error={}
 :do { add address=2c0f:e8f8::/32 list=MUv6 } on-error={}
@@ -81,6 +82,7 @@
 :do { add address=102.140.176.0/20 list=IP-MU } on-error={}
 :do { add address=102.160.0.0/14 list=IP-MU } on-error={}
 :do { add address=102.176.128.0/19 list=IP-MU } on-error={}
+:do { add address=102.202.140.0/22 list=IP-MU } on-error={}
 :do { add address=102.205.35.0/24 list=IP-MU } on-error={}
 :do { add address=102.209.96.0/22 list=IP-MU } on-error={}
 :do { add address=102.211.0.0/22 list=IP-MU } on-error={}

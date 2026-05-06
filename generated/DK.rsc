@@ -1,4 +1,4 @@
-# Last update: 2026-05-06 08:03:52 UTC
+# Last update: 2026-05-06 10:54:20 UTC
 # Country: DK
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=DK&v4_format=prefix
 
@@ -11,6 +11,7 @@
 :do { add address=2001:678:51c::/48 list=DKv6 } on-error={}
 :do { add address=2001:678:67c::/48 list=DKv6 } on-error={}
 :do { add address=2001:678:72c::/48 list=DKv6 } on-error={}
+:do { add address=2001:678:824::/48 list=DKv6 } on-error={}
 :do { add address=2001:678:960::/48 list=DKv6 } on-error={}
 :do { add address=2001:678:9ec::/48 list=DKv6 } on-error={}
 :do { add address=2001:678:aec::/48 list=DKv6 } on-error={}
@@ -19,6 +20,9 @@
 :do { add address=2001:678:dc8::/48 list=DKv6 } on-error={}
 :do { add address=2001:678:10cc::/48 list=DKv6 } on-error={}
 :do { add address=2001:678:11bc::/48 list=DKv6 } on-error={}
+:do { add address=2001:678:1268::/48 list=DKv6 } on-error={}
+:do { add address=2001:678:126c::/48 list=DKv6 } on-error={}
+:do { add address=2001:678:1270::/48 list=DKv6 } on-error={}
 :do { add address=2001:67c:b8::/48 list=DKv6 } on-error={}
 :do { add address=2001:67c:bc::/48 list=DKv6 } on-error={}
 :do { add address=2001:67c:158::/48 list=DKv6 } on-error={}
