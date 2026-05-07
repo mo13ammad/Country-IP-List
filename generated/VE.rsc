@@ -1,4 +1,4 @@
-# Last update: 2026-05-07 01:48:42 UTC
+# Last update: 2026-05-07 05:20:59 UTC
 # Country: VE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=VE&v4_format=prefix
 
