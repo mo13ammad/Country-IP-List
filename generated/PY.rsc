@@ -1,4 +1,4 @@
-# Last update: 2026-05-07 08:11:30 UTC
+# Last update: 2026-05-07 10:58:37 UTC
 # Country: PY
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PY&v4_format=prefix
 
@@ -254,6 +254,8 @@
 :do { add address=200.115.16.0/24 list=IP-PY } on-error={}
 :do { add address=200.115.17.0/24 list=IP-PY } on-error={}
 :do { add address=200.123.36.0/23 list=IP-PY } on-error={}
+:do { add address=200.123.59.0/24 list=IP-PY } on-error={}
+:do { add address=200.123.61.0/24 list=IP-PY } on-error={}
 :do { add address=200.124.120.0/24 list=IP-PY } on-error={}
 :do { add address=201.131.51.0/24 list=IP-PY } on-error={}
 :do { add address=201.217.0.0/19 list=IP-PY } on-error={}

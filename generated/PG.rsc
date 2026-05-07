@@ -1,4 +1,4 @@
-# Last update: 2026-05-07 08:11:30 UTC
+# Last update: 2026-05-07 10:58:37 UTC
 # Country: PG
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PG&v4_format=prefix
 
@@ -94,3 +94,4 @@
 :do { add address=202.165.192.0/20 list=IP-PG } on-error={}
 :do { add address=202.171.240.0/21 list=IP-PG } on-error={}
 :do { add address=203.83.16.0/21 list=IP-PG } on-error={}
+:do { add address=207.241.186.0/23 list=IP-PG } on-error={}
