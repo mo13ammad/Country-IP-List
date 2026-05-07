@@ -1,4 +1,4 @@
-# Last update: 2026-05-07 22:49:52 UTC
+# Last update: 2026-05-07 23:42:02 UTC
 # Country: SN
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SN&v4_format=prefix
 
