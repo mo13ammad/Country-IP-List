@@ -1,10 +1,66 @@
-# Last update: 2026-05-07 10:58:37 UTC
+# Last update: 2026-05-07 12:27:17 UTC
 # Country: JE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=JE&v4_format=prefix
 
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list=JEv6]
 /ipv6 firewall address-list
+:do { add address=2a01:94a0::/32 list=JEv6 } on-error={}
+:do { add address=2a01:a400::/29 list=JEv6 } on-error={}
+:do { add address=2a02:c28::/29 list=JEv6 } on-error={}
+:do { add address=2a03:d4c0::/32 list=JEv6 } on-error={}
+:do { add address=2a07:ee40::/29 list=JEv6 } on-error={}
+:do { add address=2a0b:9740::/29 list=JEv6 } on-error={}
+:do { add address=2a0d:6700::/29 list=JEv6 } on-error={}
+:do { add address=2a10:81c0::/32 list=JEv6 } on-error={}
+:do { add address=2a11:4400::/29 list=JEv6 } on-error={}
+:do { add address=2a12:8240::/29 list=JEv6 } on-error={}
 
 /ip firewall address-list remove [/ip firewall address-list find list=IP-JE]
 /ip firewall address-list
+:do { add address=5.35.160.0/21 list=IP-JE } on-error={}
+:do { add address=5.42.128.0/21 list=IP-JE } on-error={}
+:do { add address=31.186.112.0/21 list=IP-JE } on-error={}
+:do { add address=37.156.38.0/23 list=IP-JE } on-error={}
+:do { add address=46.254.248.0/21 list=IP-JE } on-error={}
+:do { add address=81.20.176.0/20 list=IP-JE } on-error={}
+:do { add address=82.112.128.0/19 list=IP-JE } on-error={}
+:do { add address=83.137.248.0/21 list=IP-JE } on-error={}
+:do { add address=87.237.128.0/21 list=IP-JE } on-error={}
+:do { add address=87.244.64.0/18 list=IP-JE } on-error={}
+:do { add address=93.191.200.0/22 list=IP-JE } on-error={}
+:do { add address=93.191.204.0/23 list=IP-JE } on-error={}
+:do { add address=93.191.206.0/23 list=IP-JE } on-error={}
+:do { add address=95.172.89.0/24 list=IP-JE } on-error={}
+:do { add address=103.105.148.0/22 list=IP-JE } on-error={}
+:do { add address=109.68.192.0/22 list=IP-JE } on-error={}
+:do { add address=146.19.127.0/24 list=IP-JE } on-error={}
+:do { add address=159.255.208.0/21 list=IP-JE } on-error={}
 :do { add address=165.250.0.0/16 list=IP-JE } on-error={}
+:do { add address=173.255.144.0/22 list=IP-JE } on-error={}
+:do { add address=173.255.149.0/24 list=IP-JE } on-error={}
+:do { add address=173.255.151.0/24 list=IP-JE } on-error={}
+:do { add address=185.3.52.0/22 list=IP-JE } on-error={}
+:do { add address=185.16.68.0/22 list=IP-JE } on-error={}
+:do { add address=185.48.60.0/22 list=IP-JE } on-error={}
+:do { add address=185.57.212.0/22 list=IP-JE } on-error={}
+:do { add address=185.87.8.0/22 list=IP-JE } on-error={}
+:do { add address=185.113.12.0/22 list=IP-JE } on-error={}
+:do { add address=185.122.244.0/22 list=IP-JE } on-error={}
+:do { add address=185.158.120.0/22 list=IP-JE } on-error={}
+:do { add address=185.179.101.0/24 list=IP-JE } on-error={}
+:do { add address=185.206.12.0/22 list=IP-JE } on-error={}
+:do { add address=185.235.244.0/24 list=IP-JE } on-error={}
+:do { add address=188.116.44.0/24 list=IP-JE } on-error={}
+:do { add address=193.3.239.0/24 list=IP-JE } on-error={}
+:do { add address=193.17.36.0/22 list=IP-JE } on-error={}
+:do { add address=193.36.44.0/24 list=IP-JE } on-error={}
+:do { add address=193.201.42.0/24 list=IP-JE } on-error={}
+:do { add address=194.34.106.0/23 list=IP-JE } on-error={}
+:do { add address=199.34.116.0/22 list=IP-JE } on-error={}
+:do { add address=199.66.128.0/22 list=IP-JE } on-error={}
+:do { add address=203.30.195.0/24 list=IP-JE } on-error={}
+:do { add address=209.251.252.0/23 list=IP-JE } on-error={}
+:do { add address=212.9.0.0/19 list=IP-JE } on-error={}
+:do { add address=213.133.192.0/19 list=IP-JE } on-error={}
+:do { add address=213.134.23.0/24 list=IP-JE } on-error={}
+:do { add address=217.198.188.0/24 list=IP-JE } on-error={}

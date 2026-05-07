@@ -1,4 +1,4 @@
-# Last update: 2026-05-07 10:58:37 UTC
+# Last update: 2026-05-07 12:27:17 UTC
 # Country: BM
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BM&v4_format=prefix
 
@@ -14,9 +14,11 @@
 :do { add address=2606:1ec0::/32 list=BMv6 } on-error={}
 :do { add address=2606:9e00::/32 list=BMv6 } on-error={}
 :do { add address=2607:18c0::/32 list=BMv6 } on-error={}
+:do { add address=2a0a:1a40::/32 list=BMv6 } on-error={}
 
 /ip firewall address-list remove [/ip firewall address-list find list=IP-BM]
 /ip firewall address-list
+:do { add address=31.47.88.0/21 list=IP-BM } on-error={}
 :do { add address=45.42.144.0/22 list=IP-BM } on-error={}
 :do { add address=64.89.168.0/22 list=IP-BM } on-error={}
 :do { add address=64.147.80.0/20 list=IP-BM } on-error={}
@@ -30,6 +32,7 @@
 :do { add address=162.219.233.0/24 list=IP-BM } on-error={}
 :do { add address=162.221.212.0/22 list=IP-BM } on-error={}
 :do { add address=162.255.216.0/21 list=IP-BM } on-error={}
+:do { add address=185.198.104.0/22 list=IP-BM } on-error={}
 :do { add address=192.40.84.0/22 list=IP-BM } on-error={}
 :do { add address=192.156.199.0/24 list=IP-BM } on-error={}
 :do { add address=196.1.107.0/24 list=IP-BM } on-error={}
