@@ -1,4 +1,4 @@
-# Last update: 2026-05-09 07:07:07 UTC
+# Last update: 2026-05-09 09:06:18 UTC
 # Country: BZ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BZ&v4_format=prefix
 
@@ -27,7 +27,9 @@
 :do { add address=2803:d5c0::/32 list=BZv6 } on-error={}
 :do { add address=2803:e510::/32 list=BZv6 } on-error={}
 :do { add address=2a05:840::/30 list=BZv6 } on-error={}
+:do { add address=2a05:2ac0::/29 list=BZv6 } on-error={}
 :do { add address=2a05:6200::/29 list=BZv6 } on-error={}
+:do { add address=2a05:64c0::/29 list=BZv6 } on-error={}
 :do { add address=2a07:180::/32 list=BZv6 } on-error={}
 :do { add address=2a07:e00::/29 list=BZv6 } on-error={}
 :do { add address=2a07:a0c0::/29 list=BZv6 } on-error={}
