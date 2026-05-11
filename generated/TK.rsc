@@ -1,4 +1,4 @@
-# Last update: 2026-05-11 05:49:18 UTC
+# Last update: 2026-05-11 08:55:02 UTC
 # Country: TK
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=TK&v4_format=prefix
 
