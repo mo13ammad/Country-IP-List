@@ -1,4 +1,4 @@
-# Last update: 2026-05-13 05:41:10 UTC
+# Last update: 2026-05-13 08:30:18 UTC
 # Country: SA
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SA&v4_format=prefix
 
@@ -141,7 +141,10 @@
 :do { add address=5.163.0.0/16 list=IP-SA } on-error={}
 :do { add address=5.244.0.0/14 list=IP-SA } on-error={}
 :do { add address=5.253.80.0/22 list=IP-SA } on-error={}
+:do { add address=9.162.0.0/16 list=IP-SA } on-error={}
 :do { add address=9.165.0.0/16 list=IP-SA } on-error={}
+:do { add address=9.212.0.0/16 list=IP-SA } on-error={}
+:do { add address=9.250.0.0/15 list=IP-SA } on-error={}
 :do { add address=31.166.0.0/15 list=IP-SA } on-error={}
 :do { add address=31.193.190.0/24 list=IP-SA } on-error={}
 :do { add address=37.16.32.0/19 list=IP-SA } on-error={}

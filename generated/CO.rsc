@@ -1,4 +1,4 @@
-# Last update: 2026-05-13 05:41:10 UTC
+# Last update: 2026-05-13 08:30:18 UTC
 # Country: CO
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CO&v4_format=prefix
 
@@ -180,6 +180,7 @@
 :do { add address=2801:19:4800::/48 list=COv6 } on-error={}
 :do { add address=2801:19:5000::/48 list=COv6 } on-error={}
 :do { add address=2801:19:6800::/48 list=COv6 } on-error={}
+:do { add address=2801:19:8400::/48 list=COv6 } on-error={}
 :do { add address=2801:19:9800::/48 list=COv6 } on-error={}
 :do { add address=2801:19:a800::/48 list=COv6 } on-error={}
 :do { add address=2801:19:c800::/48 list=COv6 } on-error={}
@@ -525,6 +526,7 @@
 :do { add address=2803:5fa0::/32 list=COv6 } on-error={}
 :do { add address=2803:5fd0::/32 list=COv6 } on-error={}
 :do { add address=2803:6090::/32 list=COv6 } on-error={}
+:do { add address=2803:6130::/32 list=COv6 } on-error={}
 :do { add address=2803:6150::/32 list=COv6 } on-error={}
 :do { add address=2803:6290::/32 list=COv6 } on-error={}
 :do { add address=2803:63d0::/32 list=COv6 } on-error={}
@@ -682,6 +684,7 @@
 :do { add address=2803:df50::/32 list=COv6 } on-error={}
 :do { add address=2803:e000::/32 list=COv6 } on-error={}
 :do { add address=2803:e060::/32 list=COv6 } on-error={}
+:do { add address=2803:e130::/32 list=COv6 } on-error={}
 :do { add address=2803:e150::/32 list=COv6 } on-error={}
 :do { add address=2803:e2c0::/32 list=COv6 } on-error={}
 :do { add address=2803:e350::/32 list=COv6 } on-error={}

@@ -1,4 +1,4 @@
-# Last update: 2026-05-13 05:41:10 UTC
+# Last update: 2026-05-13 08:30:18 UTC
 # Country: DK
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=DK&v4_format=prefix
 
@@ -239,7 +239,6 @@
 :do { add address=2a04:a800::/29 list=DKv6 } on-error={}
 :do { add address=2a04:a880::/29 list=DKv6 } on-error={}
 :do { add address=2a04:c2c0::/29 list=DKv6 } on-error={}
-:do { add address=2a04:dac0::/29 list=DKv6 } on-error={}
 :do { add address=2a04:e200::/29 list=DKv6 } on-error={}
 :do { add address=2a04:e3c0::/29 list=DKv6 } on-error={}
 :do { add address=2a04:fe00::/29 list=DKv6 } on-error={}
@@ -579,7 +578,6 @@
 :do { add address=80.208.0.0/17 list=IP-DK } on-error={}
 :do { add address=80.209.0.0/17 list=IP-DK } on-error={}
 :do { add address=80.210.64.0/20 list=IP-DK } on-error={}
-:do { add address=80.210.80.0/20 list=IP-DK } on-error={}
 :do { add address=80.243.112.0/20 list=IP-DK } on-error={}
 :do { add address=80.245.100.0/22 list=IP-DK } on-error={}
 :do { add address=80.248.136.0/24 list=IP-DK } on-error={}
@@ -630,7 +628,6 @@
 :do { add address=85.191.0.0/17 list=IP-DK } on-error={}
 :do { add address=85.191.128.0/17 list=IP-DK } on-error={}
 :do { add address=85.194.233.0/24 list=IP-DK } on-error={}
-:do { add address=85.194.254.0/23 list=IP-DK } on-error={}
 :do { add address=85.202.16.0/20 list=IP-DK } on-error={}
 :do { add address=85.202.64.0/20 list=IP-DK } on-error={}
 :do { add address=85.203.128.0/17 list=IP-DK } on-error={}
