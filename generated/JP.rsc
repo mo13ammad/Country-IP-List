@@ -1,4 +1,4 @@
-# Last update: 2026-05-14 05:45:52 UTC
+# Last update: 2026-05-14 08:24:45 UTC
 # Country: JP
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=JP&v4_format=prefix
 
@@ -1151,6 +1151,7 @@
 :do { add address=45.251.67.0/24 list=IP-JP } on-error={}
 :do { add address=45.251.132.0/22 list=IP-JP } on-error={}
 :do { add address=49.0.16.0/21 list=IP-JP } on-error={}
+:do { add address=49.0.176.0/21 list=IP-JP } on-error={}
 :do { add address=49.50.6.0/23 list=IP-JP } on-error={}
 :do { add address=49.96.0.0/12 list=IP-JP } on-error={}
 :do { add address=49.128.16.0/21 list=IP-JP } on-error={}
@@ -2913,7 +2914,8 @@
 :do { add address=126.52.100.0/22 list=IP-JP } on-error={}
 :do { add address=126.52.104.0/21 list=IP-JP } on-error={}
 :do { add address=126.52.112.0/20 list=IP-JP } on-error={}
-:do { add address=126.52.128.0/17 list=IP-JP } on-error={}
+:do { add address=126.52.160.0/19 list=IP-JP } on-error={}
+:do { add address=126.52.192.0/18 list=IP-JP } on-error={}
 :do { add address=126.53.0.0/16 list=IP-JP } on-error={}
 :do { add address=126.54.0.0/15 list=IP-JP } on-error={}
 :do { add address=126.56.0.0/13 list=IP-JP } on-error={}
@@ -4438,6 +4440,7 @@
 :do { add address=202.12.13.0/24 list=IP-JP } on-error={}
 :do { add address=202.12.14.0/24 list=IP-JP } on-error={}
 :do { add address=202.12.15.0/24 list=IP-JP } on-error={}
+:do { add address=202.12.26.0/24 list=IP-JP } on-error={}
 :do { add address=202.12.27.0/24 list=IP-JP } on-error={}
 :do { add address=202.12.30.0/24 list=IP-JP } on-error={}
 :do { add address=202.12.64.0/22 list=IP-JP } on-error={}
