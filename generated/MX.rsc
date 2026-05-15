@@ -1,4 +1,4 @@
-# Last update: 2026-05-15 05:50:07 UTC
+# Last update: 2026-05-15 08:36:29 UTC
 # Country: MX
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MX&v4_format=prefix
 
@@ -572,6 +572,7 @@
 :do { add address=2806:45c::/32 list=MXv6 } on-error={}
 :do { add address=2806:461::/32 list=MXv6 } on-error={}
 :do { add address=2806:463::/32 list=MXv6 } on-error={}
+:do { add address=2806:464::/32 list=MXv6 } on-error={}
 :do { add address=2806:465::/32 list=MXv6 } on-error={}
 :do { add address=2806:466::/32 list=MXv6 } on-error={}
 :do { add address=2806:467::/32 list=MXv6 } on-error={}

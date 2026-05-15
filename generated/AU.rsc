@@ -1,4 +1,4 @@
-# Last update: 2026-05-15 05:50:07 UTC
+# Last update: 2026-05-15 08:36:29 UTC
 # Country: AU
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=AU&v4_format=prefix
 
@@ -1192,6 +1192,7 @@
 :do { add address=2402:5c60::/32 list=AUv6 } on-error={}
 :do { add address=2402:5d40::/32 list=AUv6 } on-error={}
 :do { add address=2402:5d60::/32 list=AUv6 } on-error={}
+:do { add address=2402:5e60::/32 list=AUv6 } on-error={}
 :do { add address=2402:6240::/32 list=AUv6 } on-error={}
 :do { add address=2402:63c0::/32 list=AUv6 } on-error={}
 :do { add address=2402:6400::/32 list=AUv6 } on-error={}
@@ -4827,7 +4828,6 @@
 :do { add address=160.191.226.0/23 list=IP-AU } on-error={}
 :do { add address=160.202.140.0/22 list=IP-AU } on-error={}
 :do { add address=160.206.0.0/16 list=IP-AU } on-error={}
-:do { add address=160.222.0.0/18 list=IP-AU } on-error={}
 :do { add address=160.222.64.0/19 list=IP-AU } on-error={}
 :do { add address=160.222.96.0/20 list=IP-AU } on-error={}
 :do { add address=160.222.112.0/20 list=IP-AU } on-error={}
@@ -4867,6 +4867,7 @@
 :do { add address=161.248.8.0/24 list=IP-AU } on-error={}
 :do { add address=161.248.70.0/23 list=IP-AU } on-error={}
 :do { add address=162.4.84.0/24 list=IP-AU } on-error={}
+:do { add address=162.4.122.0/23 list=IP-AU } on-error={}
 :do { add address=162.12.240.0/22 list=IP-AU } on-error={}
 :do { add address=162.145.0.0/16 list=IP-AU } on-error={}
 :do { add address=162.146.0.0/15 list=IP-AU } on-error={}

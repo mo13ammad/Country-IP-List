@@ -1,4 +1,4 @@
-# Last update: 2026-05-15 05:50:07 UTC
+# Last update: 2026-05-15 08:36:29 UTC
 # Country: MY
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MY&v4_format=prefix
 
@@ -248,7 +248,6 @@
 :do { add address=2402:38a0::/32 list=MYv6 } on-error={}
 :do { add address=2402:3a60::/32 list=MYv6 } on-error={}
 :do { add address=2402:3da0::/32 list=MYv6 } on-error={}
-:do { add address=2402:3e80::/32 list=MYv6 } on-error={}
 :do { add address=2402:4640::/32 list=MYv6 } on-error={}
 :do { add address=2402:4b00::/32 list=MYv6 } on-error={}
 :do { add address=2402:4ba0::/32 list=MYv6 } on-error={}
@@ -414,7 +413,6 @@
 :do { add address=45.64.168.0/22 list=IP-MY } on-error={}
 :do { add address=45.112.196.0/22 list=IP-MY } on-error={}
 :do { add address=45.114.28.0/22 list=IP-MY } on-error={}
-:do { add address=45.114.100.0/22 list=IP-MY } on-error={}
 :do { add address=45.115.220.0/22 list=IP-MY } on-error={}
 :do { add address=45.116.160.0/22 list=IP-MY } on-error={}
 :do { add address=45.116.172.0/22 list=IP-MY } on-error={}
@@ -583,7 +581,6 @@
 :do { add address=103.52.192.0/24 list=IP-MY } on-error={}
 :do { add address=103.53.32.0/22 list=IP-MY } on-error={}
 :do { add address=103.53.186.0/24 list=IP-MY } on-error={}
-:do { add address=103.54.52.0/22 list=IP-MY } on-error={}
 :do { add address=103.54.110.0/24 list=IP-MY } on-error={}
 :do { add address=103.57.188.0/22 list=IP-MY } on-error={}
 :do { add address=103.58.16.0/22 list=IP-MY } on-error={}
