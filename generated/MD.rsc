@@ -1,4 +1,4 @@
-# Last update: 2026-05-16 21:37:51 UTC
+# Last update: 2026-05-16 22:34:11 UTC
 # Country: MD
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MD&v4_format=prefix
 
