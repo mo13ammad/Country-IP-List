@@ -1,4 +1,4 @@
-# Last update: 2026-05-16 01:49:57 UTC
+# Last update: 2026-05-16 05:17:55 UTC
 # Country: KN
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=KN&v4_format=prefix
 
