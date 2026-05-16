@@ -1,4 +1,4 @@
-# Last update: 2026-05-16 22:34:11 UTC
+# Last update: 2026-05-16 23:39:26 UTC
 # Country: JO
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=JO&v4_format=prefix
 
