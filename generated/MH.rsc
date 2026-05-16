@@ -1,4 +1,4 @@
-# Last update: 2026-05-16 07:46:37 UTC
+# Last update: 2026-05-16 09:18:34 UTC
 # Country: MH
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MH&v4_format=prefix
 
@@ -14,6 +14,7 @@
 /ip firewall address-list
 :do { add address=23.181.56.0/24 list=IP-MH } on-error={}
 :do { add address=81.30.106.0/24 list=IP-MH } on-error={}
+:do { add address=85.149.128.0/18 list=IP-MH } on-error={}
 :do { add address=103.202.148.0/22 list=IP-MH } on-error={}
 :do { add address=117.103.88.0/21 list=IP-MH } on-error={}
 :do { add address=185.201.244.0/22 list=IP-MH } on-error={}

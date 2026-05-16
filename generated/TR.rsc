@@ -1,4 +1,4 @@
-# Last update: 2026-05-16 07:46:37 UTC
+# Last update: 2026-05-16 09:18:34 UTC
 # Country: TR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=TR&v4_format=prefix
 
@@ -6,6 +6,7 @@
 /ipv6 firewall address-list
 :do { add address=2001:678:1a4::/48 list=TRv6 } on-error={}
 :do { add address=2001:678:444::/48 list=TRv6 } on-error={}
+:do { add address=2001:678:d44::/48 list=TRv6 } on-error={}
 :do { add address=2001:678:1144::/48 list=TRv6 } on-error={}
 :do { add address=2001:67c:464::/48 list=TRv6 } on-error={}
 :do { add address=2001:67c:4f4::/48 list=TRv6 } on-error={}
@@ -604,7 +605,6 @@
 :do { add address=2a13:4000::/29 list=TRv6 } on-error={}
 :do { add address=2a13:4880::/29 list=TRv6 } on-error={}
 :do { add address=2a13:4b40::/29 list=TRv6 } on-error={}
-:do { add address=2a13:5c40::/29 list=TRv6 } on-error={}
 :do { add address=2a13:5f40::/29 list=TRv6 } on-error={}
 :do { add address=2a13:63c0::/29 list=TRv6 } on-error={}
 :do { add address=2a13:66c0::/29 list=TRv6 } on-error={}
@@ -1479,6 +1479,7 @@
 :do { add address=153.56.128.0/23 list=IP-TR } on-error={}
 :do { add address=153.56.130.0/24 list=IP-TR } on-error={}
 :do { add address=153.56.138.0/23 list=IP-TR } on-error={}
+:do { add address=153.56.140.0/23 list=IP-TR } on-error={}
 :do { add address=153.56.142.0/24 list=IP-TR } on-error={}
 :do { add address=153.56.155.0/24 list=IP-TR } on-error={}
 :do { add address=153.56.160.0/21 list=IP-TR } on-error={}
