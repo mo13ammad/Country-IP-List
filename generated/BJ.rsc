@@ -1,4 +1,4 @@
-# Last update: 2026-05-17 08:07:03 UTC
+# Last update: 2026-05-17 10:16:03 UTC
 # Country: BJ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BJ&v4_format=prefix
 
@@ -36,6 +36,7 @@
 :do { add address=45.221.224.0/19 list=IP-BJ } on-error={}
 :do { add address=81.91.224.0/20 list=IP-BJ } on-error={}
 :do { add address=102.38.128.0/19 list=IP-BJ } on-error={}
+:do { add address=102.202.108.0/22 list=IP-BJ } on-error={}
 :do { add address=102.203.12.0/22 list=IP-BJ } on-error={}
 :do { add address=102.207.72.0/22 list=IP-BJ } on-error={}
 :do { add address=102.207.112.0/22 list=IP-BJ } on-error={}
