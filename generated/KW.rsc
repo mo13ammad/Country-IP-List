@@ -1,4 +1,4 @@
-# Last update: 2026-05-17 14:19:40 UTC
+# Last update: 2026-05-17 15:49:01 UTC
 # Country: KW
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=KW&v4_format=prefix
 
