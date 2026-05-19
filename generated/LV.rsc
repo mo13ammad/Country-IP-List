@@ -1,4 +1,4 @@
-# Last update: 2026-05-19 06:37:31 UTC
+# Last update: 2026-05-19 10:29:22 UTC
 # Country: LV
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=LV&v4_format=prefix
 
@@ -30,6 +30,9 @@
 :do { add address=2001:7f8:16::/48 list=LVv6 } on-error={}
 :do { add address=2001:7f8:109::/48 list=LVv6 } on-error={}
 :do { add address=2001:7f8:126::/48 list=LVv6 } on-error={}
+:do { add address=2001:7f8:17a::/48 list=LVv6 } on-error={}
+:do { add address=2001:7f8:17b::/48 list=LVv6 } on-error={}
+:do { add address=2001:7f8:17c::/48 list=LVv6 } on-error={}
 :do { add address=2001:1bf8::/29 list=LVv6 } on-error={}
 :do { add address=2a00:c68::/32 list=LVv6 } on-error={}
 :do { add address=2a00:1780::/32 list=LVv6 } on-error={}
