@@ -1,4 +1,4 @@
-# Last update: 2026-05-20 06:37:29 UTC
+# Last update: 2026-05-20 10:16:06 UTC
 # Country: NO
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=NO&v4_format=prefix
 
@@ -320,6 +320,7 @@
 :do { add address=2a06:2400::/29 list=NOv6 } on-error={}
 :do { add address=2a06:31c0::/29 list=NOv6 } on-error={}
 :do { add address=2a06:5840::/29 list=NOv6 } on-error={}
+:do { add address=2a06:6040::/32 list=NOv6 } on-error={}
 :do { add address=2a06:6dc0::/29 list=NOv6 } on-error={}
 :do { add address=2a06:8600::/29 list=NOv6 } on-error={}
 :do { add address=2a06:9900::/29 list=NOv6 } on-error={}
