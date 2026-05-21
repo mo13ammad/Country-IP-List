@@ -1,4 +1,4 @@
-# Last update: 2026-05-21 06:39:36 UTC
+# Last update: 2026-05-21 10:28:08 UTC
 # Country: PK
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PK&v4_format=prefix
 
@@ -817,7 +817,8 @@
 :do { add address=111.68.96.0/20 list=IP-PK } on-error={}
 :do { add address=111.88.0.0/18 list=IP-PK } on-error={}
 :do { add address=111.88.64.0/21 list=IP-PK } on-error={}
-:do { add address=111.88.72.0/22 list=IP-PK } on-error={}
+:do { add address=111.88.72.0/23 list=IP-PK } on-error={}
+:do { add address=111.88.75.0/24 list=IP-PK } on-error={}
 :do { add address=111.88.76.0/24 list=IP-PK } on-error={}
 :do { add address=111.88.77.0/24 list=IP-PK } on-error={}
 :do { add address=111.88.78.0/24 list=IP-PK } on-error={}

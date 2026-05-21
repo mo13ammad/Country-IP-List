@@ -1,4 +1,4 @@
-# Last update: 2026-05-21 06:39:36 UTC
+# Last update: 2026-05-21 10:28:08 UTC
 # Country: CN
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CN&v4_format=prefix
 
@@ -763,7 +763,6 @@
 :do { add address=2402:50a0::/32 list=CNv6 } on-error={}
 :do { add address=2402:5180::/32 list=CNv6 } on-error={}
 :do { add address=2402:51a0::/32 list=CNv6 } on-error={}
-:do { add address=2402:52c0::/32 list=CNv6 } on-error={}
 :do { add address=2402:5340::/32 list=CNv6 } on-error={}
 :do { add address=2402:5820::/32 list=CNv6 } on-error={}
 :do { add address=2402:5880::/32 list=CNv6 } on-error={}
@@ -5083,7 +5082,6 @@
 :do { add address=103.66.92.0/22 list=IP-CN } on-error={}
 :do { add address=103.66.108.0/22 list=IP-CN } on-error={}
 :do { add address=103.66.200.0/22 list=IP-CN } on-error={}
-:do { add address=103.66.216.0/22 list=IP-CN } on-error={}
 :do { add address=103.66.240.0/22 list=IP-CN } on-error={}
 :do { add address=103.66.244.0/22 list=IP-CN } on-error={}
 :do { add address=103.66.248.0/22 list=IP-CN } on-error={}
@@ -7184,7 +7182,6 @@
 :do { add address=103.254.188.0/22 list=IP-CN } on-error={}
 :do { add address=103.254.196.0/24 list=IP-CN } on-error={}
 :do { add address=103.254.220.0/22 list=IP-CN } on-error={}
-:do { add address=103.255.56.0/22 list=IP-CN } on-error={}
 :do { add address=103.255.68.0/22 list=IP-CN } on-error={}
 :do { add address=103.255.88.0/22 list=IP-CN } on-error={}
 :do { add address=103.255.92.0/22 list=IP-CN } on-error={}

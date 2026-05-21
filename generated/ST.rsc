@@ -1,4 +1,4 @@
-# Last update: 2026-05-21 06:39:36 UTC
+# Last update: 2026-05-21 10:28:08 UTC
 # Country: ST
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=ST&v4_format=prefix
 
@@ -8,6 +8,7 @@
 
 /ip firewall address-list remove [/ip firewall address-list find list=IP-ST]
 /ip firewall address-list
+:do { add address=102.202.92.0/22 list=IP-ST } on-error={}
 :do { add address=102.206.44.0/22 list=IP-ST } on-error={}
 :do { add address=154.72.12.0/22 list=IP-ST } on-error={}
 :do { add address=197.159.160.0/19 list=IP-ST } on-error={}

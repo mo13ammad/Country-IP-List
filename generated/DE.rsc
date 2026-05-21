@@ -1,4 +1,4 @@
-# Last update: 2026-05-21 06:39:36 UTC
+# Last update: 2026-05-21 10:28:08 UTC
 # Country: DE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=DE&v4_format=prefix
 
@@ -265,6 +265,7 @@
 :do { add address=2001:678:1258::/48 list=DEv6 } on-error={}
 :do { add address=2001:678:125c::/48 list=DEv6 } on-error={}
 :do { add address=2001:678:128c::/48 list=DEv6 } on-error={}
+:do { add address=2001:678:1290::/48 list=DEv6 } on-error={}
 :do { add address=2001:67c:4::/48 list=DEv6 } on-error={}
 :do { add address=2001:67c:14::/48 list=DEv6 } on-error={}
 :do { add address=2001:67c:24::/48 list=DEv6 } on-error={}
@@ -4601,7 +4602,7 @@
 :do { add address=79.98.224.0/21 list=IP-DE } on-error={}
 :do { add address=79.99.80.0/21 list=IP-DE } on-error={}
 :do { add address=79.99.96.0/21 list=IP-DE } on-error={}
-:do { add address=79.99.136.0/21 list=IP-DE } on-error={}
+:do { add address=79.99.136.0/22 list=IP-DE } on-error={}
 :do { add address=79.110.80.0/20 list=IP-DE } on-error={}
 :do { add address=79.110.231.0/24 list=IP-DE } on-error={}
 :do { add address=79.110.232.0/24 list=IP-DE } on-error={}
