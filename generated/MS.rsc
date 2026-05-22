@@ -1,4 +1,4 @@
-# Last update: 2026-05-22 16:12:34 UTC
+# Last update: 2026-05-22 18:26:53 UTC
 # Country: MS
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MS&v4_format=prefix
 
