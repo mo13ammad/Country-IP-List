@@ -1,4 +1,4 @@
-# Last update: 2026-05-23 08:03:12 UTC
+# Last update: 2026-05-23 10:19:38 UTC
 # Country: DE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=DE&v4_format=prefix
 
@@ -1936,6 +1936,7 @@
 :do { add address=2a07:6500::/29 list=DEv6 } on-error={}
 :do { add address=2a07:6b00::/29 list=DEv6 } on-error={}
 :do { add address=2a07:6c40::/29 list=DEv6 } on-error={}
+:do { add address=2a07:6ec0::/29 list=DEv6 } on-error={}
 :do { add address=2a07:6f40::/29 list=DEv6 } on-error={}
 :do { add address=2a07:6fc0::/29 list=DEv6 } on-error={}
 :do { add address=2a07:8180::/29 list=DEv6 } on-error={}
@@ -12991,7 +12992,8 @@
 :do { add address=195.137.210.0/23 list=IP-DE } on-error={}
 :do { add address=195.137.212.0/23 list=IP-DE } on-error={}
 :do { add address=195.137.216.0/23 list=IP-DE } on-error={}
-:do { add address=195.137.224.0/23 list=IP-DE } on-error={}
+:do { add address=195.137.224.0/24 list=IP-DE } on-error={}
+:do { add address=195.137.225.0/24 list=IP-DE } on-error={}
 :do { add address=195.137.226.0/23 list=IP-DE } on-error={}
 :do { add address=195.137.231.0/24 list=IP-DE } on-error={}
 :do { add address=195.137.234.0/23 list=IP-DE } on-error={}

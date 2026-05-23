@@ -1,4 +1,4 @@
-# Last update: 2026-05-23 08:03:12 UTC
+# Last update: 2026-05-23 10:19:38 UTC
 # Country: KE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=KE&v4_format=prefix
 
@@ -454,7 +454,6 @@
 :do { add address=195.202.64.0/19 list=IP-KE } on-error={}
 :do { add address=196.1.4.0/24 list=IP-KE } on-error={}
 :do { add address=196.1.116.0/23 list=IP-KE } on-error={}
-:do { add address=196.1.131.0/24 list=IP-KE } on-error={}
 :do { add address=196.1.132.0/24 list=IP-KE } on-error={}
 :do { add address=196.3.58.0/23 list=IP-KE } on-error={}
 :do { add address=196.6.202.0/23 list=IP-KE } on-error={}
