@@ -1,4 +1,4 @@
-# Last update: 2026-05-24 06:25:35 UTC
+# Last update: 2026-05-24 09:12:02 UTC
 # Country: IN
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=IN&v4_format=prefix
 
@@ -1576,7 +1576,9 @@
 :do { add address=2001:df7:c80::/48 list=INv6 } on-error={}
 :do { add address=2001:df7:d80::/48 list=INv6 } on-error={}
 :do { add address=2001:df7:e80::/48 list=INv6 } on-error={}
+:do { add address=2001:df7:f40::/48 list=INv6 } on-error={}
 :do { add address=2001:df7:f80::/48 list=INv6 } on-error={}
+:do { add address=2001:df7:fc0::/48 list=INv6 } on-error={}
 :do { add address=2001:df7:1080::/48 list=INv6 } on-error={}
 :do { add address=2001:df7:1180::/48 list=INv6 } on-error={}
 :do { add address=2001:df7:1380::/48 list=INv6 } on-error={}
