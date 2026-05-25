@@ -1,4 +1,4 @@
-# Last update: 2026-05-25 18:22:08 UTC
+# Last update: 2026-05-25 20:17:19 UTC
 # Country: AT
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=AT&v4_format=prefix
 
