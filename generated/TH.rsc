@@ -1,4 +1,4 @@
-# Last update: 2026-05-25 06:59:51 UTC
+# Last update: 2026-05-25 11:11:10 UTC
 # Country: TH
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=TH&v4_format=prefix
 
@@ -227,6 +227,7 @@
 :do { add address=2602:f8f4::/40 list=THv6 } on-error={}
 :do { add address=2602:f8f8::/40 list=THv6 } on-error={}
 :do { add address=2602:f8fb::/40 list=THv6 } on-error={}
+:do { add address=2602:fb26::/36 list=THv6 } on-error={}
 
 /ip firewall address-list remove [/ip firewall address-list find list=IP-TH]
 /ip firewall address-list
@@ -243,6 +244,7 @@
 :do { add address=14.128.9.0/24 list=IP-TH } on-error={}
 :do { add address=14.128.10.0/23 list=IP-TH } on-error={}
 :do { add address=14.207.0.0/16 list=IP-TH } on-error={}
+:do { add address=23.140.40.0/24 list=IP-TH } on-error={}
 :do { add address=23.141.92.0/24 list=IP-TH } on-error={}
 :do { add address=23.154.180.0/24 list=IP-TH } on-error={}
 :do { add address=23.155.20.0/24 list=IP-TH } on-error={}
@@ -781,6 +783,7 @@
 :do { add address=139.5.144.0/22 list=IP-TH } on-error={}
 :do { add address=140.149.0.0/16 list=IP-TH } on-error={}
 :do { add address=141.140.32.0/19 list=IP-TH } on-error={}
+:do { add address=141.195.112.0/22 list=IP-TH } on-error={}
 :do { add address=143.92.110.0/23 list=IP-TH } on-error={}
 :do { add address=146.88.32.0/19 list=IP-TH } on-error={}
 :do { add address=147.50.0.0/19 list=IP-TH } on-error={}
