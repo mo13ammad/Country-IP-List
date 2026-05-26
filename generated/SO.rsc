@@ -1,4 +1,4 @@
-# Last update: 2026-05-26 06:05:32 UTC
+# Last update: 2026-05-26 13:43:58 UTC
 # Country: SO
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SO&v4_format=prefix
 
