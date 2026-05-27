@@ -1,4 +1,4 @@
-# Last update: 2026-05-27 05:07:20 UTC
+# Last update: 2026-05-27 08:57:50 UTC
 # Country: NL
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=NL&v4_format=prefix
 
@@ -4856,6 +4856,7 @@
 :do { add address=172.255.192.0/20 list=IP-NL } on-error={}
 :do { add address=172.255.224.0/20 list=IP-NL } on-error={}
 :do { add address=172.255.248.0/21 list=IP-NL } on-error={}
+:do { add address=173.209.0.0/19 list=IP-NL } on-error={}
 :do { add address=173.234.68.0/22 list=IP-NL } on-error={}
 :do { add address=173.234.128.0/21 list=IP-NL } on-error={}
 :do { add address=173.243.96.0/20 list=IP-NL } on-error={}
@@ -5715,7 +5716,9 @@
 :do { add address=185.150.24.0/22 list=IP-NL } on-error={}
 :do { add address=185.150.56.0/22 list=IP-NL } on-error={}
 :do { add address=185.150.68.0/22 list=IP-NL } on-error={}
-:do { add address=185.150.156.0/22 list=IP-NL } on-error={}
+:do { add address=185.150.156.0/23 list=IP-NL } on-error={}
+:do { add address=185.150.158.0/24 list=IP-NL } on-error={}
+:do { add address=185.150.159.0/24 list=IP-NL } on-error={}
 :do { add address=185.150.184.0/22 list=IP-NL } on-error={}
 :do { add address=185.150.188.0/24 list=IP-NL } on-error={}
 :do { add address=185.150.208.0/22 list=IP-NL } on-error={}

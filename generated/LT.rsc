@@ -1,4 +1,4 @@
-# Last update: 2026-05-27 05:07:20 UTC
+# Last update: 2026-05-27 08:57:50 UTC
 # Country: LT
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=LT&v4_format=prefix
 
@@ -1129,7 +1129,6 @@
 :do { add address=91.228.84.0/22 list=IP-LT } on-error={}
 :do { add address=91.229.114.0/24 list=IP-LT } on-error={}
 :do { add address=91.230.12.0/22 list=IP-LT } on-error={}
-:do { add address=91.231.76.0/22 list=IP-LT } on-error={}
 :do { add address=91.233.176.0/22 list=IP-LT } on-error={}
 :do { add address=91.234.192.0/24 list=IP-LT } on-error={}
 :do { add address=91.234.200.0/24 list=IP-LT } on-error={}
