@@ -1,10 +1,11 @@
-# Last update: 2026-05-29 05:02:44 UTC
+# Last update: 2026-05-29 12:38:15 UTC
 # Country: GG
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GG&v4_format=prefix
 
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list=GGv6]
 /ipv6 firewall address-list
 :do { add address=2a00:8300::/32 list=GGv6 } on-error={}
+:do { add address=2a01:b00::/29 list=GGv6 } on-error={}
 :do { add address=2a01:5480::/32 list=GGv6 } on-error={}
 :do { add address=2a03:7aa0::/32 list=GGv6 } on-error={}
 :do { add address=2a04:6b40::/29 list=GGv6 } on-error={}

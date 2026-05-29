@@ -1,10 +1,11 @@
-# Last update: 2026-05-29 05:02:44 UTC
+# Last update: 2026-05-29 12:38:15 UTC
 # Country: KZ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=KZ&v4_format=prefix
 
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list=KZv6]
 /ipv6 firewall address-list
 :do { add address=2001:678:98::/48 list=KZv6 } on-error={}
+:do { add address=2001:67c:3ac::/48 list=KZv6 } on-error={}
 :do { add address=2001:67c:9e8::/48 list=KZv6 } on-error={}
 :do { add address=2001:67c:129c::/48 list=KZv6 } on-error={}
 :do { add address=2001:67c:14a8::/48 list=KZv6 } on-error={}
