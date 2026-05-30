@@ -1,4 +1,4 @@
-# Last update: 2026-05-30 11:59:58 UTC
+# Last update: 2026-05-30 13:41:42 UTC
 # Country: FO
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=FO&v4_format=prefix
 
