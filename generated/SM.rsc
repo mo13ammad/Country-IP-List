@@ -1,4 +1,4 @@
-# Last update: 2026-05-30 16:00:56 UTC
+# Last update: 2026-05-30 17:55:21 UTC
 # Country: SM
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SM&v4_format=prefix
 
