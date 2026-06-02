@@ -1,4 +1,4 @@
-# Last update: 2026-06-02 05:20:18 UTC
+# Last update: 2026-06-02 09:58:45 UTC
 # Country: CY
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CY&v4_format=prefix
 
@@ -779,6 +779,7 @@
 :do { add address=185.149.20.0/22 list=IP-CY } on-error={}
 :do { add address=185.149.88.0/22 list=IP-CY } on-error={}
 :do { add address=185.153.180.0/22 list=IP-CY } on-error={}
+:do { add address=185.156.48.0/24 list=IP-CY } on-error={}
 :do { add address=185.156.108.0/22 list=IP-CY } on-error={}
 :do { add address=185.159.87.0/24 list=IP-CY } on-error={}
 :do { add address=185.160.204.0/24 list=IP-CY } on-error={}
