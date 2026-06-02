@@ -1,4 +1,4 @@
-# Last update: 2026-06-02 18:04:49 UTC
+# Last update: 2026-06-02 21:39:04 UTC
 # Country: QA
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=QA&v4_format=prefix
 
