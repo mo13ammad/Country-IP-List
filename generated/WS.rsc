@@ -1,4 +1,4 @@
-# Last update: 2026-06-02 23:25:04 UTC
+# Last update: 2026-06-03 02:36:04 UTC
 # Country: WS
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=WS&v4_format=prefix
 
