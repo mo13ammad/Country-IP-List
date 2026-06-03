@@ -1,4 +1,4 @@
-# Last update: 2026-06-03 12:28:14 UTC
+# Last update: 2026-06-03 17:54:07 UTC
 # Country: MZ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MZ&v4_format=prefix
 

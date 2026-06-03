@@ -1,4 +1,4 @@
-# Last update: 2026-06-03 12:28:14 UTC
+# Last update: 2026-06-03 17:54:07 UTC
 # Country: BI
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BI&v4_format=prefix
 
