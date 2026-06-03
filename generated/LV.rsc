@@ -1,4 +1,4 @@
-# Last update: 2026-06-03 07:29:05 UTC
+# Last update: 2026-06-03 12:28:14 UTC
 # Country: LV
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=LV&v4_format=prefix
 
@@ -326,6 +326,7 @@
 :do { add address=178.250.184.0/22 list=IP-LV } on-error={}
 :do { add address=178.250.188.0/23 list=IP-LV } on-error={}
 :do { add address=178.250.190.0/23 list=IP-LV } on-error={}
+:do { add address=185.1.202.0/23 list=IP-LV } on-error={}
 :do { add address=185.1.236.0/24 list=IP-LV } on-error={}
 :do { add address=185.3.148.0/22 list=IP-LV } on-error={}
 :do { add address=185.7.236.0/22 list=IP-LV } on-error={}

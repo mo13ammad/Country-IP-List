@@ -1,10 +1,9 @@
-# Last update: 2026-06-03 07:29:05 UTC
+# Last update: 2026-06-03 12:28:14 UTC
 # Country: BZ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BZ&v4_format=prefix
 
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list=BZv6]
 /ipv6 firewall address-list
-:do { add address=2001:67c:255c::/48 list=BZv6 } on-error={}
 :do { add address=2800:410::/32 list=BZv6 } on-error={}
 :do { add address=2803:b4::/32 list=BZv6 } on-error={}
 :do { add address=2803:160::/32 list=BZv6 } on-error={}
