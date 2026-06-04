@@ -1,4 +1,4 @@
-# Last update: 2026-06-04 05:48:29 UTC
+# Last update: 2026-06-04 09:40:09 UTC
 # Country: LA
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=LA&v4_format=prefix
 
@@ -73,6 +73,7 @@
 :do { add address=139.5.156.0/22 list=IP-LA } on-error={}
 :do { add address=141.164.96.0/20 list=IP-LA } on-error={}
 :do { add address=157.15.126.0/23 list=IP-LA } on-error={}
+:do { add address=157.85.32.0/19 list=IP-LA } on-error={}
 :do { add address=157.119.180.0/22 list=IP-LA } on-error={}
 :do { add address=160.22.40.0/23 list=IP-LA } on-error={}
 :do { add address=160.187.128.0/23 list=IP-LA } on-error={}

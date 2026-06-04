@@ -1,4 +1,4 @@
-# Last update: 2026-06-04 05:48:29 UTC
+# Last update: 2026-06-04 09:40:09 UTC
 # Country: DO
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=DO&v4_format=prefix
 
@@ -372,3 +372,4 @@
 :do { add address=201.229.128.0/18 list=IP-DO } on-error={}
 :do { add address=201.229.192.0/18 list=IP-DO } on-error={}
 :do { add address=204.126.128.0/23 list=IP-DO } on-error={}
+:do { add address=205.233.76.0/22 list=IP-DO } on-error={}
