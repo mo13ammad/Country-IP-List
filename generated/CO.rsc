@@ -1,4 +1,4 @@
-# Last update: 2026-06-04 12:36:20 UTC
+# Last update: 2026-06-05 15:46:44 UTC
 # Country: CO
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CO&v4_format=prefix
 
@@ -471,6 +471,7 @@
 :do { add address=2803:26c0::/32 list=COv6 } on-error={}
 :do { add address=2803:2750::/32 list=COv6 } on-error={}
 :do { add address=2803:28d0::/32 list=COv6 } on-error={}
+:do { add address=2803:2930::/32 list=COv6 } on-error={}
 :do { add address=2803:2990::/32 list=COv6 } on-error={}
 :do { add address=2803:2a80::/32 list=COv6 } on-error={}
 :do { add address=2803:2b50::/32 list=COv6 } on-error={}
