@@ -1,4 +1,4 @@
-# Last update: 2026-06-06 15:03:56 UTC
+# Last update: 2026-06-06 20:01:59 UTC
 # Country: MA
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MA&v4_format=prefix
 
