@@ -1,4 +1,4 @@
-# Last update: 2026-06-07 06:56:08 UTC
+# Last update: 2026-06-07 09:55:25 UTC
 # Country: LY
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=LY&v4_format=prefix
 
@@ -8,6 +8,7 @@
 :do { add address=2001:43f8:16b0::/48 list=LYv6 } on-error={}
 :do { add address=2c0f:9c0::/32 list=LYv6 } on-error={}
 :do { add address=2c0f:a40::/32 list=LYv6 } on-error={}
+:do { add address=2c0f:ea0::/32 list=LYv6 } on-error={}
 :do { add address=2c0f:14c0::/32 list=LYv6 } on-error={}
 :do { add address=2c0f:1f40::/32 list=LYv6 } on-error={}
 :do { add address=2c0f:3200::/32 list=LYv6 } on-error={}

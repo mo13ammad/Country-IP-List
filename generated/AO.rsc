@@ -1,4 +1,4 @@
-# Last update: 2026-06-07 06:56:08 UTC
+# Last update: 2026-06-07 09:55:25 UTC
 # Country: AO
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=AO&v4_format=prefix
 
@@ -75,6 +75,7 @@
 :do { add address=102.203.240.0/22 list=IP-AO } on-error={}
 :do { add address=102.203.244.0/22 list=IP-AO } on-error={}
 :do { add address=102.203.248.0/22 list=IP-AO } on-error={}
+:do { add address=102.203.252.0/22 list=IP-AO } on-error={}
 :do { add address=102.204.164.0/22 list=IP-AO } on-error={}
 :do { add address=102.204.192.0/22 list=IP-AO } on-error={}
 :do { add address=102.205.75.0/24 list=IP-AO } on-error={}
