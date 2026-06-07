@@ -1,4 +1,4 @@
-# Last update: 2026-06-07 13:15:56 UTC
+# Last update: 2026-06-07 22:00:53 UTC
 # Country: MK
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MK&v4_format=prefix
 

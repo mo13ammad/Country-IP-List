@@ -1,4 +1,4 @@
-# Last update: 2026-06-07 19:03:18 UTC
+# Last update: 2026-06-07 22:00:53 UTC
 # Country: BO
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BO&v4_format=prefix
 
