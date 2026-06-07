@@ -1,4 +1,4 @@
-# Last update: 2026-06-07 15:16:36 UTC
+# Last update: 2026-06-07 20:58:23 UTC
 # Country: NE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=NE&v4_format=prefix
 
