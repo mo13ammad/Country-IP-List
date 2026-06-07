@@ -1,4 +1,4 @@
-# Last update: 2026-06-07 06:56:08 UTC
+# Last update: 2026-06-07 11:41:16 UTC
 # Country: MY
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MY&v4_format=prefix
 
@@ -930,6 +930,7 @@
 :do { add address=124.217.224.0/19 list=IP-MY } on-error={}
 :do { add address=130.12.56.0/22 list=IP-MY } on-error={}
 :do { add address=131.143.128.0/22 list=IP-MY } on-error={}
+:do { add address=134.65.126.0/23 list=IP-MY } on-error={}
 :do { add address=135.84.232.0/21 list=IP-MY } on-error={}
 :do { add address=137.59.80.0/22 list=IP-MY } on-error={}
 :do { add address=137.59.108.0/22 list=IP-MY } on-error={}
