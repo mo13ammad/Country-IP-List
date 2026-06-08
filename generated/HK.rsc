@@ -1,4 +1,4 @@
-# Last update: 2026-06-08 02:45:02 UTC
+# Last update: 2026-06-08 12:19:31 UTC
 # Country: HK
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=HK&v4_format=prefix
 
