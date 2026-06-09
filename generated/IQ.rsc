@@ -1,4 +1,4 @@
-# Last update: 2026-06-09 09:39:48 UTC
+# Last update: 2026-06-09 12:29:40 UTC
 # Country: IQ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=IQ&v4_format=prefix
 
