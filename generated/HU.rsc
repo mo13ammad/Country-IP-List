@@ -1,4 +1,4 @@
-# Last update: 2026-06-09 05:58:52 UTC
+# Last update: 2026-06-09 09:39:48 UTC
 # Country: HU
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=HU&v4_format=prefix
 
@@ -1093,4 +1093,5 @@
 :do { add address=217.144.56.0/21 list=IP-HU } on-error={}
 :do { add address=217.150.128.0/20 list=IP-HU } on-error={}
 :do { add address=217.173.32.0/20 list=IP-HU } on-error={}
+:do { add address=217.180.20.0/23 list=IP-HU } on-error={}
 :do { add address=217.197.176.0/20 list=IP-HU } on-error={}

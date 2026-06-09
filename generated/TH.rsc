@@ -1,4 +1,4 @@
-# Last update: 2026-06-09 05:58:52 UTC
+# Last update: 2026-06-09 09:39:48 UTC
 # Country: TH
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=TH&v4_format=prefix
 

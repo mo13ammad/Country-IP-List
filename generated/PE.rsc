@@ -1,4 +1,4 @@
-# Last update: 2026-06-09 05:58:52 UTC
+# Last update: 2026-06-09 09:39:48 UTC
 # Country: PE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PE&v4_format=prefix
 
@@ -208,6 +208,7 @@
 :do { add address=2803:e790::/32 list=PEv6 } on-error={}
 :do { add address=2803:e850::/32 list=PEv6 } on-error={}
 :do { add address=2803:e890::/32 list=PEv6 } on-error={}
+:do { add address=2803:e930::/32 list=PEv6 } on-error={}
 :do { add address=2803:e990::/32 list=PEv6 } on-error={}
 :do { add address=2803:eb50::/32 list=PEv6 } on-error={}
 :do { add address=2803:ec90::/32 list=PEv6 } on-error={}
