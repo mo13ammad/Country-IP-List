@@ -1,4 +1,4 @@
-# Last update: 2026-06-10 06:55:54 UTC
+# Last update: 2026-06-10 10:48:01 UTC
 # Country: TZ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=TZ&v4_format=prefix
 
@@ -122,6 +122,7 @@
 :do { add address=102.69.164.0/22 list=IP-TZ } on-error={}
 :do { add address=102.165.191.0/24 list=IP-TZ } on-error={}
 :do { add address=102.177.80.0/21 list=IP-TZ } on-error={}
+:do { add address=102.202.60.0/22 list=IP-TZ } on-error={}
 :do { add address=102.202.72.0/22 list=IP-TZ } on-error={}
 :do { add address=102.202.88.0/22 list=IP-TZ } on-error={}
 :do { add address=102.202.104.0/22 list=IP-TZ } on-error={}

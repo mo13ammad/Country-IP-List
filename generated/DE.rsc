@@ -1,4 +1,4 @@
-# Last update: 2026-06-10 06:55:54 UTC
+# Last update: 2026-06-10 10:48:01 UTC
 # Country: DE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=DE&v4_format=prefix
 
@@ -111,6 +111,7 @@
 :do { add address=2001:678:868::/48 list=DEv6 } on-error={}
 :do { add address=2001:678:878::/48 list=DEv6 } on-error={}
 :do { add address=2001:678:87c::/48 list=DEv6 } on-error={}
+:do { add address=2001:678:888::/48 list=DEv6 } on-error={}
 :do { add address=2001:678:8a0::/48 list=DEv6 } on-error={}
 :do { add address=2001:678:8ac::/48 list=DEv6 } on-error={}
 :do { add address=2001:678:8cc::/48 list=DEv6 } on-error={}
@@ -1132,14 +1133,22 @@
 :do { add address=2a01:804::/31 list=DEv6 } on-error={}
 :do { add address=2a01:808::/29 list=DEv6 } on-error={}
 :do { add address=2a01:810::/28 list=DEv6 } on-error={}
-:do { add address=2a01:820::/27 list=DEv6 } on-error={}
+:do { add address=2a01:821::/32 list=DEv6 } on-error={}
+:do { add address=2a01:822::/31 list=DEv6 } on-error={}
+:do { add address=2a01:824::/31 list=DEv6 } on-error={}
+:do { add address=2a01:826::/32 list=DEv6 } on-error={}
+:do { add address=2a01:828::/29 list=DEv6 } on-error={}
+:do { add address=2a01:830::/28 list=DEv6 } on-error={}
 :do { add address=2a01:840::/26 list=DEv6 } on-error={}
 :do { add address=2a01:880::/26 list=DEv6 } on-error={}
 :do { add address=2a01:8c1::/32 list=DEv6 } on-error={}
 :do { add address=2a01:8c2::/31 list=DEv6 } on-error={}
 :do { add address=2a01:8c4::/30 list=DEv6 } on-error={}
 :do { add address=2a01:8c8::/29 list=DEv6 } on-error={}
-:do { add address=2a01:8d0::/28 list=DEv6 } on-error={}
+:do { add address=2a01:8d1::/32 list=DEv6 } on-error={}
+:do { add address=2a01:8d2::/31 list=DEv6 } on-error={}
+:do { add address=2a01:8d4::/30 list=DEv6 } on-error={}
+:do { add address=2a01:8d8::/29 list=DEv6 } on-error={}
 :do { add address=2a01:8e0::/27 list=DEv6 } on-error={}
 :do { add address=2a01:980::/29 list=DEv6 } on-error={}
 :do { add address=2a01:b40::/29 list=DEv6 } on-error={}
