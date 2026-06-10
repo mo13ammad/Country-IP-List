@@ -1,4 +1,4 @@
-# Last update: 2026-06-10 20:07:36 UTC
+# Last update: 2026-06-10 22:45:24 UTC
 # Country: LT
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=LT&v4_format=prefix
 
