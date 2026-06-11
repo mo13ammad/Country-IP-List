@@ -1,4 +1,4 @@
-# Last update: 2026-06-11 05:18:42 UTC
+# Last update: 2026-06-11 10:00:51 UTC
 # Country: VN
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=VN&v4_format=prefix
 
@@ -519,6 +519,7 @@
 :do { add address=2001:df7:1040::/48 list=VNv6 } on-error={}
 :do { add address=2001:df7:1500::/48 list=VNv6 } on-error={}
 :do { add address=2001:df7:1700::/48 list=VNv6 } on-error={}
+:do { add address=2001:df7:1740::/48 list=VNv6 } on-error={}
 :do { add address=2001:df7:3f80::/48 list=VNv6 } on-error={}
 :do { add address=2001:df7:4080::/48 list=VNv6 } on-error={}
 :do { add address=2001:df7:4700::/48 list=VNv6 } on-error={}
