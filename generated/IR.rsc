@@ -1,4 +1,4 @@
-# Last update: 2026-06-12 16:10:12 UTC
+# Last update: 2026-06-12 18:56:34 UTC
 # Country: IR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=IR&v4_format=prefix
 
