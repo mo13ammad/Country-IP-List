@@ -1,4 +1,4 @@
-# Last update: 2026-06-12 05:24:08 UTC
+# Last update: 2026-06-12 09:53:18 UTC
 # Country: LT
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=LT&v4_format=prefix
 
@@ -82,6 +82,7 @@
 :do { add address=2a03:e080::/29 list=LTv6 } on-error={}
 :do { add address=2a03:f100::/29 list=LTv6 } on-error={}
 :do { add address=2a04:2180::/29 list=LTv6 } on-error={}
+:do { add address=2a04:4300::/29 list=LTv6 } on-error={}
 :do { add address=2a04:7a80::/29 list=LTv6 } on-error={}
 :do { add address=2a04:9640::/29 list=LTv6 } on-error={}
 :do { add address=2a04:ce00::/29 list=LTv6 } on-error={}
