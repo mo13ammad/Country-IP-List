@@ -1,4 +1,4 @@
-# Last update: 2026-06-13 19:04:23 UTC
+# Last update: 2026-06-13 20:59:57 UTC
 # Country: MO
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MO&v4_format=prefix
 
