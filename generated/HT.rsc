@@ -1,4 +1,4 @@
-# Last update: 2026-06-13 17:07:25 UTC
+# Last update: 2026-06-13 19:04:23 UTC
 # Country: HT
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=HT&v4_format=prefix
 
