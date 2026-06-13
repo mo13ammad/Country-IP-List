@@ -1,4 +1,4 @@
-# Last update: 2026-06-13 05:13:18 UTC
+# Last update: 2026-06-13 08:44:13 UTC
 # Country: PS
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PS&v4_format=prefix
 
@@ -36,6 +36,7 @@
 :do { add address=2a06:5540::/29 list=PSv6 } on-error={}
 :do { add address=2a07:8780::/29 list=PSv6 } on-error={}
 :do { add address=2a09:9900::/32 list=PSv6 } on-error={}
+:do { add address=2a09:cb80::/29 list=PSv6 } on-error={}
 :do { add address=2a0b:4d40::/29 list=PSv6 } on-error={}
 :do { add address=2a0b:73c0::/29 list=PSv6 } on-error={}
 :do { add address=2a0c:b6c0::/29 list=PSv6 } on-error={}
