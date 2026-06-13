@@ -1,4 +1,4 @@
-# Last update: 2026-06-13 11:07:40 UTC
+# Last update: 2026-06-13 13:20:29 UTC
 # Country: KI
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=KI&v4_format=prefix
 
