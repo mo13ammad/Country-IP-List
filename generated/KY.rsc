@@ -1,4 +1,4 @@
-# Last update: 2026-06-14 07:13:45 UTC
+# Last update: 2026-06-14 10:42:48 UTC
 # Country: KY
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=KY&v4_format=prefix
 
@@ -35,6 +35,7 @@
 :do { add address=192.0.4.0/22 list=IP-KY } on-error={}
 :do { add address=192.160.250.0/24 list=IP-KY } on-error={}
 :do { add address=199.201.84.0/22 list=IP-KY } on-error={}
+:do { add address=207.211.224.0/21 list=IP-KY } on-error={}
 :do { add address=208.82.216.0/22 list=IP-KY } on-error={}
 :do { add address=208.157.144.0/21 list=IP-KY } on-error={}
 :do { add address=208.168.224.0/19 list=IP-KY } on-error={}
