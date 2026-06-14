@@ -1,4 +1,4 @@
-# Last update: 2026-06-14 02:38:37 UTC
+# Last update: 2026-06-14 07:13:45 UTC
 # Country: YT
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=YT&v4_format=prefix
 
