@@ -1,4 +1,4 @@
-# Last update: 2026-06-16 06:21:33 UTC
+# Last update: 2026-06-16 12:00:13 UTC
 # Country: US
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=US&v4_format=prefix
 
@@ -10822,6 +10822,7 @@
 :do { add address=9.240.0.0/14 list=IP-US } on-error={}
 :do { add address=9.244.0.0/15 list=IP-US } on-error={}
 :do { add address=9.246.0.0/15 list=IP-US } on-error={}
+:do { add address=9.246.0.0/16 list=IP-US } on-error={}
 :do { add address=9.249.0.0/16 list=IP-US } on-error={}
 :do { add address=9.252.0.0/14 list=IP-US } on-error={}
 :do { add address=11.0.0.0/8 list=IP-US } on-error={}
@@ -35966,7 +35967,8 @@
 :do { add address=161.102.0.0/16 list=IP-US } on-error={}
 :do { add address=161.103.0.0/16 list=IP-US } on-error={}
 :do { add address=161.104.0.0/21 list=IP-US } on-error={}
-:do { add address=161.104.64.0/21 list=IP-US } on-error={}
+:do { add address=161.104.64.0/22 list=IP-US } on-error={}
+:do { add address=161.104.68.0/22 list=IP-US } on-error={}
 :do { add address=161.104.72.0/22 list=IP-US } on-error={}
 :do { add address=161.104.78.0/23 list=IP-US } on-error={}
 :do { add address=161.104.112.0/20 list=IP-US } on-error={}
