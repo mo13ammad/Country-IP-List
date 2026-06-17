@@ -1,4 +1,4 @@
-# Last update: 2026-06-17 05:57:19 UTC
+# Last update: 2026-06-17 10:43:43 UTC
 # Country: CA
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CA&v4_format=prefix
 
@@ -113,6 +113,7 @@
 :do { add address=2602:81d:7000::/44 list=CAv6 } on-error={}
 :do { add address=2602:81d:b000::/44 list=CAv6 } on-error={}
 :do { add address=2602:81e:1000::/44 list=CAv6 } on-error={}
+:do { add address=2602:f38d::/36 list=CAv6 } on-error={}
 :do { add address=2602:f3a4::/40 list=CAv6 } on-error={}
 :do { add address=2602:f3aa::/36 list=CAv6 } on-error={}
 :do { add address=2602:f3b9::/36 list=CAv6 } on-error={}
@@ -932,6 +933,7 @@
 :do { add address=2620:32:4000::/48 list=CAv6 } on-error={}
 :do { add address=2620:35:4000::/44 list=CAv6 } on-error={}
 :do { add address=2620:35:8000::/48 list=CAv6 } on-error={}
+:do { add address=2620:35:a000::/48 list=CAv6 } on-error={}
 :do { add address=2620:36:4000::/44 list=CAv6 } on-error={}
 :do { add address=2620:36:c000::/48 list=CAv6 } on-error={}
 :do { add address=2620:3d:c000::/48 list=CAv6 } on-error={}

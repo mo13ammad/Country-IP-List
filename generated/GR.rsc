@@ -1,4 +1,4 @@
-# Last update: 2026-06-17 05:57:19 UTC
+# Last update: 2026-06-17 10:43:43 UTC
 # Country: GR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GR&v4_format=prefix
 
@@ -570,6 +570,7 @@
 :do { add address=212.54.192.0/19 list=IP-GR } on-error={}
 :do { add address=212.70.192.0/19 list=IP-GR } on-error={}
 :do { add address=212.102.96.0/24 list=IP-GR } on-error={}
+:do { add address=212.108.106.0/24 list=IP-GR } on-error={}
 :do { add address=212.152.64.0/18 list=IP-GR } on-error={}
 :do { add address=212.205.0.0/16 list=IP-GR } on-error={}
 :do { add address=212.251.0.0/17 list=IP-GR } on-error={}
