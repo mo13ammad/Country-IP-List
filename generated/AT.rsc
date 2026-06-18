@@ -1,4 +1,4 @@
-# Last update: 2026-06-18 07:23:42 UTC
+# Last update: 2026-06-18 14:41:03 UTC
 # Country: AT
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=AT&v4_format=prefix
 
@@ -397,6 +397,7 @@
 :do { add address=2a06:96c0::/29 list=ATv6 } on-error={}
 :do { add address=2a06:9cc0::/29 list=ATv6 } on-error={}
 :do { add address=2a06:b340::/29 list=ATv6 } on-error={}
+:do { add address=2a06:b600::/29 list=ATv6 } on-error={}
 :do { add address=2a06:c140::/29 list=ATv6 } on-error={}
 :do { add address=2a06:c4c0::/29 list=ATv6 } on-error={}
 :do { add address=2a06:c500::/29 list=ATv6 } on-error={}
