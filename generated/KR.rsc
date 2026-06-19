@@ -1,4 +1,4 @@
-# Last update: 2026-06-19 06:05:23 UTC
+# Last update: 2026-06-19 11:11:08 UTC
 # Country: KR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=KR&v4_format=prefix
 
@@ -650,6 +650,7 @@
 :do { add address=61.255.0.0/16 list=IP-KR } on-error={}
 :do { add address=64.188.32.0/20 list=IP-KR } on-error={}
 :do { add address=85.208.212.0/22 list=IP-KR } on-error={}
+:do { add address=91.240.89.0/24 list=IP-KR } on-error={}
 :do { add address=101.1.8.0/21 list=IP-KR } on-error={}
 :do { add address=101.1.32.0/19 list=IP-KR } on-error={}
 :do { add address=101.53.64.0/19 list=IP-KR } on-error={}
@@ -1500,6 +1501,7 @@
 :do { add address=183.90.128.0/19 list=IP-KR } on-error={}
 :do { add address=183.91.192.0/18 list=IP-KR } on-error={}
 :do { add address=183.96.0.0/11 list=IP-KR } on-error={}
+:do { add address=185.130.49.0/24 list=IP-KR } on-error={}
 :do { add address=185.227.152.0/22 list=IP-KR } on-error={}
 :do { add address=192.5.90.0/24 list=IP-KR } on-error={}
 :do { add address=192.40.0.0/22 list=IP-KR } on-error={}
