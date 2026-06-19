@@ -1,4 +1,4 @@
-# Last update: 2026-06-18 22:49:41 UTC
+# Last update: 2026-06-19 00:18:25 UTC
 # Country: DJ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=DJ&v4_format=prefix
 
