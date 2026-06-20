@@ -1,4 +1,4 @@
-# Last update: 2026-06-20 06:52:57 UTC
+# Last update: 2026-06-20 09:56:28 UTC
 # Country: EE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=EE&v4_format=prefix
 
@@ -85,6 +85,7 @@
 :do { add address=2a07:1280::/32 list=EEv6 } on-error={}
 :do { add address=2a07:44c0::/29 list=EEv6 } on-error={}
 :do { add address=2a07:4dc0::/29 list=EEv6 } on-error={}
+:do { add address=2a07:7f00::/29 list=EEv6 } on-error={}
 :do { add address=2a07:8800::/29 list=EEv6 } on-error={}
 :do { add address=2a07:9000::/29 list=EEv6 } on-error={}
 :do { add address=2a07:9280::/29 list=EEv6 } on-error={}
