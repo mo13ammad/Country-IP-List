@@ -1,4 +1,4 @@
-# Last update: 2026-06-21 17:15:58 UTC
+# Last update: 2026-06-21 21:01:53 UTC
 # Country: DZ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=DZ&v4_format=prefix
 
