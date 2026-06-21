@@ -1,4 +1,4 @@
-# Last update: 2026-06-21 04:10:22 UTC
+# Last update: 2026-06-21 08:52:46 UTC
 # Country: NZ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=NZ&v4_format=prefix
 
@@ -431,7 +431,6 @@
 :do { add address=2407:7000::/32 list=NZv6 } on-error={}
 :do { add address=2407:7180::/32 list=NZv6 } on-error={}
 :do { add address=2407:7f00::/32 list=NZv6 } on-error={}
-:do { add address=2407:8300::/32 list=NZv6 } on-error={}
 :do { add address=2407:8b00::/32 list=NZv6 } on-error={}
 :do { add address=2407:99c0::/32 list=NZv6 } on-error={}
 :do { add address=2407:9d00::/32 list=NZv6 } on-error={}
@@ -467,7 +466,6 @@
 :do { add address=43.224.120.0/22 list=IP-NZ } on-error={}
 :do { add address=43.224.250.0/23 list=IP-NZ } on-error={}
 :do { add address=43.225.200.0/22 list=IP-NZ } on-error={}
-:do { add address=43.226.8.0/22 list=IP-NZ } on-error={}
 :do { add address=43.226.216.0/22 list=IP-NZ } on-error={}
 :do { add address=43.228.184.0/22 list=IP-NZ } on-error={}
 :do { add address=43.231.192.0/22 list=IP-NZ } on-error={}
@@ -963,7 +961,6 @@
 :do { add address=103.248.179.0/24 list=IP-NZ } on-error={}
 :do { add address=103.248.200.0/24 list=IP-NZ } on-error={}
 :do { add address=103.249.60.0/22 list=IP-NZ } on-error={}
-:do { add address=103.250.48.0/22 list=IP-NZ } on-error={}
 :do { add address=103.250.88.0/22 list=IP-NZ } on-error={}
 :do { add address=103.250.116.0/22 list=IP-NZ } on-error={}
 :do { add address=103.250.198.0/24 list=IP-NZ } on-error={}

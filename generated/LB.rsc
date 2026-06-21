@@ -1,4 +1,4 @@
-# Last update: 2026-06-21 04:10:22 UTC
+# Last update: 2026-06-21 08:52:46 UTC
 # Country: LB
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=LB&v4_format=prefix
 
