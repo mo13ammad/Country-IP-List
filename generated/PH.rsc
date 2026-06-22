@@ -1,4 +1,4 @@
-# Last update: 2026-06-21 22:57:36 UTC
+# Last update: 2026-06-22 06:17:43 UTC
 # Country: PH
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PH&v4_format=prefix
 
