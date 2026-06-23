@@ -1,4 +1,4 @@
-# Last update: 2026-06-23 06:37:43 UTC
+# Last update: 2026-06-23 10:26:21 UTC
 # Country: KM
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=KM&v4_format=prefix
 
@@ -9,6 +9,7 @@
 
 /ip firewall address-list remove [/ip firewall address-list find list=IP-KM]
 /ip firewall address-list
+:do { add address=102.202.32.0/22 list=IP-KM } on-error={}
 :do { add address=102.204.47.0/24 list=IP-KM } on-error={}
 :do { add address=102.207.176.0/22 list=IP-KM } on-error={}
 :do { add address=102.223.120.0/22 list=IP-KM } on-error={}

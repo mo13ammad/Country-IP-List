@@ -1,4 +1,4 @@
-# Last update: 2026-06-23 06:37:43 UTC
+# Last update: 2026-06-23 10:26:21 UTC
 # Country: GY
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GY&v4_format=prefix
 
@@ -25,6 +25,7 @@
 :do { add address=190.80.0.0/18 list=IP-GY } on-error={}
 :do { add address=190.80.64.0/18 list=IP-GY } on-error={}
 :do { add address=190.93.36.0/22 list=IP-GY } on-error={}
+:do { add address=190.97.100.0/22 list=IP-GY } on-error={}
 :do { add address=190.105.156.0/22 list=IP-GY } on-error={}
 :do { add address=190.108.196.0/22 list=IP-GY } on-error={}
 :do { add address=190.108.200.0/21 list=IP-GY } on-error={}
