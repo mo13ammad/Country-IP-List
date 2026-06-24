@@ -1,4 +1,4 @@
-# Last update: 2026-06-24 06:34:12 UTC
+# Last update: 2026-06-24 10:11:31 UTC
 # Country: GB
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GB&v4_format=prefix
 
@@ -1558,7 +1558,6 @@
 :do { add address=2a0c:3340::/29 list=GBv6 } on-error={}
 :do { add address=2a0c:3c40::/32 list=GBv6 } on-error={}
 :do { add address=2a0c:3dc0::/29 list=GBv6 } on-error={}
-:do { add address=2a0c:4080::/29 list=GBv6 } on-error={}
 :do { add address=2a0c:4380::/29 list=GBv6 } on-error={}
 :do { add address=2a0c:4980::/29 list=GBv6 } on-error={}
 :do { add address=2a0c:49c0::/29 list=GBv6 } on-error={}
@@ -2014,6 +2013,8 @@
 :do { add address=2a14:2ec0::/29 list=GBv6 } on-error={}
 :do { add address=2a14:3000::/29 list=GBv6 } on-error={}
 :do { add address=2a14:33c0::/29 list=GBv6 } on-error={}
+:do { add address=2a14:3b80::/29 list=GBv6 } on-error={}
+:do { add address=2a14:3d80::/29 list=GBv6 } on-error={}
 :do { add address=2a14:3f80::/29 list=GBv6 } on-error={}
 :do { add address=2a14:4180::/29 list=GBv6 } on-error={}
 :do { add address=2a14:4340::/29 list=GBv6 } on-error={}
@@ -3374,6 +3375,8 @@
 :do { add address=78.41.208.0/21 list=IP-GB } on-error={}
 :do { add address=78.86.0.0/16 list=IP-GB } on-error={}
 :do { add address=78.105.0.0/16 list=IP-GB } on-error={}
+:do { add address=78.108.114.0/24 list=IP-GB } on-error={}
+:do { add address=78.108.121.0/24 list=IP-GB } on-error={}
 :do { add address=78.109.0.0/20 list=IP-GB } on-error={}
 :do { add address=78.109.160.0/20 list=IP-GB } on-error={}
 :do { add address=78.109.176.0/20 list=IP-GB } on-error={}
@@ -6239,6 +6242,7 @@
 :do { add address=171.22.104.0/22 list=IP-GB } on-error={}
 :do { add address=171.22.172.0/22 list=IP-GB } on-error={}
 :do { add address=171.22.224.0/22 list=IP-GB } on-error={}
+:do { add address=171.25.216.0/24 list=IP-GB } on-error={}
 :do { add address=171.28.0.0/15 list=IP-GB } on-error={}
 :do { add address=171.30.0.0/16 list=IP-GB } on-error={}
 :do { add address=171.33.144.0/21 list=IP-GB } on-error={}

@@ -1,4 +1,4 @@
-# Last update: 2026-06-24 06:34:12 UTC
+# Last update: 2026-06-24 10:11:31 UTC
 # Country: RO
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=RO&v4_format=prefix
 
@@ -527,6 +527,7 @@
 :do { add address=78.31.56.0/21 list=IP-RO } on-error={}
 :do { add address=78.31.128.0/21 list=IP-RO } on-error={}
 :do { add address=78.96.0.0/15 list=IP-RO } on-error={}
+:do { add address=78.108.122.0/24 list=IP-RO } on-error={}
 :do { add address=79.110.52.0/22 list=IP-RO } on-error={}
 :do { add address=79.114.0.0/15 list=IP-RO } on-error={}
 :do { add address=79.118.0.0/15 list=IP-RO } on-error={}
