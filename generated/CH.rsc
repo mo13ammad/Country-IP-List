@@ -1,4 +1,4 @@
-# Last update: 2026-06-25 06:37:43 UTC
+# Last update: 2026-06-25 10:00:20 UTC
 # Country: CH
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CH&v4_format=prefix
 
@@ -142,6 +142,7 @@
 :do { add address=2001:67c:22dc::/48 list=CHv6 } on-error={}
 :do { add address=2001:67c:22e8::/48 list=CHv6 } on-error={}
 :do { add address=2001:67c:2350::/48 list=CHv6 } on-error={}
+:do { add address=2001:67c:23b4::/48 list=CHv6 } on-error={}
 :do { add address=2001:67c:2488::/48 list=CHv6 } on-error={}
 :do { add address=2001:67c:2540::/48 list=CHv6 } on-error={}
 :do { add address=2001:67c:258c::/48 list=CHv6 } on-error={}
@@ -464,7 +465,6 @@
 :do { add address=2a04:5640::/29 list=CHv6 } on-error={}
 :do { add address=2a04:5a40::/29 list=CHv6 } on-error={}
 :do { add address=2a04:5c80::/29 list=CHv6 } on-error={}
-:do { add address=2a04:6d40::/29 list=CHv6 } on-error={}
 :do { add address=2a04:7640::/29 list=CHv6 } on-error={}
 :do { add address=2a04:97c0::/29 list=CHv6 } on-error={}
 :do { add address=2a04:a2c0::/29 list=CHv6 } on-error={}
@@ -735,7 +735,6 @@
 :do { add address=2a0d:ed80::/32 list=CHv6 } on-error={}
 :do { add address=2a0e:1080::/29 list=CHv6 } on-error={}
 :do { add address=2a0e:1540::/29 list=CHv6 } on-error={}
-:do { add address=2a0e:1ac0::/29 list=CHv6 } on-error={}
 :do { add address=2a0e:2400::/29 list=CHv6 } on-error={}
 :do { add address=2a0e:2b80::/32 list=CHv6 } on-error={}
 :do { add address=2a0e:3080::/29 list=CHv6 } on-error={}
@@ -998,7 +997,6 @@
 :do { add address=45.88.24.0/22 list=IP-CH } on-error={}
 :do { add address=45.89.0.0/22 list=IP-CH } on-error={}
 :do { add address=45.91.204.0/22 list=IP-CH } on-error={}
-:do { add address=45.91.228.0/24 list=IP-CH } on-error={}
 :do { add address=45.92.108.0/22 list=IP-CH } on-error={}
 :do { add address=45.93.88.0/22 list=IP-CH } on-error={}
 :do { add address=45.94.88.0/22 list=IP-CH } on-error={}
@@ -1969,7 +1967,6 @@
 :do { add address=185.35.60.0/22 list=IP-CH } on-error={}
 :do { add address=185.35.252.0/22 list=IP-CH } on-error={}
 :do { add address=185.36.220.0/22 list=IP-CH } on-error={}
-:do { add address=185.36.224.0/22 list=IP-CH } on-error={}
 :do { add address=185.37.72.0/22 list=IP-CH } on-error={}
 :do { add address=185.38.64.0/22 list=IP-CH } on-error={}
 :do { add address=185.39.32.0/22 list=IP-CH } on-error={}

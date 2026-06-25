@@ -1,4 +1,4 @@
-# Last update: 2026-06-25 06:37:43 UTC
+# Last update: 2026-06-25 10:00:20 UTC
 # Country: AM
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=AM&v4_format=prefix
 
@@ -23,7 +23,6 @@
 :do { add address=2a02:29f8::/32 list=AMv6 } on-error={}
 :do { add address=2a02:2a50::/29 list=AMv6 } on-error={}
 :do { add address=2a02:5960::/32 list=AMv6 } on-error={}
-:do { add address=2a03:5e0::/32 list=AMv6 } on-error={}
 :do { add address=2a03:1080::/32 list=AMv6 } on-error={}
 :do { add address=2a03:1900::/29 list=AMv6 } on-error={}
 :do { add address=2a03:2300::/29 list=AMv6 } on-error={}

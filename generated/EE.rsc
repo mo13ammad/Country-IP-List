@@ -1,4 +1,4 @@
-# Last update: 2026-06-25 06:37:43 UTC
+# Last update: 2026-06-25 10:00:20 UTC
 # Country: EE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=EE&v4_format=prefix
 
@@ -75,7 +75,6 @@
 :do { add address=2a05:4280::/29 list=EEv6 } on-error={}
 :do { add address=2a05:cfc0::/29 list=EEv6 } on-error={}
 :do { add address=2a06:9c0::/29 list=EEv6 } on-error={}
-:do { add address=2a06:22c0::/29 list=EEv6 } on-error={}
 :do { add address=2a06:6b00::/29 list=EEv6 } on-error={}
 :do { add address=2a06:a980::/29 list=EEv6 } on-error={}
 :do { add address=2a06:dd01::/32 list=EEv6 } on-error={}
@@ -94,11 +93,8 @@
 :do { add address=2a07:ddc0::/29 list=EEv6 } on-error={}
 :do { add address=2a07:e000::/29 list=EEv6 } on-error={}
 :do { add address=2a09:5840::/29 list=EEv6 } on-error={}
-:do { add address=2a09:6940::/29 list=EEv6 } on-error={}
 :do { add address=2a09:8240::/32 list=EEv6 } on-error={}
 :do { add address=2a09:c500::/29 list=EEv6 } on-error={}
-:do { add address=2a09:c840::/29 list=EEv6 } on-error={}
-:do { add address=2a09:d480::/29 list=EEv6 } on-error={}
 :do { add address=2a09:d9c0::/32 list=EEv6 } on-error={}
 :do { add address=2a09:f540::/29 list=EEv6 } on-error={}
 :do { add address=2a0a:5b40::/29 list=EEv6 } on-error={}
@@ -117,7 +113,6 @@
 :do { add address=2a0b:ba40::/29 list=EEv6 } on-error={}
 :do { add address=2a0b:f740::/29 list=EEv6 } on-error={}
 :do { add address=2a0c:1180::/29 list=EEv6 } on-error={}
-:do { add address=2a0c:36c0::/29 list=EEv6 } on-error={}
 :do { add address=2a0c:9d40::/29 list=EEv6 } on-error={}
 :do { add address=2a0c:e240::/32 list=EEv6 } on-error={}
 :do { add address=2a0d:3e40::/29 list=EEv6 } on-error={}
@@ -125,11 +120,9 @@
 :do { add address=2a0d:6b00::/29 list=EEv6 } on-error={}
 :do { add address=2a0d:8f00::/29 list=EEv6 } on-error={}
 :do { add address=2a0d:a180::/32 list=EEv6 } on-error={}
-:do { add address=2a0d:cfc0::/29 list=EEv6 } on-error={}
 :do { add address=2a0d:e500::/32 list=EEv6 } on-error={}
 :do { add address=2a0e:4440::/29 list=EEv6 } on-error={}
 :do { add address=2a0e:4940::/32 list=EEv6 } on-error={}
-:do { add address=2a0e:4c00::/29 list=EEv6 } on-error={}
 :do { add address=2a0e:7c80::/29 list=EEv6 } on-error={}
 :do { add address=2a0e:8680::/29 list=EEv6 } on-error={}
 :do { add address=2a0e:a840::/32 list=EEv6 } on-error={}
@@ -342,7 +335,6 @@
 :do { add address=91.216.86.0/24 list=IP-EE } on-error={}
 :do { add address=91.217.50.0/24 list=IP-EE } on-error={}
 :do { add address=91.217.240.0/24 list=IP-EE } on-error={}
-:do { add address=91.220.173.0/24 list=IP-EE } on-error={}
 :do { add address=91.223.243.0/24 list=IP-EE } on-error={}
 :do { add address=91.224.188.0/23 list=IP-EE } on-error={}
 :do { add address=91.231.186.0/24 list=IP-EE } on-error={}
@@ -652,6 +644,7 @@
 :do { add address=213.184.32.0/19 list=IP-EE } on-error={}
 :do { add address=213.187.224.0/20 list=IP-EE } on-error={}
 :do { add address=213.187.248.0/21 list=IP-EE } on-error={}
+:do { add address=213.218.163.0/24 list=IP-EE } on-error={}
 :do { add address=213.219.64.0/18 list=IP-EE } on-error={}
 :do { add address=213.232.236.0/24 list=IP-EE } on-error={}
 :do { add address=213.239.152.0/23 list=IP-EE } on-error={}

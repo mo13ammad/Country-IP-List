@@ -1,4 +1,4 @@
-# Last update: 2026-06-25 06:37:43 UTC
+# Last update: 2026-06-25 10:00:20 UTC
 # Country: ES
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=ES&v4_format=prefix
 
@@ -94,7 +94,6 @@
 :do { add address=2a00:7120::/32 list=ESv6 } on-error={}
 :do { add address=2a00:71c0::/32 list=ESv6 } on-error={}
 :do { add address=2a00:73c0::/32 list=ESv6 } on-error={}
-:do { add address=2a00:7720::/32 list=ESv6 } on-error={}
 :do { add address=2a00:7b00::/29 list=ESv6 } on-error={}
 :do { add address=2a00:7e60::/32 list=ESv6 } on-error={}
 :do { add address=2a00:7f00::/32 list=ESv6 } on-error={}
@@ -646,7 +645,6 @@
 :do { add address=2a0c:1a80::/29 list=ESv6 } on-error={}
 :do { add address=2a0c:1c80::/29 list=ESv6 } on-error={}
 :do { add address=2a0c:1cc0::/29 list=ESv6 } on-error={}
-:do { add address=2a0c:1f80::/29 list=ESv6 } on-error={}
 :do { add address=2a0c:21c0::/29 list=ESv6 } on-error={}
 :do { add address=2a0c:27c0::/29 list=ESv6 } on-error={}
 :do { add address=2a0c:2e80::/29 list=ESv6 } on-error={}

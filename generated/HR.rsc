@@ -1,4 +1,4 @@
-# Last update: 2026-06-25 06:37:43 UTC
+# Last update: 2026-06-25 10:00:20 UTC
 # Country: HR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=HR&v4_format=prefix
 
@@ -77,7 +77,6 @@
 :do { add address=2a13:e40::/29 list=HRv6 } on-error={}
 :do { add address=2a13:16c0::/29 list=HRv6 } on-error={}
 :do { add address=2a13:ca80::/29 list=HRv6 } on-error={}
-:do { add address=2a14:19c0::/29 list=HRv6 } on-error={}
 
 /ip firewall address-list remove [/ip firewall address-list find list=IP-HR]
 /ip firewall address-list
@@ -185,7 +184,6 @@
 :do { add address=91.234.46.0/24 list=IP-HR } on-error={}
 :do { add address=91.236.37.0/24 list=IP-HR } on-error={}
 :do { add address=91.241.53.0/24 list=IP-HR } on-error={}
-:do { add address=91.243.76.0/24 list=IP-HR } on-error={}
 :do { add address=92.242.224.0/19 list=IP-HR } on-error={}
 :do { add address=92.243.80.0/24 list=IP-HR } on-error={}
 :do { add address=93.136.0.0/13 list=IP-HR } on-error={}

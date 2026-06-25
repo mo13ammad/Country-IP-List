@@ -1,4 +1,4 @@
-# Last update: 2026-06-25 06:37:43 UTC
+# Last update: 2026-06-25 10:00:20 UTC
 # Country: PA
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PA&v4_format=prefix
 
@@ -113,9 +113,7 @@
 :do { add address=45.235.227.0/24 list=IP-PA } on-error={}
 :do { add address=45.237.184.0/22 list=IP-PA } on-error={}
 :do { add address=46.19.136.0/21 list=IP-PA } on-error={}
-:do { add address=77.73.184.0/21 list=IP-PA } on-error={}
 :do { add address=81.17.16.0/20 list=IP-PA } on-error={}
-:do { add address=92.62.208.0/20 list=IP-PA } on-error={}
 :do { add address=92.249.36.0/22 list=IP-PA } on-error={}
 :do { add address=103.86.96.0/22 list=IP-PA } on-error={}
 :do { add address=103.173.150.0/23 list=IP-PA } on-error={}

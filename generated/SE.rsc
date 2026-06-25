@@ -1,4 +1,4 @@
-# Last update: 2026-06-25 06:37:43 UTC
+# Last update: 2026-06-25 10:00:20 UTC
 # Country: SE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SE&v4_format=prefix
 
@@ -581,7 +581,6 @@
 :do { add address=2a03:d900::/32 list=SEv6 } on-error={}
 :do { add address=2a03:e580::/29 list=SEv6 } on-error={}
 :do { add address=2a03:ef00::/32 list=SEv6 } on-error={}
-:do { add address=2a03:f0c0::/32 list=SEv6 } on-error={}
 :do { add address=2a03:f440::/32 list=SEv6 } on-error={}
 :do { add address=2a03:f600::/32 list=SEv6 } on-error={}
 :do { add address=2a04:780::/29 list=SEv6 } on-error={}
@@ -796,7 +795,6 @@
 :do { add address=2a0f:9280::/29 list=SEv6 } on-error={}
 :do { add address=2a0f:95c0::/32 list=SEv6 } on-error={}
 :do { add address=2a0f:9740::/32 list=SEv6 } on-error={}
-:do { add address=2a0f:a640::/29 list=SEv6 } on-error={}
 :do { add address=2a0f:af00::/29 list=SEv6 } on-error={}
 :do { add address=2a0f:c140::/29 list=SEv6 } on-error={}
 :do { add address=2a0f:d100::/31 list=SEv6 } on-error={}
@@ -818,7 +816,6 @@
 :do { add address=2a10:da00::/29 list=SEv6 } on-error={}
 :do { add address=2a10:dd00::/29 list=SEv6 } on-error={}
 :do { add address=2a10:e240::/29 list=SEv6 } on-error={}
-:do { add address=2a10:e540::/29 list=SEv6 } on-error={}
 :do { add address=2a11:2580::/32 list=SEv6 } on-error={}
 :do { add address=2a11:4700::/29 list=SEv6 } on-error={}
 :do { add address=2a11:b3c0::/32 list=SEv6 } on-error={}
@@ -2512,7 +2509,6 @@
 :do { add address=193.160.239.0/24 list=IP-SE } on-error={}
 :do { add address=193.161.176.0/20 list=IP-SE } on-error={}
 :do { add address=193.161.236.0/22 list=IP-SE } on-error={}
-:do { add address=193.163.184.0/24 list=IP-SE } on-error={}
 :do { add address=193.164.80.0/21 list=IP-SE } on-error={}
 :do { add address=193.164.88.0/22 list=IP-SE } on-error={}
 :do { add address=193.169.164.0/23 list=IP-SE } on-error={}
@@ -2992,7 +2988,6 @@
 :do { add address=217.118.208.0/20 list=IP-SE } on-error={}
 :do { add address=217.119.160.0/20 list=IP-SE } on-error={}
 :do { add address=217.140.112.0/20 list=IP-SE } on-error={}
-:do { add address=217.142.0.0/20 list=IP-SE } on-error={}
 :do { add address=217.142.32.0/19 list=IP-SE } on-error={}
 :do { add address=217.142.128.0/18 list=IP-SE } on-error={}
 :do { add address=217.142.192.0/18 list=IP-SE } on-error={}
