@@ -1,4 +1,4 @@
-# Last update: 2026-06-26 08:46:39 UTC
+# Last update: 2026-06-26 11:36:55 UTC
 # Country: SX
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SX&v4_format=prefix
 
