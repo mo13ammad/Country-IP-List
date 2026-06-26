@@ -1,4 +1,4 @@
-# Last update: 2026-06-26 05:01:04 UTC
+# Last update: 2026-06-26 08:46:39 UTC
 # Country: TR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=TR&v4_format=prefix
 
@@ -260,7 +260,6 @@
 :do { add address=2a07:21c0::/29 list=TRv6 } on-error={}
 :do { add address=2a07:3300::/29 list=TRv6 } on-error={}
 :do { add address=2a07:4a00::/29 list=TRv6 } on-error={}
-:do { add address=2a07:5dc0::/29 list=TRv6 } on-error={}
 :do { add address=2a07:6300::/29 list=TRv6 } on-error={}
 :do { add address=2a07:7000::/29 list=TRv6 } on-error={}
 :do { add address=2a07:7580::/29 list=TRv6 } on-error={}
@@ -424,7 +423,6 @@
 :do { add address=2a0c:da40::/29 list=TRv6 } on-error={}
 :do { add address=2a0c:f340::/32 list=TRv6 } on-error={}
 :do { add address=2a0c:f3c0::/29 list=TRv6 } on-error={}
-:do { add address=2a0c:f500::/29 list=TRv6 } on-error={}
 :do { add address=2a0c:f580::/29 list=TRv6 } on-error={}
 :do { add address=2a0c:f700::/29 list=TRv6 } on-error={}
 :do { add address=2a0c:f9c0::/29 list=TRv6 } on-error={}
@@ -1499,8 +1497,6 @@
 :do { add address=161.9.0.0/16 list=IP-TR } on-error={}
 :do { add address=164.37.72.0/21 list=IP-TR } on-error={}
 :do { add address=164.40.236.0/24 list=IP-TR } on-error={}
-:do { add address=164.138.205.0/24 list=IP-TR } on-error={}
-:do { add address=164.138.207.0/24 list=IP-TR } on-error={}
 :do { add address=168.139.0.0/16 list=IP-TR } on-error={}
 :do { add address=170.62.250.0/24 list=IP-TR } on-error={}
 :do { add address=170.84.252.0/23 list=IP-TR } on-error={}
@@ -1524,9 +1520,6 @@
 :do { add address=176.98.42.0/23 list=IP-TR } on-error={}
 :do { add address=176.116.16.0/24 list=IP-TR } on-error={}
 :do { add address=176.117.96.0/21 list=IP-TR } on-error={}
-:do { add address=176.117.104.0/24 list=IP-TR } on-error={}
-:do { add address=176.117.105.0/24 list=IP-TR } on-error={}
-:do { add address=176.117.106.0/24 list=IP-TR } on-error={}
 :do { add address=176.118.179.0/24 list=IP-TR } on-error={}
 :do { add address=176.216.0.0/14 list=IP-TR } on-error={}
 :do { add address=176.220.0.0/16 list=IP-TR } on-error={}
@@ -1704,7 +1697,6 @@
 :do { add address=185.71.116.0/22 list=IP-TR } on-error={}
 :do { add address=185.71.216.0/22 list=IP-TR } on-error={}
 :do { add address=185.73.84.0/24 list=IP-TR } on-error={}
-:do { add address=185.73.86.0/24 list=IP-TR } on-error={}
 :do { add address=185.73.128.0/22 list=IP-TR } on-error={}
 :do { add address=185.76.152.0/22 list=IP-TR } on-error={}
 :do { add address=185.76.159.0/24 list=IP-TR } on-error={}
@@ -1937,6 +1929,8 @@
 :do { add address=185.185.60.0/22 list=IP-TR } on-error={}
 :do { add address=185.185.112.0/22 list=IP-TR } on-error={}
 :do { add address=185.185.232.0/22 list=IP-TR } on-error={}
+:do { add address=185.186.53.0/24 list=IP-TR } on-error={}
+:do { add address=185.186.54.0/23 list=IP-TR } on-error={}
 :do { add address=185.186.108.0/22 list=IP-TR } on-error={}
 :do { add address=185.187.104.0/22 list=IP-TR } on-error={}
 :do { add address=185.187.184.0/22 list=IP-TR } on-error={}
@@ -2288,7 +2282,6 @@
 :do { add address=193.164.9.0/24 list=IP-TR } on-error={}
 :do { add address=193.168.152.0/22 list=IP-TR } on-error={}
 :do { add address=193.169.50.0/24 list=IP-TR } on-error={}
-:do { add address=193.177.241.0/24 list=IP-TR } on-error={}
 :do { add address=193.177.244.0/24 list=IP-TR } on-error={}
 :do { add address=193.186.208.0/24 list=IP-TR } on-error={}
 :do { add address=193.187.108.0/22 list=IP-TR } on-error={}
@@ -2569,8 +2562,6 @@
 :do { add address=212.107.4.0/22 list=IP-TR } on-error={}
 :do { add address=212.108.99.0/24 list=IP-TR } on-error={}
 :do { add address=212.108.107.0/24 list=IP-TR } on-error={}
-:do { add address=212.108.114.0/24 list=IP-TR } on-error={}
-:do { add address=212.108.115.0/24 list=IP-TR } on-error={}
 :do { add address=212.108.120.0/24 list=IP-TR } on-error={}
 :do { add address=212.108.128.0/19 list=IP-TR } on-error={}
 :do { add address=212.109.96.0/19 list=IP-TR } on-error={}
