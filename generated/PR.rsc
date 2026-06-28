@@ -1,4 +1,4 @@
-# Last update: 2026-06-28 06:51:40 UTC
+# Last update: 2026-06-28 09:50:56 UTC
 # Country: PR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PR&v4_format=prefix
 
@@ -69,6 +69,7 @@
 :do { add address=2607:a380::/32 list=PRv6 } on-error={}
 :do { add address=2607:ac00::/32 list=PRv6 } on-error={}
 :do { add address=2607:b340::/32 list=PRv6 } on-error={}
+:do { add address=2607:c500::/32 list=PRv6 } on-error={}
 :do { add address=2607:c740::/32 list=PRv6 } on-error={}
 :do { add address=2607:edc0::/32 list=PRv6 } on-error={}
 :do { add address=2607:efc0::/32 list=PRv6 } on-error={}

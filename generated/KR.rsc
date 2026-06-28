@@ -1,4 +1,4 @@
-# Last update: 2026-06-28 06:51:40 UTC
+# Last update: 2026-06-28 09:50:56 UTC
 # Country: KR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=KR&v4_format=prefix
 
@@ -79,6 +79,7 @@
 :do { add address=2001:df5:8c40::/48 list=KRv6 } on-error={}
 :do { add address=2001:df5:c7c0::/48 list=KRv6 } on-error={}
 :do { add address=2001:df7:22c0::/48 list=KRv6 } on-error={}
+:do { add address=2001:df7:2940::/48 list=KRv6 } on-error={}
 :do { add address=2001:e60::/32 list=KRv6 } on-error={}
 :do { add address=2001:e70::/32 list=KRv6 } on-error={}
 :do { add address=2001:e78::/32 list=KRv6 } on-error={}
