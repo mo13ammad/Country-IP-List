@@ -1,4 +1,4 @@
-# Last update: 2026-06-29 20:46:06 UTC
+# Last update: 2026-06-29 22:02:12 UTC
 # Country: ZW
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=ZW&v4_format=prefix
 
