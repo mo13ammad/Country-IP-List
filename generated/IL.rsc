@@ -1,4 +1,4 @@
-# Last update: 2026-06-30 06:43:25 UTC
+# Last update: 2026-06-30 10:22:03 UTC
 # Country: IL
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=IL&v4_format=prefix
 
@@ -51,6 +51,7 @@
 :do { add address=2a03:cac0::/32 list=ILv6 } on-error={}
 :do { add address=2a03:d5c0::/29 list=ILv6 } on-error={}
 :do { add address=2a03:ff40::/32 list=ILv6 } on-error={}
+:do { add address=2a04:2280::/29 list=ILv6 } on-error={}
 :do { add address=2a04:22c0::/29 list=ILv6 } on-error={}
 :do { add address=2a04:28a0::/32 list=ILv6 } on-error={}
 :do { add address=2a04:7080::/29 list=ILv6 } on-error={}

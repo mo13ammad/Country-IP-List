@@ -1,4 +1,4 @@
-# Last update: 2026-06-30 06:43:25 UTC
+# Last update: 2026-06-30 10:22:03 UTC
 # Country: BG
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BG&v4_format=prefix
 
@@ -1089,7 +1089,6 @@
 :do { add address=91.222.20.0/22 list=IP-BG } on-error={}
 :do { add address=91.223.66.0/24 list=IP-BG } on-error={}
 :do { add address=91.223.123.0/24 list=IP-BG } on-error={}
-:do { add address=91.226.182.0/23 list=IP-BG } on-error={}
 :do { add address=91.228.38.0/24 list=IP-BG } on-error={}
 :do { add address=91.229.132.0/22 list=IP-BG } on-error={}
 :do { add address=91.230.6.0/23 list=IP-BG } on-error={}
