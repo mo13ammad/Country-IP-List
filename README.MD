@@ -13,14 +13,14 @@ List names inside each file:
 Replace `CC` with the 2-letter country code you want (IR, DE, US, ...).
 
 ```bash
-foreach cc in={"IR"} do={
-  :local fileName ($cc . ".rsc")
-  :local url ("https://raw.githubusercontent.com/mo13ammad/Country-IP-List/main/generated/" . $cc . ".rsc")
+:foreach cc in={"IR"} do={
+    :local fileName ($cc . ".rsc")
+    :local url ("https://raw.githubusercontent.com/mo13ammad/Country-IP-List/main/generated/" . $cc . ".rsc")
 
-  /tool fetch url=$url dst-path=$fileName mode=http
-  :delay 5
-  /import file-name=$fileName
-  /file remove $fileName
+    /tool fetch url=$url dst-path=$fileName
+    :delay 5s
+    /import file-name=$fileName
+    /file remove $fileName
 }
 ```
 
@@ -31,7 +31,7 @@ foreach cc in={"IR"} do={
   :local fileName ($cc . ".rsc")
   :local url ("https://raw.githubusercontent.com/mo13ammad/Country-IP-List/main/generated/" . $cc . ".rsc")
 
-  /tool fetch url=$url dst-path=$fileName mode=http
+  /tool fetch url=$url dst-path=$fileName 
 
   :delay 5
 
