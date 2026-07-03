@@ -1,4 +1,4 @@
-# Last update: 2026-07-03 07:53:18 UTC
+# Last update: 2026-07-03 10:23:58 UTC
 # Country: VG
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=VG&v4_format=prefix
 
@@ -141,12 +141,15 @@
 :do { add address=142.54.20.0/22 list=IP-VG } on-error={}
 :do { add address=142.249.184.0/22 list=IP-VG } on-error={}
 :do { add address=147.78.64.0/22 list=IP-VG } on-error={}
+:do { add address=148.59.160.0/24 list=IP-VG } on-error={}
 :do { add address=161.199.207.0/24 list=IP-VG } on-error={}
 :do { add address=161.199.208.0/24 list=IP-VG } on-error={}
 :do { add address=162.210.68.0/23 list=IP-VG } on-error={}
 :do { add address=162.218.24.0/22 list=IP-VG } on-error={}
 :do { add address=162.222.224.0/24 list=IP-VG } on-error={}
 :do { add address=162.251.87.0/24 list=IP-VG } on-error={}
+:do { add address=169.128.8.0/22 list=IP-VG } on-error={}
+:do { add address=169.128.112.0/22 list=IP-VG } on-error={}
 :do { add address=170.39.24.0/22 list=IP-VG } on-error={}
 :do { add address=171.22.243.0/24 list=IP-VG } on-error={}
 :do { add address=172.96.38.0/23 list=IP-VG } on-error={}
