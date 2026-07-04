@@ -1,4 +1,4 @@
-# Last update: 2026-07-04 15:55:35 UTC
+# Last update: 2026-07-04 17:53:43 UTC
 # Country: GH
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GH&v4_format=prefix
 
