@@ -1,4 +1,4 @@
-# Last update: 2026-07-05 05:52:59 UTC
+# Last update: 2026-07-05 08:36:56 UTC
 # Country: PT
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PT&v4_format=prefix
 

@@ -1,4 +1,4 @@
-# Last update: 2026-07-05 01:51:19 UTC
+# Last update: 2026-07-05 08:36:56 UTC
 # Country: CV
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CV&v4_format=prefix
 
