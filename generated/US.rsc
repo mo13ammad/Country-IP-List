@@ -1,4 +1,4 @@
-# Last update: 2026-07-05 20:08:59 UTC
+# Last update: 2026-07-05 21:48:24 UTC
 # Country: US
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=US&v4_format=prefix
 
