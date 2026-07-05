@@ -1,4 +1,4 @@
-# Last update: 2026-07-04 23:51:14 UTC
+# Last update: 2026-07-05 05:52:59 UTC
 # Country: FM
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=FM&v4_format=prefix
 

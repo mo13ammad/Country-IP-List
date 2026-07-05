@@ -1,4 +1,4 @@
-# Last update: 2026-07-05 01:51:19 UTC
+# Last update: 2026-07-05 05:52:59 UTC
 # Country: AD
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=AD&v4_format=prefix
 
