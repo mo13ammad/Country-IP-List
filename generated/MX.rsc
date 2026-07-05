@@ -1,4 +1,4 @@
-# Last update: 2026-07-05 08:36:56 UTC
+# Last update: 2026-07-05 12:09:40 UTC
 # Country: MX
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MX&v4_format=prefix
 
