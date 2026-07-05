@@ -1,4 +1,4 @@
-# Last update: 2026-07-04 23:51:14 UTC
+# Last update: 2026-07-05 01:51:19 UTC
 # Country: DE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=DE&v4_format=prefix
 
