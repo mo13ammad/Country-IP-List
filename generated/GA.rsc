@@ -1,4 +1,4 @@
-# Last update: 2026-07-07 16:15:24 UTC
+# Last update: 2026-07-07 18:52:58 UTC
 # Country: GA
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GA&v4_format=prefix
 
