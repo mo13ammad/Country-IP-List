@@ -1,4 +1,4 @@
-# Last update: 2026-07-07 10:16:25 UTC
+# Last update: 2026-07-07 13:09:19 UTC
 # Country: BL
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BL&v4_format=prefix
 
