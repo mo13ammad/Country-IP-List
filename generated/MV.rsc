@@ -1,10 +1,9 @@
-# Last update: 2026-07-08 07:23:02 UTC
+# Last update: 2026-07-08 10:04:05 UTC
 # Country: MV
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MV&v4_format=prefix
 
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list=MVv6]
 /ipv6 firewall address-list
-:do { add address=2001:dde::/48 list=MVv6 } on-error={}
 :do { add address=2001:dec:c000::/48 list=MVv6 } on-error={}
 :do { add address=2001:df0:1d00::/48 list=MVv6 } on-error={}
 :do { add address=2001:df0:1f00::/48 list=MVv6 } on-error={}
@@ -36,7 +35,6 @@
 :do { add address=103.31.84.0/22 list=IP-MV } on-error={}
 :do { add address=103.50.104.0/22 list=IP-MV } on-error={}
 :do { add address=103.55.161.0/24 list=IP-MV } on-error={}
-:do { add address=103.67.26.0/24 list=IP-MV } on-error={}
 :do { add address=103.71.57.0/24 list=IP-MV } on-error={}
 :do { add address=103.76.2.0/24 list=IP-MV } on-error={}
 :do { add address=103.84.132.0/24 list=IP-MV } on-error={}
@@ -46,7 +44,6 @@
 :do { add address=103.110.109.0/24 list=IP-MV } on-error={}
 :do { add address=103.110.110.0/23 list=IP-MV } on-error={}
 :do { add address=103.119.75.0/24 list=IP-MV } on-error={}
-:do { add address=103.141.98.0/24 list=IP-MV } on-error={}
 :do { add address=103.143.252.0/24 list=IP-MV } on-error={}
 :do { add address=103.172.31.0/24 list=IP-MV } on-error={}
 :do { add address=103.173.79.0/24 list=IP-MV } on-error={}
