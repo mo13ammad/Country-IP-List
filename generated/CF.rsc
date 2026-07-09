@@ -1,4 +1,4 @@
-# Last update: 2026-07-09 14:25:29 UTC
+# Last update: 2026-07-09 17:09:50 UTC
 # Country: CF
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CF&v4_format=prefix
 
