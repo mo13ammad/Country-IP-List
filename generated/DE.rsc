@@ -1,4 +1,4 @@
-# Last update: 2026-07-10 08:14:24 UTC
+# Last update: 2026-07-10 11:40:24 UTC
 # Country: DE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=DE&v4_format=prefix
 
@@ -351,6 +351,7 @@
 :do { add address=2001:67c:770::/48 list=DEv6 } on-error={}
 :do { add address=2001:67c:798::/48 list=DEv6 } on-error={}
 :do { add address=2001:67c:7a4::/48 list=DEv6 } on-error={}
+:do { add address=2001:67c:7d0::/48 list=DEv6 } on-error={}
 :do { add address=2001:67c:7e0::/48 list=DEv6 } on-error={}
 :do { add address=2001:67c:7e4::/48 list=DEv6 } on-error={}
 :do { add address=2001:67c:810::/48 list=DEv6 } on-error={}

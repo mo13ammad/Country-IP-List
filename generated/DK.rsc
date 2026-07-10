@@ -1,4 +1,4 @@
-# Last update: 2026-07-10 08:14:24 UTC
+# Last update: 2026-07-10 11:40:24 UTC
 # Country: DK
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=DK&v4_format=prefix
 
@@ -313,7 +313,6 @@
 :do { add address=2a0a:f680::/29 list=DKv6 } on-error={}
 :do { add address=2a0a:f880::/29 list=DKv6 } on-error={}
 :do { add address=2a0a:fdc0::/29 list=DKv6 } on-error={}
-:do { add address=2a0a:ffc0::/29 list=DKv6 } on-error={}
 :do { add address=2a0b:380::/29 list=DKv6 } on-error={}
 :do { add address=2a0b:5240::/29 list=DKv6 } on-error={}
 :do { add address=2a0b:5840::/29 list=DKv6 } on-error={}

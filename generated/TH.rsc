@@ -1,4 +1,4 @@
-# Last update: 2026-07-10 08:14:24 UTC
+# Last update: 2026-07-10 11:40:24 UTC
 # Country: TH
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=TH&v4_format=prefix
 
@@ -230,6 +230,7 @@
 :do { add address=2602:f5f3::/40 list=THv6 } on-error={}
 :do { add address=2602:f63b::/40 list=THv6 } on-error={}
 :do { add address=2602:f671::/40 list=THv6 } on-error={}
+:do { add address=2602:f8b7::/40 list=THv6 } on-error={}
 :do { add address=2602:f8f4::/40 list=THv6 } on-error={}
 :do { add address=2602:f8f8::/40 list=THv6 } on-error={}
 :do { add address=2602:f8fb::/40 list=THv6 } on-error={}
@@ -269,6 +270,7 @@
 :do { add address=23.177.168.0/24 list=IP-TH } on-error={}
 :do { add address=23.177.200.0/24 list=IP-TH } on-error={}
 :do { add address=23.178.56.0/24 list=IP-TH } on-error={}
+:do { add address=23.180.248.0/24 list=IP-TH } on-error={}
 :do { add address=27.55.0.0/16 list=IP-TH } on-error={}
 :do { add address=27.100.40.0/21 list=IP-TH } on-error={}
 :do { add address=27.123.16.0/22 list=IP-TH } on-error={}
@@ -469,6 +471,7 @@
 :do { add address=61.91.160.0/19 list=IP-TH } on-error={}
 :do { add address=61.91.192.0/18 list=IP-TH } on-error={}
 :do { add address=65.181.104.0/22 list=IP-TH } on-error={}
+:do { add address=66.208.88.0/22 list=IP-TH } on-error={}
 :do { add address=78.142.244.0/22 list=IP-TH } on-error={}
 :do { add address=83.118.0.0/17 list=IP-TH } on-error={}
 :do { add address=85.204.26.0/24 list=IP-TH } on-error={}

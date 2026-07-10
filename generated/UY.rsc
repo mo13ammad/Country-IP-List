@@ -1,4 +1,4 @@
-# Last update: 2026-07-10 08:14:24 UTC
+# Last update: 2026-07-10 11:40:24 UTC
 # Country: UY
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=UY&v4_format=prefix
 
@@ -25,6 +25,7 @@
 :do { add address=2801:14:a000::/47 list=UYv6 } on-error={}
 :do { add address=2801:17:7800::/48 list=UYv6 } on-error={}
 :do { add address=2801:1b:2000::/48 list=UYv6 } on-error={}
+:do { add address=2801:1d:8400::/48 list=UYv6 } on-error={}
 :do { add address=2801:165::/44 list=UYv6 } on-error={}
 :do { add address=2801:1b8::/44 list=UYv6 } on-error={}
 :do { add address=2801:1b8:10::/44 list=UYv6 } on-error={}
