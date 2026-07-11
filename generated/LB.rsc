@@ -1,4 +1,4 @@
-# Last update: 2026-07-11 07:03:50 UTC
+# Last update: 2026-07-11 09:14:11 UTC
 # Country: LB
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=LB&v4_format=prefix
 
@@ -185,6 +185,7 @@
 :do { add address=95.141.48.0/20 list=IP-LB } on-error={}
 :do { add address=95.214.212.0/22 list=IP-LB } on-error={}
 :do { add address=109.68.219.0/24 list=IP-LB } on-error={}
+:do { add address=109.68.221.0/24 list=IP-LB } on-error={}
 :do { add address=109.75.64.0/20 list=IP-LB } on-error={}
 :do { add address=109.110.96.0/19 list=IP-LB } on-error={}
 :do { add address=109.233.16.0/21 list=IP-LB } on-error={}
