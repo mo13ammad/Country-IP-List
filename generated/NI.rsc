@@ -1,4 +1,4 @@
-# Last update: 2026-07-14 15:14:25 UTC
+# Last update: 2026-07-14 16:59:34 UTC
 # Country: NI
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=NI&v4_format=prefix
 
