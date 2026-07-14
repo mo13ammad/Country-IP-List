@@ -1,4 +1,4 @@
-# Last update: 2026-07-14 07:01:15 UTC
+# Last update: 2026-07-14 09:43:38 UTC
 # Country: KY
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=KY&v4_format=prefix
 
@@ -15,12 +15,17 @@
 :do { add address=23.188.0.0/24 list=IP-KY } on-error={}
 :do { add address=45.144.204.0/22 list=IP-KY } on-error={}
 :do { add address=45.152.156.0/22 list=IP-KY } on-error={}
+:do { add address=62.182.168.0/21 list=IP-KY } on-error={}
 :do { add address=63.136.112.0/21 list=IP-KY } on-error={}
 :do { add address=64.239.32.0/22 list=IP-KY } on-error={}
 :do { add address=64.239.116.0/22 list=IP-KY } on-error={}
 :do { add address=74.117.216.0/21 list=IP-KY } on-error={}
 :do { add address=74.222.64.0/19 list=IP-KY } on-error={}
 :do { add address=76.76.15.0/24 list=IP-KY } on-error={}
+:do { add address=83.97.96.0/21 list=IP-KY } on-error={}
+:do { add address=89.47.52.0/24 list=IP-KY } on-error={}
+:do { add address=89.47.252.0/24 list=IP-KY } on-error={}
+:do { add address=91.202.211.0/24 list=IP-KY } on-error={}
 :do { add address=138.43.115.0/24 list=IP-KY } on-error={}
 :do { add address=138.43.248.0/22 list=IP-KY } on-error={}
 :do { add address=148.51.0.0/17 list=IP-KY } on-error={}
