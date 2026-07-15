@@ -1,4 +1,4 @@
-# Last update: 2026-07-15 07:04:43 UTC
+# Last update: 2026-07-15 09:47:04 UTC
 # Country: GT
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GT&v4_format=prefix
 
@@ -88,6 +88,8 @@
 
 /ip firewall address-list remove [/ip firewall address-list find list=IP-GT]
 /ip firewall address-list
+:do { add address=2.152.0.0/22 list=IP-GT } on-error={}
+:do { add address=2.152.4.0/23 list=IP-GT } on-error={}
 :do { add address=24.152.52.0/22 list=IP-GT } on-error={}
 :do { add address=45.4.128.0/22 list=IP-GT } on-error={}
 :do { add address=45.5.116.0/22 list=IP-GT } on-error={}
