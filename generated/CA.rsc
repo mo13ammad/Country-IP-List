@@ -1,4 +1,4 @@
-# Last update: 2026-07-16 15:23:38 UTC
+# Last update: 2026-07-16 17:00:14 UTC
 # Country: CA
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CA&v4_format=prefix
 
