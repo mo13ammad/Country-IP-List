@@ -1,4 +1,4 @@
-# Last update: 2026-07-16 13:13:57 UTC
+# Last update: 2026-07-16 15:23:38 UTC
 # Country: NL
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=NL&v4_format=prefix
 
