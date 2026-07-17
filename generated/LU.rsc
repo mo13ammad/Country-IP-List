@@ -1,4 +1,4 @@
-# Last update: 2026-07-16 23:45:47 UTC
+# Last update: 2026-07-17 01:25:48 UTC
 # Country: LU
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=LU&v4_format=prefix
 
