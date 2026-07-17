@@ -1,4 +1,4 @@
-# Last update: 2026-07-17 12:58:12 UTC
+# Last update: 2026-07-17 14:39:52 UTC
 # Country: PR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PR&v4_format=prefix
 
