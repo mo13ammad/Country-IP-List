@@ -1,4 +1,4 @@
-# Last update: 2026-07-17 20:43:29 UTC
+# Last update: 2026-07-17 21:39:43 UTC
 # Country: BS
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BS&v4_format=prefix
 
