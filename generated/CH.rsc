@@ -1,4 +1,4 @@
-# Last update: 2026-07-17 04:51:03 UTC
+# Last update: 2026-07-17 09:43:41 UTC
 # Country: CH
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CH&v4_format=prefix
 
@@ -555,7 +555,6 @@
 :do { add address=2a06:e880::/29 list=CHv6 } on-error={}
 :do { add address=2a06:fa00::/29 list=CHv6 } on-error={}
 :do { add address=2a07:600::/29 list=CHv6 } on-error={}
-:do { add address=2a07:2140::/29 list=CHv6 } on-error={}
 :do { add address=2a07:2640::/30 list=CHv6 } on-error={}
 :do { add address=2a07:2900::/27 list=CHv6 } on-error={}
 :do { add address=2a07:2d40::/29 list=CHv6 } on-error={}
@@ -569,7 +568,6 @@
 :do { add address=2a07:6cc0::/29 list=CHv6 } on-error={}
 :do { add address=2a07:6d80::/29 list=CHv6 } on-error={}
 :do { add address=2a07:7940::/29 list=CHv6 } on-error={}
-:do { add address=2a07:7980::/29 list=CHv6 } on-error={}
 :do { add address=2a07:7a80::/29 list=CHv6 } on-error={}
 :do { add address=2a07:7cc0::/29 list=CHv6 } on-error={}
 :do { add address=2a07:8700::/29 list=CHv6 } on-error={}
@@ -868,7 +866,6 @@
 :do { add address=2a14:5040::/29 list=CHv6 } on-error={}
 :do { add address=2a14:5300::/32 list=CHv6 } on-error={}
 :do { add address=2a14:5440::/29 list=CHv6 } on-error={}
-:do { add address=2a14:6080::/29 list=CHv6 } on-error={}
 :do { add address=2a14:6640::/29 list=CHv6 } on-error={}
 :do { add address=2a14:6d40::/29 list=CHv6 } on-error={}
 :do { add address=2a14:8080::/29 list=CHv6 } on-error={}
@@ -1757,7 +1754,6 @@
 :do { add address=152.88.0.0/16 list=IP-CH } on-error={}
 :do { add address=152.89.80.0/22 list=IP-CH } on-error={}
 :do { add address=152.96.0.0/16 list=IP-CH } on-error={}
-:do { add address=153.51.64.0/19 list=IP-CH } on-error={}
 :do { add address=153.75.48.0/20 list=IP-CH } on-error={}
 :do { add address=153.75.128.0/19 list=IP-CH } on-error={}
 :do { add address=153.92.41.0/24 list=IP-CH } on-error={}
