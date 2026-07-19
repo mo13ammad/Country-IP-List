@@ -1,4 +1,4 @@
-# Last update: 2026-07-19 07:24:46 UTC
+# Last update: 2026-07-19 09:41:49 UTC
 # Country: PK
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PK&v4_format=prefix
 
@@ -217,6 +217,7 @@
 :do { add address=2400:d7c0::/32 list=PKv6 } on-error={}
 :do { add address=2400:d860::/32 list=PKv6 } on-error={}
 :do { add address=2400:dce0::/32 list=PKv6 } on-error={}
+:do { add address=2400:f160::/32 list=PKv6 } on-error={}
 :do { add address=2400:fc00::/32 list=PKv6 } on-error={}
 :do { add address=2401::/32 list=PKv6 } on-error={}
 :do { add address=2401:1::/32 list=PKv6 } on-error={}
@@ -280,6 +281,7 @@
 :do { add address=2402:4ea0::/32 list=PKv6 } on-error={}
 :do { add address=2402:5a60::/32 list=PKv6 } on-error={}
 :do { add address=2402:5b60::/32 list=PKv6 } on-error={}
+:do { add address=2402:67a0::/32 list=PKv6 } on-error={}
 :do { add address=2402:7c00::/32 list=PKv6 } on-error={}
 :do { add address=2402:9640::/32 list=PKv6 } on-error={}
 :do { add address=2402:9ec0::/32 list=PKv6 } on-error={}
@@ -564,6 +566,7 @@
 :do { add address=103.121.120.0/23 list=IP-PK } on-error={}
 :do { add address=103.121.178.0/23 list=IP-PK } on-error={}
 :do { add address=103.122.158.0/23 list=IP-PK } on-error={}
+:do { add address=103.122.222.0/23 list=IP-PK } on-error={}
 :do { add address=103.123.75.0/24 list=IP-PK } on-error={}
 :do { add address=103.123.112.0/22 list=IP-PK } on-error={}
 :do { add address=103.125.60.0/24 list=IP-PK } on-error={}
@@ -954,6 +957,7 @@
 :do { add address=160.191.228.0/23 list=IP-PK } on-error={}
 :do { add address=160.236.86.0/23 list=IP-PK } on-error={}
 :do { add address=160.236.102.0/23 list=IP-PK } on-error={}
+:do { add address=160.236.112.0/23 list=IP-PK } on-error={}
 :do { add address=160.250.50.0/23 list=IP-PK } on-error={}
 :do { add address=160.250.96.0/23 list=IP-PK } on-error={}
 :do { add address=160.250.114.0/23 list=IP-PK } on-error={}
