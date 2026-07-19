@@ -1,4 +1,4 @@
-# Last update: 2026-07-19 20:00:16 UTC
+# Last update: 2026-07-19 21:39:24 UTC
 # Country: KG
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=KG&v4_format=prefix
 
