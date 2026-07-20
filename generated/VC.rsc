@@ -1,4 +1,4 @@
-# Last update: 2026-07-20 05:26:53 UTC
+# Last update: 2026-07-20 08:34:44 UTC
 # Country: VC
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=VC&v4_format=prefix
 
