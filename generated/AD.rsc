@@ -1,4 +1,4 @@
-# Last update: 2026-07-21 07:27:28 UTC
+# Last update: 2026-07-21 10:12:06 UTC
 # Country: AD
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=AD&v4_format=prefix
 
@@ -9,6 +9,7 @@
 
 /ip firewall address-list remove [/ip firewall address-list find list=IP-AD]
 /ip firewall address-list
+:do { add address=2.152.216.0/21 list=IP-AD } on-error={}
 :do { add address=46.172.224.0/19 list=IP-AD } on-error={}
 :do { add address=46.175.156.0/22 list=IP-AD } on-error={}
 :do { add address=80.80.84.0/22 list=IP-AD } on-error={}
