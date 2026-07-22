@@ -1,4 +1,4 @@
-# Last update: 2026-07-22 07:28:52 UTC
+# Last update: 2026-07-22 10:11:23 UTC
 # Country: SI
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SI&v4_format=prefix
 
@@ -474,19 +474,14 @@
 :do { add address=188.240.209.0/24 list=IP-SI } on-error={}
 :do { add address=188.241.86.0/24 list=IP-SI } on-error={}
 :do { add address=192.84.90.0/24 list=IP-SI } on-error={}
-:do { add address=192.84.93.0/24 list=IP-SI } on-error={}
-:do { add address=192.84.94.0/24 list=IP-SI } on-error={}
 :do { add address=192.84.95.0/24 list=IP-SI } on-error={}
-:do { add address=192.84.96.0/24 list=IP-SI } on-error={}
 :do { add address=192.84.97.0/24 list=IP-SI } on-error={}
-:do { add address=192.84.98.0/24 list=IP-SI } on-error={}
 :do { add address=192.84.99.0/24 list=IP-SI } on-error={}
 :do { add address=192.84.101.0/24 list=IP-SI } on-error={}
 :do { add address=192.84.102.0/24 list=IP-SI } on-error={}
 :do { add address=192.84.103.0/24 list=IP-SI } on-error={}
 :do { add address=192.84.104.0/24 list=IP-SI } on-error={}
 :do { add address=192.84.107.0/24 list=IP-SI } on-error={}
-:do { add address=192.84.108.0/24 list=IP-SI } on-error={}
 :do { add address=192.84.109.0/24 list=IP-SI } on-error={}
 :do { add address=192.109.172.0/24 list=IP-SI } on-error={}
 :do { add address=192.109.196.0/24 list=IP-SI } on-error={}

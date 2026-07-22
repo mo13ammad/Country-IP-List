@@ -1,4 +1,4 @@
-# Last update: 2026-07-22 07:28:52 UTC
+# Last update: 2026-07-22 10:11:23 UTC
 # Country: SN
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SN&v4_format=prefix
 
@@ -13,6 +13,7 @@
 :do { add address=2001:43f8:17a0::/48 list=SNv6 } on-error={}
 :do { add address=2001:43fe:7000::/48 list=SNv6 } on-error={}
 :do { add address=2001:43fe:c800::/48 list=SNv6 } on-error={}
+:do { add address=2c0f:10a0::/32 list=SNv6 } on-error={}
 :do { add address=2c0f:e960::/32 list=SNv6 } on-error={}
 :do { add address=2c0f:ee50::/32 list=SNv6 } on-error={}
 :do { add address=2c0f:ee80::/32 list=SNv6 } on-error={}
