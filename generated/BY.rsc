@@ -1,4 +1,4 @@
-# Last update: 2026-07-23 08:07:25 UTC
+# Last update: 2026-07-23 12:18:51 UTC
 # Country: BY
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BY&v4_format=prefix
 
@@ -85,6 +85,7 @@
 :do { add address=93.191.96.0/21 list=IP-BY } on-error={}
 :do { add address=95.128.64.0/21 list=IP-BY } on-error={}
 :do { add address=95.130.80.0/21 list=IP-BY } on-error={}
+:do { add address=103.167.18.0/23 list=IP-BY } on-error={}
 :do { add address=109.68.218.0/24 list=IP-BY } on-error={}
 :do { add address=109.71.190.0/24 list=IP-BY } on-error={}
 :do { add address=109.126.128.0/18 list=IP-BY } on-error={}

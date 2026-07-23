@@ -1,4 +1,4 @@
-# Last update: 2026-07-23 08:07:25 UTC
+# Last update: 2026-07-23 12:18:51 UTC
 # Country: EE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=EE&v4_format=prefix
 
@@ -636,6 +636,7 @@
 :do { add address=212.7.0.0/19 list=IP-EE } on-error={}
 :do { add address=212.23.202.0/24 list=IP-EE } on-error={}
 :do { add address=212.46.38.0/24 list=IP-EE } on-error={}
+:do { add address=212.87.160.0/19 list=IP-EE } on-error={}
 :do { add address=212.237.231.0/24 list=IP-EE } on-error={}
 :do { add address=213.5.72.0/24 list=IP-EE } on-error={}
 :do { add address=213.35.128.0/17 list=IP-EE } on-error={}
