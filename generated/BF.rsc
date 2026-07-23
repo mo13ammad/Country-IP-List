@@ -1,4 +1,4 @@
-# Last update: 2026-07-23 05:12:28 UTC
+# Last update: 2026-07-23 08:07:25 UTC
 # Country: BF
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BF&v4_format=prefix
 
