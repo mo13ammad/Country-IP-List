@@ -1,4 +1,4 @@
-# Last update: 2026-07-23 08:07:25 UTC
+# Last update: 2026-07-23 10:56:32 UTC
 # Country: IR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=IR&v4_format=prefix
 
@@ -133,7 +133,6 @@
 :do { add address=2a04:2f00::/29 list=IRv6 } on-error={}
 :do { add address=2a04:5040::/32 list=IRv6 } on-error={}
 :do { add address=2a04:5100::/29 list=IRv6 } on-error={}
-:do { add address=2a04:5b00::/29 list=IRv6 } on-error={}
 :do { add address=2a04:6980::/29 list=IRv6 } on-error={}
 :do { add address=2a04:6e00::/29 list=IRv6 } on-error={}
 :do { add address=2a04:7900::/29 list=IRv6 } on-error={}
@@ -550,9 +549,6 @@
 :do { add address=2a14:7300::/29 list=IRv6 } on-error={}
 :do { add address=2a14:7780::/29 list=IRv6 } on-error={}
 :do { add address=2a14:79c0::/29 list=IRv6 } on-error={}
-:do { add address=2a14:7c80::/29 list=IRv6 } on-error={}
-:do { add address=2a14:7d80::/29 list=IRv6 } on-error={}
-:do { add address=2a14:7e80::/29 list=IRv6 } on-error={}
 :do { add address=2a14:7f80::/29 list=IRv6 } on-error={}
 :do { add address=2a14:8380::/29 list=IRv6 } on-error={}
 :do { add address=2a14:8c00::/29 list=IRv6 } on-error={}

@@ -1,4 +1,4 @@
-# Last update: 2026-07-23 08:07:25 UTC
+# Last update: 2026-07-23 10:56:32 UTC
 # Country: ZA
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=ZA&v4_format=prefix
 
@@ -907,6 +907,7 @@
 :do { add address=102.177.112.0/20 list=IP-ZA } on-error={}
 :do { add address=102.177.128.0/18 list=IP-ZA } on-error={}
 :do { add address=102.182.0.0/16 list=IP-ZA } on-error={}
+:do { add address=102.201.228.0/22 list=IP-ZA } on-error={}
 :do { add address=102.201.236.0/22 list=IP-ZA } on-error={}
 :do { add address=102.201.254.0/23 list=IP-ZA } on-error={}
 :do { add address=102.202.20.0/22 list=IP-ZA } on-error={}
