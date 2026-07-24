@@ -1,4 +1,4 @@
-# Last update: 2026-07-24 04:57:42 UTC
+# Last update: 2026-07-24 07:27:41 UTC
 # Country: KM
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=KM&v4_format=prefix
 
