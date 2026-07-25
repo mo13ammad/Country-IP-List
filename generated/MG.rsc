@@ -1,4 +1,4 @@
-# Last update: 2026-07-25 10:59:34 UTC
+# Last update: 2026-07-25 12:01:59 UTC
 # Country: MG
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MG&v4_format=prefix
 
