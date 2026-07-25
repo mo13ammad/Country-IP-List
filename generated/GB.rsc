@@ -1,4 +1,4 @@
-# Last update: 2026-07-25 07:07:52 UTC
+# Last update: 2026-07-25 09:24:43 UTC
 # Country: GB
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GB&v4_format=prefix
 
@@ -5934,7 +5934,10 @@
 :do { add address=149.255.184.0/21 list=IP-GB } on-error={}
 :do { add address=150.204.0.0/16 list=IP-GB } on-error={}
 :do { add address=150.206.0.0/16 list=IP-GB } on-error={}
-:do { add address=150.237.0.0/16 list=IP-GB } on-error={}
+:do { add address=150.237.0.0/19 list=IP-GB } on-error={}
+:do { add address=150.237.32.0/19 list=IP-GB } on-error={}
+:do { add address=150.237.64.0/18 list=IP-GB } on-error={}
+:do { add address=150.237.128.0/17 list=IP-GB } on-error={}
 :do { add address=150.251.120.0/22 list=IP-GB } on-error={}
 :do { add address=150.251.160.0/20 list=IP-GB } on-error={}
 :do { add address=150.251.208.0/20 list=IP-GB } on-error={}
@@ -7546,8 +7549,7 @@
 :do { add address=185.164.196.0/22 list=IP-GB } on-error={}
 :do { add address=185.164.220.0/22 list=IP-GB } on-error={}
 :do { add address=185.165.50.0/23 list=IP-GB } on-error={}
-:do { add address=185.165.77.0/24 list=IP-GB } on-error={}
-:do { add address=185.165.78.0/23 list=IP-GB } on-error={}
+:do { add address=185.165.79.0/24 list=IP-GB } on-error={}
 :do { add address=185.165.92.0/24 list=IP-GB } on-error={}
 :do { add address=185.165.93.0/24 list=IP-GB } on-error={}
 :do { add address=185.165.94.0/24 list=IP-GB } on-error={}
@@ -7860,7 +7862,6 @@
 :do { add address=185.212.185.0/24 list=IP-GB } on-error={}
 :do { add address=185.213.92.0/22 list=IP-GB } on-error={}
 :do { add address=185.213.116.0/22 list=IP-GB } on-error={}
-:do { add address=185.213.123.0/24 list=IP-GB } on-error={}
 :do { add address=185.213.192.0/24 list=IP-GB } on-error={}
 :do { add address=185.213.244.0/22 list=IP-GB } on-error={}
 :do { add address=185.214.48.0/22 list=IP-GB } on-error={}

@@ -1,4 +1,4 @@
-# Last update: 2026-07-25 07:07:52 UTC
+# Last update: 2026-07-25 09:24:43 UTC
 # Country: ME
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=ME&v4_format=prefix
 
@@ -59,7 +59,6 @@
 :do { add address=185.80.96.0/22 list=IP-ME } on-error={}
 :do { add address=185.132.160.0/22 list=IP-ME } on-error={}
 :do { add address=185.147.200.0/22 list=IP-ME } on-error={}
-:do { add address=185.149.144.0/22 list=IP-ME } on-error={}
 :do { add address=185.157.120.0/24 list=IP-ME } on-error={}
 :do { add address=185.163.224.0/22 list=IP-ME } on-error={}
 :do { add address=185.179.52.0/22 list=IP-ME } on-error={}

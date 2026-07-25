@@ -1,4 +1,4 @@
-# Last update: 2026-07-25 07:07:52 UTC
+# Last update: 2026-07-25 09:24:43 UTC
 # Country: FR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=FR&v4_format=prefix
 
@@ -2205,7 +2205,7 @@
 :do { add address=85.14.128.0/18 list=IP-FR } on-error={}
 :do { add address=85.31.32.0/22 list=IP-FR } on-error={}
 :do { add address=85.31.104.0/21 list=IP-FR } on-error={}
-:do { add address=85.31.144.0/21 list=IP-FR } on-error={}
+:do { add address=85.31.144.0/22 list=IP-FR } on-error={}
 :do { add address=85.31.168.0/22 list=IP-FR } on-error={}
 :do { add address=85.31.192.0/19 list=IP-FR } on-error={}
 :do { add address=85.68.0.0/15 list=IP-FR } on-error={}
