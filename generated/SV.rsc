@@ -1,4 +1,4 @@
-# Last update: 2026-07-27 05:36:41 UTC
+# Last update: 2026-07-27 09:23:38 UTC
 # Country: SV
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SV&v4_format=prefix
 
