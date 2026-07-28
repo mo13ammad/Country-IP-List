@@ -1,4 +1,4 @@
-# Last update: 2026-07-28 22:49:41 UTC
+# Last update: 2026-07-28 23:48:12 UTC
 # Country: UA
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=UA&v4_format=prefix
 
