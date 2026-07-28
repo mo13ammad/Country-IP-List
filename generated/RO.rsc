@@ -1,4 +1,4 @@
-# Last update: 2026-07-28 07:29:43 UTC
+# Last update: 2026-07-28 10:20:13 UTC
 # Country: RO
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=RO&v4_format=prefix
 
@@ -241,7 +241,6 @@
 :do { add address=2a0f:8600::/29 list=ROv6 } on-error={}
 :do { add address=2a0f:8b80::/29 list=ROv6 } on-error={}
 :do { add address=2a0f:8dc0::/32 list=ROv6 } on-error={}
-:do { add address=2a0f:b640::/29 list=ROv6 } on-error={}
 :do { add address=2a10:52c0::/29 list=ROv6 } on-error={}
 :do { add address=2a10:71c0::/32 list=ROv6 } on-error={}
 :do { add address=2a10:7bc0::/29 list=ROv6 } on-error={}
@@ -259,7 +258,6 @@
 :do { add address=2a12:5500::/29 list=ROv6 } on-error={}
 :do { add address=2a12:5700::/29 list=ROv6 } on-error={}
 :do { add address=2a12:5f00::/29 list=ROv6 } on-error={}
-:do { add address=2a12:97c0::/29 list=ROv6 } on-error={}
 :do { add address=2a12:9dc0::/29 list=ROv6 } on-error={}
 :do { add address=2a12:aec0::/29 list=ROv6 } on-error={}
 :do { add address=2a12:cdc0::/29 list=ROv6 } on-error={}

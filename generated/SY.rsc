@@ -1,4 +1,4 @@
-# Last update: 2026-07-28 07:29:43 UTC
+# Last update: 2026-07-28 10:20:13 UTC
 # Country: SY
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SY&v4_format=prefix
 
@@ -22,6 +22,7 @@
 :do { add address=2a07:6980::/29 list=SYv6 } on-error={}
 :do { add address=2a09:b4c0::/29 list=SYv6 } on-error={}
 :do { add address=2a09:ebc0::/29 list=SYv6 } on-error={}
+:do { add address=2a0b:3640::/29 list=SYv6 } on-error={}
 :do { add address=2a0b:3840::/29 list=SYv6 } on-error={}
 :do { add address=2a0b:b6c0::/29 list=SYv6 } on-error={}
 :do { add address=2a0b:f2c0::/29 list=SYv6 } on-error={}
