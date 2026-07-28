@@ -1,4 +1,4 @@
-# Last update: 2026-07-28 04:51:33 UTC
+# Last update: 2026-07-28 07:29:43 UTC
 # Country: SZ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SZ&v4_format=prefix
 
