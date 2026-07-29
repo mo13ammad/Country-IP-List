@@ -1,4 +1,4 @@
-# Last update: 2026-07-29 18:51:25 UTC
+# Last update: 2026-07-29 20:06:19 UTC
 # Country: CH
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CH&v4_format=prefix
 
