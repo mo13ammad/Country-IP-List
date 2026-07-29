@@ -1,4 +1,4 @@
-# Last update: 2026-07-29 15:02:27 UTC
+# Last update: 2026-07-29 17:01:41 UTC
 # Country: BR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BR&v4_format=prefix
 
@@ -8950,6 +8950,8 @@
 :do { add address=2804:99d4::/32 list=BRv6 } on-error={}
 :do { add address=2804:99d8::/32 list=BRv6 } on-error={}
 :do { add address=2804:99dc::/32 list=BRv6 } on-error={}
+:do { add address=2804:99e0::/32 list=BRv6 } on-error={}
+:do { add address=2804:99e4::/32 list=BRv6 } on-error={}
 :do { add address=2a00:aee0::/29 list=BRv6 } on-error={}
 :do { add address=2a06:b700::/29 list=BRv6 } on-error={}
 
@@ -8973,7 +8975,9 @@
 :do { add address=24.152.76.0/22 list=IP-BR } on-error={}
 :do { add address=24.152.80.0/22 list=IP-BR } on-error={}
 :do { add address=24.152.84.0/22 list=IP-BR } on-error={}
-:do { add address=24.152.88.0/22 list=IP-BR } on-error={}
+:do { add address=24.152.88.0/23 list=IP-BR } on-error={}
+:do { add address=24.152.90.0/24 list=IP-BR } on-error={}
+:do { add address=24.152.91.0/24 list=IP-BR } on-error={}
 :do { add address=24.152.92.0/22 list=IP-BR } on-error={}
 :do { add address=24.152.96.0/22 list=IP-BR } on-error={}
 :do { add address=24.152.100.0/22 list=IP-BR } on-error={}

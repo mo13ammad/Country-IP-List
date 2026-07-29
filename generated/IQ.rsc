@@ -1,4 +1,4 @@
-# Last update: 2026-07-29 15:02:27 UTC
+# Last update: 2026-07-29 17:01:41 UTC
 # Country: IQ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=IQ&v4_format=prefix
 
@@ -66,7 +66,6 @@
 :do { add address=2a0a:d8c0::/29 list=IQv6 } on-error={}
 :do { add address=2a0a:d940::/29 list=IQv6 } on-error={}
 :do { add address=2a0b:1880::/29 list=IQv6 } on-error={}
-:do { add address=2a0b:2d00::/29 list=IQv6 } on-error={}
 :do { add address=2a0b:5d80::/29 list=IQv6 } on-error={}
 :do { add address=2a0b:81c0::/29 list=IQv6 } on-error={}
 :do { add address=2a0b:c640::/29 list=IQv6 } on-error={}
@@ -237,7 +236,9 @@
 :do { add address=159.255.160.0/21 list=IP-IQ } on-error={}
 :do { add address=164.138.232.0/21 list=IP-IQ } on-error={}
 :do { add address=167.160.5.0/24 list=IP-IQ } on-error={}
-:do { add address=176.28.72.0/22 list=IP-IQ } on-error={}
+:do { add address=176.28.72.0/24 list=IP-IQ } on-error={}
+:do { add address=176.28.73.0/24 list=IP-IQ } on-error={}
+:do { add address=176.28.74.0/23 list=IP-IQ } on-error={}
 :do { add address=176.28.76.0/24 list=IP-IQ } on-error={}
 :do { add address=176.28.77.0/24 list=IP-IQ } on-error={}
 :do { add address=176.28.78.0/24 list=IP-IQ } on-error={}
@@ -283,7 +284,6 @@
 :do { add address=185.58.13.0/24 list=IP-IQ } on-error={}
 :do { add address=185.58.14.0/24 list=IP-IQ } on-error={}
 :do { add address=185.58.15.0/24 list=IP-IQ } on-error={}
-:do { add address=185.63.85.0/24 list=IP-IQ } on-error={}
 :do { add address=185.65.252.0/23 list=IP-IQ } on-error={}
 :do { add address=185.65.254.0/24 list=IP-IQ } on-error={}
 :do { add address=185.65.255.0/24 list=IP-IQ } on-error={}
