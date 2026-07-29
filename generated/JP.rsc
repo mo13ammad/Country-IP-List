@@ -1,4 +1,4 @@
-# Last update: 2026-07-29 07:37:27 UTC
+# Last update: 2026-07-29 10:26:21 UTC
 # Country: JP
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=JP&v4_format=prefix
 
