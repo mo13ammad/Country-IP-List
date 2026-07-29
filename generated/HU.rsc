@@ -1,4 +1,4 @@
-# Last update: 2026-07-29 17:01:41 UTC
+# Last update: 2026-07-29 18:51:25 UTC
 # Country: HU
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=HU&v4_format=prefix
 
