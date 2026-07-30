@@ -1,10 +1,11 @@
-# Last update: 2026-07-30 07:25:11 UTC
+# Last update: 2026-07-30 10:09:02 UTC
 # Country: DZ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=DZ&v4_format=prefix
 
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list=DZv6]
 /ipv6 firewall address-list
 :do { add address=2001:4340::/32 list=DZv6 } on-error={}
+:do { add address=2c0f:11a0::/32 list=DZv6 } on-error={}
 :do { add address=2c0f:41a0::/32 list=DZv6 } on-error={}
 :do { add address=2c0f:e8b0::/32 list=DZv6 } on-error={}
 :do { add address=2c0f:ea88::/32 list=DZv6 } on-error={}
@@ -22,6 +23,7 @@
 :do { add address=80.88.12.0/22 list=IP-DZ } on-error={}
 :do { add address=80.246.0.0/20 list=IP-DZ } on-error={}
 :do { add address=80.249.64.0/20 list=IP-DZ } on-error={}
+:do { add address=102.201.204.0/22 list=IP-DZ } on-error={}
 :do { add address=102.204.112.0/22 list=IP-DZ } on-error={}
 :do { add address=102.206.40.0/22 list=IP-DZ } on-error={}
 :do { add address=102.207.216.0/22 list=IP-DZ } on-error={}
