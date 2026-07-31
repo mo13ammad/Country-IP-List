@@ -1,4 +1,4 @@
-# Last update: 2026-07-31 05:53:59 UTC
+# Last update: 2026-07-31 08:29:40 UTC
 # Country: AZ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=AZ&v4_format=prefix
 
@@ -49,6 +49,7 @@
 :do { add address=2a07:f140::/29 list=AZv6 } on-error={}
 :do { add address=2a09:ce80::/29 list=AZv6 } on-error={}
 :do { add address=2a0a:8080::/29 list=AZv6 } on-error={}
+:do { add address=2a0b:9840::/29 list=AZv6 } on-error={}
 :do { add address=2a0b:f5c0::/29 list=AZv6 } on-error={}
 :do { add address=2a0b:f9c0::/29 list=AZv6 } on-error={}
 :do { add address=2a0b:fa40::/29 list=AZv6 } on-error={}

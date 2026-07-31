@@ -1,4 +1,4 @@
-# Last update: 2026-07-31 05:53:59 UTC
+# Last update: 2026-07-31 08:29:40 UTC
 # Country: UA
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=UA&v4_format=prefix
 
@@ -2766,7 +2766,6 @@
 :do { add address=193.201.100.0/24 list=IP-UA } on-error={}
 :do { add address=193.201.105.0/24 list=IP-UA } on-error={}
 :do { add address=193.201.116.0/23 list=IP-UA } on-error={}
-:do { add address=193.201.140.0/22 list=IP-UA } on-error={}
 :do { add address=193.201.152.128/25 list=IP-UA } on-error={}
 :do { add address=193.201.175.0/24 list=IP-UA } on-error={}
 :do { add address=193.201.198.0/23 list=IP-UA } on-error={}
