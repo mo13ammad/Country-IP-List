@@ -1,4 +1,4 @@
-# Last update: 2026-08-01 07:59:04 UTC
+# Last update: 2026-08-01 09:57:13 UTC
 # Country: GB
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GB&v4_format=prefix
 
@@ -78,6 +78,7 @@
 :do { add address=2001:678:fb8::/48 list=GBv6 } on-error={}
 :do { add address=2001:678:fc8::/48 list=GBv6 } on-error={}
 :do { add address=2001:678:100c::/48 list=GBv6 } on-error={}
+:do { add address=2001:678:1018::/48 list=GBv6 } on-error={}
 :do { add address=2001:678:1028::/48 list=GBv6 } on-error={}
 :do { add address=2001:678:1054::/48 list=GBv6 } on-error={}
 :do { add address=2001:678:1068::/48 list=GBv6 } on-error={}
@@ -98,6 +99,8 @@
 :do { add address=2001:678:1250::/48 list=GBv6 } on-error={}
 :do { add address=2001:678:1284::/48 list=GBv6 } on-error={}
 :do { add address=2001:678:12bc::/48 list=GBv6 } on-error={}
+:do { add address=2001:678:12d0::/48 list=GBv6 } on-error={}
+:do { add address=2001:678:12d4::/48 list=GBv6 } on-error={}
 :do { add address=2001:67c:30::/48 list=GBv6 } on-error={}
 :do { add address=2001:67c:80::/48 list=GBv6 } on-error={}
 :do { add address=2001:67c:90::/48 list=GBv6 } on-error={}
@@ -190,6 +193,7 @@
 :do { add address=2001:67c:1970::/48 list=GBv6 } on-error={}
 :do { add address=2001:67c:19a4::/48 list=GBv6 } on-error={}
 :do { add address=2001:67c:1b24::/48 list=GBv6 } on-error={}
+:do { add address=2001:67c:1b4c::/48 list=GBv6 } on-error={}
 :do { add address=2001:67c:1b50::/48 list=GBv6 } on-error={}
 :do { add address=2001:67c:1b58::/47 list=GBv6 } on-error={}
 :do { add address=2001:67c:1bac::/48 list=GBv6 } on-error={}
@@ -1511,6 +1515,7 @@
 :do { add address=2a0b:9780::/29 list=GBv6 } on-error={}
 :do { add address=2a0b:9b00::/29 list=GBv6 } on-error={}
 :do { add address=2a0b:9f40::/29 list=GBv6 } on-error={}
+:do { add address=2a0b:a500::/29 list=GBv6 } on-error={}
 :do { add address=2a0b:a580::/29 list=GBv6 } on-error={}
 :do { add address=2a0b:a800::/29 list=GBv6 } on-error={}
 :do { add address=2a0b:aa40::/32 list=GBv6 } on-error={}

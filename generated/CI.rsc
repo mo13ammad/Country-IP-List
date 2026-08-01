@@ -1,4 +1,4 @@
-# Last update: 2026-08-01 07:59:04 UTC
+# Last update: 2026-08-01 09:57:13 UTC
 # Country: CI
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CI&v4_format=prefix
 
@@ -114,6 +114,7 @@
 :do { add address=102.135.184.0/22 list=IP-CI } on-error={}
 :do { add address=102.135.191.0/24 list=IP-CI } on-error={}
 :do { add address=102.136.0.0/14 list=IP-CI } on-error={}
+:do { add address=102.201.192.0/23 list=IP-CI } on-error={}
 :do { add address=102.201.210.0/24 list=IP-CI } on-error={}
 :do { add address=102.203.40.0/22 list=IP-CI } on-error={}
 :do { add address=102.205.12.0/22 list=IP-CI } on-error={}
