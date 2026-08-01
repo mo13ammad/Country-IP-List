@@ -1,4 +1,4 @@
-# Last update: 2026-08-01 05:14:51 UTC
+# Last update: 2026-08-01 07:59:04 UTC
 # Country: FK
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=FK&v4_format=prefix
 
