@@ -1,4 +1,4 @@
-# Last update: 2026-08-01 12:51:11 UTC
+# Last update: 2026-08-01 14:19:36 UTC
 # Country: ML
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=ML&v4_format=prefix
 
