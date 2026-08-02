@@ -1,4 +1,4 @@
-# Last update: 2026-08-02 08:00:51 UTC
+# Last update: 2026-08-02 10:23:19 UTC
 # Country: MV
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MV&v4_format=prefix
 
@@ -56,6 +56,7 @@
 :do { add address=124.195.192.0/19 list=IP-MV } on-error={}
 :do { add address=150.107.196.0/22 list=IP-MV } on-error={}
 :do { add address=151.158.209.0/24 list=IP-MV } on-error={}
+:do { add address=160.236.208.0/23 list=IP-MV } on-error={}
 :do { add address=185.215.32.0/22 list=IP-MV } on-error={}
 :do { add address=202.1.192.0/22 list=IP-MV } on-error={}
 :do { add address=202.1.196.0/22 list=IP-MV } on-error={}
