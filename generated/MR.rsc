@@ -1,4 +1,4 @@
-# Last update: 2026-08-03 01:28:36 UTC
+# Last update: 2026-08-03 05:27:41 UTC
 # Country: MR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MR&v4_format=prefix
 
