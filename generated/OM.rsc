@@ -1,4 +1,4 @@
-# Last update: 2026-08-03 15:35:11 UTC
+# Last update: 2026-08-03 17:39:14 UTC
 # Country: OM
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=OM&v4_format=prefix
 
