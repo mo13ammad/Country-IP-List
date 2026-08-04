@@ -1,4 +1,4 @@
-# Last update: 2026-08-04 11:12:38 UTC
+# Last update: 2026-08-04 13:41:08 UTC
 # Country: RW
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=RW&v4_format=prefix
 
