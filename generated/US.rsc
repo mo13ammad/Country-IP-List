@@ -1,4 +1,4 @@
-# Last update: 2026-08-04 08:13:58 UTC
+# Last update: 2026-08-04 11:12:38 UTC
 # Country: US
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=US&v4_format=prefix
 
@@ -20050,7 +20050,9 @@
 :do { add address=66.179.164.0/23 list=IP-US } on-error={}
 :do { add address=66.179.166.0/24 list=IP-US } on-error={}
 :do { add address=66.179.167.0/24 list=IP-US } on-error={}
-:do { add address=66.179.168.0/21 list=IP-US } on-error={}
+:do { add address=66.179.168.0/23 list=IP-US } on-error={}
+:do { add address=66.179.170.0/23 list=IP-US } on-error={}
+:do { add address=66.179.172.0/22 list=IP-US } on-error={}
 :do { add address=66.179.176.0/24 list=IP-US } on-error={}
 :do { add address=66.179.177.0/24 list=IP-US } on-error={}
 :do { add address=66.179.178.0/23 list=IP-US } on-error={}
@@ -34569,7 +34571,6 @@
 :do { add address=154.12.0.0/16 list=IP-US } on-error={}
 :do { add address=154.13.0.0/16 list=IP-US } on-error={}
 :do { add address=154.14.0.0/16 list=IP-US } on-error={}
-:do { add address=154.15.0.0/16 list=IP-US } on-error={}
 :do { add address=154.17.0.0/16 list=IP-US } on-error={}
 :do { add address=154.18.0.0/16 list=IP-US } on-error={}
 :do { add address=154.19.0.0/16 list=IP-US } on-error={}
