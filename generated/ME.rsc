@@ -1,4 +1,4 @@
-# Last update: 2026-08-05 07:30:05 UTC
+# Last update: 2026-08-05 10:21:44 UTC
 # Country: ME
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=ME&v4_format=prefix
 
@@ -43,7 +43,6 @@
 :do { add address=89.188.32.0/19 list=IP-ME } on-error={}
 :do { add address=91.217.138.0/24 list=IP-ME } on-error={}
 :do { add address=91.220.187.0/24 list=IP-ME } on-error={}
-:do { add address=92.42.96.0/24 list=IP-ME } on-error={}
 :do { add address=94.102.224.0/20 list=IP-ME } on-error={}
 :do { add address=94.141.120.0/22 list=IP-ME } on-error={}
 :do { add address=95.155.0.0/18 list=IP-ME } on-error={}
@@ -59,14 +58,12 @@
 :do { add address=185.80.96.0/22 list=IP-ME } on-error={}
 :do { add address=185.132.160.0/22 list=IP-ME } on-error={}
 :do { add address=185.147.200.0/22 list=IP-ME } on-error={}
-:do { add address=185.157.120.0/24 list=IP-ME } on-error={}
 :do { add address=185.163.224.0/22 list=IP-ME } on-error={}
 :do { add address=185.179.52.0/22 list=IP-ME } on-error={}
 :do { add address=185.179.92.0/22 list=IP-ME } on-error={}
 :do { add address=185.215.88.0/22 list=IP-ME } on-error={}
 :do { add address=185.255.228.0/22 list=IP-ME } on-error={}
 :do { add address=193.32.112.0/23 list=IP-ME } on-error={}
-:do { add address=195.10.205.0/24 list=IP-ME } on-error={}
 :do { add address=195.66.160.0/19 list=IP-ME } on-error={}
 :do { add address=195.140.164.0/22 list=IP-ME } on-error={}
 :do { add address=195.242.169.0/24 list=IP-ME } on-error={}

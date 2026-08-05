@@ -1,4 +1,4 @@
-# Last update: 2026-08-05 07:30:05 UTC
+# Last update: 2026-08-05 10:21:44 UTC
 # Country: CH
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CH&v4_format=prefix
 
@@ -3639,6 +3639,7 @@
 :do { add address=195.60.93.128/26 list=IP-CH } on-error={}
 :do { add address=195.60.192.0/22 list=IP-CH } on-error={}
 :do { add address=195.62.86.0/23 list=IP-CH } on-error={}
+:do { add address=195.64.114.0/24 list=IP-CH } on-error={}
 :do { add address=195.64.128.0/23 list=IP-CH } on-error={}
 :do { add address=195.64.134.0/23 list=IP-CH } on-error={}
 :do { add address=195.64.138.0/23 list=IP-CH } on-error={}

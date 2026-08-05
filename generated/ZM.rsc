@@ -1,4 +1,4 @@
-# Last update: 2026-08-05 04:52:15 UTC
+# Last update: 2026-08-05 10:21:44 UTC
 # Country: ZM
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=ZM&v4_format=prefix
 
