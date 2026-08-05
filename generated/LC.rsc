@@ -1,4 +1,4 @@
-# Last update: 2026-08-05 20:54:08 UTC
+# Last update: 2026-08-05 22:03:45 UTC
 # Country: LC
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=LC&v4_format=prefix
 
