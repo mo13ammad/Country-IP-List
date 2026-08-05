@@ -1,4 +1,4 @@
-# Last update: 2026-08-05 04:52:15 UTC
+# Last update: 2026-08-05 07:30:05 UTC
 # Country: PE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PE&v4_format=prefix
 
