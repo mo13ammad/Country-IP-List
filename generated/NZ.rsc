@@ -1,4 +1,4 @@
-# Last update: 2026-08-06 07:30:17 UTC
+# Last update: 2026-08-06 10:23:42 UTC
 # Country: NZ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=NZ&v4_format=prefix
 
@@ -179,6 +179,7 @@
 :do { add address=2001:df7:1d00::/48 list=NZv6 } on-error={}
 :do { add address=2001:df7:3000::/47 list=NZv6 } on-error={}
 :do { add address=2001:df7:3dc0::/48 list=NZv6 } on-error={}
+:do { add address=2001:df7:5040::/48 list=NZv6 } on-error={}
 :do { add address=2001:df7:7180::/48 list=NZv6 } on-error={}
 :do { add address=2001:df7:9800::/48 list=NZv6 } on-error={}
 :do { add address=2001:df7:b180::/48 list=NZv6 } on-error={}
@@ -1182,6 +1183,7 @@
 :do { add address=160.191.196.0/23 list=IP-NZ } on-error={}
 :do { add address=160.191.247.0/24 list=IP-NZ } on-error={}
 :do { add address=160.202.164.0/22 list=IP-NZ } on-error={}
+:do { add address=160.236.222.0/23 list=IP-NZ } on-error={}
 :do { add address=160.238.80.0/22 list=IP-NZ } on-error={}
 :do { add address=160.250.138.0/23 list=IP-NZ } on-error={}
 :do { add address=161.29.0.0/16 list=IP-NZ } on-error={}
