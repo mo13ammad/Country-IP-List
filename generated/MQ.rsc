@@ -1,4 +1,4 @@
-# Last update: 2026-08-07 10:40:13 UTC
+# Last update: 2026-08-07 11:36:03 UTC
 # Country: MQ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MQ&v4_format=prefix
 
