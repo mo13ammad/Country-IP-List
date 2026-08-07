@@ -1,4 +1,4 @@
-# Last update: 2026-08-07 21:26:28 UTC
+# Last update: 2026-08-07 22:22:54 UTC
 # Country: BZ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BZ&v4_format=prefix
 
