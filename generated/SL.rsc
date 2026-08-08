@@ -1,4 +1,4 @@
-# Last update: 2026-08-08 05:33:16 UTC
+# Last update: 2026-08-08 06:30:26 UTC
 # Country: SL
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SL&v4_format=prefix
 
