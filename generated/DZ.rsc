@@ -1,4 +1,4 @@
-# Last update: 2026-08-08 08:25:24 UTC
+# Last update: 2026-08-08 09:25:23 UTC
 # Country: DZ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=DZ&v4_format=prefix
 
@@ -23,6 +23,7 @@
 :do { add address=80.88.12.0/22 list=IP-DZ } on-error={}
 :do { add address=80.246.0.0/20 list=IP-DZ } on-error={}
 :do { add address=80.249.64.0/20 list=IP-DZ } on-error={}
+:do { add address=102.201.180.0/22 list=IP-DZ } on-error={}
 :do { add address=102.201.204.0/22 list=IP-DZ } on-error={}
 :do { add address=102.204.112.0/22 list=IP-DZ } on-error={}
 :do { add address=102.206.40.0/22 list=IP-DZ } on-error={}
