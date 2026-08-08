@@ -1,4 +1,4 @@
-# Last update: 2026-08-08 07:39:05 UTC
+# Last update: 2026-08-08 08:25:24 UTC
 # Country: SC
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SC&v4_format=prefix
 
@@ -816,6 +816,7 @@
 :do { add address=45.14.222.0/24 list=IP-SC } on-error={}
 :do { add address=45.15.236.0/22 list=IP-SC } on-error={}
 :do { add address=45.67.120.0/22 list=IP-SC } on-error={}
+:do { add address=45.67.214.0/24 list=IP-SC } on-error={}
 :do { add address=45.67.215.0/24 list=IP-SC } on-error={}
 :do { add address=45.80.120.0/22 list=IP-SC } on-error={}
 :do { add address=45.81.76.0/22 list=IP-SC } on-error={}
@@ -912,6 +913,7 @@
 :do { add address=45.148.152.0/22 list=IP-SC } on-error={}
 :do { add address=45.149.128.0/22 list=IP-SC } on-error={}
 :do { add address=45.149.144.0/22 list=IP-SC } on-error={}
+:do { add address=45.150.115.0/24 list=IP-SC } on-error={}
 :do { add address=45.151.100.0/22 list=IP-SC } on-error={}
 :do { add address=45.151.104.0/22 list=IP-SC } on-error={}
 :do { add address=45.152.116.0/22 list=IP-SC } on-error={}
@@ -1046,6 +1048,7 @@
 :do { add address=91.236.120.0/23 list=IP-SC } on-error={}
 :do { add address=91.237.104.0/23 list=IP-SC } on-error={}
 :do { add address=91.237.164.0/22 list=IP-SC } on-error={}
+:do { add address=91.238.8.0/24 list=IP-SC } on-error={}
 :do { add address=91.241.180.0/23 list=IP-SC } on-error={}
 :do { add address=91.242.225.0/24 list=IP-SC } on-error={}
 :do { add address=91.242.226.0/24 list=IP-SC } on-error={}
