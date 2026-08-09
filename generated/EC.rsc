@@ -1,4 +1,4 @@
-# Last update: 2026-08-09 14:22:29 UTC
+# Last update: 2026-08-09 15:19:10 UTC
 # Country: EC
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=EC&v4_format=prefix
 
