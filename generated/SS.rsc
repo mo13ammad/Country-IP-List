@@ -1,4 +1,4 @@
-# Last update: 2026-08-10 15:47:09 UTC
+# Last update: 2026-08-10 16:40:09 UTC
 # Country: SS
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SS&v4_format=prefix
 
