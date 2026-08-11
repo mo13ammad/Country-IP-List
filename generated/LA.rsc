@@ -1,4 +1,4 @@
-# Last update: 2026-08-11 15:46:41 UTC
+# Last update: 2026-08-11 16:43:36 UTC
 # Country: LA
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=LA&v4_format=prefix
 
