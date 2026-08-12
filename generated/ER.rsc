@@ -1,4 +1,4 @@
-# Last update: 2026-08-12 20:29:48 UTC
+# Last update: 2026-08-12 21:32:34 UTC
 # Country: ER
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=ER&v4_format=prefix
 
