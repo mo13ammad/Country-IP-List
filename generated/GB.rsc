@@ -1,4 +1,4 @@
-# Last update: 2026-08-12 07:04:07 UTC
+# Last update: 2026-08-12 08:58:13 UTC
 # Country: GB
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GB&v4_format=prefix
 
@@ -1023,6 +1023,7 @@
 :do { add address=2a04:6300::/29 list=GBv6 } on-error={}
 :do { add address=2a04:6380::/29 list=GBv6 } on-error={}
 :do { add address=2a04:6400::/29 list=GBv6 } on-error={}
+:do { add address=2a04:6580::/32 list=GBv6 } on-error={}
 :do { add address=2a04:6840::/29 list=GBv6 } on-error={}
 :do { add address=2a04:6940::/29 list=GBv6 } on-error={}
 :do { add address=2a04:70c0::/29 list=GBv6 } on-error={}
@@ -5804,6 +5805,7 @@
 :do { add address=145.227.0.0/16 list=IP-GB } on-error={}
 :do { add address=145.229.0.0/16 list=IP-GB } on-error={}
 :do { add address=145.233.0.0/16 list=IP-GB } on-error={}
+:do { add address=145.240.0.0/16 list=IP-GB } on-error={}
 :do { add address=145.246.0.0/16 list=IP-GB } on-error={}
 :do { add address=145.255.240.0/21 list=IP-GB } on-error={}
 :do { add address=146.0.56.0/24 list=IP-GB } on-error={}
@@ -5939,7 +5941,8 @@
 :do { add address=149.255.184.0/21 list=IP-GB } on-error={}
 :do { add address=150.204.0.0/16 list=IP-GB } on-error={}
 :do { add address=150.206.0.0/16 list=IP-GB } on-error={}
-:do { add address=150.237.0.0/19 list=IP-GB } on-error={}
+:do { add address=150.237.0.0/20 list=IP-GB } on-error={}
+:do { add address=150.237.16.0/20 list=IP-GB } on-error={}
 :do { add address=150.237.32.0/19 list=IP-GB } on-error={}
 :do { add address=150.237.64.0/18 list=IP-GB } on-error={}
 :do { add address=150.237.128.0/17 list=IP-GB } on-error={}
@@ -5995,6 +5998,7 @@
 :do { add address=152.236.0.0/16 list=IP-GB } on-error={}
 :do { add address=153.56.154.0/24 list=IP-GB } on-error={}
 :do { add address=153.56.170.0/24 list=IP-GB } on-error={}
+:do { add address=153.79.168.0/21 list=IP-GB } on-error={}
 :do { add address=153.92.43.0/24 list=IP-GB } on-error={}
 :do { add address=153.92.44.0/23 list=IP-GB } on-error={}
 :do { add address=153.92.46.0/24 list=IP-GB } on-error={}

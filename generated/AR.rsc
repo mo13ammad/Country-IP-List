@@ -1,4 +1,4 @@
-# Last update: 2026-08-12 07:04:07 UTC
+# Last update: 2026-08-12 08:58:13 UTC
 # Country: AR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=AR&v4_format=prefix
 
@@ -120,6 +120,7 @@
 :do { add address=2801:13:1000::/48 list=ARv6 } on-error={}
 :do { add address=2801:13:2000::/48 list=ARv6 } on-error={}
 :do { add address=2801:13:5000::/48 list=ARv6 } on-error={}
+:do { add address=2801:13:8400::/48 list=ARv6 } on-error={}
 :do { add address=2801:13:9000::/48 list=ARv6 } on-error={}
 :do { add address=2801:13:b000::/48 list=ARv6 } on-error={}
 :do { add address=2801:13:d000::/48 list=ARv6 } on-error={}
@@ -733,6 +734,7 @@
 :do { add address=2803:8a60::/32 list=ARv6 } on-error={}
 :do { add address=2803:8a80::/32 list=ARv6 } on-error={}
 :do { add address=2803:8ae0::/32 list=ARv6 } on-error={}
+:do { add address=2803:8b30::/32 list=ARv6 } on-error={}
 :do { add address=2803:8b60::/32 list=ARv6 } on-error={}
 :do { add address=2803:8bc0::/32 list=ARv6 } on-error={}
 :do { add address=2803:8c40::/32 list=ARv6 } on-error={}
@@ -1200,6 +1202,7 @@
 :do { add address=45.65.252.0/24 list=IP-AR } on-error={}
 :do { add address=45.68.8.0/22 list=IP-AR } on-error={}
 :do { add address=45.68.12.0/22 list=IP-AR } on-error={}
+:do { add address=45.68.132.0/22 list=IP-AR } on-error={}
 :do { add address=45.70.8.0/22 list=IP-AR } on-error={}
 :do { add address=45.70.88.0/22 list=IP-AR } on-error={}
 :do { add address=45.70.116.0/22 list=IP-AR } on-error={}

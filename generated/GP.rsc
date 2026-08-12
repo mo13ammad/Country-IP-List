@@ -1,4 +1,4 @@
-# Last update: 2026-08-12 07:04:07 UTC
+# Last update: 2026-08-12 08:58:13 UTC
 # Country: GP
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GP&v4_format=prefix
 
@@ -18,7 +18,6 @@
 :do { add address=95.138.0.0/17 list=IP-GP } on-error={}
 :do { add address=104.250.0.0/19 list=IP-GP } on-error={}
 :do { add address=107.191.208.0/20 list=IP-GP } on-error={}
-:do { add address=162.12.217.0/24 list=IP-GP } on-error={}
 :do { add address=185.29.48.0/22 list=IP-GP } on-error={}
 :do { add address=193.218.114.0/24 list=IP-GP } on-error={}
 :do { add address=199.91.160.0/22 list=IP-GP } on-error={}
