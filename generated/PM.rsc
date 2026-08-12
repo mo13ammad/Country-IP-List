@@ -1,4 +1,4 @@
-# Last update: 2026-08-12 00:55:32 UTC
+# Last update: 2026-08-12 03:17:08 UTC
 # Country: PM
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PM&v4_format=prefix
 
