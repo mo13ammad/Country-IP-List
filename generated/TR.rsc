@@ -1,4 +1,4 @@
-# Last update: 2026-08-13 07:08:08 UTC
+# Last update: 2026-08-13 08:59:50 UTC
 # Country: TR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=TR&v4_format=prefix
 
@@ -181,6 +181,7 @@
 :do { add address=2a05:e80::/29 list=TRv6 } on-error={}
 :do { add address=2a05:13c0::/29 list=TRv6 } on-error={}
 :do { add address=2a05:1d80::/29 list=TRv6 } on-error={}
+:do { add address=2a05:1f00::/29 list=TRv6 } on-error={}
 :do { add address=2a05:2a40::/29 list=TRv6 } on-error={}
 :do { add address=2a05:3000::/29 list=TRv6 } on-error={}
 :do { add address=2a05:3040::/29 list=TRv6 } on-error={}

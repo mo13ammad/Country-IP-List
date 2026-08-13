@@ -1,4 +1,4 @@
-# Last update: 2026-08-13 07:08:08 UTC
+# Last update: 2026-08-13 08:59:50 UTC
 # Country: SY
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SY&v4_format=prefix
 
@@ -165,30 +165,24 @@
 :do { add address=185.185.220.0/22 list=IP-SY } on-error={}
 :do { add address=185.187.192.0/22 list=IP-SY } on-error={}
 :do { add address=185.194.72.0/22 list=IP-SY } on-error={}
-:do { add address=185.194.124.0/22 list=IP-SY } on-error={}
 :do { add address=185.196.140.0/22 list=IP-SY } on-error={}
 :do { add address=185.196.144.0/22 list=IP-SY } on-error={}
 :do { add address=185.198.172.0/22 list=IP-SY } on-error={}
 :do { add address=185.199.244.0/22 list=IP-SY } on-error={}
 :do { add address=185.203.68.0/22 list=IP-SY } on-error={}
-:do { add address=185.204.80.0/22 list=IP-SY } on-error={}
 :do { add address=185.204.88.0/22 list=IP-SY } on-error={}
 :do { add address=185.209.32.0/22 list=IP-SY } on-error={}
 :do { add address=185.209.200.0/22 list=IP-SY } on-error={}
 :do { add address=185.216.132.0/22 list=IP-SY } on-error={}
 :do { add address=185.216.196.0/22 list=IP-SY } on-error={}
-:do { add address=185.217.172.0/22 list=IP-SY } on-error={}
 :do { add address=185.220.168.0/22 list=IP-SY } on-error={}
 :do { add address=185.224.124.0/22 list=IP-SY } on-error={}
 :do { add address=185.225.40.0/22 list=IP-SY } on-error={}
 :do { add address=185.227.140.0/22 list=IP-SY } on-error={}
-:do { add address=185.228.12.0/22 list=IP-SY } on-error={}
-:do { add address=185.231.44.0/22 list=IP-SY } on-error={}
 :do { add address=185.235.16.0/22 list=IP-SY } on-error={}
 :do { add address=185.235.24.0/22 list=IP-SY } on-error={}
 :do { add address=185.236.100.0/22 list=IP-SY } on-error={}
 :do { add address=185.244.204.0/22 list=IP-SY } on-error={}
-:do { add address=185.246.76.0/22 list=IP-SY } on-error={}
 :do { add address=185.254.180.0/22 list=IP-SY } on-error={}
 :do { add address=188.133.0.0/17 list=IP-SY } on-error={}
 :do { add address=188.139.128.0/17 list=IP-SY } on-error={}
