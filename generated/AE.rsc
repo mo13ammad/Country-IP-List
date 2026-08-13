@@ -1,4 +1,4 @@
-# Last update: 2026-08-13 08:59:50 UTC
+# Last update: 2026-08-13 10:06:30 UTC
 # Country: AE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=AE&v4_format=prefix
 
