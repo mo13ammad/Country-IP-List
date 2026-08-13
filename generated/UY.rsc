@@ -1,4 +1,4 @@
-# Last update: 2026-08-13 17:47:15 UTC
+# Last update: 2026-08-13 18:44:29 UTC
 # Country: UY
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=UY&v4_format=prefix
 
