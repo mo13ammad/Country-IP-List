@@ -1,4 +1,4 @@
-# Last update: 2026-08-13 14:12:43 UTC
+# Last update: 2026-08-13 15:46:21 UTC
 # Country: IL
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=IL&v4_format=prefix
 
