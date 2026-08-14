@@ -1,4 +1,4 @@
-# Last update: 2026-08-14 17:42:42 UTC
+# Last update: 2026-08-14 18:38:00 UTC
 # Country: AI
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=AI&v4_format=prefix
 
