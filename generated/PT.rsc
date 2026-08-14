@@ -1,10 +1,11 @@
-# Last update: 2026-08-14 07:04:20 UTC
+# Last update: 2026-08-14 08:55:25 UTC
 # Country: PT
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PT&v4_format=prefix
 
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list=PTv6]
 /ipv6 firewall address-list
 :do { add address=2001:678:1094::/48 list=PTv6 } on-error={}
+:do { add address=2001:678:12f0::/48 list=PTv6 } on-error={}
 :do { add address=2001:67c:c0c::/48 list=PTv6 } on-error={}
 :do { add address=2001:67c:13ec::/48 list=PTv6 } on-error={}
 :do { add address=2001:67c:1b40::/48 list=PTv6 } on-error={}
