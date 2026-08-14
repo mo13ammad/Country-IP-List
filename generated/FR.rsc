@@ -1,4 +1,4 @@
-# Last update: 2026-08-14 19:40:24 UTC
+# Last update: 2026-08-14 20:19:25 UTC
 # Country: FR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=FR&v4_format=prefix
 
