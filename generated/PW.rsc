@@ -1,4 +1,4 @@
-# Last update: 2026-08-15 07:20:18 UTC
+# Last update: 2026-08-15 08:13:33 UTC
 # Country: PW
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PW&v4_format=prefix
 
