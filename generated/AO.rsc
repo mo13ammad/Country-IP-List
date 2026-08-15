@@ -1,4 +1,4 @@
-# Last update: 2026-08-15 05:14:34 UTC
+# Last update: 2026-08-15 06:17:22 UTC
 # Country: AO
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=AO&v4_format=prefix
 
