@@ -1,4 +1,4 @@
-# Last update: 2026-08-15 08:13:33 UTC
+# Last update: 2026-08-15 09:14:25 UTC
 # Country: PL
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PL&v4_format=prefix
 
@@ -339,7 +339,6 @@
 :do { add address=2a00:8dc0::/32 list=PLv6 } on-error={}
 :do { add address=2a00:9320::/32 list=PLv6 } on-error={}
 :do { add address=2a00:9660::/32 list=PLv6 } on-error={}
-:do { add address=2a00:9c60::/32 list=PLv6 } on-error={}
 :do { add address=2a00:9d40::/32 list=PLv6 } on-error={}
 :do { add address=2a00:9dc0::/32 list=PLv6 } on-error={}
 :do { add address=2a00:9f00::/29 list=PLv6 } on-error={}
@@ -403,7 +402,6 @@
 :do { add address=2a01:ae60::/32 list=PLv6 } on-error={}
 :do { add address=2a01:af40::/32 list=PLv6 } on-error={}
 :do { add address=2a01:af60::/32 list=PLv6 } on-error={}
-:do { add address=2a01:b840::/32 list=PLv6 } on-error={}
 :do { add address=2a01:b8e0::/32 list=PLv6 } on-error={}
 :do { add address=2a01:bb80::/32 list=PLv6 } on-error={}
 :do { add address=2a01:e4c0::/29 list=PLv6 } on-error={}
@@ -495,7 +493,6 @@
 :do { add address=2a03:7940::/32 list=PLv6 } on-error={}
 :do { add address=2a03:7be0::/32 list=PLv6 } on-error={}
 :do { add address=2a03:8880::/32 list=PLv6 } on-error={}
-:do { add address=2a03:8ea0::/32 list=PLv6 } on-error={}
 :do { add address=2a03:9140::/32 list=PLv6 } on-error={}
 :do { add address=2a03:9300::/32 list=PLv6 } on-error={}
 :do { add address=2a03:9500::/32 list=PLv6 } on-error={}
@@ -919,7 +916,6 @@
 :do { add address=2a10:de40::/29 list=PLv6 } on-error={}
 :do { add address=2a10:dec0::/29 list=PLv6 } on-error={}
 :do { add address=2a10:e4c0::/29 list=PLv6 } on-error={}
-:do { add address=2a10:f580::/29 list=PLv6 } on-error={}
 :do { add address=2a10:f740::/29 list=PLv6 } on-error={}
 :do { add address=2a10:f780::/29 list=PLv6 } on-error={}
 :do { add address=2a10:f880::/29 list=PLv6 } on-error={}

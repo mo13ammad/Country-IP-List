@@ -1,4 +1,4 @@
-# Last update: 2026-08-15 08:13:33 UTC
+# Last update: 2026-08-15 09:14:25 UTC
 # Country: GF
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GF&v4_format=prefix
 
