@@ -1,4 +1,4 @@
-# Last update: 2026-08-16 08:14:42 UTC
+# Last update: 2026-08-16 09:15:09 UTC
 # Country: CA
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CA&v4_format=prefix
 
@@ -112,6 +112,7 @@
 :do { add address=2602:81d:7000::/44 list=CAv6 } on-error={}
 :do { add address=2602:81d:b000::/44 list=CAv6 } on-error={}
 :do { add address=2602:81e:1000::/44 list=CAv6 } on-error={}
+:do { add address=2602:f31b::/40 list=CAv6 } on-error={}
 :do { add address=2602:f31c::/40 list=CAv6 } on-error={}
 :do { add address=2602:f32a::/40 list=CAv6 } on-error={}
 :do { add address=2602:f332::/40 list=CAv6 } on-error={}
@@ -350,6 +351,7 @@
 :do { add address=2602:fdf8::/36 list=CAv6 } on-error={}
 :do { add address=2602:fdf9::/36 list=CAv6 } on-error={}
 :do { add address=2602:fe08::/36 list=CAv6 } on-error={}
+:do { add address=2602:fe0f::/36 list=CAv6 } on-error={}
 :do { add address=2602:fe11::/36 list=CAv6 } on-error={}
 :do { add address=2602:fe1a::/36 list=CAv6 } on-error={}
 :do { add address=2602:fe1c::/36 list=CAv6 } on-error={}
@@ -1408,6 +1410,7 @@
 :do { add address=23.170.16.0/24 list=IP-CA } on-error={}
 :do { add address=23.170.32.0/24 list=IP-CA } on-error={}
 :do { add address=23.170.33.0/24 list=IP-CA } on-error={}
+:do { add address=23.170.96.0/24 list=IP-CA } on-error={}
 :do { add address=23.170.184.0/24 list=IP-CA } on-error={}
 :do { add address=23.171.128.0/24 list=IP-CA } on-error={}
 :do { add address=23.171.160.0/24 list=IP-CA } on-error={}
@@ -3691,6 +3694,7 @@
 :do { add address=157.185.128.0/18 list=IP-CA } on-error={}
 :do { add address=157.208.0.0/18 list=IP-CA } on-error={}
 :do { add address=157.244.0.0/16 list=IP-CA } on-error={}
+:do { add address=158.51.0.0/23 list=IP-CA } on-error={}
 :do { add address=158.51.10.0/24 list=IP-CA } on-error={}
 :do { add address=158.51.28.0/22 list=IP-CA } on-error={}
 :do { add address=158.51.44.0/22 list=IP-CA } on-error={}
@@ -4839,6 +4843,7 @@
 :do { add address=192.99.0.0/16 list=IP-CA } on-error={}
 :do { add address=192.100.87.0/24 list=IP-CA } on-error={}
 :do { add address=192.100.101.0/24 list=IP-CA } on-error={}
+:do { add address=192.101.99.0/24 list=IP-CA } on-error={}
 :do { add address=192.101.150.0/23 list=IP-CA } on-error={}
 :do { add address=192.102.11.0/24 list=IP-CA } on-error={}
 :do { add address=192.102.254.0/23 list=IP-CA } on-error={}
@@ -5077,6 +5082,7 @@
 :do { add address=192.154.144.0/20 list=IP-CA } on-error={}
 :do { add address=192.155.0.0/24 list=IP-CA } on-error={}
 :do { add address=192.155.69.0/24 list=IP-CA } on-error={}
+:do { add address=192.156.169.0/24 list=IP-CA } on-error={}
 :do { add address=192.157.48.0/20 list=IP-CA } on-error={}
 :do { add address=192.157.96.0/19 list=IP-CA } on-error={}
 :do { add address=192.157.164.0/24 list=IP-CA } on-error={}

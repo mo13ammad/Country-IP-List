@@ -1,4 +1,4 @@
-# Last update: 2026-08-16 08:14:42 UTC
+# Last update: 2026-08-16 09:15:09 UTC
 # Country: KE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=KE&v4_format=prefix
 
@@ -50,6 +50,7 @@
 :do { add address=2c0f:b40::/32 list=KEv6 } on-error={}
 :do { add address=2c0f:d40::/32 list=KEv6 } on-error={}
 :do { add address=2c0f:1220::/32 list=KEv6 } on-error={}
+:do { add address=2c0f:1320::/32 list=KEv6 } on-error={}
 :do { add address=2c0f:15c0::/32 list=KEv6 } on-error={}
 :do { add address=2c0f:1a80::/32 list=KEv6 } on-error={}
 :do { add address=2c0f:1e00::/32 list=KEv6 } on-error={}
@@ -109,6 +110,7 @@
 :do { add address=2c0f:4e40::/32 list=KEv6 } on-error={}
 :do { add address=2c0f:4ec0::/32 list=KEv6 } on-error={}
 :do { add address=2c0f:4fa0::/32 list=KEv6 } on-error={}
+:do { add address=2c0f:5320::/32 list=KEv6 } on-error={}
 :do { add address=2c0f:5340::/32 list=KEv6 } on-error={}
 :do { add address=2c0f:5740::/32 list=KEv6 } on-error={}
 :do { add address=2c0f:5800::/32 list=KEv6 } on-error={}
@@ -229,6 +231,9 @@
 :do { add address=102.164.60.0/22 list=IP-KE } on-error={}
 :do { add address=102.166.0.0/15 list=IP-KE } on-error={}
 :do { add address=102.176.180.0/22 list=IP-KE } on-error={}
+:do { add address=102.201.144.0/22 list=IP-KE } on-error={}
+:do { add address=102.201.148.0/22 list=IP-KE } on-error={}
+:do { add address=102.201.152.0/22 list=IP-KE } on-error={}
 :do { add address=102.201.194.0/23 list=IP-KE } on-error={}
 :do { add address=102.201.196.0/22 list=IP-KE } on-error={}
 :do { add address=102.201.211.0/24 list=IP-KE } on-error={}
