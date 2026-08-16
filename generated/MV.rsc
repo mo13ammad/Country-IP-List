@@ -1,4 +1,4 @@
-# Last update: 2026-08-16 04:23:27 UTC
+# Last update: 2026-08-16 05:17:03 UTC
 # Country: MV
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MV&v4_format=prefix
 
