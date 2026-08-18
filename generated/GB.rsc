@@ -1,4 +1,4 @@
-# Last update: 2026-08-18 08:20:44 UTC
+# Last update: 2026-08-18 09:19:53 UTC
 # Country: GB
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GB&v4_format=prefix
 
@@ -3309,7 +3309,6 @@
 :do { add address=77.83.224.0/22 list=IP-GB } on-error={}
 :do { add address=77.86.0.0/17 list=IP-GB } on-error={}
 :do { add address=77.87.144.0/21 list=IP-GB } on-error={}
-:do { add address=77.88.224.0/20 list=IP-GB } on-error={}
 :do { add address=77.89.128.0/18 list=IP-GB } on-error={}
 :do { add address=77.91.248.0/21 list=IP-GB } on-error={}
 :do { add address=77.92.64.0/19 list=IP-GB } on-error={}
@@ -3746,6 +3745,7 @@
 :do { add address=82.215.64.0/24 list=IP-GB } on-error={}
 :do { add address=82.219.0.0/16 list=IP-GB } on-error={}
 :do { add address=83.67.0.0/16 list=IP-GB } on-error={}
+:do { add address=83.94.64.0/19 list=IP-GB } on-error={}
 :do { add address=83.97.16.0/22 list=IP-GB } on-error={}
 :do { add address=83.97.32.0/22 list=IP-GB } on-error={}
 :do { add address=83.97.36.0/24 list=IP-GB } on-error={}
@@ -5027,6 +5027,7 @@
 :do { add address=93.157.141.0/24 list=IP-GB } on-error={}
 :do { add address=93.157.216.0/21 list=IP-GB } on-error={}
 :do { add address=93.159.200.0/21 list=IP-GB } on-error={}
+:do { add address=93.165.64.0/19 list=IP-GB } on-error={}
 :do { add address=93.174.8.0/21 list=IP-GB } on-error={}
 :do { add address=93.174.80.0/21 list=IP-GB } on-error={}
 :do { add address=93.174.96.0/21 list=IP-GB } on-error={}
@@ -5660,7 +5661,6 @@
 :do { add address=136.148.96.0/21 list=IP-GB } on-error={}
 :do { add address=136.148.104.0/21 list=IP-GB } on-error={}
 :do { add address=136.148.112.0/20 list=IP-GB } on-error={}
-:do { add address=136.148.140.0/22 list=IP-GB } on-error={}
 :do { add address=136.148.144.0/22 list=IP-GB } on-error={}
 :do { add address=136.148.148.0/22 list=IP-GB } on-error={}
 :do { add address=136.148.152.0/21 list=IP-GB } on-error={}
@@ -5912,7 +5912,12 @@
 :do { add address=149.170.32.0/20 list=IP-GB } on-error={}
 :do { add address=149.170.48.0/21 list=IP-GB } on-error={}
 :do { add address=149.170.64.0/18 list=IP-GB } on-error={}
-:do { add address=149.170.128.0/17 list=IP-GB } on-error={}
+:do { add address=149.170.128.0/20 list=IP-GB } on-error={}
+:do { add address=149.170.147.0/24 list=IP-GB } on-error={}
+:do { add address=149.170.148.0/22 list=IP-GB } on-error={}
+:do { add address=149.170.152.0/21 list=IP-GB } on-error={}
+:do { add address=149.170.160.0/19 list=IP-GB } on-error={}
+:do { add address=149.170.192.0/18 list=IP-GB } on-error={}
 :do { add address=149.175.0.0/16 list=IP-GB } on-error={}
 :do { add address=149.177.128.0/17 list=IP-GB } on-error={}
 :do { add address=149.178.0.0/15 list=IP-GB } on-error={}
@@ -6460,6 +6465,7 @@
 :do { add address=185.8.132.0/22 list=IP-GB } on-error={}
 :do { add address=185.8.204.0/22 list=IP-GB } on-error={}
 :do { add address=185.9.32.0/22 list=IP-GB } on-error={}
+:do { add address=185.9.48.0/22 list=IP-GB } on-error={}
 :do { add address=185.9.92.0/22 list=IP-GB } on-error={}
 :do { add address=185.9.136.0/24 list=IP-GB } on-error={}
 :do { add address=185.9.168.0/22 list=IP-GB } on-error={}
