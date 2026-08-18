@@ -1,4 +1,4 @@
-# Last update: 2026-08-18 22:09:51 UTC
+# Last update: 2026-08-18 23:10:46 UTC
 # Country: SK
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SK&v4_format=prefix
 
