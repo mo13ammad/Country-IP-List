@@ -1,4 +1,4 @@
-# Last update: 2026-08-19 06:23:01 UTC
+# Last update: 2026-08-19 08:21:46 UTC
 # Country: GT
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GT&v4_format=prefix
 
@@ -6,7 +6,6 @@
 /ipv6 firewall address-list
 :do { add address=2001:1360::/32 list=GTv6 } on-error={}
 :do { add address=2800:98::/32 list=GTv6 } on-error={}
-:do { add address=2800:1a0::/32 list=GTv6 } on-error={}
 :do { add address=2800:890::/32 list=GTv6 } on-error={}
 :do { add address=2801:0:110::/48 list=GTv6 } on-error={}
 :do { add address=2801:12:e800::/48 list=GTv6 } on-error={}
@@ -211,7 +210,6 @@
 :do { add address=200.6.192.0/19 list=IP-GT } on-error={}
 :do { add address=200.6.224.0/19 list=IP-GT } on-error={}
 :do { add address=200.9.74.0/24 list=IP-GT } on-error={}
-:do { add address=200.9.255.0/24 list=IP-GT } on-error={}
 :do { add address=200.10.173.0/24 list=IP-GT } on-error={}
 :do { add address=200.10.241.0/24 list=IP-GT } on-error={}
 :do { add address=200.12.32.0/19 list=IP-GT } on-error={}

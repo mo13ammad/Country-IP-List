@@ -1,4 +1,4 @@
-# Last update: 2026-08-19 06:23:01 UTC
+# Last update: 2026-08-19 08:21:46 UTC
 # Country: BZ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BZ&v4_format=prefix
 
@@ -92,6 +92,7 @@
 :do { add address=185.240.253.0/24 list=IP-BZ } on-error={}
 :do { add address=186.65.88.0/22 list=IP-BZ } on-error={}
 :do { add address=188.119.88.0/22 list=IP-BZ } on-error={}
+:do { add address=190.97.98.0/24 list=IP-BZ } on-error={}
 :do { add address=190.102.96.0/22 list=IP-BZ } on-error={}
 :do { add address=190.102.112.0/21 list=IP-BZ } on-error={}
 :do { add address=190.124.40.0/22 list=IP-BZ } on-error={}

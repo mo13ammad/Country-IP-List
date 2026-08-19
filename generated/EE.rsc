@@ -1,4 +1,4 @@
-# Last update: 2026-08-19 06:23:01 UTC
+# Last update: 2026-08-19 08:21:46 UTC
 # Country: EE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=EE&v4_format=prefix
 
@@ -172,6 +172,7 @@
 /ip firewall address-list
 :do { add address=2.57.220.0/22 list=IP-EE } on-error={}
 :do { add address=2.59.164.0/22 list=IP-EE } on-error={}
+:do { add address=2.152.78.0/24 list=IP-EE } on-error={}
 :do { add address=5.42.199.0/24 list=IP-EE } on-error={}
 :do { add address=5.42.221.0/24 list=IP-EE } on-error={}
 :do { add address=5.44.184.0/21 list=IP-EE } on-error={}
