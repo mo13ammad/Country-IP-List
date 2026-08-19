@@ -1,4 +1,4 @@
-# Last update: 2026-08-19 08:21:46 UTC
+# Last update: 2026-08-19 10:16:16 UTC
 # Country: SK
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SK&v4_format=prefix
 
@@ -238,7 +238,6 @@
 :do { add address=87.244.192.0/18 list=IP-SK } on-error={}
 :do { add address=88.80.224.0/19 list=IP-SK } on-error={}
 :do { add address=88.212.0.0/18 list=IP-SK } on-error={}
-:do { add address=89.107.144.0/21 list=IP-SK } on-error={}
 :do { add address=89.173.0.0/16 list=IP-SK } on-error={}
 :do { add address=90.176.0.0/19 list=IP-SK } on-error={}
 :do { add address=91.127.0.0/16 list=IP-SK } on-error={}
