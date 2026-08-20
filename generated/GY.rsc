@@ -1,4 +1,4 @@
-# Last update: 2026-08-20 13:36:40 UTC
+# Last update: 2026-08-20 14:23:27 UTC
 # Country: GY
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GY&v4_format=prefix
 
