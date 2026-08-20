@@ -1,4 +1,4 @@
-# Last update: 2026-08-20 03:36:11 UTC
+# Last update: 2026-08-20 04:24:21 UTC
 # Country: CR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CR&v4_format=prefix
 
