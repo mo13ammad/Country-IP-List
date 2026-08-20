@@ -1,4 +1,4 @@
-# Last update: 2026-08-20 16:19:39 UTC
+# Last update: 2026-08-20 17:17:46 UTC
 # Country: SC
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SC&v4_format=prefix
 
