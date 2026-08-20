@@ -1,4 +1,4 @@
-# Last update: 2026-08-20 06:23:28 UTC
+# Last update: 2026-08-20 08:22:35 UTC
 # Country: UZ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=UZ&v4_format=prefix
 
@@ -39,6 +39,7 @@
 :do { add address=2a0b:9540::/29 list=UZv6 } on-error={}
 :do { add address=2a0c:5d80::/29 list=UZv6 } on-error={}
 :do { add address=2a0c:fd40::/29 list=UZv6 } on-error={}
+:do { add address=2a0d:c0::/29 list=UZv6 } on-error={}
 :do { add address=2a0d:d140::/29 list=UZv6 } on-error={}
 :do { add address=2a0e:17c0::/29 list=UZv6 } on-error={}
 :do { add address=2a0e:9f00::/29 list=UZv6 } on-error={}

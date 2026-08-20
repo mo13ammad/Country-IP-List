@@ -1,4 +1,4 @@
-# Last update: 2026-08-20 06:23:28 UTC
+# Last update: 2026-08-20 08:22:35 UTC
 # Country: TZ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=TZ&v4_format=prefix
 
@@ -23,6 +23,7 @@
 :do { add address=2001:43f8:1080::/48 list=TZv6 } on-error={}
 :do { add address=2001:43f8:1390::/48 list=TZv6 } on-error={}
 :do { add address=2001:43f8:14d0::/48 list=TZv6 } on-error={}
+:do { add address=2001:43fc:1800::/48 list=TZv6 } on-error={}
 :do { add address=2001:43fc:2000::/48 list=TZv6 } on-error={}
 :do { add address=2001:43fd:6800::/48 list=TZv6 } on-error={}
 :do { add address=2001:43fd:e000::/48 list=TZv6 } on-error={}
