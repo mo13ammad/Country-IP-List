@@ -1,4 +1,4 @@
-# Last update: 2026-08-21 05:21:30 UTC
+# Last update: 2026-08-21 06:23:39 UTC
 # Country: TG
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=TG&v4_format=prefix
 
