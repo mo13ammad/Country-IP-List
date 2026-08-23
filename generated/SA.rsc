@@ -1,4 +1,4 @@
-# Last update: 2026-08-23 06:19:52 UTC
+# Last update: 2026-08-23 07:23:28 UTC
 # Country: SA
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SA&v4_format=prefix
 
