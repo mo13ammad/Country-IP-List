@@ -1,4 +1,4 @@
-# Last update: 2026-08-23 08:15:37 UTC
+# Last update: 2026-08-23 09:16:06 UTC
 # Country: AU
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=AU&v4_format=prefix
 
@@ -9466,7 +9466,6 @@
 :do { add address=203.25.0.0/20 list=IP-AU } on-error={}
 :do { add address=203.25.17.0/24 list=IP-AU } on-error={}
 :do { add address=203.25.22.0/24 list=IP-AU } on-error={}
-:do { add address=203.25.23.0/24 list=IP-AU } on-error={}
 :do { add address=203.25.24.0/23 list=IP-AU } on-error={}
 :do { add address=203.25.26.0/23 list=IP-AU } on-error={}
 :do { add address=203.25.31.0/24 list=IP-AU } on-error={}

@@ -1,4 +1,4 @@
-# Last update: 2026-08-23 08:15:37 UTC
+# Last update: 2026-08-23 09:16:06 UTC
 # Country: BN
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BN&v4_format=prefix
 
