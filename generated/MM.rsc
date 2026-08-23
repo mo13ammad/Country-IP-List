@@ -1,4 +1,4 @@
-# Last update: 2026-08-23 04:25:08 UTC
+# Last update: 2026-08-23 05:18:27 UTC
 # Country: MM
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MM&v4_format=prefix
 
