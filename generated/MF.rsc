@@ -1,4 +1,4 @@
-# Last update: 2026-08-24 08:33:52 UTC
+# Last update: 2026-08-24 09:34:02 UTC
 # Country: MF
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MF&v4_format=prefix
 
