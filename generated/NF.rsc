@@ -1,4 +1,4 @@
-# Last update: 2026-08-24 05:27:36 UTC
+# Last update: 2026-08-24 06:32:34 UTC
 # Country: NF
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=NF&v4_format=prefix
 
