@@ -1,4 +1,4 @@
-# Last update: 2026-08-25 04:27:09 UTC
+# Last update: 2026-08-25 05:21:14 UTC
 # Country: AU
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=AU&v4_format=prefix
 
