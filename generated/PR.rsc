@@ -1,4 +1,4 @@
-# Last update: 2026-08-25 07:34:08 UTC
+# Last update: 2026-08-25 08:27:40 UTC
 # Country: PR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PR&v4_format=prefix
 
@@ -6,6 +6,7 @@
 /ipv6 firewall address-list
 :do { add address=2001:500:10::/48 list=PRv6 } on-error={}
 :do { add address=2001:504:1d::/48 list=PRv6 } on-error={}
+:do { add address=2602:f30f::/36 list=PRv6 } on-error={}
 :do { add address=2602:f315::/40 list=PRv6 } on-error={}
 :do { add address=2602:f781::/36 list=PRv6 } on-error={}
 :do { add address=2602:f79f::/36 list=PRv6 } on-error={}

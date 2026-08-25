@@ -1,4 +1,4 @@
-# Last update: 2026-08-25 07:34:08 UTC
+# Last update: 2026-08-25 08:27:40 UTC
 # Country: PL
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PL&v4_format=prefix
 
@@ -6,7 +6,6 @@
 /ipv6 firewall address-list
 :do { add address=2001:678:1c0::/48 list=PLv6 } on-error={}
 :do { add address=2001:678:1cc::/48 list=PLv6 } on-error={}
-:do { add address=2001:678:224::/48 list=PLv6 } on-error={}
 :do { add address=2001:678:238::/48 list=PLv6 } on-error={}
 :do { add address=2001:678:23c::/48 list=PLv6 } on-error={}
 :do { add address=2001:678:258::/48 list=PLv6 } on-error={}
