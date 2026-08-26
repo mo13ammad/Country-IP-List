@@ -1,4 +1,4 @@
-# Last update: 2026-08-26 09:28:39 UTC
+# Last update: 2026-08-26 10:22:34 UTC
 # Country: MU
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MU&v4_format=prefix
 
