@@ -1,4 +1,4 @@
-# Last update: 2026-08-26 07:35:39 UTC
+# Last update: 2026-08-26 08:28:04 UTC
 # Country: BD
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BD&v4_format=prefix
 
@@ -451,7 +451,6 @@
 :do { add address=2001:df3:47c0::/48 list=BDv6 } on-error={}
 :do { add address=2001:df3:4c80::/48 list=BDv6 } on-error={}
 :do { add address=2001:df3:4d40::/48 list=BDv6 } on-error={}
-:do { add address=2001:df3:4e80::/48 list=BDv6 } on-error={}
 :do { add address=2001:df3:5080::/48 list=BDv6 } on-error={}
 :do { add address=2001:df3:50c0::/48 list=BDv6 } on-error={}
 :do { add address=2001:df3:51c0::/48 list=BDv6 } on-error={}
@@ -483,7 +482,6 @@
 :do { add address=2001:df3:8e40::/48 list=BDv6 } on-error={}
 :do { add address=2001:df3:9340::/48 list=BDv6 } on-error={}
 :do { add address=2001:df3:9680::/48 list=BDv6 } on-error={}
-:do { add address=2001:df3:9980::/48 list=BDv6 } on-error={}
 :do { add address=2001:df3:9bc0::/48 list=BDv6 } on-error={}
 :do { add address=2001:df3:9c40::/48 list=BDv6 } on-error={}
 :do { add address=2001:df3:9fc0::/48 list=BDv6 } on-error={}
@@ -675,7 +673,6 @@
 :do { add address=2001:df5:5840::/48 list=BDv6 } on-error={}
 :do { add address=2001:df5:5a80::/48 list=BDv6 } on-error={}
 :do { add address=2001:df5:5b80::/48 list=BDv6 } on-error={}
-:do { add address=2001:df5:6540::/48 list=BDv6 } on-error={}
 :do { add address=2001:df5:6580::/48 list=BDv6 } on-error={}
 :do { add address=2001:df5:6600::/48 list=BDv6 } on-error={}
 :do { add address=2001:df5:6780::/48 list=BDv6 } on-error={}
@@ -1004,7 +1001,6 @@
 :do { add address=2400:6e20::/32 list=BDv6 } on-error={}
 :do { add address=2400:7520::/32 list=BDv6 } on-error={}
 :do { add address=2400:7560::/32 list=BDv6 } on-error={}
-:do { add address=2400:75e0::/32 list=BDv6 } on-error={}
 :do { add address=2400:7760::/32 list=BDv6 } on-error={}
 :do { add address=2400:7920::/32 list=BDv6 } on-error={}
 :do { add address=2400:7960::/32 list=BDv6 } on-error={}
@@ -1334,7 +1330,6 @@
 :do { add address=2402:c0c0::/32 list=BDv6 } on-error={}
 :do { add address=2402:c140::/32 list=BDv6 } on-error={}
 :do { add address=2402:c1c0::/32 list=BDv6 } on-error={}
-:do { add address=2402:c6c0::/32 list=BDv6 } on-error={}
 :do { add address=2402:c8c0::/32 list=BDv6 } on-error={}
 :do { add address=2402:ca40::/32 list=BDv6 } on-error={}
 :do { add address=2402:cdc0::/32 list=BDv6 } on-error={}
@@ -1579,7 +1574,6 @@
 :do { add address=2406:2c0::/32 list=BDv6 } on-error={}
 :do { add address=2406:b00::/32 list=BDv6 } on-error={}
 :do { add address=2406:c80::/32 list=BDv6 } on-error={}
-:do { add address=2406:1140::/32 list=BDv6 } on-error={}
 :do { add address=2406:1400::/32 list=BDv6 } on-error={}
 :do { add address=2406:2500::/32 list=BDv6 } on-error={}
 :do { add address=2406:25c0::/32 list=BDv6 } on-error={}
@@ -2721,7 +2715,6 @@
 :do { add address=103.149.186.0/23 list=IP-BD } on-error={}
 :do { add address=103.150.6.0/23 list=IP-BD } on-error={}
 :do { add address=103.150.18.0/23 list=IP-BD } on-error={}
-:do { add address=103.150.20.0/23 list=IP-BD } on-error={}
 :do { add address=103.150.26.0/23 list=IP-BD } on-error={}
 :do { add address=103.150.38.0/24 list=IP-BD } on-error={}
 :do { add address=103.150.40.0/23 list=IP-BD } on-error={}
@@ -2731,9 +2724,7 @@
 :do { add address=103.150.68.0/23 list=IP-BD } on-error={}
 :do { add address=103.150.166.0/23 list=IP-BD } on-error={}
 :do { add address=103.150.234.0/23 list=IP-BD } on-error={}
-:do { add address=103.150.254.0/23 list=IP-BD } on-error={}
 :do { add address=103.151.0.0/23 list=IP-BD } on-error={}
-:do { add address=103.151.10.0/23 list=IP-BD } on-error={}
 :do { add address=103.151.30.0/23 list=IP-BD } on-error={}
 :do { add address=103.151.60.0/23 list=IP-BD } on-error={}
 :do { add address=103.151.74.0/23 list=IP-BD } on-error={}
@@ -3135,7 +3126,6 @@
 :do { add address=103.186.216.0/23 list=IP-BD } on-error={}
 :do { add address=103.186.218.0/23 list=IP-BD } on-error={}
 :do { add address=103.186.226.0/23 list=IP-BD } on-error={}
-:do { add address=103.186.238.0/23 list=IP-BD } on-error={}
 :do { add address=103.186.252.0/23 list=IP-BD } on-error={}
 :do { add address=103.187.12.0/23 list=IP-BD } on-error={}
 :do { add address=103.187.22.0/23 list=IP-BD } on-error={}
@@ -3362,7 +3352,6 @@
 :do { add address=103.244.49.0/24 list=IP-BD } on-error={}
 :do { add address=103.244.140.0/22 list=IP-BD } on-error={}
 :do { add address=103.244.162.0/24 list=IP-BD } on-error={}
-:do { add address=103.244.184.0/22 list=IP-BD } on-error={}
 :do { add address=103.244.247.0/24 list=IP-BD } on-error={}
 :do { add address=103.245.96.0/22 list=IP-BD } on-error={}
 :do { add address=103.245.108.0/22 list=IP-BD } on-error={}
@@ -3754,6 +3743,7 @@
 :do { add address=163.52.22.0/23 list=IP-BD } on-error={}
 :do { add address=163.52.24.0/23 list=IP-BD } on-error={}
 :do { add address=163.52.30.0/23 list=IP-BD } on-error={}
+:do { add address=163.52.42.0/23 list=IP-BD } on-error={}
 :do { add address=163.53.140.0/22 list=IP-BD } on-error={}
 :do { add address=163.53.148.0/22 list=IP-BD } on-error={}
 :do { add address=163.53.180.0/22 list=IP-BD } on-error={}
@@ -3799,7 +3789,6 @@
 :do { add address=163.227.48.0/24 list=IP-BD } on-error={}
 :do { add address=163.227.50.0/23 list=IP-BD } on-error={}
 :do { add address=163.227.62.0/23 list=IP-BD } on-error={}
-:do { add address=163.227.114.0/23 list=IP-BD } on-error={}
 :do { add address=163.227.128.0/23 list=IP-BD } on-error={}
 :do { add address=163.227.144.0/23 list=IP-BD } on-error={}
 :do { add address=163.227.194.0/23 list=IP-BD } on-error={}

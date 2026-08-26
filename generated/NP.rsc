@@ -1,4 +1,4 @@
-# Last update: 2026-08-26 07:35:39 UTC
+# Last update: 2026-08-26 08:28:04 UTC
 # Country: NP
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=NP&v4_format=prefix
 
@@ -134,6 +134,7 @@
 :do { add address=2402:64e0::/32 list=NPv6 } on-error={}
 :do { add address=2402:6640::/32 list=NPv6 } on-error={}
 :do { add address=2402:67e0::/32 list=NPv6 } on-error={}
+:do { add address=2402:7120::/32 list=NPv6 } on-error={}
 :do { add address=2402:a300::/32 list=NPv6 } on-error={}
 :do { add address=2403:3800::/32 list=NPv6 } on-error={}
 :do { add address=2403:ddc0::/32 list=NPv6 } on-error={}
@@ -264,7 +265,8 @@
 :do { add address=103.134.72.0/24 list=IP-NP } on-error={}
 :do { add address=103.134.216.0/22 list=IP-NP } on-error={}
 :do { add address=103.137.10.0/24 list=IP-NP } on-error={}
-:do { add address=103.137.200.0/22 list=IP-NP } on-error={}
+:do { add address=103.137.200.0/23 list=IP-NP } on-error={}
+:do { add address=103.137.202.0/23 list=IP-NP } on-error={}
 :do { add address=103.138.160.0/23 list=IP-NP } on-error={}
 :do { add address=103.139.152.0/24 list=IP-NP } on-error={}
 :do { add address=103.139.254.0/23 list=IP-NP } on-error={}
@@ -400,6 +402,7 @@
 :do { add address=162.4.232.0/23 list=IP-NP } on-error={}
 :do { add address=163.47.148.0/22 list=IP-NP } on-error={}
 :do { add address=163.52.4.0/23 list=IP-NP } on-error={}
+:do { add address=163.52.44.0/24 list=IP-NP } on-error={}
 :do { add address=163.53.24.0/23 list=IP-NP } on-error={}
 :do { add address=163.61.40.0/23 list=IP-NP } on-error={}
 :do { add address=163.61.118.0/23 list=IP-NP } on-error={}
