@@ -1,4 +1,4 @@
-# Last update: 2026-08-27 02:21:04 UTC
+# Last update: 2026-08-27 13:14:46 UTC
 # Country: EC
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=EC&v4_format=prefix
 
@@ -285,6 +285,7 @@
 
 /ip firewall address-list remove [/ip firewall address-list find list=IP-EC]
 /ip firewall address-list
+:do { add address=2.152.36.0/22 list=IP-EC } on-error={}
 :do { add address=27.50.12.0/22 list=IP-EC } on-error={}
 :do { add address=45.4.88.0/22 list=IP-EC } on-error={}
 :do { add address=45.4.200.0/22 list=IP-EC } on-error={}
