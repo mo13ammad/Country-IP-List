@@ -1,4 +1,4 @@
-# Last update: 2026-08-28 07:24:14 UTC
+# Last update: 2026-08-28 19:42:30 UTC
 # Country: CZ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CZ&v4_format=prefix
 
@@ -81,7 +81,6 @@
 :do { add address=2001:67c:17b8::/48 list=CZv6 } on-error={}
 :do { add address=2001:67c:17d0::/48 list=CZv6 } on-error={}
 :do { add address=2001:67c:1828::/48 list=CZv6 } on-error={}
-:do { add address=2001:67c:1874::/48 list=CZv6 } on-error={}
 :do { add address=2001:67c:1914::/48 list=CZv6 } on-error={}
 :do { add address=2001:67c:19c4::/48 list=CZv6 } on-error={}
 :do { add address=2001:67c:1b64::/48 list=CZv6 } on-error={}
@@ -473,7 +472,6 @@
 :do { add address=2a09:e100::/29 list=CZv6 } on-error={}
 :do { add address=2a09:e200::/29 list=CZv6 } on-error={}
 :do { add address=2a09:ec00::/29 list=CZv6 } on-error={}
-:do { add address=2a09:f040::/29 list=CZv6 } on-error={}
 :do { add address=2a09:fac0::/32 list=CZv6 } on-error={}
 :do { add address=2a09:fc00::/29 list=CZv6 } on-error={}
 :do { add address=2a0a:940::/29 list=CZv6 } on-error={}
@@ -510,7 +508,6 @@
 :do { add address=2a0b:640::/30 list=CZv6 } on-error={}
 :do { add address=2a0b:2d40::/32 list=CZv6 } on-error={}
 :do { add address=2a0b:2f40::/32 list=CZv6 } on-error={}
-:do { add address=2a0b:2fc0::/29 list=CZv6 } on-error={}
 :do { add address=2a0b:3240::/32 list=CZv6 } on-error={}
 :do { add address=2a0b:4280::/29 list=CZv6 } on-error={}
 :do { add address=2a0b:4740::/29 list=CZv6 } on-error={}
@@ -573,7 +570,6 @@
 :do { add address=2a0c:ff40::/29 list=CZv6 } on-error={}
 :do { add address=2a0d:180::/29 list=CZv6 } on-error={}
 :do { add address=2a0d:1c0::/29 list=CZv6 } on-error={}
-:do { add address=2a0d:c00::/29 list=CZv6 } on-error={}
 :do { add address=2a0d:1380::/29 list=CZv6 } on-error={}
 :do { add address=2a0d:1780::/29 list=CZv6 } on-error={}
 :do { add address=2a0d:1880::/29 list=CZv6 } on-error={}
@@ -2322,6 +2318,7 @@
 :do { add address=195.133.196.0/22 list=IP-CZ } on-error={}
 :do { add address=195.133.200.0/23 list=IP-CZ } on-error={}
 :do { add address=195.137.182.0/24 list=IP-CZ } on-error={}
+:do { add address=195.137.215.0/24 list=IP-CZ } on-error={}
 :do { add address=195.140.252.0/22 list=IP-CZ } on-error={}
 :do { add address=195.144.96.0/19 list=IP-CZ } on-error={}
 :do { add address=195.146.96.0/19 list=IP-CZ } on-error={}

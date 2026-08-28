@@ -1,4 +1,4 @@
-# Last update: 2026-08-28 07:24:14 UTC
+# Last update: 2026-08-28 19:42:30 UTC
 # Country: NA
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=NA&v4_format=prefix
 
