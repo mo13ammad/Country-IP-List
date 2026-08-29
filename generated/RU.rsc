@@ -1,4 +1,4 @@
-# Last update: 2026-08-29 02:32:14 UTC
+# Last update: 2026-08-29 09:29:28 UTC
 # Country: RU
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=RU&v4_format=prefix
 
@@ -923,7 +923,6 @@
 :do { add address=2a03:b900::/32 list=RUv6 } on-error={}
 :do { add address=2a03:b9c0::/32 list=RUv6 } on-error={}
 :do { add address=2a03:c440::/32 list=RUv6 } on-error={}
-:do { add address=2a03:c4c0::/32 list=RUv6 } on-error={}
 :do { add address=2a03:c700::/29 list=RUv6 } on-error={}
 :do { add address=2a03:c980::/32 list=RUv6 } on-error={}
 :do { add address=2a03:ca00::/32 list=RUv6 } on-error={}
@@ -11010,7 +11009,6 @@
 :do { add address=193.104.11.0/24 list=IP-RU } on-error={}
 :do { add address=193.104.14.0/24 list=IP-RU } on-error={}
 :do { add address=193.104.24.0/24 list=IP-RU } on-error={}
-:do { add address=193.104.27.0/24 list=IP-RU } on-error={}
 :do { add address=193.104.28.0/24 list=IP-RU } on-error={}
 :do { add address=193.104.59.0/24 list=IP-RU } on-error={}
 :do { add address=193.104.64.0/24 list=IP-RU } on-error={}
@@ -12168,7 +12166,8 @@
 :do { add address=195.2.238.0/23 list=IP-RU } on-error={}
 :do { add address=195.2.240.0/23 list=IP-RU } on-error={}
 :do { add address=195.3.132.0/22 list=IP-RU } on-error={}
-:do { add address=195.3.140.0/22 list=IP-RU } on-error={}
+:do { add address=195.3.140.0/23 list=IP-RU } on-error={}
+:do { add address=195.3.142.0/23 list=IP-RU } on-error={}
 :do { add address=195.3.180.0/24 list=IP-RU } on-error={}
 :do { add address=195.3.182.0/24 list=IP-RU } on-error={}
 :do { add address=195.3.183.0/24 list=IP-RU } on-error={}
@@ -12451,6 +12450,7 @@
 :do { add address=195.95.214.0/23 list=IP-RU } on-error={}
 :do { add address=195.95.218.0/24 list=IP-RU } on-error={}
 :do { add address=195.95.252.0/23 list=IP-RU } on-error={}
+:do { add address=195.96.40.0/21 list=IP-RU } on-error={}
 :do { add address=195.96.64.0/19 list=IP-RU } on-error={}
 :do { add address=195.96.160.0/19 list=IP-RU } on-error={}
 :do { add address=195.98.32.0/19 list=IP-RU } on-error={}
