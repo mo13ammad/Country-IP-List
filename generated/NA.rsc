@@ -1,4 +1,4 @@
-# Last update: 2026-08-30 06:00:58 UTC
+# Last update: 2026-08-30 12:22:11 UTC
 # Country: NA
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=NA&v4_format=prefix
 
@@ -29,6 +29,7 @@
 :do { add address=41.219.64.0/18 list=IP-NA } on-error={}
 :do { add address=41.223.80.0/22 list=IP-NA } on-error={}
 :do { add address=102.69.212.0/22 list=IP-NA } on-error={}
+:do { add address=102.201.111.0/24 list=IP-NA } on-error={}
 :do { add address=102.203.124.0/24 list=IP-NA } on-error={}
 :do { add address=102.204.80.0/22 list=IP-NA } on-error={}
 :do { add address=102.204.180.0/22 list=IP-NA } on-error={}
