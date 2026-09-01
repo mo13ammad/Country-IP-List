@@ -1,4 +1,4 @@
-# Last update: 2026-09-01 00:51:20 UTC
+# Last update: 2026-09-01 05:48:48 UTC
 # Country: CM
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CM&v4_format=prefix
 
