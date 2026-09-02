@@ -1,4 +1,4 @@
-# Last update: 2026-09-02 06:32:12 UTC
+# Last update: 2026-09-02 11:48:21 UTC
 # Country: HK
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=HK&v4_format=prefix
 
@@ -8,6 +8,7 @@
 :do { add address=2001:2e0:2000::/35 list=HKv6 } on-error={}
 :do { add address=2001:2e0:4000::/34 list=HKv6 } on-error={}
 :do { add address=2001:2e0:8000::/33 list=HKv6 } on-error={}
+:do { add address=2001:678:8dc::/48 list=HKv6 } on-error={}
 :do { add address=2001:678:b20::/48 list=HKv6 } on-error={}
 :do { add address=2001:678:12ac::/48 list=HKv6 } on-error={}
 :do { add address=2001:678:12f4::/48 list=HKv6 } on-error={}
@@ -686,7 +687,6 @@
 :do { add address=2406:6f40::/32 list=HKv6 } on-error={}
 :do { add address=2406:7180::/32 list=HKv6 } on-error={}
 :do { add address=2406:7840::/32 list=HKv6 } on-error={}
-:do { add address=2406:7a40::/32 list=HKv6 } on-error={}
 :do { add address=2406:8100::/32 list=HKv6 } on-error={}
 :do { add address=2406:81c0::/32 list=HKv6 } on-error={}
 :do { add address=2406:8680::/32 list=HKv6 } on-error={}
@@ -2343,7 +2343,6 @@
 :do { add address=103.155.142.0/23 list=IP-HK } on-error={}
 :do { add address=103.155.148.0/23 list=IP-HK } on-error={}
 :do { add address=103.155.154.0/23 list=IP-HK } on-error={}
-:do { add address=103.155.244.0/23 list=IP-HK } on-error={}
 :do { add address=103.156.76.0/23 list=IP-HK } on-error={}
 :do { add address=103.156.178.0/23 list=IP-HK } on-error={}
 :do { add address=103.157.28.0/23 list=IP-HK } on-error={}
