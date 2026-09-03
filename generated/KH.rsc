@@ -1,4 +1,4 @@
-# Last update: 2026-09-03 05:16:20 UTC
+# Last update: 2026-09-03 10:15:24 UTC
 # Country: KH
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=KH&v4_format=prefix
 
@@ -133,7 +133,8 @@
 :do { add address=58.97.192.0/19 list=IP-KH } on-error={}
 :do { add address=58.97.224.0/21 list=IP-KH } on-error={}
 :do { add address=69.194.192.0/20 list=IP-KH } on-error={}
-:do { add address=79.109.0.0/16 list=IP-KH } on-error={}
+:do { add address=79.109.1.0/24 list=IP-KH } on-error={}
+:do { add address=79.109.224.0/19 list=IP-KH } on-error={}
 :do { add address=87.247.160.0/21 list=IP-KH } on-error={}
 :do { add address=96.9.64.0/19 list=IP-KH } on-error={}
 :do { add address=103.3.28.0/22 list=IP-KH } on-error={}

@@ -1,4 +1,4 @@
-# Last update: 2026-09-03 05:16:20 UTC
+# Last update: 2026-09-03 10:15:24 UTC
 # Country: BR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BR&v4_format=prefix
 
@@ -7231,7 +7231,6 @@
 :do { add address=2804:7b3c::/32 list=BRv6 } on-error={}
 :do { add address=2804:7b40::/32 list=BRv6 } on-error={}
 :do { add address=2804:7b48::/32 list=BRv6 } on-error={}
-:do { add address=2804:7b4c::/32 list=BRv6 } on-error={}
 :do { add address=2804:7b50::/32 list=BRv6 } on-error={}
 :do { add address=2804:7b54::/32 list=BRv6 } on-error={}
 :do { add address=2804:7b5c::/32 list=BRv6 } on-error={}
@@ -8951,6 +8950,10 @@
 :do { add address=2804:9a58::/32 list=BRv6 } on-error={}
 :do { add address=2804:9a5c::/32 list=BRv6 } on-error={}
 :do { add address=2804:9a60::/32 list=BRv6 } on-error={}
+:do { add address=2804:9a64::/32 list=BRv6 } on-error={}
+:do { add address=2804:9a68::/32 list=BRv6 } on-error={}
+:do { add address=2804:9a6c::/32 list=BRv6 } on-error={}
+:do { add address=2804:9a70::/32 list=BRv6 } on-error={}
 :do { add address=2a00:aee0::/29 list=BRv6 } on-error={}
 :do { add address=2a06:b700::/29 list=BRv6 } on-error={}
 
