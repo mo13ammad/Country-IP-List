@@ -1,4 +1,4 @@
-# Last update: 2026-09-04 06:39:00 UTC
+# Last update: 2026-09-04 11:49:54 UTC
 # Country: MD
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MD&v4_format=prefix
 
@@ -440,7 +440,6 @@
 :do { add address=103.35.188.0/22 list=IP-MD } on-error={}
 :do { add address=103.106.0.0/22 list=IP-MD } on-error={}
 :do { add address=103.113.68.0/22 list=IP-MD } on-error={}
-:do { add address=103.197.148.0/22 list=IP-MD } on-error={}
 :do { add address=103.231.72.0/22 list=IP-MD } on-error={}
 :do { add address=109.185.0.0/16 list=IP-MD } on-error={}
 :do { add address=109.205.191.0/24 list=IP-MD } on-error={}

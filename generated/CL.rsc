@@ -1,4 +1,4 @@
-# Last update: 2026-09-04 06:39:00 UTC
+# Last update: 2026-09-04 11:49:54 UTC
 # Country: CL
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CL&v4_format=prefix
 
@@ -532,7 +532,6 @@
 :do { add address=164.163.88.0/22 list=IP-CL } on-error={}
 :do { add address=165.182.0.0/16 list=IP-CL } on-error={}
 :do { add address=165.183.0.0/16 list=IP-CL } on-error={}
-:do { add address=166.75.0.0/16 list=IP-CL } on-error={}
 :do { add address=166.110.0.0/16 list=IP-CL } on-error={}
 :do { add address=167.28.0.0/16 list=IP-CL } on-error={}
 :do { add address=167.249.28.0/22 list=IP-CL } on-error={}
@@ -770,7 +769,8 @@
 :do { add address=191.102.32.0/22 list=IP-CL } on-error={}
 :do { add address=191.112.0.0/14 list=IP-CL } on-error={}
 :do { add address=191.116.0.0/14 list=IP-CL } on-error={}
-:do { add address=191.124.0.0/14 list=IP-CL } on-error={}
+:do { add address=191.125.0.0/16 list=IP-CL } on-error={}
+:do { add address=191.126.0.0/15 list=IP-CL } on-error={}
 :do { add address=192.12.118.0/24 list=IP-CL } on-error={}
 :do { add address=192.80.24.0/24 list=IP-CL } on-error={}
 :do { add address=192.140.56.0/22 list=IP-CL } on-error={}
