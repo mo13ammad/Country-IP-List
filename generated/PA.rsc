@@ -1,4 +1,4 @@
-# Last update: 2026-09-05 20:47:10 UTC
+# Last update: 2026-09-05 22:25:44 UTC
 # Country: PA
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PA&v4_format=prefix
 
