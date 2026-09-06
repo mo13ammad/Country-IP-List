@@ -1,4 +1,4 @@
-# Last update: 2026-09-06 13:14:46 UTC
+# Last update: 2026-09-06 16:31:45 UTC
 # Country: FI
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=FI&v4_format=prefix
 
