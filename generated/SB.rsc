@@ -1,4 +1,4 @@
-# Last update: 2026-09-06 22:30:41 UTC
+# Last update: 2026-09-07 00:26:07 UTC
 # Country: SB
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SB&v4_format=prefix
 
