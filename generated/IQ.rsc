@@ -1,9 +1,10 @@
-# Last update: 2026-09-08 06:39:34 UTC
+# Last update: 2026-09-08 11:50:23 UTC
 # Country: IQ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=IQ&v4_format=prefix
 
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list=IQv6]
 /ipv6 firewall address-list
+:do { add address=2001:678:e3c::/48 list=IQv6 } on-error={}
 :do { add address=2001:7f8:166::/48 list=IQv6 } on-error={}
 :do { add address=2a00:4360::/32 list=IQv6 } on-error={}
 :do { add address=2a00:8ac0::/32 list=IQv6 } on-error={}
