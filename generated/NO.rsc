@@ -1,4 +1,4 @@
-# Last update: 2026-09-09 05:28:35 UTC
+# Last update: 2026-09-09 10:16:07 UTC
 # Country: NO
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=NO&v4_format=prefix
 
@@ -308,7 +308,6 @@
 :do { add address=2a05:9cc0::/29 list=NOv6 } on-error={}
 :do { add address=2a05:a840::/29 list=NOv6 } on-error={}
 :do { add address=2a05:aac0::/29 list=NOv6 } on-error={}
-:do { add address=2a05:b380::/29 list=NOv6 } on-error={}
 :do { add address=2a05:be40::/29 list=NOv6 } on-error={}
 :do { add address=2a05:c940::/29 list=NOv6 } on-error={}
 :do { add address=2a05:e340::/29 list=NOv6 } on-error={}
@@ -400,7 +399,6 @@
 :do { add address=2a0c::/29 list=NOv6 } on-error={}
 :do { add address=2a0c:940::/29 list=NOv6 } on-error={}
 :do { add address=2a0c:1400::/29 list=NOv6 } on-error={}
-:do { add address=2a0c:1b00::/29 list=NOv6 } on-error={}
 :do { add address=2a0c:1bc0::/29 list=NOv6 } on-error={}
 :do { add address=2a0c:2280::/29 list=NOv6 } on-error={}
 :do { add address=2a0c:2ec0::/29 list=NOv6 } on-error={}
@@ -428,7 +426,6 @@
 :do { add address=2a10:4d40::/29 list=NOv6 } on-error={}
 :do { add address=2a10:5a40::/29 list=NOv6 } on-error={}
 :do { add address=2a10:7640::/29 list=NOv6 } on-error={}
-:do { add address=2a10:a300::/29 list=NOv6 } on-error={}
 :do { add address=2a10:a640::/29 list=NOv6 } on-error={}
 :do { add address=2a10:d640::/29 list=NOv6 } on-error={}
 :do { add address=2a11:c0::/29 list=NOv6 } on-error={}

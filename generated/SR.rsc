@@ -1,4 +1,4 @@
-# Last update: 2026-09-09 05:28:35 UTC
+# Last update: 2026-09-09 10:16:07 UTC
 # Country: SR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SR&v4_format=prefix
 
@@ -18,6 +18,7 @@
 :do { add address=168.121.84.0/22 list=IP-SR } on-error={}
 :do { add address=168.195.216.0/22 list=IP-SR } on-error={}
 :do { add address=186.179.128.0/17 list=IP-SR } on-error={}
+:do { add address=190.2.172.0/22 list=IP-SR } on-error={}
 :do { add address=190.98.0.0/19 list=IP-SR } on-error={}
 :do { add address=190.98.32.0/19 list=IP-SR } on-error={}
 :do { add address=190.98.64.0/18 list=IP-SR } on-error={}

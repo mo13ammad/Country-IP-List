@@ -1,4 +1,4 @@
-# Last update: 2026-09-09 05:28:35 UTC
+# Last update: 2026-09-09 10:16:07 UTC
 # Country: GB
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GB&v4_format=prefix
 
@@ -4262,6 +4262,7 @@
 :do { add address=89.32.127.0/24 list=IP-GB } on-error={}
 :do { add address=89.32.170.0/24 list=IP-GB } on-error={}
 :do { add address=89.33.6.0/23 list=IP-GB } on-error={}
+:do { add address=89.33.9.0/24 list=IP-GB } on-error={}
 :do { add address=89.33.46.0/24 list=IP-GB } on-error={}
 :do { add address=89.33.47.0/24 list=IP-GB } on-error={}
 :do { add address=89.33.82.0/24 list=IP-GB } on-error={}
@@ -5940,7 +5941,8 @@
 :do { add address=149.170.147.0/24 list=IP-GB } on-error={}
 :do { add address=149.170.148.0/22 list=IP-GB } on-error={}
 :do { add address=149.170.152.0/21 list=IP-GB } on-error={}
-:do { add address=149.170.160.0/19 list=IP-GB } on-error={}
+:do { add address=149.170.160.0/20 list=IP-GB } on-error={}
+:do { add address=149.170.184.0/21 list=IP-GB } on-error={}
 :do { add address=149.170.192.0/21 list=IP-GB } on-error={}
 :do { add address=149.170.208.0/20 list=IP-GB } on-error={}
 :do { add address=149.170.224.0/22 list=IP-GB } on-error={}
