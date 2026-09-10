@@ -1,4 +1,4 @@
-# Last update: 2026-09-10 06:45:39 UTC
+# Last update: 2026-09-10 11:55:18 UTC
 # Country: ID
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=ID&v4_format=prefix
 
@@ -1855,8 +1855,16 @@
 :do { add address=2001:df7:7440::/48 list=IDv6 } on-error={}
 :do { add address=2001:df7:74c0::/48 list=IDv6 } on-error={}
 :do { add address=2001:df7:7500::/48 list=IDv6 } on-error={}
+:do { add address=2001:df7:75c0::/48 list=IDv6 } on-error={}
+:do { add address=2001:df7:7640::/48 list=IDv6 } on-error={}
+:do { add address=2001:df7:76c0::/48 list=IDv6 } on-error={}
 :do { add address=2001:df7:7700::/48 list=IDv6 } on-error={}
+:do { add address=2001:df7:7740::/48 list=IDv6 } on-error={}
+:do { add address=2001:df7:77c0::/48 list=IDv6 } on-error={}
+:do { add address=2001:df7:7840::/48 list=IDv6 } on-error={}
+:do { add address=2001:df7:78c0::/48 list=IDv6 } on-error={}
 :do { add address=2001:df7:7900::/48 list=IDv6 } on-error={}
+:do { add address=2001:df7:7940::/48 list=IDv6 } on-error={}
 :do { add address=2001:df7:7a00::/48 list=IDv6 } on-error={}
 :do { add address=2001:df7:7b00::/48 list=IDv6 } on-error={}
 :do { add address=2001:df7:7d80::/48 list=IDv6 } on-error={}
@@ -8070,6 +8078,14 @@
 :do { add address=163.52.122.0/24 list=IP-ID } on-error={}
 :do { add address=163.52.123.0/24 list=IP-ID } on-error={}
 :do { add address=163.52.124.0/23 list=IP-ID } on-error={}
+:do { add address=163.52.130.0/23 list=IP-ID } on-error={}
+:do { add address=163.52.132.0/24 list=IP-ID } on-error={}
+:do { add address=163.52.133.0/24 list=IP-ID } on-error={}
+:do { add address=163.52.134.0/24 list=IP-ID } on-error={}
+:do { add address=163.52.135.0/24 list=IP-ID } on-error={}
+:do { add address=163.52.136.0/24 list=IP-ID } on-error={}
+:do { add address=163.52.137.0/24 list=IP-ID } on-error={}
+:do { add address=163.52.138.0/24 list=IP-ID } on-error={}
 :do { add address=163.53.184.0/22 list=IP-ID } on-error={}
 :do { add address=163.53.192.0/22 list=IP-ID } on-error={}
 :do { add address=163.61.6.0/23 list=IP-ID } on-error={}
