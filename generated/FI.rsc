@@ -1,4 +1,4 @@
-# Last update: 2026-09-11 01:48:40 UTC
+# Last update: 2026-09-11 11:54:18 UTC
 # Country: FI
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=FI&v4_format=prefix
 
@@ -170,7 +170,6 @@
 :do { add address=2a04:c0c0::/29 list=FIv6 } on-error={}
 :do { add address=2a04:cbc0::/32 list=FIv6 } on-error={}
 :do { add address=2a04:cc80::/29 list=FIv6 } on-error={}
-:do { add address=2a04:d500::/29 list=FIv6 } on-error={}
 :do { add address=2a05:1f40::/29 list=FIv6 } on-error={}
 :do { add address=2a05:39c0::/29 list=FIv6 } on-error={}
 :do { add address=2a05:7fc0::/29 list=FIv6 } on-error={}
@@ -621,7 +620,6 @@
 :do { add address=91.199.148.0/24 list=IP-FI } on-error={}
 :do { add address=91.202.112.0/22 list=IP-FI } on-error={}
 :do { add address=91.207.79.0/24 list=IP-FI } on-error={}
-:do { add address=91.209.29.0/24 list=IP-FI } on-error={}
 :do { add address=91.213.97.0/24 list=IP-FI } on-error={}
 :do { add address=91.213.161.0/24 list=IP-FI } on-error={}
 :do { add address=91.214.164.0/22 list=IP-FI } on-error={}
@@ -841,7 +839,6 @@
 :do { add address=185.53.84.0/22 list=IP-FI } on-error={}
 :do { add address=185.55.32.0/22 list=IP-FI } on-error={}
 :do { add address=185.55.84.0/22 list=IP-FI } on-error={}
-:do { add address=185.55.176.0/22 list=IP-FI } on-error={}
 :do { add address=185.57.180.0/22 list=IP-FI } on-error={}
 :do { add address=185.58.32.0/22 list=IP-FI } on-error={}
 :do { add address=185.59.116.0/22 list=IP-FI } on-error={}

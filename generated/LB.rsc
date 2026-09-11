@@ -1,4 +1,4 @@
-# Last update: 2026-09-11 01:48:40 UTC
+# Last update: 2026-09-11 11:54:18 UTC
 # Country: LB
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=LB&v4_format=prefix
 
@@ -89,6 +89,7 @@
 :do { add address=2a0d:b340::/29 list=LBv6 } on-error={}
 :do { add address=2a0d:b3c0::/29 list=LBv6 } on-error={}
 :do { add address=2a0d:ec80::/29 list=LBv6 } on-error={}
+:do { add address=2a0e:6480::/32 list=LBv6 } on-error={}
 :do { add address=2a0e:d7c0::/29 list=LBv6 } on-error={}
 :do { add address=2a0e:fe00::/29 list=LBv6 } on-error={}
 :do { add address=2a0f:9540::/29 list=LBv6 } on-error={}

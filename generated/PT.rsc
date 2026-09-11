@@ -1,4 +1,4 @@
-# Last update: 2026-09-11 01:48:40 UTC
+# Last update: 2026-09-11 11:54:18 UTC
 # Country: PT
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PT&v4_format=prefix
 
@@ -255,7 +255,7 @@
 :do { add address=148.69.0.0/16 list=IP-PT } on-error={}
 :do { add address=148.71.0.0/16 list=IP-PT } on-error={}
 :do { add address=149.90.0.0/16 list=IP-PT } on-error={}
-:do { add address=150.237.126.0/23 list=IP-PT } on-error={}
+:do { add address=150.237.124.0/22 list=IP-PT } on-error={}
 :do { add address=158.162.0.0/16 list=IP-PT } on-error={}
 :do { add address=159.255.48.0/20 list=IP-PT } on-error={}
 :do { add address=161.230.0.0/16 list=IP-PT } on-error={}

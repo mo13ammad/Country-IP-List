@@ -1,4 +1,4 @@
-# Last update: 2026-09-11 01:48:40 UTC
+# Last update: 2026-09-11 11:54:18 UTC
 # Country: FJ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=FJ&v4_format=prefix
 
@@ -15,7 +15,6 @@
 :do { add address=2001:df6:b740::/48 list=FJv6 } on-error={}
 :do { add address=2400:6d00::/32 list=FJv6 } on-error={}
 :do { add address=2401:5100::/32 list=FJv6 } on-error={}
-:do { add address=2401:d7c0::/32 list=FJv6 } on-error={}
 :do { add address=2401:e600::/32 list=FJv6 } on-error={}
 :do { add address=2402:1840::/32 list=FJv6 } on-error={}
 :do { add address=2402:2940::/32 list=FJv6 } on-error={}

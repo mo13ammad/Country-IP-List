@@ -1,4 +1,4 @@
-# Last update: 2026-09-11 01:48:40 UTC
+# Last update: 2026-09-11 11:54:18 UTC
 # Country: BR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BR&v4_format=prefix
 
@@ -8952,6 +8952,8 @@
 :do { add address=2804:9a68::/32 list=BRv6 } on-error={}
 :do { add address=2804:9a6c::/32 list=BRv6 } on-error={}
 :do { add address=2804:9a70::/32 list=BRv6 } on-error={}
+:do { add address=2804:9a74::/32 list=BRv6 } on-error={}
+:do { add address=2804:9a78::/32 list=BRv6 } on-error={}
 :do { add address=2a00:aee0::/29 list=BRv6 } on-error={}
 :do { add address=2a06:b700::/29 list=BRv6 } on-error={}
 
