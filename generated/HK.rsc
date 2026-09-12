@@ -1,4 +1,4 @@
-# Last update: 2026-09-12 06:38:01 UTC
+# Last update: 2026-09-12 11:20:57 UTC
 # Country: HK
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=HK&v4_format=prefix
 
@@ -3074,13 +3074,11 @@
 :do { add address=159.200.0.0/17 list=IP-HK } on-error={}
 :do { add address=159.200.128.0/18 list=IP-HK } on-error={}
 :do { add address=159.200.192.0/21 list=IP-HK } on-error={}
-:do { add address=159.200.201.0/24 list=IP-HK } on-error={}
 :do { add address=159.200.202.0/23 list=IP-HK } on-error={}
 :do { add address=159.200.204.0/23 list=IP-HK } on-error={}
 :do { add address=159.200.208.0/21 list=IP-HK } on-error={}
 :do { add address=159.200.220.0/22 list=IP-HK } on-error={}
 :do { add address=159.200.224.0/22 list=IP-HK } on-error={}
-:do { add address=159.200.234.0/23 list=IP-HK } on-error={}
 :do { add address=159.200.238.0/24 list=IP-HK } on-error={}
 :do { add address=159.200.248.0/21 list=IP-HK } on-error={}
 :do { add address=160.19.48.0/22 list=IP-HK } on-error={}

@@ -1,4 +1,4 @@
-# Last update: 2026-09-12 06:38:01 UTC
+# Last update: 2026-09-12 11:20:57 UTC
 # Country: TW
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=TW&v4_format=prefix
 
@@ -1324,7 +1324,8 @@
 :do { add address=211.73.102.0/23 list=IP-TW } on-error={}
 :do { add address=211.73.104.0/23 list=IP-TW } on-error={}
 :do { add address=211.73.106.0/23 list=IP-TW } on-error={}
-:do { add address=211.73.108.0/22 list=IP-TW } on-error={}
+:do { add address=211.73.108.0/23 list=IP-TW } on-error={}
+:do { add address=211.73.110.0/23 list=IP-TW } on-error={}
 :do { add address=211.73.112.0/20 list=IP-TW } on-error={}
 :do { add address=211.73.128.0/19 list=IP-TW } on-error={}
 :do { add address=211.73.160.0/19 list=IP-TW } on-error={}
