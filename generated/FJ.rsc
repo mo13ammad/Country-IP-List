@@ -1,4 +1,4 @@
-# Last update: 2026-09-11 23:37:56 UTC
+# Last update: 2026-09-12 06:38:01 UTC
 # Country: FJ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=FJ&v4_format=prefix
 
