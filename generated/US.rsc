@@ -1,4 +1,4 @@
-# Last update: 2026-09-13 06:54:04 UTC
+# Last update: 2026-09-13 12:24:15 UTC
 # Country: US
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=US&v4_format=prefix
 
@@ -1193,6 +1193,7 @@
 :do { add address=2602:81e:8000::/44 list=USv6 } on-error={}
 :do { add address=2602:81e:9000::/44 list=USv6 } on-error={}
 :do { add address=2602:81e:a000::/44 list=USv6 } on-error={}
+:do { add address=2602:f2ef::/40 list=USv6 } on-error={}
 :do { add address=2602:f2f0::/40 list=USv6 } on-error={}
 :do { add address=2602:f2f1::/40 list=USv6 } on-error={}
 :do { add address=2602:f2f2::/40 list=USv6 } on-error={}
@@ -8144,6 +8145,7 @@
 :do { add address=2620:39:6000::/48 list=USv6 } on-error={}
 :do { add address=2620:39:8000::/48 list=USv6 } on-error={}
 :do { add address=2620:39:a000::/48 list=USv6 } on-error={}
+:do { add address=2620:39:d000::/48 list=USv6 } on-error={}
 :do { add address=2620:3a::/48 list=USv6 } on-error={}
 :do { add address=2620:3a:2000::/48 list=USv6 } on-error={}
 :do { add address=2620:3a:4000::/44 list=USv6 } on-error={}
@@ -61909,6 +61911,7 @@
 :do { add address=199.34.242.0/24 list=IP-US } on-error={}
 :do { add address=199.34.243.0/24 list=IP-US } on-error={}
 :do { add address=199.34.244.0/22 list=IP-US } on-error={}
+:do { add address=199.34.248.0/21 list=IP-US } on-error={}
 :do { add address=199.35.0.0/19 list=IP-US } on-error={}
 :do { add address=199.35.32.0/20 list=IP-US } on-error={}
 :do { add address=199.35.48.0/20 list=IP-US } on-error={}
@@ -62759,6 +62762,9 @@
 :do { add address=199.85.92.0/22 list=IP-US } on-error={}
 :do { add address=199.85.96.0/23 list=IP-US } on-error={}
 :do { add address=199.85.98.0/24 list=IP-US } on-error={}
+:do { add address=199.85.102.0/23 list=IP-US } on-error={}
+:do { add address=199.85.104.0/23 list=IP-US } on-error={}
+:do { add address=199.85.106.0/24 list=IP-US } on-error={}
 :do { add address=199.85.116.0/23 list=IP-US } on-error={}
 :do { add address=199.85.120.0/22 list=IP-US } on-error={}
 :do { add address=199.85.125.0/24 list=IP-US } on-error={}
