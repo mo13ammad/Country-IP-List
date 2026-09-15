@@ -1,4 +1,4 @@
-# Last update: 2026-09-15 20:33:33 UTC
+# Last update: 2026-09-15 23:15:40 UTC
 # Country: CY
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CY&v4_format=prefix
 
