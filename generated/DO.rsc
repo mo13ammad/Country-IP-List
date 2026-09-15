@@ -1,4 +1,4 @@
-# Last update: 2026-09-15 01:06:50 UTC
+# Last update: 2026-09-15 06:53:09 UTC
 # Country: DO
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=DO&v4_format=prefix
 
