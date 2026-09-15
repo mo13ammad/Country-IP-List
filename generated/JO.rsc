@@ -1,4 +1,4 @@
-# Last update: 2026-09-15 06:53:09 UTC
+# Last update: 2026-09-15 12:18:55 UTC
 # Country: JO
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=JO&v4_format=prefix
 
@@ -87,6 +87,7 @@
 :do { add address=91.186.224.0/19 list=IP-JO } on-error={}
 :do { add address=91.209.248.0/24 list=IP-JO } on-error={}
 :do { add address=91.212.0.0/24 list=IP-JO } on-error={}
+:do { add address=91.217.45.0/24 list=IP-JO } on-error={}
 :do { add address=91.220.195.0/24 list=IP-JO } on-error={}
 :do { add address=91.223.202.0/24 list=IP-JO } on-error={}
 :do { add address=92.241.32.0/19 list=IP-JO } on-error={}
