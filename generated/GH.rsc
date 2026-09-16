@@ -1,4 +1,4 @@
-# Last update: 2026-09-16 07:58:35 UTC
+# Last update: 2026-09-16 13:06:23 UTC
 # Country: GH
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GH&v4_format=prefix
 
@@ -45,6 +45,7 @@
 :do { add address=2c0f:3ec0::/32 list=GHv6 } on-error={}
 :do { add address=2c0f:47c0::/32 list=GHv6 } on-error={}
 :do { add address=2c0f:52a0::/32 list=GHv6 } on-error={}
+:do { add address=2c0f:55a0::/32 list=GHv6 } on-error={}
 :do { add address=2c0f:5c40::/32 list=GHv6 } on-error={}
 :do { add address=2c0f:6bc0::/32 list=GHv6 } on-error={}
 :do { add address=2c0f:75c0::/32 list=GHv6 } on-error={}

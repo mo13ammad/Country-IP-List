@@ -1,4 +1,4 @@
-# Last update: 2026-09-16 02:03:57 UTC
+# Last update: 2026-09-16 13:06:23 UTC
 # Country: KN
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=KN&v4_format=prefix
 
@@ -8,6 +8,7 @@
 :do { add address=2602:fb78::/40 list=KNv6 } on-error={}
 :do { add address=2620:18:c000::/48 list=KNv6 } on-error={}
 :do { add address=2620:6b:2000::/48 list=KNv6 } on-error={}
+:do { add address=2a0e:ad80::/29 list=KNv6 } on-error={}
 
 /ip firewall address-list remove [/ip firewall address-list find list=IP-KN]
 /ip firewall address-list

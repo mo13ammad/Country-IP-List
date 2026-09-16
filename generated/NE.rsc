@@ -1,9 +1,11 @@
-# Last update: 2026-09-16 07:58:35 UTC
+# Last update: 2026-09-16 13:06:23 UTC
 # Country: NE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=NE&v4_format=prefix
 
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list=NEv6]
 /ipv6 firewall address-list
+:do { add address=2001:43fe:1800::/48 list=NEv6 } on-error={}
+:do { add address=2c0f:1620::/32 list=NEv6 } on-error={}
 :do { add address=2c0f:3700::/32 list=NEv6 } on-error={}
 :do { add address=2c0f:6880::/32 list=NEv6 } on-error={}
 :do { add address=2c0f:eae8::/32 list=NEv6 } on-error={}
@@ -14,6 +16,7 @@
 :do { add address=41.78.116.0/22 list=IP-NE } on-error={}
 :do { add address=41.138.32.0/19 list=IP-NE } on-error={}
 :do { add address=41.203.128.0/19 list=IP-NE } on-error={}
+:do { add address=102.201.72.0/22 list=IP-NE } on-error={}
 :do { add address=102.213.60.0/22 list=IP-NE } on-error={}
 :do { add address=102.213.244.0/22 list=IP-NE } on-error={}
 :do { add address=102.214.4.0/22 list=IP-NE } on-error={}

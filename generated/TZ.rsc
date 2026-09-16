@@ -1,4 +1,4 @@
-# Last update: 2026-09-16 07:58:35 UTC
+# Last update: 2026-09-16 13:06:23 UTC
 # Country: TZ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=TZ&v4_format=prefix
 
@@ -19,12 +19,14 @@
 :do { add address=2001:43f8:611::/48 list=TZv6 } on-error={}
 :do { add address=2001:43f8:680::/48 list=TZv6 } on-error={}
 :do { add address=2001:43f8:b80::/48 list=TZv6 } on-error={}
-:do { add address=2001:43f8:ce0::/48 list=TZv6 } on-error={}
+:do { add address=2001:43f8:ce0::/44 list=TZv6 } on-error={}
 :do { add address=2001:43f8:1080::/48 list=TZv6 } on-error={}
 :do { add address=2001:43f8:1390::/48 list=TZv6 } on-error={}
 :do { add address=2001:43f8:14d0::/48 list=TZv6 } on-error={}
+:do { add address=2001:43f8:1b00::/44 list=TZv6 } on-error={}
 :do { add address=2001:43fc:1800::/48 list=TZv6 } on-error={}
 :do { add address=2001:43fc:2000::/48 list=TZv6 } on-error={}
+:do { add address=2001:43fc:3800::/48 list=TZv6 } on-error={}
 :do { add address=2001:43fd:6800::/48 list=TZv6 } on-error={}
 :do { add address=2001:43fd:e000::/48 list=TZv6 } on-error={}
 :do { add address=2001:43fe:b000::/48 list=TZv6 } on-error={}
@@ -40,6 +42,7 @@
 :do { add address=2c0f:b80::/32 list=TZv6 } on-error={}
 :do { add address=2c0f:cc0::/32 list=TZv6 } on-error={}
 :do { add address=2c0f:da0::/32 list=TZv6 } on-error={}
+:do { add address=2c0f:15a0::/32 list=TZv6 } on-error={}
 :do { add address=2c0f:17c0::/32 list=TZv6 } on-error={}
 :do { add address=2c0f:18c0::/32 list=TZv6 } on-error={}
 :do { add address=2c0f:1bc0::/32 list=TZv6 } on-error={}
@@ -78,6 +81,7 @@
 :do { add address=2c0f:f960::/32 list=TZv6 } on-error={}
 :do { add address=2c0f:fb88::/32 list=TZv6 } on-error={}
 :do { add address=2c0f:fbb8::/32 list=TZv6 } on-error={}
+:do { add address=2c0f:fcc0::/32 list=TZv6 } on-error={}
 :do { add address=2c0f:fcf0::/32 list=TZv6 } on-error={}
 :do { add address=2c0f:fd10::/32 list=TZv6 } on-error={}
 :do { add address=2c0f:fd20::/32 list=TZv6 } on-error={}

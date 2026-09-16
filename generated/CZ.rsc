@@ -1,4 +1,4 @@
-# Last update: 2026-09-16 07:58:35 UTC
+# Last update: 2026-09-16 13:06:23 UTC
 # Country: CZ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CZ&v4_format=prefix
 
@@ -577,7 +577,6 @@
 :do { add address=2a0d:3140::/29 list=CZv6 } on-error={}
 :do { add address=2a0d:4b00::/29 list=CZv6 } on-error={}
 :do { add address=2a0d:4d00::/29 list=CZv6 } on-error={}
-:do { add address=2a0d:7640::/29 list=CZv6 } on-error={}
 :do { add address=2a0d:8f40::/29 list=CZv6 } on-error={}
 :do { add address=2a0d:b0c0::/29 list=CZv6 } on-error={}
 :do { add address=2a0d:b880::/29 list=CZv6 } on-error={}
@@ -736,7 +735,6 @@
 :do { add address=37.46.80.0/21 list=IP-CZ } on-error={}
 :do { add address=37.46.208.0/21 list=IP-CZ } on-error={}
 :do { add address=37.48.0.0/18 list=IP-CZ } on-error={}
-:do { add address=37.77.145.0/24 list=IP-CZ } on-error={}
 :do { add address=37.77.149.0/24 list=IP-CZ } on-error={}
 :do { add address=37.77.224.0/19 list=IP-CZ } on-error={}
 :do { add address=37.140.220.0/24 list=IP-CZ } on-error={}

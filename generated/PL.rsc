@@ -1,4 +1,4 @@
-# Last update: 2026-09-16 07:58:35 UTC
+# Last update: 2026-09-16 13:06:23 UTC
 # Country: PL
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PL&v4_format=prefix
 
@@ -2557,7 +2557,6 @@
 :do { add address=91.238.216.0/24 list=IP-PL } on-error={}
 :do { add address=91.238.232.0/22 list=IP-PL } on-error={}
 :do { add address=91.238.240.0/22 list=IP-PL } on-error={}
-:do { add address=91.238.246.0/23 list=IP-PL } on-error={}
 :do { add address=91.238.254.0/24 list=IP-PL } on-error={}
 :do { add address=91.239.28.0/22 list=IP-PL } on-error={}
 :do { add address=91.239.36.0/24 list=IP-PL } on-error={}
