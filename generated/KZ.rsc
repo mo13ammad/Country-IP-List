@@ -1,4 +1,4 @@
-# Last update: 2026-09-17 08:04:34 UTC
+# Last update: 2026-09-17 13:51:55 UTC
 # Country: KZ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=KZ&v4_format=prefix
 
@@ -70,6 +70,7 @@
 :do { add address=2a0e:6600::/29 list=KZv6 } on-error={}
 :do { add address=2a0e:7bc0::/29 list=KZv6 } on-error={}
 :do { add address=2a0e:9340::/29 list=KZv6 } on-error={}
+:do { add address=2a0e:b4c0::/29 list=KZv6 } on-error={}
 :do { add address=2a0e:d100::/29 list=KZv6 } on-error={}
 :do { add address=2a0e:d280::/29 list=KZv6 } on-error={}
 :do { add address=2a0e:db80::/29 list=KZv6 } on-error={}

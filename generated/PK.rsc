@@ -1,4 +1,4 @@
-# Last update: 2026-09-17 08:04:34 UTC
+# Last update: 2026-09-17 13:51:55 UTC
 # Country: PK
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PK&v4_format=prefix
 
@@ -993,6 +993,7 @@
 :do { add address=163.52.68.0/23 list=IP-PK } on-error={}
 :do { add address=163.52.118.0/23 list=IP-PK } on-error={}
 :do { add address=163.52.146.0/23 list=IP-PK } on-error={}
+:do { add address=163.52.185.0/24 list=IP-PK } on-error={}
 :do { add address=163.61.0.0/23 list=IP-PK } on-error={}
 :do { add address=163.61.25.0/24 list=IP-PK } on-error={}
 :do { add address=163.61.91.0/24 list=IP-PK } on-error={}
@@ -1036,6 +1037,20 @@
 :do { add address=180.178.176.0/20 list=IP-PK } on-error={}
 :do { add address=182.176.0.0/12 list=IP-PK } on-error={}
 :do { add address=182.255.48.0/22 list=IP-PK } on-error={}
+:do { add address=187.7.32.0/19 list=IP-PK } on-error={}
+:do { add address=187.52.224.0/19 list=IP-PK } on-error={}
+:do { add address=187.53.160.0/19 list=IP-PK } on-error={}
+:do { add address=187.54.224.0/19 list=IP-PK } on-error={}
+:do { add address=187.55.64.0/19 list=IP-PK } on-error={}
+:do { add address=187.55.128.0/19 list=IP-PK } on-error={}
+:do { add address=187.78.128.0/19 list=IP-PK } on-error={}
+:do { add address=187.79.128.0/20 list=IP-PK } on-error={}
+:do { add address=189.10.144.0/20 list=IP-PK } on-error={}
+:do { add address=189.10.208.0/20 list=IP-PK } on-error={}
+:do { add address=189.12.0.0/19 list=IP-PK } on-error={}
+:do { add address=189.31.224.0/19 list=IP-PK } on-error={}
+:do { add address=189.72.96.0/19 list=IP-PK } on-error={}
+:do { add address=189.105.16.0/20 list=IP-PK } on-error={}
 :do { add address=192.58.97.0/24 list=IP-PK } on-error={}
 :do { add address=192.135.90.0/23 list=IP-PK } on-error={}
 :do { add address=192.140.144.0/22 list=IP-PK } on-error={}
