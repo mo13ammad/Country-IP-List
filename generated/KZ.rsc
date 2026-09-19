@@ -1,4 +1,4 @@
-# Last update: 2026-09-19 07:04:35 UTC
+# Last update: 2026-09-19 12:06:43 UTC
 # Country: KZ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=KZ&v4_format=prefix
 
@@ -463,6 +463,10 @@
 :do { add address=111.88.140.0/22 list=IP-KZ } on-error={}
 :do { add address=128.127.96.0/21 list=IP-KZ } on-error={}
 :do { add address=130.193.6.0/24 list=IP-KZ } on-error={}
+:do { add address=141.133.134.0/23 list=IP-KZ } on-error={}
+:do { add address=141.133.142.0/23 list=IP-KZ } on-error={}
+:do { add address=141.133.160.0/21 list=IP-KZ } on-error={}
+:do { add address=141.133.168.0/22 list=IP-KZ } on-error={}
 :do { add address=145.255.160.0/19 list=IP-KZ } on-error={}
 :do { add address=146.0.60.0/22 list=IP-KZ } on-error={}
 :do { add address=146.0.192.0/20 list=IP-KZ } on-error={}
