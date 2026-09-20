@@ -1,4 +1,4 @@
-# Last update: 2026-09-20 21:59:35 UTC
+# Last update: 2026-09-20 23:52:41 UTC
 # Country: TL
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=TL&v4_format=prefix
 
