@@ -1,4 +1,4 @@
-# Last update: 2026-09-22 08:00:34 UTC
+# Last update: 2026-09-22 13:43:44 UTC
 # Country: BZ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BZ&v4_format=prefix
 
@@ -34,10 +34,6 @@
 
 /ip firewall address-list remove [/ip firewall address-list find list=IP-BZ]
 /ip firewall address-list
-:do { add address=2.56.44.0/22 list=IP-BZ } on-error={}
-:do { add address=2.59.10.0/23 list=IP-BZ } on-error={}
-:do { add address=5.253.160.0/22 list=IP-BZ } on-error={}
-:do { add address=45.67.176.0/22 list=IP-BZ } on-error={}
 :do { add address=45.70.228.0/22 list=IP-BZ } on-error={}
 :do { add address=45.70.240.0/22 list=IP-BZ } on-error={}
 :do { add address=45.87.220.0/22 list=IP-BZ } on-error={}
@@ -49,12 +45,9 @@
 :do { add address=45.228.156.0/24 list=IP-BZ } on-error={}
 :do { add address=45.234.88.0/22 list=IP-BZ } on-error={}
 :do { add address=82.115.15.0/24 list=IP-BZ } on-error={}
-:do { add address=83.150.236.0/22 list=IP-BZ } on-error={}
-:do { add address=85.209.136.0/22 list=IP-BZ } on-error={}
 :do { add address=91.90.162.0/24 list=IP-BZ } on-error={}
 :do { add address=91.209.70.0/24 list=IP-BZ } on-error={}
 :do { add address=91.226.97.0/24 list=IP-BZ } on-error={}
-:do { add address=91.245.232.0/23 list=IP-BZ } on-error={}
 :do { add address=93.115.60.0/23 list=IP-BZ } on-error={}
 :do { add address=121.127.33.0/24 list=IP-BZ } on-error={}
 :do { add address=131.161.148.0/22 list=IP-BZ } on-error={}
@@ -63,9 +56,7 @@
 :do { add address=138.99.120.0/22 list=IP-BZ } on-error={}
 :do { add address=138.99.208.0/22 list=IP-BZ } on-error={}
 :do { add address=138.185.76.0/22 list=IP-BZ } on-error={}
-:do { add address=141.98.92.0/22 list=IP-BZ } on-error={}
 :do { add address=148.224.24.0/22 list=IP-BZ } on-error={}
-:do { add address=152.89.8.0/22 list=IP-BZ } on-error={}
 :do { add address=153.55.176.0/20 list=IP-BZ } on-error={}
 :do { add address=160.238.136.0/22 list=IP-BZ } on-error={}
 :do { add address=167.249.200.0/22 list=IP-BZ } on-error={}
@@ -75,7 +66,6 @@
 :do { add address=170.0.180.0/22 list=IP-BZ } on-error={}
 :do { add address=170.247.220.0/22 list=IP-BZ } on-error={}
 :do { add address=170.254.16.0/22 list=IP-BZ } on-error={}
-:do { add address=171.22.36.0/22 list=IP-BZ } on-error={}
 :do { add address=179.42.192.0/18 list=IP-BZ } on-error={}
 :do { add address=179.51.252.0/22 list=IP-BZ } on-error={}
 :do { add address=179.60.144.0/21 list=IP-BZ } on-error={}
@@ -83,15 +73,8 @@
 :do { add address=181.177.64.0/18 list=IP-BZ } on-error={}
 :do { add address=181.233.124.0/22 list=IP-BZ } on-error={}
 :do { add address=185.130.44.0/22 list=IP-BZ } on-error={}
-:do { add address=185.131.222.0/23 list=IP-BZ } on-error={}
-:do { add address=185.142.217.0/24 list=IP-BZ } on-error={}
-:do { add address=185.142.218.0/24 list=IP-BZ } on-error={}
-:do { add address=185.145.114.0/24 list=IP-BZ } on-error={}
 :do { add address=185.156.200.0/22 list=IP-BZ } on-error={}
-:do { add address=185.221.220.0/24 list=IP-BZ } on-error={}
-:do { add address=185.240.253.0/24 list=IP-BZ } on-error={}
 :do { add address=186.65.88.0/22 list=IP-BZ } on-error={}
-:do { add address=188.119.88.0/22 list=IP-BZ } on-error={}
 :do { add address=190.97.98.0/24 list=IP-BZ } on-error={}
 :do { add address=190.102.96.0/22 list=IP-BZ } on-error={}
 :do { add address=190.102.112.0/21 list=IP-BZ } on-error={}
@@ -102,10 +85,6 @@
 :do { add address=190.211.146.0/23 list=IP-BZ } on-error={}
 :do { add address=190.211.148.0/24 list=IP-BZ } on-error={}
 :do { add address=191.97.80.0/21 list=IP-BZ } on-error={}
-:do { add address=193.168.180.0/22 list=IP-BZ } on-error={}
-:do { add address=193.203.37.0/24 list=IP-BZ } on-error={}
-:do { add address=193.203.38.0/24 list=IP-BZ } on-error={}
-:do { add address=194.38.28.0/22 list=IP-BZ } on-error={}
 :do { add address=195.80.32.0/22 list=IP-BZ } on-error={}
 :do { add address=199.231.235.0/24 list=IP-BZ } on-error={}
 :do { add address=200.10.194.0/24 list=IP-BZ } on-error={}
