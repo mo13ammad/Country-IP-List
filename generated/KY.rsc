@@ -1,4 +1,4 @@
-# Last update: 2026-09-22 02:10:06 UTC
+# Last update: 2026-09-22 08:00:34 UTC
 # Country: KY
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=KY&v4_format=prefix
 
