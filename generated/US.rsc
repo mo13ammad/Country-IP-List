@@ -1,4 +1,4 @@
-# Last update: 2026-09-23 08:02:47 UTC
+# Last update: 2026-09-23 13:55:42 UTC
 # Country: US
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=US&v4_format=prefix
 
@@ -1196,6 +1196,8 @@
 :do { add address=2602:81e:a000::/44 list=USv6 } on-error={}
 :do { add address=2602:81e:b000::/44 list=USv6 } on-error={}
 :do { add address=2602:81e:c000::/44 list=USv6 } on-error={}
+:do { add address=2602:f2df::/40 list=USv6 } on-error={}
+:do { add address=2602:f2e0::/40 list=USv6 } on-error={}
 :do { add address=2602:f2e1::/40 list=USv6 } on-error={}
 :do { add address=2602:f2e2::/40 list=USv6 } on-error={}
 :do { add address=2602:f2e4::/40 list=USv6 } on-error={}
@@ -3448,6 +3450,7 @@
 :do { add address=2602:fddd::/36 list=USv6 } on-error={}
 :do { add address=2602:fde1::/36 list=USv6 } on-error={}
 :do { add address=2602:fde4::/36 list=USv6 } on-error={}
+:do { add address=2602:fde7::/36 list=USv6 } on-error={}
 :do { add address=2602:fde8::/32 list=USv6 } on-error={}
 :do { add address=2602:fde9::/36 list=USv6 } on-error={}
 :do { add address=2602:fdea::/36 list=USv6 } on-error={}
@@ -9717,7 +9720,6 @@
 :do { add address=2620:122:2000::/40 list=USv6 } on-error={}
 :do { add address=2620:122:3000::/40 list=USv6 } on-error={}
 :do { add address=2620:122:7000::/40 list=USv6 } on-error={}
-:do { add address=2620:122:8000::/44 list=USv6 } on-error={}
 :do { add address=2620:122:9000::/44 list=USv6 } on-error={}
 :do { add address=2620:122:b000::/44 list=USv6 } on-error={}
 :do { add address=2620:122:c000::/40 list=USv6 } on-error={}
@@ -10959,10 +10961,10 @@
 :do { add address=9.179.0.0/16 list=IP-US } on-error={}
 :do { add address=9.180.0.0/14 list=IP-US } on-error={}
 :do { add address=9.184.0.0/16 list=IP-US } on-error={}
-:do { add address=9.186.0.0/15 list=IP-US } on-error={}
+:do { add address=9.186.0.0/16 list=IP-US } on-error={}
 :do { add address=9.187.0.0/16 list=IP-US } on-error={}
-:do { add address=9.188.0.0/15 list=IP-US } on-error={}
 :do { add address=9.188.0.0/16 list=IP-US } on-error={}
+:do { add address=9.189.0.0/16 list=IP-US } on-error={}
 :do { add address=9.191.0.0/16 list=IP-US } on-error={}
 :do { add address=9.194.0.0/16 list=IP-US } on-error={}
 :do { add address=9.195.0.0/16 list=IP-US } on-error={}
@@ -12961,6 +12963,7 @@
 :do { add address=23.157.100.0/24 list=IP-US } on-error={}
 :do { add address=23.157.104.0/23 list=IP-US } on-error={}
 :do { add address=23.157.112.0/23 list=IP-US } on-error={}
+:do { add address=23.157.116.0/24 list=IP-US } on-error={}
 :do { add address=23.157.120.0/24 list=IP-US } on-error={}
 :do { add address=23.157.124.0/24 list=IP-US } on-error={}
 :do { add address=23.157.128.0/24 list=IP-US } on-error={}
@@ -13289,8 +13292,11 @@
 :do { add address=23.164.72.0/24 list=IP-US } on-error={}
 :do { add address=23.164.76.0/24 list=IP-US } on-error={}
 :do { add address=23.164.80.0/24 list=IP-US } on-error={}
+:do { add address=23.164.84.0/24 list=IP-US } on-error={}
 :do { add address=23.164.88.0/24 list=IP-US } on-error={}
+:do { add address=23.164.100.0/24 list=IP-US } on-error={}
 :do { add address=23.164.104.0/24 list=IP-US } on-error={}
+:do { add address=23.164.108.0/24 list=IP-US } on-error={}
 :do { add address=23.164.112.0/24 list=IP-US } on-error={}
 :do { add address=23.164.113.0/24 list=IP-US } on-error={}
 :do { add address=23.164.114.0/24 list=IP-US } on-error={}
@@ -15712,11 +15718,6 @@
 :do { add address=47.88.0.0/14 list=IP-US } on-error={}
 :do { add address=47.128.0.0/14 list=IP-US } on-error={}
 :do { add address=47.132.0.0/14 list=IP-US } on-error={}
-:do { add address=47.136.0.0/13 list=IP-US } on-error={}
-:do { add address=47.144.0.0/12 list=IP-US } on-error={}
-:do { add address=47.160.0.0/12 list=IP-US } on-error={}
-:do { add address=47.176.0.0/14 list=IP-US } on-error={}
-:do { add address=47.180.0.0/15 list=IP-US } on-error={}
 :do { add address=47.182.0.0/15 list=IP-US } on-error={}
 :do { add address=47.184.0.0/14 list=IP-US } on-error={}
 :do { add address=47.188.0.0/15 list=IP-US } on-error={}
@@ -18955,7 +18956,6 @@
 :do { add address=65.99.96.0/19 list=IP-US } on-error={}
 :do { add address=65.99.192.0/18 list=IP-US } on-error={}
 :do { add address=65.100.0.0/14 list=IP-US } on-error={}
-:do { add address=65.104.0.0/14 list=IP-US } on-error={}
 :do { add address=65.110.32.0/21 list=IP-US } on-error={}
 :do { add address=65.110.40.0/21 list=IP-US } on-error={}
 :do { add address=65.110.48.0/22 list=IP-US } on-error={}
@@ -20968,6 +20968,7 @@
 :do { add address=67.159.160.0/19 list=IP-US } on-error={}
 :do { add address=67.159.192.0/24 list=IP-US } on-error={}
 :do { add address=67.159.193.0/24 list=IP-US } on-error={}
+:do { add address=67.159.194.0/23 list=IP-US } on-error={}
 :do { add address=67.159.196.0/23 list=IP-US } on-error={}
 :do { add address=67.159.198.0/24 list=IP-US } on-error={}
 :do { add address=67.159.200.0/24 list=IP-US } on-error={}
@@ -21817,8 +21818,6 @@
 :do { add address=68.235.160.0/20 list=IP-US } on-error={}
 :do { add address=68.235.192.0/19 list=IP-US } on-error={}
 :do { add address=68.235.224.0/19 list=IP-US } on-error={}
-:do { add address=68.236.0.0/16 list=IP-US } on-error={}
-:do { add address=68.237.0.0/17 list=IP-US } on-error={}
 :do { add address=68.237.128.0/20 list=IP-US } on-error={}
 :do { add address=68.237.144.0/20 list=IP-US } on-error={}
 :do { add address=68.237.160.0/19 list=IP-US } on-error={}
@@ -22227,7 +22226,9 @@
 :do { add address=69.38.128.0/20 list=IP-US } on-error={}
 :do { add address=69.38.144.0/20 list=IP-US } on-error={}
 :do { add address=69.38.160.0/20 list=IP-US } on-error={}
-:do { add address=69.38.176.0/20 list=IP-US } on-error={}
+:do { add address=69.38.176.0/22 list=IP-US } on-error={}
+:do { add address=69.38.180.0/22 list=IP-US } on-error={}
+:do { add address=69.38.184.0/21 list=IP-US } on-error={}
 :do { add address=69.38.192.0/21 list=IP-US } on-error={}
 :do { add address=69.38.200.0/22 list=IP-US } on-error={}
 :do { add address=69.38.204.0/22 list=IP-US } on-error={}
@@ -23828,7 +23829,9 @@
 :do { add address=72.46.132.0/22 list=IP-US } on-error={}
 :do { add address=72.46.136.0/22 list=IP-US } on-error={}
 :do { add address=72.46.144.0/21 list=IP-US } on-error={}
-:do { add address=72.46.160.0/20 list=IP-US } on-error={}
+:do { add address=72.46.160.0/21 list=IP-US } on-error={}
+:do { add address=72.46.168.0/22 list=IP-US } on-error={}
+:do { add address=72.46.172.0/22 list=IP-US } on-error={}
 :do { add address=72.46.176.0/22 list=IP-US } on-error={}
 :do { add address=72.46.180.0/23 list=IP-US } on-error={}
 :do { add address=72.46.182.0/24 list=IP-US } on-error={}
@@ -25542,6 +25545,7 @@
 :do { add address=79.139.80.0/23 list=IP-US } on-error={}
 :do { add address=79.170.200.0/21 list=IP-US } on-error={}
 :do { add address=80.43.128.0/17 list=IP-US } on-error={}
+:do { add address=80.46.160.0/19 list=IP-US } on-error={}
 :do { add address=80.47.240.0/20 list=IP-US } on-error={}
 :do { add address=80.70.192.0/20 list=IP-US } on-error={}
 :do { add address=80.73.134.0/24 list=IP-US } on-error={}
@@ -26449,8 +26453,6 @@
 :do { add address=98.99.0.0/16 list=IP-US } on-error={}
 :do { add address=98.100.0.0/14 list=IP-US } on-error={}
 :do { add address=98.104.0.0/14 list=IP-US } on-error={}
-:do { add address=98.108.0.0/14 list=IP-US } on-error={}
-:do { add address=98.112.0.0/13 list=IP-US } on-error={}
 :do { add address=98.120.0.0/14 list=IP-US } on-error={}
 :do { add address=98.124.64.0/18 list=IP-US } on-error={}
 :do { add address=98.124.128.0/18 list=IP-US } on-error={}
@@ -26650,8 +26652,6 @@
 :do { add address=100.16.0.0/14 list=IP-US } on-error={}
 :do { add address=100.20.0.0/14 list=IP-US } on-error={}
 :do { add address=100.24.0.0/13 list=IP-US } on-error={}
-:do { add address=100.32.0.0/13 list=IP-US } on-error={}
-:do { add address=100.40.0.0/15 list=IP-US } on-error={}
 :do { add address=100.42.0.0/20 list=IP-US } on-error={}
 :do { add address=100.42.16.0/20 list=IP-US } on-error={}
 :do { add address=100.42.32.0/20 list=IP-US } on-error={}
@@ -30607,7 +30607,6 @@
 :do { add address=136.148.64.0/20 list=IP-US } on-error={}
 :do { add address=136.149.0.0/16 list=IP-US } on-error={}
 :do { add address=136.150.0.0/16 list=IP-US } on-error={}
-:do { add address=136.151.0.0/16 list=IP-US } on-error={}
 :do { add address=136.152.0.0/16 list=IP-US } on-error={}
 :do { add address=136.160.0.0/16 list=IP-US } on-error={}
 :do { add address=136.161.0.0/16 list=IP-US } on-error={}
@@ -32240,6 +32239,7 @@
 :do { add address=142.214.0.0/18 list=IP-US } on-error={}
 :do { add address=142.214.128.0/17 list=IP-US } on-error={}
 :do { add address=142.215.0.0/16 list=IP-US } on-error={}
+:do { add address=142.228.30.0/24 list=IP-US } on-error={}
 :do { add address=142.228.36.0/22 list=IP-US } on-error={}
 :do { add address=142.228.48.0/22 list=IP-US } on-error={}
 :do { add address=142.228.60.0/22 list=IP-US } on-error={}
@@ -34590,7 +34590,6 @@
 :do { add address=152.160.0.0/16 list=IP-US } on-error={}
 :do { add address=152.161.0.0/16 list=IP-US } on-error={}
 :do { add address=152.162.0.0/16 list=IP-US } on-error={}
-:do { add address=152.164.0.0/16 list=IP-US } on-error={}
 :do { add address=152.176.0.0/12 list=IP-US } on-error={}
 :do { add address=152.192.0.0/13 list=IP-US } on-error={}
 :do { add address=152.208.0.0/13 list=IP-US } on-error={}
@@ -34692,7 +34691,6 @@
 :do { add address=153.78.0.0/16 list=IP-US } on-error={}
 :do { add address=153.79.0.0/18 list=IP-US } on-error={}
 :do { add address=153.79.72.0/21 list=IP-US } on-error={}
-:do { add address=153.79.96.0/21 list=IP-US } on-error={}
 :do { add address=153.79.104.0/21 list=IP-US } on-error={}
 :do { add address=153.79.112.0/20 list=IP-US } on-error={}
 :do { add address=153.79.128.0/19 list=IP-US } on-error={}
@@ -38800,7 +38798,6 @@
 :do { add address=166.97.0.0/16 list=IP-US } on-error={}
 :do { add address=166.98.0.0/16 list=IP-US } on-error={}
 :do { add address=166.99.0.0/16 list=IP-US } on-error={}
-:do { add address=166.101.0.0/16 list=IP-US } on-error={}
 :do { add address=166.102.0.0/16 list=IP-US } on-error={}
 :do { add address=166.105.0.0/16 list=IP-US } on-error={}
 :do { add address=166.107.0.0/16 list=IP-US } on-error={}
@@ -38865,7 +38862,6 @@
 :do { add address=166.231.0.0/16 list=IP-US } on-error={}
 :do { add address=166.232.0.0/14 list=IP-US } on-error={}
 :do { add address=166.236.0.0/16 list=IP-US } on-error={}
-:do { add address=166.237.0.0/16 list=IP-US } on-error={}
 :do { add address=166.239.0.0/16 list=IP-US } on-error={}
 :do { add address=166.240.0.0/12 list=IP-US } on-error={}
 :do { add address=167.1.0.0/16 list=IP-US } on-error={}
@@ -40672,7 +40668,6 @@
 :do { add address=172.32.0.0/11 list=IP-US } on-error={}
 :do { add address=172.64.0.0/13 list=IP-US } on-error={}
 :do { add address=172.72.0.0/14 list=IP-US } on-error={}
-:do { add address=172.76.0.0/14 list=IP-US } on-error={}
 :do { add address=172.80.0.0/17 list=IP-US } on-error={}
 :do { add address=172.81.4.0/22 list=IP-US } on-error={}
 :do { add address=172.81.8.0/24 list=IP-US } on-error={}
@@ -44388,7 +44383,6 @@
 :do { add address=192.48.93.0/24 list=IP-US } on-error={}
 :do { add address=192.48.94.0/24 list=IP-US } on-error={}
 :do { add address=192.48.95.0/24 list=IP-US } on-error={}
-:do { add address=192.48.96.0/24 list=IP-US } on-error={}
 :do { add address=192.48.97.0/24 list=IP-US } on-error={}
 :do { add address=192.48.98.0/24 list=IP-US } on-error={}
 :do { add address=192.48.99.0/24 list=IP-US } on-error={}
@@ -46626,7 +46620,6 @@
 :do { add address=192.91.176.0/24 list=IP-US } on-error={}
 :do { add address=192.91.178.0/24 list=IP-US } on-error={}
 :do { add address=192.91.180.0/24 list=IP-US } on-error={}
-:do { add address=192.91.181.0/24 list=IP-US } on-error={}
 :do { add address=192.91.182.0/24 list=IP-US } on-error={}
 :do { add address=192.91.183.0/24 list=IP-US } on-error={}
 :do { add address=192.91.184.0/24 list=IP-US } on-error={}
@@ -50910,7 +50903,6 @@
 :do { add address=192.177.0.0/16 list=IP-US } on-error={}
 :do { add address=192.178.0.0/15 list=IP-US } on-error={}
 :do { add address=192.180.0.0/15 list=IP-US } on-error={}
-:do { add address=192.182.0.0/17 list=IP-US } on-error={}
 :do { add address=192.182.128.0/19 list=IP-US } on-error={}
 :do { add address=192.182.160.0/19 list=IP-US } on-error={}
 :do { add address=192.182.192.0/18 list=IP-US } on-error={}
@@ -50918,7 +50910,6 @@
 :do { add address=192.183.128.0/19 list=IP-US } on-error={}
 :do { add address=192.183.160.0/19 list=IP-US } on-error={}
 :do { add address=192.183.192.0/19 list=IP-US } on-error={}
-:do { add address=192.183.224.0/19 list=IP-US } on-error={}
 :do { add address=192.184.0.0/22 list=IP-US } on-error={}
 :do { add address=192.184.4.0/24 list=IP-US } on-error={}
 :do { add address=192.184.5.0/24 list=IP-US } on-error={}
@@ -56491,10 +56482,6 @@
 :do { add address=198.133.94.0/23 list=IP-US } on-error={}
 :do { add address=198.133.96.0/23 list=IP-US } on-error={}
 :do { add address=198.133.98.0/24 list=IP-US } on-error={}
-:do { add address=198.133.99.0/24 list=IP-US } on-error={}
-:do { add address=198.133.100.0/22 list=IP-US } on-error={}
-:do { add address=198.133.104.0/22 list=IP-US } on-error={}
-:do { add address=198.133.108.0/24 list=IP-US } on-error={}
 :do { add address=198.133.109.0/24 list=IP-US } on-error={}
 :do { add address=198.133.110.0/24 list=IP-US } on-error={}
 :do { add address=198.133.111.0/24 list=IP-US } on-error={}
@@ -56801,7 +56788,6 @@
 :do { add address=198.136.148.0/24 list=IP-US } on-error={}
 :do { add address=198.136.149.0/24 list=IP-US } on-error={}
 :do { add address=198.136.150.0/24 list=IP-US } on-error={}
-:do { add address=198.136.151.0/24 list=IP-US } on-error={}
 :do { add address=198.136.152.0/24 list=IP-US } on-error={}
 :do { add address=198.136.153.0/24 list=IP-US } on-error={}
 :do { add address=198.136.154.0/24 list=IP-US } on-error={}
@@ -59190,7 +59176,6 @@
 :do { add address=198.187.16.0/21 list=IP-US } on-error={}
 :do { add address=198.187.24.0/22 list=IP-US } on-error={}
 :do { add address=198.187.28.0/22 list=IP-US } on-error={}
-:do { add address=198.187.32.0/19 list=IP-US } on-error={}
 :do { add address=198.187.64.0/18 list=IP-US } on-error={}
 :do { add address=198.187.128.0/24 list=IP-US } on-error={}
 :do { add address=198.187.129.0/24 list=IP-US } on-error={}
@@ -59294,7 +59279,6 @@
 :do { add address=198.187.255.0/24 list=IP-US } on-error={}
 :do { add address=198.188.0.0/16 list=IP-US } on-error={}
 :do { add address=198.189.0.0/16 list=IP-US } on-error={}
-:do { add address=198.190.0.0/21 list=IP-US } on-error={}
 :do { add address=198.190.8.0/22 list=IP-US } on-error={}
 :do { add address=198.190.12.0/24 list=IP-US } on-error={}
 :do { add address=198.190.13.0/24 list=IP-US } on-error={}
@@ -60672,7 +60656,6 @@
 :do { add address=198.246.155.0/24 list=IP-US } on-error={}
 :do { add address=198.246.156.0/24 list=IP-US } on-error={}
 :do { add address=198.246.157.0/24 list=IP-US } on-error={}
-:do { add address=198.246.158.0/24 list=IP-US } on-error={}
 :do { add address=198.246.159.0/24 list=IP-US } on-error={}
 :do { add address=198.246.160.0/24 list=IP-US } on-error={}
 :do { add address=198.246.161.0/24 list=IP-US } on-error={}
@@ -65496,7 +65479,6 @@
 :do { add address=199.244.164.0/24 list=IP-US } on-error={}
 :do { add address=199.244.165.0/24 list=IP-US } on-error={}
 :do { add address=199.244.166.0/24 list=IP-US } on-error={}
-:do { add address=199.244.167.0/24 list=IP-US } on-error={}
 :do { add address=199.244.168.0/23 list=IP-US } on-error={}
 :do { add address=199.244.170.0/24 list=IP-US } on-error={}
 :do { add address=199.244.171.0/24 list=IP-US } on-error={}
@@ -69314,7 +69296,6 @@
 :do { add address=204.128.200.0/24 list=IP-US } on-error={}
 :do { add address=204.128.201.0/24 list=IP-US } on-error={}
 :do { add address=204.128.202.0/24 list=IP-US } on-error={}
-:do { add address=204.128.203.0/24 list=IP-US } on-error={}
 :do { add address=204.128.204.0/24 list=IP-US } on-error={}
 :do { add address=204.128.205.0/24 list=IP-US } on-error={}
 :do { add address=204.128.206.0/24 list=IP-US } on-error={}
@@ -73833,7 +73814,6 @@
 :do { add address=207.7.128.0/19 list=IP-US } on-error={}
 :do { add address=207.7.160.0/19 list=IP-US } on-error={}
 :do { add address=207.7.192.0/18 list=IP-US } on-error={}
-:do { add address=207.8.0.0/17 list=IP-US } on-error={}
 :do { add address=207.8.128.0/18 list=IP-US } on-error={}
 :do { add address=207.8.192.0/19 list=IP-US } on-error={}
 :do { add address=207.8.224.0/20 list=IP-US } on-error={}
@@ -76785,7 +76765,6 @@
 :do { add address=209.2.224.0/20 list=IP-US } on-error={}
 :do { add address=209.2.240.0/20 list=IP-US } on-error={}
 :do { add address=209.3.0.0/16 list=IP-US } on-error={}
-:do { add address=209.4.0.0/16 list=IP-US } on-error={}
 :do { add address=209.6.0.0/16 list=IP-US } on-error={}
 :do { add address=209.7.0.0/16 list=IP-US } on-error={}
 :do { add address=209.10.0.0/16 list=IP-US } on-error={}
@@ -78275,7 +78254,6 @@
 :do { add address=209.251.80.0/20 list=IP-US } on-error={}
 :do { add address=209.251.96.0/19 list=IP-US } on-error={}
 :do { add address=209.251.128.0/19 list=IP-US } on-error={}
-:do { add address=209.251.160.0/19 list=IP-US } on-error={}
 :do { add address=209.251.192.0/23 list=IP-US } on-error={}
 :do { add address=209.251.194.0/24 list=IP-US } on-error={}
 :do { add address=209.251.198.0/23 list=IP-US } on-error={}
@@ -78725,8 +78703,6 @@
 :do { add address=216.27.128.0/18 list=IP-US } on-error={}
 :do { add address=216.27.192.0/18 list=IP-US } on-error={}
 :do { add address=216.28.0.0/15 list=IP-US } on-error={}
-:do { add address=216.30.0.0/17 list=IP-US } on-error={}
-:do { add address=216.30.128.0/20 list=IP-US } on-error={}
 :do { add address=216.30.144.0/24 list=IP-US } on-error={}
 :do { add address=216.30.145.0/24 list=IP-US } on-error={}
 :do { add address=216.30.146.0/23 list=IP-US } on-error={}
@@ -78986,7 +78962,10 @@
 :do { add address=216.56.0.0/16 list=IP-US } on-error={}
 :do { add address=216.57.0.0/18 list=IP-US } on-error={}
 :do { add address=216.57.64.0/20 list=IP-US } on-error={}
-:do { add address=216.57.80.0/20 list=IP-US } on-error={}
+:do { add address=216.57.80.0/23 list=IP-US } on-error={}
+:do { add address=216.57.82.0/23 list=IP-US } on-error={}
+:do { add address=216.57.84.0/22 list=IP-US } on-error={}
+:do { add address=216.57.88.0/21 list=IP-US } on-error={}
 :do { add address=216.57.96.0/21 list=IP-US } on-error={}
 :do { add address=216.57.112.0/24 list=IP-US } on-error={}
 :do { add address=216.57.113.0/24 list=IP-US } on-error={}

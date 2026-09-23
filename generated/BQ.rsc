@@ -1,4 +1,4 @@
-# Last update: 2026-09-23 08:02:47 UTC
+# Last update: 2026-09-23 13:55:42 UTC
 # Country: BQ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BQ&v4_format=prefix
 
@@ -17,6 +17,7 @@
 :do { add address=143.0.32.0/22 list=IP-BQ } on-error={}
 :do { add address=161.0.80.0/20 list=IP-BQ } on-error={}
 :do { add address=186.159.96.0/20 list=IP-BQ } on-error={}
+:do { add address=190.2.176.0/22 list=IP-BQ } on-error={}
 :do { add address=190.4.64.0/20 list=IP-BQ } on-error={}
 :do { add address=190.97.112.0/21 list=IP-BQ } on-error={}
 :do { add address=190.107.248.0/21 list=IP-BQ } on-error={}

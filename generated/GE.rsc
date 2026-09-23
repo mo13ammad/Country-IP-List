@@ -1,4 +1,4 @@
-# Last update: 2026-09-23 08:02:47 UTC
+# Last update: 2026-09-23 13:55:42 UTC
 # Country: GE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GE&v4_format=prefix
 
@@ -62,6 +62,7 @@
 :do { add address=2a0d:bc80::/29 list=GEv6 } on-error={}
 :do { add address=2a0e:2700::/29 list=GEv6 } on-error={}
 :do { add address=2a0f:8c0::/32 list=GEv6 } on-error={}
+:do { add address=2a0f:1500::/29 list=GEv6 } on-error={}
 :do { add address=2a0f:52c0::/29 list=GEv6 } on-error={}
 :do { add address=2a0f:7980::/32 list=GEv6 } on-error={}
 :do { add address=2a10:1580::/29 list=GEv6 } on-error={}
