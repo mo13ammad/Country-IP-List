@@ -1,4 +1,4 @@
-# Last update: 2026-09-24 05:36:30 UTC
+# Last update: 2026-09-24 10:39:39 UTC
 # Country: NG
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=NG&v4_format=prefix
 
@@ -76,6 +76,7 @@
 :do { add address=2c0f:5380::/32 list=NGv6 } on-error={}
 :do { add address=2c0f:5480::/32 list=NGv6 } on-error={}
 :do { add address=2c0f:56a0::/32 list=NGv6 } on-error={}
+:do { add address=2c0f:5820::/32 list=NGv6 } on-error={}
 :do { add address=2c0f:6200::/32 list=NGv6 } on-error={}
 :do { add address=2c0f:62c0::/32 list=NGv6 } on-error={}
 :do { add address=2c0f:63c0::/32 list=NGv6 } on-error={}

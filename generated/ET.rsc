@@ -1,4 +1,4 @@
-# Last update: 2026-09-24 05:36:30 UTC
+# Last update: 2026-09-24 10:39:39 UTC
 # Country: ET
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=ET&v4_format=prefix
 
@@ -6,6 +6,7 @@
 /ipv6 firewall address-list
 :do { add address=2001:43f8:1710::/48 list=ETv6 } on-error={}
 :do { add address=2001:43f8:1711::/48 list=ETv6 } on-error={}
+:do { add address=2c0e:c000::/24 list=ETv6 } on-error={}
 :do { add address=2c0f:36c0::/32 list=ETv6 } on-error={}
 :do { add address=2c0f:3c40::/32 list=ETv6 } on-error={}
 :do { add address=2c0f:6f00::/32 list=ETv6 } on-error={}

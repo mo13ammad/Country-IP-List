@@ -1,4 +1,4 @@
-# Last update: 2026-09-24 05:36:30 UTC
+# Last update: 2026-09-24 10:39:39 UTC
 # Country: EC
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=EC&v4_format=prefix
 
@@ -208,6 +208,7 @@
 :do { add address=2803:ac60::/32 list=ECv6 } on-error={}
 :do { add address=2803:ac90::/32 list=ECv6 } on-error={}
 :do { add address=2803:ade0::/32 list=ECv6 } on-error={}
+:do { add address=2803:af30::/32 list=ECv6 } on-error={}
 :do { add address=2803:af40::/32 list=ECv6 } on-error={}
 :do { add address=2803:b190::/32 list=ECv6 } on-error={}
 :do { add address=2803:b2c0::/32 list=ECv6 } on-error={}
@@ -269,6 +270,7 @@
 :do { add address=2803:e830::/32 list=ECv6 } on-error={}
 :do { add address=2803:ec20::/32 list=ECv6 } on-error={}
 :do { add address=2803:ec40::/32 list=ECv6 } on-error={}
+:do { add address=2803:ef30::/32 list=ECv6 } on-error={}
 :do { add address=2803:efc0::/32 list=ECv6 } on-error={}
 :do { add address=2803:f060::/32 list=ECv6 } on-error={}
 :do { add address=2803:f0a0::/32 list=ECv6 } on-error={}
