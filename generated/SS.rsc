@@ -1,4 +1,4 @@
-# Last update: 2026-09-25 05:52:14 UTC
+# Last update: 2026-09-25 10:43:08 UTC
 # Country: SS
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SS&v4_format=prefix
 
@@ -7,6 +7,8 @@
 :do { add address=2001:43f8:13b1::/48 list=SSv6 } on-error={}
 :do { add address=2001:43f8:1660::/48 list=SSv6 } on-error={}
 :do { add address=2001:43f8:1661::/48 list=SSv6 } on-error={}
+:do { add address=2001:43f8:1a40::/48 list=SSv6 } on-error={}
+:do { add address=2001:43f8:1a41::/48 list=SSv6 } on-error={}
 :do { add address=2c0f:5a0::/32 list=SSv6 } on-error={}
 :do { add address=2c0f:d80::/32 list=SSv6 } on-error={}
 :do { add address=2c0f:6740::/32 list=SSv6 } on-error={}
@@ -42,7 +44,9 @@
 :do { add address=169.255.136.0/22 list=IP-SS } on-error={}
 :do { add address=192.145.180.0/22 list=IP-SS } on-error={}
 :do { add address=196.49.116.0/24 list=IP-SS } on-error={}
+:do { add address=196.49.128.0/24 list=IP-SS } on-error={}
 :do { add address=196.60.88.0/24 list=IP-SS } on-error={}
+:do { add address=196.60.170.0/24 list=IP-SS } on-error={}
 :do { add address=196.192.116.0/22 list=IP-SS } on-error={}
 :do { add address=196.201.8.0/22 list=IP-SS } on-error={}
 :do { add address=197.231.236.0/22 list=IP-SS } on-error={}

@@ -1,4 +1,4 @@
-# Last update: 2026-09-25 05:52:14 UTC
+# Last update: 2026-09-25 10:43:08 UTC
 # Country: QA
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=QA&v4_format=prefix
 
@@ -56,6 +56,7 @@
 :do { add address=103.23.124.0/22 list=IP-QA } on-error={}
 :do { add address=103.199.88.0/22 list=IP-QA } on-error={}
 :do { add address=103.225.72.0/22 list=IP-QA } on-error={}
+:do { add address=149.170.151.0/24 list=IP-QA } on-error={}
 :do { add address=176.202.0.0/15 list=IP-QA } on-error={}
 :do { add address=178.23.16.0/21 list=IP-QA } on-error={}
 :do { add address=178.152.0.0/15 list=IP-QA } on-error={}
