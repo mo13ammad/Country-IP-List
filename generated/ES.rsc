@@ -1,4 +1,4 @@
-# Last update: 2026-09-26 06:45:52 UTC
+# Last update: 2026-09-26 11:54:03 UTC
 # Country: ES
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=ES&v4_format=prefix
 
@@ -764,6 +764,7 @@
 :do { add address=2a0f:6540::/29 list=ESv6 } on-error={}
 :do { add address=2a0f:6a00::/29 list=ESv6 } on-error={}
 :do { add address=2a0f:6e40::/29 list=ESv6 } on-error={}
+:do { add address=2a0f:7940::/29 list=ESv6 } on-error={}
 :do { add address=2a0f:7c00::/29 list=ESv6 } on-error={}
 :do { add address=2a0f:8a00::/29 list=ESv6 } on-error={}
 :do { add address=2a0f:8c00::/32 list=ESv6 } on-error={}
@@ -772,6 +773,7 @@
 :do { add address=2a0f:9940::/29 list=ESv6 } on-error={}
 :do { add address=2a0f:9f80::/29 list=ESv6 } on-error={}
 :do { add address=2a0f:a240::/29 list=ESv6 } on-error={}
+:do { add address=2a0f:ae00::/29 list=ESv6 } on-error={}
 :do { add address=2a0f:c680::/29 list=ESv6 } on-error={}
 :do { add address=2a0f:d140::/29 list=ESv6 } on-error={}
 :do { add address=2a0f:d6c0::/32 list=ESv6 } on-error={}
@@ -1685,7 +1687,7 @@
 :do { add address=85.155.0.0/21 list=IP-ES } on-error={}
 :do { add address=85.155.8.0/22 list=IP-ES } on-error={}
 :do { add address=85.155.12.0/23 list=IP-ES } on-error={}
-:do { add address=85.155.208.0/20 list=IP-ES } on-error={}
+:do { add address=85.155.216.0/21 list=IP-ES } on-error={}
 :do { add address=85.155.252.0/22 list=IP-ES } on-error={}
 :do { add address=85.158.168.0/21 list=IP-ES } on-error={}
 :do { add address=85.184.224.0/22 list=IP-ES } on-error={}
