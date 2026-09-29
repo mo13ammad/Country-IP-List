@@ -1,4 +1,4 @@
-# Last update: 2026-09-29 06:21:31 UTC
+# Last update: 2026-09-29 13:30:19 UTC
 # Country: MX
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MX&v4_format=prefix
 
@@ -606,8 +606,10 @@
 :do { add address=2806:47c::/32 list=MXv6 } on-error={}
 :do { add address=2806:47d::/32 list=MXv6 } on-error={}
 :do { add address=2806:47e::/32 list=MXv6 } on-error={}
+:do { add address=2806:47f::/32 list=MXv6 } on-error={}
 :do { add address=2806:480::/32 list=MXv6 } on-error={}
 :do { add address=2806:482::/32 list=MXv6 } on-error={}
+:do { add address=2806:485::/32 list=MXv6 } on-error={}
 :do { add address=2806:1000::/24 list=MXv6 } on-error={}
 
 /ip firewall address-list remove [/ip firewall address-list find list=IP-MX]
@@ -1962,6 +1964,7 @@
 :do { add address=204.126.140.0/23 list=IP-MX } on-error={}
 :do { add address=204.145.201.0/24 list=IP-MX } on-error={}
 :do { add address=204.153.24.0/23 list=IP-MX } on-error={}
+:do { add address=204.153.206.0/23 list=IP-MX } on-error={}
 :do { add address=204.194.112.0/21 list=IP-MX } on-error={}
 :do { add address=205.166.251.0/24 list=IP-MX } on-error={}
 :do { add address=207.248.32.0/19 list=IP-MX } on-error={}

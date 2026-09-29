@@ -1,9 +1,10 @@
-# Last update: 2026-09-29 06:21:31 UTC
+# Last update: 2026-09-29 13:30:19 UTC
 # Country: RO
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=RO&v4_format=prefix
 
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list=ROv6]
 /ipv6 firewall address-list
+:do { add address=2001:678:14c::/48 list=ROv6 } on-error={}
 :do { add address=2001:678:164::/48 list=ROv6 } on-error={}
 :do { add address=2001:678:260::/48 list=ROv6 } on-error={}
 :do { add address=2001:678:2ac::/48 list=ROv6 } on-error={}
