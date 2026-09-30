@@ -1,11 +1,10 @@
-# Last update: 2026-09-30 07:37:43 UTC
+# Last update: 2026-09-30 14:21:15 UTC
 # Country: IS
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=IS&v4_format=prefix
 
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list=ISv6]
 /ipv6 firewall address-list
 :do { add address=2001:678:afc::/48 list=ISv6 } on-error={}
-:do { add address=2001:678:d14::/48 list=ISv6 } on-error={}
 :do { add address=2001:678:11a0::/48 list=ISv6 } on-error={}
 :do { add address=2001:67c:6c::/48 list=ISv6 } on-error={}
 :do { add address=2001:67c:824::/48 list=ISv6 } on-error={}

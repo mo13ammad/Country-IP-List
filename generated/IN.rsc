@@ -1,4 +1,4 @@
-# Last update: 2026-09-30 07:37:43 UTC
+# Last update: 2026-09-30 14:21:15 UTC
 # Country: IN
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=IN&v4_format=prefix
 
@@ -1691,6 +1691,7 @@
 :do { add address=2001:df7:95c0::/48 list=INv6 } on-error={}
 :do { add address=2001:df7:9640::/48 list=INv6 } on-error={}
 :do { add address=2001:df7:9700::/48 list=INv6 } on-error={}
+:do { add address=2001:df7:9840::/48 list=INv6 } on-error={}
 :do { add address=2001:df7:9880::/48 list=INv6 } on-error={}
 :do { add address=2001:df7:9900::/48 list=INv6 } on-error={}
 :do { add address=2001:df7:9a80::/48 list=INv6 } on-error={}
@@ -2347,6 +2348,8 @@
 :do { add address=2402:7780::/32 list=INv6 } on-error={}
 :do { add address=2402:77a0::/32 list=INv6 } on-error={}
 :do { add address=2402:7860::/32 list=INv6 } on-error={}
+:do { add address=2402:79a0::/32 list=INv6 } on-error={}
+:do { add address=2402:79e0::/32 list=INv6 } on-error={}
 :do { add address=2402:7f00::/32 list=INv6 } on-error={}
 :do { add address=2402:80c0::/32 list=INv6 } on-error={}
 :do { add address=2402:8100::/32 list=INv6 } on-error={}
@@ -11484,6 +11487,7 @@
 :do { add address=198.51.6.0/23 list=IP-IN } on-error={}
 :do { add address=198.56.16.0/23 list=IP-IN } on-error={}
 :do { add address=198.61.8.0/23 list=IP-IN } on-error={}
+:do { add address=198.61.10.0/23 list=IP-IN } on-error={}
 :do { add address=198.147.203.0/24 list=IP-IN } on-error={}
 :do { add address=198.217.248.0/24 list=IP-IN } on-error={}
 :do { add address=198.217.249.0/24 list=IP-IN } on-error={}
