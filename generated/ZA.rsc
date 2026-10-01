@@ -1,4 +1,4 @@
-# Last update: 2026-10-01 02:49:59 UTC
+# Last update: 2026-10-01 09:32:24 UTC
 # Country: ZA
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=ZA&v4_format=prefix
 
@@ -73,6 +73,7 @@
 :do { add address=2001:43f8:1700::/46 list=ZAv6 } on-error={}
 :do { add address=2001:43f8:1800::/40 list=ZAv6 } on-error={}
 :do { add address=2001:43f8:1ac0::/44 list=ZAv6 } on-error={}
+:do { add address=2001:43fc:5800::/48 list=ZAv6 } on-error={}
 :do { add address=2001:43fc:6800::/48 list=ZAv6 } on-error={}
 :do { add address=2001:43fc:8000::/40 list=ZAv6 } on-error={}
 :do { add address=2001:43fc:a800::/48 list=ZAv6 } on-error={}
@@ -912,6 +913,7 @@
 :do { add address=102.177.112.0/20 list=IP-ZA } on-error={}
 :do { add address=102.177.128.0/18 list=IP-ZA } on-error={}
 :do { add address=102.182.0.0/16 list=IP-ZA } on-error={}
+:do { add address=102.201.16.0/23 list=IP-ZA } on-error={}
 :do { add address=102.201.24.0/22 list=IP-ZA } on-error={}
 :do { add address=102.201.40.0/22 list=IP-ZA } on-error={}
 :do { add address=102.201.48.0/22 list=IP-ZA } on-error={}
