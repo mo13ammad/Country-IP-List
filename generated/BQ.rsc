@@ -1,4 +1,4 @@
-# Last update: 2026-10-01 21:28:41 UTC
+# Last update: 2026-10-02 01:09:58 UTC
 # Country: BQ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BQ&v4_format=prefix
 
