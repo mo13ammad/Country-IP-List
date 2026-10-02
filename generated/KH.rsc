@@ -1,4 +1,4 @@
-# Last update: 2026-10-02 07:39:55 UTC
+# Last update: 2026-10-02 14:15:12 UTC
 # Country: KH
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=KH&v4_format=prefix
 
@@ -59,6 +59,7 @@
 :do { add address=2402:3a20::/32 list=KHv6 } on-error={}
 :do { add address=2402:4740::/32 list=KHv6 } on-error={}
 :do { add address=2402:5100::/32 list=KHv6 } on-error={}
+:do { add address=2402:7ae0::/32 list=KHv6 } on-error={}
 :do { add address=2402:b340::/32 list=KHv6 } on-error={}
 :do { add address=2402:c100::/32 list=KHv6 } on-error={}
 :do { add address=2402:cd40::/32 list=KHv6 } on-error={}
