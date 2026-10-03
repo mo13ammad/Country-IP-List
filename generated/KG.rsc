@@ -1,4 +1,4 @@
-# Last update: 2026-10-03 02:39:20 UTC
+# Last update: 2026-10-03 08:39:41 UTC
 # Country: KG
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=KG&v4_format=prefix
 
@@ -27,6 +27,7 @@
 :do { add address=2a0d:1d80::/29 list=KGv6 } on-error={}
 :do { add address=2a0d:dd00::/29 list=KGv6 } on-error={}
 :do { add address=2a0f:5240::/32 list=KGv6 } on-error={}
+:do { add address=2a0f:bb80::/32 list=KGv6 } on-error={}
 :do { add address=2a10:680::/32 list=KGv6 } on-error={}
 :do { add address=2a11:2cc0::/29 list=KGv6 } on-error={}
 :do { add address=2a11:a380::/29 list=KGv6 } on-error={}

@@ -1,4 +1,4 @@
-# Last update: 2026-10-03 02:39:20 UTC
+# Last update: 2026-10-03 08:39:41 UTC
 # Country: DE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=DE&v4_format=prefix
 
@@ -3594,9 +3594,6 @@
 :do { add address=37.252.223.0/24 list=IP-DE } on-error={}
 :do { add address=43.240.148.0/22 list=IP-DE } on-error={}
 :do { add address=43.251.160.0/22 list=IP-DE } on-error={}
-:do { add address=45.3.32.0/20 list=IP-DE } on-error={}
-:do { add address=45.3.48.0/21 list=IP-DE } on-error={}
-:do { add address=45.3.62.0/24 list=IP-DE } on-error={}
 :do { add address=45.8.32.0/22 list=IP-DE } on-error={}
 :do { add address=45.8.112.0/22 list=IP-DE } on-error={}
 :do { add address=45.8.132.0/22 list=IP-DE } on-error={}
@@ -4524,7 +4521,6 @@
 :do { add address=64.190.238.0/23 list=IP-DE } on-error={}
 :do { add address=65.21.0.0/16 list=IP-DE } on-error={}
 :do { add address=65.108.0.0/15 list=IP-DE } on-error={}
-:do { add address=65.111.0.0/19 list=IP-DE } on-error={}
 :do { add address=69.64.32.0/19 list=IP-DE } on-error={}
 :do { add address=72.251.252.0/22 list=IP-DE } on-error={}
 :do { add address=74.122.24.0/24 list=IP-DE } on-error={}
@@ -6485,12 +6481,9 @@
 :do { add address=104.151.0.0/17 list=IP-DE } on-error={}
 :do { add address=104.167.17.0/24 list=IP-DE } on-error={}
 :do { add address=104.167.18.0/24 list=IP-DE } on-error={}
-:do { add address=104.167.19.0/24 list=IP-DE } on-error={}
 :do { add address=104.167.24.0/24 list=IP-DE } on-error={}
-:do { add address=104.167.25.0/24 list=IP-DE } on-error={}
 :do { add address=104.167.26.0/23 list=IP-DE } on-error={}
 :do { add address=104.204.244.0/22 list=IP-DE } on-error={}
-:do { add address=104.207.32.0/19 list=IP-DE } on-error={}
 :do { add address=104.244.168.0/21 list=IP-DE } on-error={}
 :do { add address=107.150.174.0/24 list=IP-DE } on-error={}
 :do { add address=108.179.64.0/18 list=IP-DE } on-error={}
