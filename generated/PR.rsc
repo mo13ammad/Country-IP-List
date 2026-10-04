@@ -1,4 +1,4 @@
-# Last update: 2026-10-04 06:29:24 UTC
+# Last update: 2026-10-04 12:55:12 UTC
 # Country: PR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PR&v4_format=prefix
 
@@ -154,6 +154,7 @@
 :do { add address=67.215.96.0/21 list=IP-PR } on-error={}
 :do { add address=67.215.104.0/22 list=IP-PR } on-error={}
 :do { add address=67.224.128.0/17 list=IP-PR } on-error={}
+:do { add address=69.36.36.0/22 list=IP-PR } on-error={}
 :do { add address=69.89.32.0/20 list=IP-PR } on-error={}
 :do { add address=70.35.128.0/20 list=IP-PR } on-error={}
 :do { add address=70.45.96.0/22 list=IP-PR } on-error={}
@@ -223,6 +224,7 @@
 :do { add address=142.228.184.0/21 list=IP-PR } on-error={}
 :do { add address=142.228.192.0/18 list=IP-PR } on-error={}
 :do { add address=142.248.176.0/22 list=IP-PR } on-error={}
+:do { add address=143.203.180.0/22 list=IP-PR } on-error={}
 :do { add address=147.92.80.0/21 list=IP-PR } on-error={}
 :do { add address=161.38.240.0/22 list=IP-PR } on-error={}
 :do { add address=162.12.224.0/21 list=IP-PR } on-error={}
