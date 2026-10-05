@@ -1,4 +1,4 @@
-# Last update: 2026-10-05 09:43:41 UTC
+# Last update: 2026-10-05 18:55:16 UTC
 # Country: AR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=AR&v4_format=prefix
 
