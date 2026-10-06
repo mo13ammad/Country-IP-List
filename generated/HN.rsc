@@ -1,4 +1,4 @@
-# Last update: 2026-10-06 06:58:16 UTC
+# Last update: 2026-10-06 13:53:14 UTC
 # Country: HN
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=HN&v4_format=prefix
 
@@ -123,7 +123,6 @@
 :do { add address=2803:f180::/32 list=HNv6 } on-error={}
 :do { add address=2803:f400::/32 list=HNv6 } on-error={}
 :do { add address=2803:f420::/32 list=HNv6 } on-error={}
-:do { add address=2803:fed0::/32 list=HNv6 } on-error={}
 
 /ip firewall address-list remove [/ip firewall address-list find list=IP-HN]
 /ip firewall address-list

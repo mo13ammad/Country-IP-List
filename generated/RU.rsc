@@ -1,4 +1,4 @@
-# Last update: 2026-10-06 06:58:16 UTC
+# Last update: 2026-10-06 13:53:14 UTC
 # Country: RU
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=RU&v4_format=prefix
 
@@ -138,7 +138,6 @@
 :do { add address=2001:67c:76c::/48 list=RUv6 } on-error={}
 :do { add address=2001:67c:780::/48 list=RUv6 } on-error={}
 :do { add address=2001:67c:784::/48 list=RUv6 } on-error={}
-:do { add address=2001:67c:79c::/48 list=RUv6 } on-error={}
 :do { add address=2001:67c:7b4::/48 list=RUv6 } on-error={}
 :do { add address=2001:67c:86c::/48 list=RUv6 } on-error={}
 :do { add address=2001:67c:8d8::/48 list=RUv6 } on-error={}
@@ -308,7 +307,6 @@
 :do { add address=2001:7f8:6f::/48 list=RUv6 } on-error={}
 :do { add address=2001:7f8:70::/48 list=RUv6 } on-error={}
 :do { add address=2001:7f8:77::/48 list=RUv6 } on-error={}
-:do { add address=2001:7f8:78::/48 list=RUv6 } on-error={}
 :do { add address=2001:7f8:7d::/48 list=RUv6 } on-error={}
 :do { add address=2001:7f8:82::/48 list=RUv6 } on-error={}
 :do { add address=2001:7f8:84::/48 list=RUv6 } on-error={}
@@ -466,8 +464,6 @@
 :do { add address=2a00:97a0::/32 list=RUv6 } on-error={}
 :do { add address=2a00:9800::/32 list=RUv6 } on-error={}
 :do { add address=2a00:9801::/32 list=RUv6 } on-error={}
-:do { add address=2a00:9802::/31 list=RUv6 } on-error={}
-:do { add address=2a00:9804::/30 list=RUv6 } on-error={}
 :do { add address=2a00:9e80::/29 list=RUv6 } on-error={}
 :do { add address=2a00:a300::/32 list=RUv6 } on-error={}
 :do { add address=2a00:a5e0::/32 list=RUv6 } on-error={}
@@ -746,7 +742,6 @@
 :do { add address=2a02:6bc0::/32 list=RUv6 } on-error={}
 :do { add address=2a02:6c80::/32 list=RUv6 } on-error={}
 :do { add address=2a02:6cc0::/32 list=RUv6 } on-error={}
-:do { add address=2a02:6d00::/32 list=RUv6 } on-error={}
 :do { add address=2a02:6d80::/32 list=RUv6 } on-error={}
 :do { add address=2a02:6e60::/32 list=RUv6 } on-error={}
 :do { add address=2a02:7200::/32 list=RUv6 } on-error={}
@@ -780,7 +775,6 @@
 :do { add address=2a02:e620::/30 list=RUv6 } on-error={}
 :do { add address=2a02:e700::/32 list=RUv6 } on-error={}
 :do { add address=2a02:e840::/29 list=RUv6 } on-error={}
-:do { add address=2a02:e880::/29 list=RUv6 } on-error={}
 :do { add address=2a02:eb00::/29 list=RUv6 } on-error={}
 :do { add address=2a02:eb80::/29 list=RUv6 } on-error={}
 :do { add address=2a02:ec40::/29 list=RUv6 } on-error={}
@@ -888,7 +882,6 @@
 :do { add address=2a03:8060::/32 list=RUv6 } on-error={}
 :do { add address=2a03:8080::/32 list=RUv6 } on-error={}
 :do { add address=2a03:80c0::/32 list=RUv6 } on-error={}
-:do { add address=2a03:8280::/29 list=RUv6 } on-error={}
 :do { add address=2a03:8400::/32 list=RUv6 } on-error={}
 :do { add address=2a03:8440::/29 list=RUv6 } on-error={}
 :do { add address=2a03:84c0::/29 list=RUv6 } on-error={}
@@ -1787,7 +1780,6 @@
 :do { add address=2a0f:b4c0::/29 list=RUv6 } on-error={}
 :do { add address=2a0f:bb00::/29 list=RUv6 } on-error={}
 :do { add address=2a0f:bc80::/29 list=RUv6 } on-error={}
-:do { add address=2a0f:bec0::/32 list=RUv6 } on-error={}
 :do { add address=2a0f:c080::/29 list=RUv6 } on-error={}
 :do { add address=2a0f:c380::/32 list=RUv6 } on-error={}
 :do { add address=2a0f:c580::/29 list=RUv6 } on-error={}
@@ -1805,7 +1797,6 @@
 :do { add address=2a0f:f6c0::/29 list=RUv6 } on-error={}
 :do { add address=2a0f:fb00::/29 list=RUv6 } on-error={}
 :do { add address=2a10:540::/29 list=RUv6 } on-error={}
-:do { add address=2a10:580::/29 list=RUv6 } on-error={}
 :do { add address=2a10:880::/29 list=RUv6 } on-error={}
 :do { add address=2a10:900::/29 list=RUv6 } on-error={}
 :do { add address=2a10:a80::/32 list=RUv6 } on-error={}

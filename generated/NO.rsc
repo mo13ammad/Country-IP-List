@@ -1,4 +1,4 @@
-# Last update: 2026-10-06 06:58:16 UTC
+# Last update: 2026-10-06 13:53:14 UTC
 # Country: NO
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=NO&v4_format=prefix
 
@@ -1218,6 +1218,7 @@
 :do { add address=185.116.4.0/22 list=IP-NO } on-error={}
 :do { add address=185.117.97.0/24 list=IP-NO } on-error={}
 :do { add address=185.117.192.0/22 list=IP-NO } on-error={}
+:do { add address=185.119.207.0/24 list=IP-NO } on-error={}
 :do { add address=185.120.24.0/22 list=IP-NO } on-error={}
 :do { add address=185.120.100.0/22 list=IP-NO } on-error={}
 :do { add address=185.122.196.0/22 list=IP-NO } on-error={}
@@ -1349,6 +1350,7 @@
 :do { add address=185.243.216.0/22 list=IP-NO } on-error={}
 :do { add address=185.246.80.0/22 list=IP-NO } on-error={}
 :do { add address=185.246.228.0/22 list=IP-NO } on-error={}
+:do { add address=185.247.12.0/22 list=IP-NO } on-error={}
 :do { add address=185.247.96.0/22 list=IP-NO } on-error={}
 :do { add address=185.247.120.0/22 list=IP-NO } on-error={}
 :do { add address=185.248.116.0/22 list=IP-NO } on-error={}
