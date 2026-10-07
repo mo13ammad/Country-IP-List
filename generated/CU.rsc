@@ -1,4 +1,4 @@
-# Last update: 2026-10-07 10:38:45 UTC
+# Last update: 2026-10-07 17:34:42 UTC
 # Country: CU
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CU&v4_format=prefix
 
