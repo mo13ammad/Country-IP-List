@@ -1,4 +1,4 @@
-# Last update: 2026-10-07 03:02:40 UTC
+# Last update: 2026-10-07 10:38:45 UTC
 # Country: PS
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PS&v4_format=prefix
 
@@ -231,7 +231,6 @@
 :do { add address=185.99.44.0/22 list=IP-PS } on-error={}
 :do { add address=185.106.192.0/22 list=IP-PS } on-error={}
 :do { add address=185.108.24.0/22 list=IP-PS } on-error={}
-:do { add address=185.132.248.0/22 list=IP-PS } on-error={}
 :do { add address=185.138.132.0/22 list=IP-PS } on-error={}
 :do { add address=185.140.180.0/22 list=IP-PS } on-error={}
 :do { add address=185.142.56.0/22 list=IP-PS } on-error={}

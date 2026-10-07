@@ -1,4 +1,4 @@
-# Last update: 2026-10-07 03:02:40 UTC
+# Last update: 2026-10-07 10:38:45 UTC
 # Country: JP
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=JP&v4_format=prefix
 
@@ -3030,6 +3030,7 @@
 :do { add address=143.125.224.0/19 list=IP-JP } on-error={}
 :do { add address=143.189.0.0/16 list=IP-JP } on-error={}
 :do { add address=143.201.0.0/16 list=IP-JP } on-error={}
+:do { add address=143.203.228.0/22 list=IP-JP } on-error={}
 :do { add address=144.1.0.0/16 list=IP-JP } on-error={}
 :do { add address=144.48.8.0/22 list=IP-JP } on-error={}
 :do { add address=144.79.51.0/24 list=IP-JP } on-error={}

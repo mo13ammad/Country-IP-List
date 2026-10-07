@@ -1,4 +1,4 @@
-# Last update: 2026-10-07 03:02:40 UTC
+# Last update: 2026-10-07 10:38:45 UTC
 # Country: LY
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=LY&v4_format=prefix
 
@@ -37,6 +37,7 @@
 :do { add address=102.68.128.0/21 list=IP-LY } on-error={}
 :do { add address=102.69.0.0/17 list=IP-LY } on-error={}
 :do { add address=102.164.96.0/21 list=IP-LY } on-error={}
+:do { add address=102.201.0.0/22 list=IP-LY } on-error={}
 :do { add address=102.201.44.0/22 list=IP-LY } on-error={}
 :do { add address=102.201.116.0/22 list=IP-LY } on-error={}
 :do { add address=102.202.56.0/22 list=IP-LY } on-error={}

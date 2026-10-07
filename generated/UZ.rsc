@@ -1,11 +1,10 @@
-# Last update: 2026-10-07 03:02:40 UTC
+# Last update: 2026-10-07 10:38:45 UTC
 # Country: UZ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=UZ&v4_format=prefix
 
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list=UZv6]
 /ipv6 firewall address-list
 :do { add address=2001:678:188::/48 list=UZv6 } on-error={}
-:do { add address=2001:678:c3c::/48 list=UZv6 } on-error={}
 :do { add address=2001:67c:db4::/48 list=UZv6 } on-error={}
 :do { add address=2001:7f8:110::/48 list=UZv6 } on-error={}
 :do { add address=2001:7f8:131::/48 list=UZv6 } on-error={}

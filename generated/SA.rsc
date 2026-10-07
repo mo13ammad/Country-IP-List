@@ -1,4 +1,4 @@
-# Last update: 2026-10-07 03:02:40 UTC
+# Last update: 2026-10-07 10:38:45 UTC
 # Country: SA
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SA&v4_format=prefix
 
@@ -112,6 +112,7 @@
 :do { add address=2a10:800::/29 list=SAv6 } on-error={}
 :do { add address=2a10:1600::/29 list=SAv6 } on-error={}
 :do { add address=2a10:1700::/29 list=SAv6 } on-error={}
+:do { add address=2a10:1840::/29 list=SAv6 } on-error={}
 :do { add address=2a12:7dc0::/29 list=SAv6 } on-error={}
 :do { add address=2a12:f940::/29 list=SAv6 } on-error={}
 :do { add address=2a13:2400::/29 list=SAv6 } on-error={}
@@ -372,7 +373,8 @@
 :do { add address=93.187.172.0/22 list=IP-SA } on-error={}
 :do { add address=93.189.96.0/21 list=IP-SA } on-error={}
 :do { add address=93.189.192.0/21 list=IP-SA } on-error={}
-:do { add address=93.191.104.0/21 list=IP-SA } on-error={}
+:do { add address=93.191.104.0/22 list=IP-SA } on-error={}
+:do { add address=93.191.108.0/22 list=IP-SA } on-error={}
 :do { add address=94.48.0.0/15 list=IP-SA } on-error={}
 :do { add address=94.77.192.0/18 list=IP-SA } on-error={}
 :do { add address=94.96.0.0/14 list=IP-SA } on-error={}
@@ -755,7 +757,8 @@
 :do { add address=217.8.64.0/20 list=IP-SA } on-error={}
 :do { add address=217.12.224.0/20 list=IP-SA } on-error={}
 :do { add address=217.13.98.0/24 list=IP-SA } on-error={}
-:do { add address=217.26.128.0/21 list=IP-SA } on-error={}
+:do { add address=217.26.128.0/22 list=IP-SA } on-error={}
+:do { add address=217.26.132.0/22 list=IP-SA } on-error={}
 :do { add address=217.30.12.0/22 list=IP-SA } on-error={}
 :do { add address=217.145.240.0/20 list=IP-SA } on-error={}
 :do { add address=217.170.32.0/20 list=IP-SA } on-error={}

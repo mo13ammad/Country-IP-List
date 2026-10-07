@@ -1,4 +1,4 @@
-# Last update: 2026-10-07 03:02:40 UTC
+# Last update: 2026-10-07 10:38:45 UTC
 # Country: RU
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=RU&v4_format=prefix
 
@@ -3310,8 +3310,6 @@
 :do { add address=46.174.40.0/21 list=IP-RU } on-error={}
 :do { add address=46.174.48.0/21 list=IP-RU } on-error={}
 :do { add address=46.174.80.0/21 list=IP-RU } on-error={}
-:do { add address=46.174.88.0/22 list=IP-RU } on-error={}
-:do { add address=46.174.92.0/22 list=IP-RU } on-error={}
 :do { add address=46.174.104.0/21 list=IP-RU } on-error={}
 :do { add address=46.174.112.0/21 list=IP-RU } on-error={}
 :do { add address=46.174.248.0/21 list=IP-RU } on-error={}
@@ -10259,6 +10257,7 @@
 :do { add address=185.207.88.0/22 list=IP-RU } on-error={}
 :do { add address=185.207.252.0/22 list=IP-RU } on-error={}
 :do { add address=185.208.72.0/22 list=IP-RU } on-error={}
+:do { add address=185.208.157.0/24 list=IP-RU } on-error={}
 :do { add address=185.208.192.0/22 list=IP-RU } on-error={}
 :do { add address=185.209.24.0/22 list=IP-RU } on-error={}
 :do { add address=185.209.28.0/22 list=IP-RU } on-error={}
@@ -10279,6 +10278,7 @@
 :do { add address=185.212.0.0/22 list=IP-RU } on-error={}
 :do { add address=185.212.28.0/22 list=IP-RU } on-error={}
 :do { add address=185.212.88.0/22 list=IP-RU } on-error={}
+:do { add address=185.212.112.0/24 list=IP-RU } on-error={}
 :do { add address=185.212.116.0/24 list=IP-RU } on-error={}
 :do { add address=185.212.117.0/24 list=IP-RU } on-error={}
 :do { add address=185.213.28.0/22 list=IP-RU } on-error={}
@@ -12717,6 +12717,7 @@
 :do { add address=195.222.160.0/19 list=IP-RU } on-error={}
 :do { add address=195.225.38.0/23 list=IP-RU } on-error={}
 :do { add address=195.225.56.0/23 list=IP-RU } on-error={}
+:do { add address=195.225.96.0/24 list=IP-RU } on-error={}
 :do { add address=195.225.108.0/22 list=IP-RU } on-error={}
 :do { add address=195.225.160.0/22 list=IP-RU } on-error={}
 :do { add address=195.225.233.0/24 list=IP-RU } on-error={}

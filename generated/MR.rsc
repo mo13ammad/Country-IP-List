@@ -1,4 +1,4 @@
-# Last update: 2026-10-07 03:02:40 UTC
+# Last update: 2026-10-07 10:38:45 UTC
 # Country: MR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MR&v4_format=prefix
 
@@ -17,6 +17,7 @@
 :do { add address=41.188.64.0/18 list=IP-MR } on-error={}
 :do { add address=41.223.96.0/22 list=IP-MR } on-error={}
 :do { add address=82.151.64.0/19 list=IP-MR } on-error={}
+:do { add address=102.200.252.0/22 list=IP-MR } on-error={}
 :do { add address=102.202.11.0/24 list=IP-MR } on-error={}
 :do { add address=102.205.52.0/22 list=IP-MR } on-error={}
 :do { add address=102.205.96.0/22 list=IP-MR } on-error={}
