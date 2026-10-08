@@ -1,4 +1,4 @@
-# Last update: 2026-10-08 02:20:20 UTC
+# Last update: 2026-10-08 09:38:12 UTC
 # Country: GY
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GY&v4_format=prefix
 
@@ -12,7 +12,6 @@
 :do { add address=2803:da00::/32 list=GYv6 } on-error={}
 :do { add address=2803:e340::/32 list=GYv6 } on-error={}
 :do { add address=2803:f110::/32 list=GYv6 } on-error={}
-:do { add address=2803:f410::/32 list=GYv6 } on-error={}
 
 /ip firewall address-list remove [/ip firewall address-list find list=IP-GY]
 /ip firewall address-list
@@ -26,7 +25,6 @@
 :do { add address=190.80.64.0/18 list=IP-GY } on-error={}
 :do { add address=190.93.36.0/22 list=IP-GY } on-error={}
 :do { add address=190.97.100.0/22 list=IP-GY } on-error={}
-:do { add address=190.105.156.0/22 list=IP-GY } on-error={}
 :do { add address=190.108.196.0/22 list=IP-GY } on-error={}
 :do { add address=190.108.200.0/21 list=IP-GY } on-error={}
 :do { add address=190.108.208.0/21 list=IP-GY } on-error={}

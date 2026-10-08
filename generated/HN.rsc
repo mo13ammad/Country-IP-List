@@ -1,4 +1,4 @@
-# Last update: 2026-10-08 02:20:20 UTC
+# Last update: 2026-10-08 09:38:12 UTC
 # Country: HN
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=HN&v4_format=prefix
 
@@ -136,6 +136,7 @@
 :do { add address=45.68.33.0/24 list=IP-HN } on-error={}
 :do { add address=45.68.34.0/23 list=IP-HN } on-error={}
 :do { add address=45.68.62.0/23 list=IP-HN } on-error={}
+:do { add address=45.68.144.0/22 list=IP-HN } on-error={}
 :do { add address=45.71.16.0/22 list=IP-HN } on-error={}
 :do { add address=45.71.52.0/22 list=IP-HN } on-error={}
 :do { add address=45.166.92.0/22 list=IP-HN } on-error={}
