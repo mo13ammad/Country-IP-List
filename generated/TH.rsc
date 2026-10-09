@@ -1,4 +1,4 @@
-# Last update: 2026-10-09 02:37:51 UTC
+# Last update: 2026-10-09 09:44:39 UTC
 # Country: TH
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=TH&v4_format=prefix
 
@@ -146,7 +146,6 @@
 :do { add address=2401:9d00::/32 list=THv6 } on-error={}
 :do { add address=2401:a580::/32 list=THv6 } on-error={}
 :do { add address=2401:d880::/32 list=THv6 } on-error={}
-:do { add address=2401:e000::/32 list=THv6 } on-error={}
 :do { add address=2402:2700::/32 list=THv6 } on-error={}
 :do { add address=2402:4aa0::/32 list=THv6 } on-error={}
 :do { add address=2402:6880::/32 list=THv6 } on-error={}
@@ -464,7 +463,6 @@
 :do { add address=58.137.204.0/22 list=IP-TH } on-error={}
 :do { add address=58.137.208.0/20 list=IP-TH } on-error={}
 :do { add address=58.137.224.0/19 list=IP-TH } on-error={}
-:do { add address=58.147.0.0/17 list=IP-TH } on-error={}
 :do { add address=58.181.128.0/17 list=IP-TH } on-error={}
 :do { add address=59.153.208.0/22 list=IP-TH } on-error={}
 :do { add address=61.7.128.0/17 list=IP-TH } on-error={}
@@ -744,11 +742,9 @@
 :do { add address=111.84.0.0/16 list=IP-TH } on-error={}
 :do { add address=111.223.32.0/19 list=IP-TH } on-error={}
 :do { add address=112.121.128.0/19 list=IP-TH } on-error={}
-:do { add address=112.142.0.0/15 list=IP-TH } on-error={}
 :do { add address=113.21.240.0/21 list=IP-TH } on-error={}
 :do { add address=113.53.0.0/16 list=IP-TH } on-error={}
 :do { add address=114.109.0.0/16 list=IP-TH } on-error={}
-:do { add address=114.128.0.0/16 list=IP-TH } on-error={}
 :do { add address=114.131.0.0/16 list=IP-TH } on-error={}
 :do { add address=115.31.128.0/18 list=IP-TH } on-error={}
 :do { add address=115.67.0.0/16 list=IP-TH } on-error={}
@@ -763,7 +759,6 @@
 :do { add address=116.206.112.0/22 list=IP-TH } on-error={}
 :do { add address=116.206.124.0/22 list=IP-TH } on-error={}
 :do { add address=117.18.124.0/22 list=IP-TH } on-error={}
-:do { add address=117.47.0.0/16 list=IP-TH } on-error={}
 :do { add address=117.121.208.0/20 list=IP-TH } on-error={}
 :do { add address=118.172.0.0/14 list=IP-TH } on-error={}
 :do { add address=119.10.136.0/21 list=IP-TH } on-error={}
@@ -789,7 +784,6 @@
 :do { add address=124.109.24.0/21 list=IP-TH } on-error={}
 :do { add address=124.120.0.0/15 list=IP-TH } on-error={}
 :do { add address=124.122.0.0/16 list=IP-TH } on-error={}
-:do { add address=124.157.128.0/17 list=IP-TH } on-error={}
 :do { add address=124.197.48.0/21 list=IP-TH } on-error={}
 :do { add address=125.24.0.0/15 list=IP-TH } on-error={}
 :do { add address=125.26.0.0/15 list=IP-TH } on-error={}
@@ -992,7 +986,6 @@
 :do { add address=202.58.126.0/24 list=IP-TH } on-error={}
 :do { add address=202.58.244.0/24 list=IP-TH } on-error={}
 :do { add address=202.60.192.0/20 list=IP-TH } on-error={}
-:do { add address=202.69.136.0/21 list=IP-TH } on-error={}
 :do { add address=202.71.112.0/20 list=IP-TH } on-error={}
 :do { add address=202.80.224.0/20 list=IP-TH } on-error={}
 :do { add address=202.80.240.0/21 list=IP-TH } on-error={}
@@ -1441,8 +1434,6 @@
 :do { add address=210.246.128.0/17 list=IP-TH } on-error={}
 :do { add address=218.100.38.0/24 list=IP-TH } on-error={}
 :do { add address=218.100.66.0/24 list=IP-TH } on-error={}
-:do { add address=222.123.0.0/16 list=IP-TH } on-error={}
 :do { add address=223.24.0.0/16 list=IP-TH } on-error={}
-:do { add address=223.25.192.0/19 list=IP-TH } on-error={}
 :do { add address=223.27.192.0/18 list=IP-TH } on-error={}
 :do { add address=223.204.0.0/14 list=IP-TH } on-error={}

@@ -1,4 +1,4 @@
-# Last update: 2026-10-09 02:37:51 UTC
+# Last update: 2026-10-09 09:44:39 UTC
 # Country: HK
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=HK&v4_format=prefix
 
@@ -15,6 +15,7 @@
 :do { add address=2001:678:12fc::/48 list=HKv6 } on-error={}
 :do { add address=2001:678:1300::/48 list=HKv6 } on-error={}
 :do { add address=2001:678:1320::/48 list=HKv6 } on-error={}
+:do { add address=2001:678:1364::/48 list=HKv6 } on-error={}
 :do { add address=2001:67c:f2c::/48 list=HKv6 } on-error={}
 :do { add address=2001:67c:1144::/48 list=HKv6 } on-error={}
 :do { add address=2001:67c:127c::/48 list=HKv6 } on-error={}
