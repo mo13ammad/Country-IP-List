@@ -1,4 +1,4 @@
-# Last update: 2026-10-10 01:22:11 UTC
+# Last update: 2026-10-10 07:50:38 UTC
 # Country: PF
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PF&v4_format=prefix
 
