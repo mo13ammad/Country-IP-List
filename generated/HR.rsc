@@ -1,4 +1,4 @@
-# Last update: 2026-10-10 07:50:38 UTC
+# Last update: 2026-10-10 14:02:44 UTC
 # Country: HR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=HR&v4_format=prefix
 
@@ -7,6 +7,7 @@
 :do { add address=2001:678:9a0::/48 list=HRv6 } on-error={}
 :do { add address=2001:678:1090::/48 list=HRv6 } on-error={}
 :do { add address=2001:678:10a0::/48 list=HRv6 } on-error={}
+:do { add address=2001:678:1368::/48 list=HRv6 } on-error={}
 :do { add address=2001:67c:3f4::/48 list=HRv6 } on-error={}
 :do { add address=2001:67c:8f4::/48 list=HRv6 } on-error={}
 :do { add address=2001:67c:1244::/48 list=HRv6 } on-error={}
