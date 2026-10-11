@@ -1,4 +1,4 @@
-# Last update: 2026-10-11 16:00:25 UTC
+# Last update: 2026-10-11 20:39:20 UTC
 # Country: BN
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BN&v4_format=prefix
 
@@ -10,6 +10,7 @@
 :do { add address=2001:df5:4800::/48 list=BNv6 } on-error={}
 :do { add address=2001:df6:1a80::/48 list=BNv6 } on-error={}
 :do { add address=2400:9400::/32 list=BNv6 } on-error={}
+:do { add address=2402:7d60::/32 list=BNv6 } on-error={}
 :do { add address=2404:8980::/32 list=BNv6 } on-error={}
 :do { add address=2405:1700::/32 list=BNv6 } on-error={}
 :do { add address=2406:7800::/32 list=BNv6 } on-error={}
@@ -20,6 +21,7 @@
 :do { add address=43.225.40.0/22 list=IP-BN } on-error={}
 :do { add address=43.225.136.0/22 list=IP-BN } on-error={}
 :do { add address=43.251.128.0/22 list=IP-BN } on-error={}
+:do { add address=45.125.226.0/23 list=IP-BN } on-error={}
 :do { add address=45.126.140.0/22 list=IP-BN } on-error={}
 :do { add address=45.127.140.0/22 list=IP-BN } on-error={}
 :do { add address=58.97.144.0/20 list=IP-BN } on-error={}
