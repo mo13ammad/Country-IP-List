@@ -1,4 +1,4 @@
-# Last update: 2026-10-14 19:00:11 UTC
+# Last update: 2026-10-14 22:46:01 UTC
 # Country: AQ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=AQ&v4_format=prefix
 
