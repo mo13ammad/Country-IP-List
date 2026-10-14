@@ -1,4 +1,4 @@
-# Last update: 2026-10-14 08:05:57 UTC
+# Last update: 2026-10-14 14:06:44 UTC
 # Country: BW
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BW&v4_format=prefix
 
@@ -6,6 +6,7 @@
 /ipv6 firewall address-list
 :do { add address=2001:43f8:2a0::/48 list=BWv6 } on-error={}
 :do { add address=2001:43f8:17c0::/48 list=BWv6 } on-error={}
+:do { add address=2001:43fc:7800::/44 list=BWv6 } on-error={}
 :do { add address=2001:43fd:8800::/48 list=BWv6 } on-error={}
 :do { add address=2001:43ff:6800::/48 list=BWv6 } on-error={}
 :do { add address=2c0f:1020::/32 list=BWv6 } on-error={}

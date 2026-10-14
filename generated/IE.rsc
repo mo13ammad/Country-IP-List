@@ -1,4 +1,4 @@
-# Last update: 2026-10-14 08:05:57 UTC
+# Last update: 2026-10-14 14:06:44 UTC
 # Country: IE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=IE&v4_format=prefix
 
@@ -58,7 +58,6 @@
 :do { add address=2a01:268::/32 list=IEv6 } on-error={}
 :do { add address=2a01:400::/32 list=IEv6 } on-error={}
 :do { add address=2a01:4b0::/32 list=IEv6 } on-error={}
-:do { add address=2a01:4d8::/32 list=IEv6 } on-error={}
 :do { add address=2a01:4820::/32 list=IEv6 } on-error={}
 :do { add address=2a01:5100::/32 list=IEv6 } on-error={}
 :do { add address=2a01:5a20::/32 list=IEv6 } on-error={}
