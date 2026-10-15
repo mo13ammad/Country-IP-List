@@ -1,4 +1,4 @@
-# Last update: 2026-10-15 06:37:44 UTC
+# Last update: 2026-10-15 12:13:27 UTC
 # Country: PY
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PY&v4_format=prefix
 
@@ -50,6 +50,7 @@
 :do { add address=2803:47e0::/32 list=PYv6 } on-error={}
 :do { add address=2803:4ce0::/32 list=PYv6 } on-error={}
 :do { add address=2803:4fe0::/32 list=PYv6 } on-error={}
+:do { add address=2803:50b0::/32 list=PYv6 } on-error={}
 :do { add address=2803:58e0::/32 list=PYv6 } on-error={}
 :do { add address=2803:5a40::/32 list=PYv6 } on-error={}
 :do { add address=2803:5a60::/32 list=PYv6 } on-error={}
