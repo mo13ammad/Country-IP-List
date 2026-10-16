@@ -1,4 +1,4 @@
-# Last update: 2026-10-16 06:43:00 UTC
+# Last update: 2026-10-16 11:58:37 UTC
 # Country: MK
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=MK&v4_format=prefix
 
@@ -9,7 +9,6 @@
 :do { add address=2a00:1218::/32 list=MKv6 } on-error={}
 :do { add address=2a00:5c40::/29 list=MKv6 } on-error={}
 :do { add address=2a00:a9c0::/32 list=MKv6 } on-error={}
-:do { add address=2a00:c8a0::/29 list=MKv6 } on-error={}
 :do { add address=2a01:5b8::/29 list=MKv6 } on-error={}
 :do { add address=2a01:a180::/32 list=MKv6 } on-error={}
 :do { add address=2a01:b780::/32 list=MKv6 } on-error={}

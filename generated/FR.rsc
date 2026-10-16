@@ -1,4 +1,4 @@
-# Last update: 2026-10-16 06:43:00 UTC
+# Last update: 2026-10-16 11:58:37 UTC
 # Country: FR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=FR&v4_format=prefix
 
@@ -1421,6 +1421,7 @@
 
 /ip firewall address-list remove [/ip firewall address-list find list=IP-FR]
 /ip firewall address-list
+:do { add address=1.178.224.0/19 list=IP-FR } on-error={}
 :do { add address=1.179.112.0/20 list=IP-FR } on-error={}
 :do { add address=2.3.0.0/16 list=IP-FR } on-error={}
 :do { add address=2.4.0.0/14 list=IP-FR } on-error={}

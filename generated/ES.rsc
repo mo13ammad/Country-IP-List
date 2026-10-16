@@ -1,4 +1,4 @@
-# Last update: 2026-10-16 06:43:00 UTC
+# Last update: 2026-10-16 11:58:37 UTC
 # Country: ES
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=ES&v4_format=prefix
 
@@ -896,7 +896,6 @@
 
 /ip firewall address-list remove [/ip firewall address-list find list=IP-ES]
 /ip firewall address-list
-:do { add address=1.178.224.0/19 list=IP-ES } on-error={}
 :do { add address=2.56.64.0/22 list=IP-ES } on-error={}
 :do { add address=2.57.2.0/24 list=IP-ES } on-error={}
 :do { add address=2.57.4.0/22 list=IP-ES } on-error={}
