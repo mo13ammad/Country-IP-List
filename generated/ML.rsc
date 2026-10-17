@@ -1,4 +1,4 @@
-# Last update: 2026-10-17 05:09:08 UTC
+# Last update: 2026-10-17 09:49:55 UTC
 # Country: ML
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=ML&v4_format=prefix
 
@@ -8,6 +8,7 @@
 :do { add address=2001:43f8:10d0::/48 list=MLv6 } on-error={}
 :do { add address=2001:43f8:10e0::/48 list=MLv6 } on-error={}
 :do { add address=2001:43fd:9000::/48 list=MLv6 } on-error={}
+:do { add address=2001:43fe:7800::/48 list=MLv6 } on-error={}
 :do { add address=2c0f:1b00::/32 list=MLv6 } on-error={}
 :do { add address=2c0f:4cc0::/32 list=MLv6 } on-error={}
 :do { add address=2c0f:e870::/32 list=MLv6 } on-error={}
