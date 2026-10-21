@@ -1,4 +1,4 @@
-# Last update: 2026-10-21 01:05:19 UTC
+# Last update: 2026-10-21 12:30:31 UTC
 # Country: AM
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=AM&v4_format=prefix
 
@@ -123,6 +123,7 @@
 :do { add address=91.103.24.0/21 list=IP-AM } on-error={}
 :do { add address=91.103.56.0/21 list=IP-AM } on-error={}
 :do { add address=91.103.248.0/22 list=IP-AM } on-error={}
+:do { add address=91.192.156.0/22 list=IP-AM } on-error={}
 :do { add address=91.193.43.0/24 list=IP-AM } on-error={}
 :do { add address=91.195.110.0/24 list=IP-AM } on-error={}
 :do { add address=91.195.111.0/24 list=IP-AM } on-error={}
@@ -171,7 +172,7 @@
 :do { add address=130.193.120.0/21 list=IP-AM } on-error={}
 :do { add address=132.243.185.0/24 list=IP-AM } on-error={}
 :do { add address=132.243.186.0/23 list=IP-AM } on-error={}
-:do { add address=132.243.188.0/22 list=IP-AM } on-error={}
+:do { add address=132.243.188.0/23 list=IP-AM } on-error={}
 :do { add address=141.136.64.0/19 list=IP-AM } on-error={}
 :do { add address=146.19.140.0/24 list=IP-AM } on-error={}
 :do { add address=148.52.128.0/19 list=IP-AM } on-error={}
@@ -233,6 +234,8 @@
 :do { add address=193.57.28.0/22 list=IP-AM } on-error={}
 :do { add address=193.104.56.0/24 list=IP-AM } on-error={}
 :do { add address=193.104.198.0/24 list=IP-AM } on-error={}
+:do { add address=193.106.220.0/22 list=IP-AM } on-error={}
+:do { add address=193.111.204.0/23 list=IP-AM } on-error={}
 :do { add address=193.142.19.0/24 list=IP-AM } on-error={}
 :do { add address=193.163.170.0/24 list=IP-AM } on-error={}
 :do { add address=193.177.240.0/24 list=IP-AM } on-error={}

@@ -1,4 +1,4 @@
-# Last update: 2026-10-21 01:05:19 UTC
+# Last update: 2026-10-21 12:30:31 UTC
 # Country: CG
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CG&v4_format=prefix
 

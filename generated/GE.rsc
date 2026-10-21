@@ -1,4 +1,4 @@
-# Last update: 2026-10-21 01:05:19 UTC
+# Last update: 2026-10-21 12:30:31 UTC
 # Country: GE
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GE&v4_format=prefix
 
@@ -69,6 +69,7 @@
 :do { add address=2a10:3480::/29 list=GEv6 } on-error={}
 :do { add address=2a10:6040::/32 list=GEv6 } on-error={}
 :do { add address=2a11:a300::/29 list=GEv6 } on-error={}
+:do { add address=2a11:a7c0::/29 list=GEv6 } on-error={}
 :do { add address=2a11:cc00::/29 list=GEv6 } on-error={}
 :do { add address=2a12:e340::/29 list=GEv6 } on-error={}
 :do { add address=2a13:5c0::/29 list=GEv6 } on-error={}
@@ -90,7 +91,10 @@
 /ip firewall address-list
 :do { add address=2.57.60.0/22 list=IP-GE } on-error={}
 :do { add address=2.57.216.0/22 list=IP-GE } on-error={}
-:do { add address=5.10.32.0/21 list=IP-GE } on-error={}
+:do { add address=5.10.32.0/24 list=IP-GE } on-error={}
+:do { add address=5.10.33.0/24 list=IP-GE } on-error={}
+:do { add address=5.10.34.0/23 list=IP-GE } on-error={}
+:do { add address=5.10.36.0/22 list=IP-GE } on-error={}
 :do { add address=5.44.128.0/21 list=IP-GE } on-error={}
 :do { add address=5.133.160.0/21 list=IP-GE } on-error={}
 :do { add address=5.152.0.0/17 list=IP-GE } on-error={}

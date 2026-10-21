@@ -1,4 +1,4 @@
-# Last update: 2026-10-21 01:05:19 UTC
+# Last update: 2026-10-21 12:30:31 UTC
 # Country: PH
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PH&v4_format=prefix
 
@@ -427,7 +427,8 @@
 :do { add address=36.50.110.0/23 list=IP-PH } on-error={}
 :do { add address=36.255.60.0/22 list=IP-PH } on-error={}
 :do { add address=36.255.106.0/23 list=IP-PH } on-error={}
-:do { add address=36.255.244.0/22 list=IP-PH } on-error={}
+:do { add address=36.255.245.0/24 list=IP-PH } on-error={}
+:do { add address=36.255.247.0/24 list=IP-PH } on-error={}
 :do { add address=43.224.188.0/22 list=IP-PH } on-error={}
 :do { add address=43.226.4.0/22 list=IP-PH } on-error={}
 :do { add address=43.228.106.0/23 list=IP-PH } on-error={}
@@ -531,7 +532,7 @@
 :do { add address=103.41.8.0/23 list=IP-PH } on-error={}
 :do { add address=103.42.92.0/22 list=IP-PH } on-error={}
 :do { add address=103.42.96.0/22 list=IP-PH } on-error={}
-:do { add address=103.42.136.0/22 list=IP-PH } on-error={}
+:do { add address=103.42.136.0/23 list=IP-PH } on-error={}
 :do { add address=103.43.212.0/22 list=IP-PH } on-error={}
 :do { add address=103.45.252.0/23 list=IP-PH } on-error={}
 :do { add address=103.47.230.0/23 list=IP-PH } on-error={}
@@ -757,7 +758,8 @@
 :do { add address=103.192.124.0/22 list=IP-PH } on-error={}
 :do { add address=103.192.184.0/22 list=IP-PH } on-error={}
 :do { add address=103.196.104.0/22 list=IP-PH } on-error={}
-:do { add address=103.196.128.0/22 list=IP-PH } on-error={}
+:do { add address=103.196.128.0/24 list=IP-PH } on-error={}
+:do { add address=103.196.130.0/24 list=IP-PH } on-error={}
 :do { add address=103.196.136.0/22 list=IP-PH } on-error={}
 :do { add address=103.196.176.0/23 list=IP-PH } on-error={}
 :do { add address=103.197.84.0/22 list=IP-PH } on-error={}

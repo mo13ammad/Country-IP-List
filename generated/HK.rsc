@@ -1,4 +1,4 @@
-# Last update: 2026-10-21 01:05:19 UTC
+# Last update: 2026-10-21 12:30:31 UTC
 # Country: HK
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=HK&v4_format=prefix
 
@@ -19,6 +19,7 @@
 :do { add address=2001:67c:f2c::/48 list=HKv6 } on-error={}
 :do { add address=2001:67c:1144::/48 list=HKv6 } on-error={}
 :do { add address=2001:67c:127c::/48 list=HKv6 } on-error={}
+:do { add address=2001:67c:288c::/48 list=HKv6 } on-error={}
 :do { add address=2001:7fa:0:1::/64 list=HKv6 } on-error={}
 :do { add address=2001:ce0::/32 list=HKv6 } on-error={}
 :do { add address=2001:ce1::/32 list=HKv6 } on-error={}
@@ -865,6 +866,7 @@
 :do { add address=2a11:b0c0::/29 list=HKv6 } on-error={}
 :do { add address=2a11:b4c0::/29 list=HKv6 } on-error={}
 :do { add address=2a11:b700::/29 list=HKv6 } on-error={}
+:do { add address=2a11:b900::/29 list=HKv6 } on-error={}
 :do { add address=2a11:bb00::/29 list=HKv6 } on-error={}
 :do { add address=2a11:bbc0::/29 list=HKv6 } on-error={}
 :do { add address=2a11:bdc0::/29 list=HKv6 } on-error={}
@@ -3051,7 +3053,6 @@
 :do { add address=152.103.0.0/16 list=IP-HK } on-error={}
 :do { add address=152.104.0.0/17 list=IP-HK } on-error={}
 :do { add address=152.175.0.0/16 list=IP-HK } on-error={}
-:do { add address=153.79.176.0/22 list=IP-HK } on-error={}
 :do { add address=154.8.0.0/19 list=IP-HK } on-error={}
 :do { add address=154.8.32.0/20 list=IP-HK } on-error={}
 :do { add address=154.8.64.0/19 list=IP-HK } on-error={}
@@ -3078,8 +3079,7 @@
 :do { add address=159.200.0.0/17 list=IP-HK } on-error={}
 :do { add address=159.200.192.0/21 list=IP-HK } on-error={}
 :do { add address=159.200.203.0/24 list=IP-HK } on-error={}
-:do { add address=159.200.204.0/23 list=IP-HK } on-error={}
-:do { add address=159.200.212.0/22 list=IP-HK } on-error={}
+:do { add address=159.200.204.0/24 list=IP-HK } on-error={}
 :do { add address=159.200.222.0/23 list=IP-HK } on-error={}
 :do { add address=159.200.224.0/22 list=IP-HK } on-error={}
 :do { add address=159.200.248.0/21 list=IP-HK } on-error={}
