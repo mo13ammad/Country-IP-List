@@ -1,4 +1,4 @@
-# Last update: 2026-10-22 08:02:04 UTC
+# Last update: 2026-10-22 14:10:08 UTC
 # Country: AR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=AR&v4_format=prefix
 
@@ -234,6 +234,7 @@
 :do { add address=2803:840::/32 list=ARv6 } on-error={}
 :do { add address=2803:860::/32 list=ARv6 } on-error={}
 :do { add address=2803:880::/32 list=ARv6 } on-error={}
+:do { add address=2803:8b0::/32 list=ARv6 } on-error={}
 :do { add address=2803:8c0::/32 list=ARv6 } on-error={}
 :do { add address=2803:8e0::/32 list=ARv6 } on-error={}
 :do { add address=2803:900::/32 list=ARv6 } on-error={}
@@ -724,6 +725,7 @@
 :do { add address=2803:8740::/32 list=ARv6 } on-error={}
 :do { add address=2803:8760::/32 list=ARv6 } on-error={}
 :do { add address=2803:88a0::/32 list=ARv6 } on-error={}
+:do { add address=2803:88b0::/32 list=ARv6 } on-error={}
 :do { add address=2803:8900::/32 list=ARv6 } on-error={}
 :do { add address=2803:89a0::/32 list=ARv6 } on-error={}
 :do { add address=2803:89d0::/32 list=ARv6 } on-error={}
@@ -1118,6 +1120,7 @@
 :do { add address=2803:f000::/32 list=ARv6 } on-error={}
 :do { add address=2803:f040::/32 list=ARv6 } on-error={}
 :do { add address=2803:f050::/32 list=ARv6 } on-error={}
+:do { add address=2803:f0b0::/32 list=ARv6 } on-error={}
 :do { add address=2803:f0d0::/32 list=ARv6 } on-error={}
 :do { add address=2803:f100::/32 list=ARv6 } on-error={}
 :do { add address=2803:f140::/32 list=ARv6 } on-error={}
