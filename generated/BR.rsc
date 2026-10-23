@@ -1,4 +1,4 @@
-# Last update: 2026-10-23 05:30:56 UTC
+# Last update: 2026-10-23 10:37:21 UTC
 # Country: BR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BR&v4_format=prefix
 
@@ -17903,7 +17903,11 @@
 :do { add address=186.198.110.0/24 list=IP-BR } on-error={}
 :do { add address=186.198.111.0/24 list=IP-BR } on-error={}
 :do { add address=186.198.112.0/20 list=IP-BR } on-error={}
-:do { add address=186.198.128.0/17 list=IP-BR } on-error={}
+:do { add address=186.198.128.0/20 list=IP-BR } on-error={}
+:do { add address=186.198.144.0/21 list=IP-BR } on-error={}
+:do { add address=186.198.152.0/21 list=IP-BR } on-error={}
+:do { add address=186.198.160.0/19 list=IP-BR } on-error={}
+:do { add address=186.198.192.0/18 list=IP-BR } on-error={}
 :do { add address=186.199.0.0/16 list=IP-BR } on-error={}
 :do { add address=186.200.0.0/15 list=IP-BR } on-error={}
 :do { add address=186.202.0.0/17 list=IP-BR } on-error={}

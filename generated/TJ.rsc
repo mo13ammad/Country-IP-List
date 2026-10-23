@@ -1,4 +1,4 @@
-# Last update: 2026-10-23 05:30:56 UTC
+# Last update: 2026-10-23 10:37:21 UTC
 # Country: TJ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=TJ&v4_format=prefix
 
@@ -23,6 +23,7 @@
 :do { add address=2a0e:6840::/29 list=TJv6 } on-error={}
 :do { add address=2a0f:ad80::/29 list=TJv6 } on-error={}
 :do { add address=2a11:b940::/29 list=TJv6 } on-error={}
+:do { add address=2a12:7c0::/32 list=TJv6 } on-error={}
 :do { add address=2a12:cec0::/29 list=TJv6 } on-error={}
 :do { add address=2a13:1b00::/29 list=TJv6 } on-error={}
 :do { add address=2a14:40::/29 list=TJv6 } on-error={}

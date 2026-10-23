@@ -1,4 +1,4 @@
-# Last update: 2026-10-23 05:30:56 UTC
+# Last update: 2026-10-23 10:37:21 UTC
 # Country: AU
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=AU&v4_format=prefix
 
@@ -1239,6 +1239,7 @@
 :do { add address=2402:7c40::/32 list=AUv6 } on-error={}
 :do { add address=2402:7c60::/32 list=AUv6 } on-error={}
 :do { add address=2402:7e80::/32 list=AUv6 } on-error={}
+:do { add address=2402:7f20::/32 list=AUv6 } on-error={}
 :do { add address=2402:8000::/32 list=AUv6 } on-error={}
 :do { add address=2402:8480::/32 list=AUv6 } on-error={}
 :do { add address=2402:8700::/32 list=AUv6 } on-error={}

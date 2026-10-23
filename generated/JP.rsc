@@ -1,4 +1,4 @@
-# Last update: 2026-10-23 05:30:56 UTC
+# Last update: 2026-10-23 10:37:21 UTC
 # Country: JP
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=JP&v4_format=prefix
 
@@ -810,6 +810,7 @@
 :do { add address=1.66.0.0/15 list=IP-JP } on-error={}
 :do { add address=1.72.0.0/13 list=IP-JP } on-error={}
 :do { add address=1.112.0.0/14 list=IP-JP } on-error={}
+:do { add address=5.180.96.0/22 list=IP-JP } on-error={}
 :do { add address=14.0.8.0/22 list=IP-JP } on-error={}
 :do { add address=14.1.4.0/22 list=IP-JP } on-error={}
 :do { add address=14.1.8.0/21 list=IP-JP } on-error={}
@@ -1122,7 +1123,11 @@
 :do { add address=43.252.240.0/22 list=IP-JP } on-error={}
 :do { add address=43.253.0.0/16 list=IP-JP } on-error={}
 :do { add address=43.255.40.0/22 list=IP-JP } on-error={}
+:do { add address=45.10.174.0/23 list=IP-JP } on-error={}
+:do { add address=45.11.76.0/22 list=IP-JP } on-error={}
 :do { add address=45.75.0.0/17 list=IP-JP } on-error={}
+:do { add address=45.81.32.0/22 list=IP-JP } on-error={}
+:do { add address=45.85.76.0/22 list=IP-JP } on-error={}
 :do { add address=45.113.4.0/22 list=IP-JP } on-error={}
 :do { add address=45.113.116.0/22 list=IP-JP } on-error={}
 :do { add address=45.113.172.0/22 list=IP-JP } on-error={}
@@ -1154,6 +1159,7 @@
 :do { add address=45.135.160.0/22 list=IP-JP } on-error={}
 :do { add address=45.143.0.0/22 list=IP-JP } on-error={}
 :do { add address=45.148.172.0/22 list=IP-JP } on-error={}
+:do { add address=45.150.236.0/22 list=IP-JP } on-error={}
 :do { add address=45.251.67.0/24 list=IP-JP } on-error={}
 :do { add address=45.251.132.0/22 list=IP-JP } on-error={}
 :do { add address=49.0.16.0/21 list=IP-JP } on-error={}
@@ -3622,6 +3628,7 @@
 :do { add address=162.4.180.0/23 list=IP-JP } on-error={}
 :do { add address=162.4.194.0/23 list=IP-JP } on-error={}
 :do { add address=162.4.238.0/24 list=IP-JP } on-error={}
+:do { add address=162.35.64.0/19 list=IP-JP } on-error={}
 :do { add address=162.43.0.0/17 list=IP-JP } on-error={}
 :do { add address=163.42.0.0/16 list=IP-JP } on-error={}
 :do { add address=163.43.0.0/16 list=IP-JP } on-error={}
