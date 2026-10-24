@@ -1,4 +1,4 @@
-# Last update: 2026-10-24 06:36:24 UTC
+# Last update: 2026-10-24 14:58:37 UTC
 # Country: BA
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BA&v4_format=prefix
 
@@ -41,6 +41,7 @@
 :do { add address=2a0e:5400::/29 list=BAv6 } on-error={}
 :do { add address=2a0e:6580::/32 list=BAv6 } on-error={}
 :do { add address=2a0e:8ac0::/29 list=BAv6 } on-error={}
+:do { add address=2a12:1d80::/29 list=BAv6 } on-error={}
 :do { add address=2a14:ce80::/29 list=BAv6 } on-error={}
 
 /ip firewall address-list remove [/ip firewall address-list find list=IP-BA]

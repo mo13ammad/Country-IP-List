@@ -1,4 +1,4 @@
-# Last update: 2026-10-24 06:36:24 UTC
+# Last update: 2026-10-24 14:58:37 UTC
 # Country: SK
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SK&v4_format=prefix
 
@@ -151,6 +151,7 @@
 :do { add address=2a10:9c80::/29 list=SKv6 } on-error={}
 :do { add address=2a10:ac80::/29 list=SKv6 } on-error={}
 :do { add address=2a12:940::/29 list=SKv6 } on-error={}
+:do { add address=2a12:1a00::/29 list=SKv6 } on-error={}
 :do { add address=2a14:1a00::/29 list=SKv6 } on-error={}
 :do { add address=2a14:2cc0::/29 list=SKv6 } on-error={}
 :do { add address=2a14:5980::/29 list=SKv6 } on-error={}

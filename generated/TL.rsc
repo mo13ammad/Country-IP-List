@@ -1,4 +1,4 @@
-# Last update: 2026-10-24 06:36:24 UTC
+# Last update: 2026-10-24 14:58:37 UTC
 # Country: TL
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=TL&v4_format=prefix
 
@@ -8,10 +8,10 @@
 :do { add address=2001:df0:7a00::/48 list=TLv6 } on-error={}
 :do { add address=2001:df0:f980::/48 list=TLv6 } on-error={}
 :do { add address=2001:df6:39c0::/48 list=TLv6 } on-error={}
+:do { add address=2001:df7:bd40::/48 list=TLv6 } on-error={}
 :do { add address=2001:df7:f980::/48 list=TLv6 } on-error={}
 :do { add address=2401:1560::/32 list=TLv6 } on-error={}
 :do { add address=2401:4b80::/32 list=TLv6 } on-error={}
-:do { add address=2401:b660::/32 list=TLv6 } on-error={}
 :do { add address=2401:f720::/32 list=TLv6 } on-error={}
 :do { add address=2402:51e0::/32 list=TLv6 } on-error={}
 :do { add address=2402:6b20::/32 list=TLv6 } on-error={}
@@ -51,7 +51,6 @@
 :do { add address=150.242.108.0/22 list=IP-TL } on-error={}
 :do { add address=151.158.20.0/23 list=IP-TL } on-error={}
 :do { add address=160.22.52.0/23 list=IP-TL } on-error={}
-:do { add address=160.30.30.0/23 list=IP-TL } on-error={}
 :do { add address=160.236.195.0/24 list=IP-TL } on-error={}
 :do { add address=163.128.48.0/23 list=IP-TL } on-error={}
 :do { add address=163.223.148.0/23 list=IP-TL } on-error={}
