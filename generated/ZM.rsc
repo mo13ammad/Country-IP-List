@@ -1,4 +1,4 @@
-# Last update: 2026-10-25 14:38:07 UTC
+# Last update: 2026-10-25 17:56:13 UTC
 # Country: ZM
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=ZM&v4_format=prefix
 
@@ -10,6 +10,7 @@
 :do { add address=2001:43f8:1680::/48 list=ZMv6 } on-error={}
 :do { add address=2001:43f8:1681::/48 list=ZMv6 } on-error={}
 :do { add address=2c0f:16c0::/32 list=ZMv6 } on-error={}
+:do { add address=2c0f:1ba0::/32 list=ZMv6 } on-error={}
 :do { add address=2c0f:e9c0::/32 list=ZMv6 } on-error={}
 :do { add address=2c0f:f670::/32 list=ZMv6 } on-error={}
 :do { add address=2c0f:f938::/32 list=ZMv6 } on-error={}
@@ -37,6 +38,7 @@
 :do { add address=102.68.136.0/22 list=IP-ZM } on-error={}
 :do { add address=102.130.100.0/24 list=IP-ZM } on-error={}
 :do { add address=102.144.0.0/13 list=IP-ZM } on-error={}
+:do { add address=102.200.16.0/22 list=IP-ZM } on-error={}
 :do { add address=102.202.16.0/22 list=IP-ZM } on-error={}
 :do { add address=102.203.92.0/22 list=IP-ZM } on-error={}
 :do { add address=102.204.66.0/23 list=IP-ZM } on-error={}

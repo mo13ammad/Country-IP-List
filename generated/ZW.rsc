@@ -1,4 +1,4 @@
-# Last update: 2026-10-25 14:38:07 UTC
+# Last update: 2026-10-25 17:56:13 UTC
 # Country: ZW
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=ZW&v4_format=prefix
 
@@ -42,6 +42,7 @@
 :do { add address=102.165.112.0/22 list=IP-ZW } on-error={}
 :do { add address=102.177.72.0/22 list=IP-ZW } on-error={}
 :do { add address=102.177.192.0/21 list=IP-ZW } on-error={}
+:do { add address=102.200.222.0/24 list=IP-ZW } on-error={}
 :do { add address=102.203.88.0/22 list=IP-ZW } on-error={}
 :do { add address=102.204.48.0/22 list=IP-ZW } on-error={}
 :do { add address=102.204.108.0/22 list=IP-ZW } on-error={}
