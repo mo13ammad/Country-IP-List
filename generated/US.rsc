@@ -1,4 +1,4 @@
-# Last update: 2026-10-27 12:53:01 UTC
+# Last update: 2026-10-27 18:26:49 UTC
 # Country: US
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=US&v4_format=prefix
 
@@ -1218,15 +1218,12 @@
 :do { add address=2602:f291::/40 list=USv6 } on-error={}
 :do { add address=2602:f292::/40 list=USv6 } on-error={}
 :do { add address=2602:f293::/40 list=USv6 } on-error={}
-:do { add address=2602:f294::/40 list=USv6 } on-error={}
 :do { add address=2602:f295::/40 list=USv6 } on-error={}
-:do { add address=2602:f296::/40 list=USv6 } on-error={}
 :do { add address=2602:f297::/40 list=USv6 } on-error={}
 :do { add address=2602:f298::/40 list=USv6 } on-error={}
 :do { add address=2602:f299::/40 list=USv6 } on-error={}
 :do { add address=2602:f29b::/40 list=USv6 } on-error={}
 :do { add address=2602:f29c::/40 list=USv6 } on-error={}
-:do { add address=2602:f29e::/40 list=USv6 } on-error={}
 :do { add address=2602:f29f::/40 list=USv6 } on-error={}
 :do { add address=2602:f2a0::/40 list=USv6 } on-error={}
 :do { add address=2602:f2a1::/40 list=USv6 } on-error={}
@@ -13434,16 +13431,13 @@
 :do { add address=23.166.28.0/24 list=IP-US } on-error={}
 :do { add address=23.166.36.0/24 list=IP-US } on-error={}
 :do { add address=23.166.40.0/24 list=IP-US } on-error={}
-:do { add address=23.166.52.0/24 list=IP-US } on-error={}
 :do { add address=23.166.56.0/24 list=IP-US } on-error={}
 :do { add address=23.166.60.0/24 list=IP-US } on-error={}
 :do { add address=23.166.64.0/24 list=IP-US } on-error={}
 :do { add address=23.166.72.0/24 list=IP-US } on-error={}
 :do { add address=23.166.76.0/24 list=IP-US } on-error={}
 :do { add address=23.166.80.0/24 list=IP-US } on-error={}
-:do { add address=23.166.84.0/24 list=IP-US } on-error={}
 :do { add address=23.166.88.0/24 list=IP-US } on-error={}
-:do { add address=23.166.92.0/24 list=IP-US } on-error={}
 :do { add address=23.166.96.0/24 list=IP-US } on-error={}
 :do { add address=23.166.104.0/24 list=IP-US } on-error={}
 :do { add address=23.166.112.0/24 list=IP-US } on-error={}
