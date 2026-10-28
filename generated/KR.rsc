@@ -1,4 +1,4 @@
-# Last update: 2026-10-28 14:37:14 UTC
+# Last update: 2026-10-28 19:57:03 UTC
 # Country: KR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=KR&v4_format=prefix
 
@@ -73,7 +73,6 @@
 :do { add address=2001:df0:d580::/48 list=KRv6 } on-error={}
 :do { add address=2001:df0:e540::/48 list=KRv6 } on-error={}
 :do { add address=2001:df1:6c80::/48 list=KRv6 } on-error={}
-:do { add address=2001:df3:d9c0::/48 list=KRv6 } on-error={}
 :do { add address=2001:df4:f780::/48 list=KRv6 } on-error={}
 :do { add address=2001:df5:5c40::/48 list=KRv6 } on-error={}
 :do { add address=2001:df5:6800::/48 list=KRv6 } on-error={}
@@ -1358,8 +1357,6 @@
 :do { add address=157.119.36.0/22 list=IP-KR } on-error={}
 :do { add address=157.197.0.0/16 list=IP-KR } on-error={}
 :do { add address=158.44.0.0/16 list=IP-KR } on-error={}
-:do { add address=160.20.142.0/24 list=IP-KR } on-error={}
-:do { add address=160.22.155.0/24 list=IP-KR } on-error={}
 :do { add address=160.30.106.0/23 list=IP-KR } on-error={}
 :do { add address=160.30.229.0/24 list=IP-KR } on-error={}
 :do { add address=160.30.232.0/23 list=IP-KR } on-error={}
