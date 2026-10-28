@@ -1,4 +1,4 @@
-# Last update: 2026-10-28 19:57:03 UTC
+# Last update: 2026-10-28 23:45:57 UTC
 # Country: KZ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=KZ&v4_format=prefix
 
