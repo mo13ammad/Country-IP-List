@@ -1,4 +1,4 @@
-# Last update: 2026-10-29 10:30:21 UTC
+# Last update: 2026-10-29 17:08:48 UTC
 # Country: BD
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BD&v4_format=prefix
 
@@ -960,6 +960,7 @@
 :do { add address=2001:df7:bbc0::/48 list=BDv6 } on-error={}
 :do { add address=2001:df7:c100::/48 list=BDv6 } on-error={}
 :do { add address=2001:df7:c280::/48 list=BDv6 } on-error={}
+:do { add address=2001:df7:c440::/48 list=BDv6 } on-error={}
 :do { add address=2001:df7:c480::/48 list=BDv6 } on-error={}
 :do { add address=2001:df7:ca80::/48 list=BDv6 } on-error={}
 :do { add address=2001:df7:d000::/48 list=BDv6 } on-error={}
@@ -3884,6 +3885,7 @@
 :do { add address=180.210.160.0/19 list=IP-BD } on-error={}
 :do { add address=180.210.220.0/22 list=IP-BD } on-error={}
 :do { add address=180.211.128.0/17 list=IP-BD } on-error={}
+:do { add address=180.214.162.0/23 list=IP-BD } on-error={}
 :do { add address=182.16.156.0/22 list=IP-BD } on-error={}
 :do { add address=182.48.64.0/19 list=IP-BD } on-error={}
 :do { add address=182.54.152.0/22 list=IP-BD } on-error={}
