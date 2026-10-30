@@ -1,4 +1,4 @@
-# Last update: 2026-10-30 16:19:31 UTC
+# Last update: 2026-10-30 21:11:16 UTC
 # Country: GB
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GB&v4_format=prefix
 
@@ -1600,7 +1600,6 @@
 :do { add address=2a0c:ab00::/29 list=GBv6 } on-error={}
 :do { add address=2a0c:af40::/29 list=GBv6 } on-error={}
 :do { add address=2a0c:b380::/29 list=GBv6 } on-error={}
-:do { add address=2a0c:b940::/29 list=GBv6 } on-error={}
 :do { add address=2a0c:ba00::/29 list=GBv6 } on-error={}
 :do { add address=2a0c:bac0::/29 list=GBv6 } on-error={}
 :do { add address=2a0c:bbc0::/32 list=GBv6 } on-error={}
@@ -9533,7 +9532,6 @@
 :do { add address=194.31.50.0/24 list=IP-GB } on-error={}
 :do { add address=194.31.62.0/24 list=IP-GB } on-error={}
 :do { add address=194.31.82.0/23 list=IP-GB } on-error={}
-:do { add address=194.31.88.0/22 list=IP-GB } on-error={}
 :do { add address=194.31.99.0/24 list=IP-GB } on-error={}
 :do { add address=194.31.184.0/22 list=IP-GB } on-error={}
 :do { add address=194.31.255.0/24 list=IP-GB } on-error={}

@@ -1,4 +1,4 @@
-# Last update: 2026-10-30 16:19:31 UTC
+# Last update: 2026-10-30 21:11:16 UTC
 # Country: IN
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=IN&v4_format=prefix
 
@@ -1726,8 +1726,13 @@
 :do { add address=2001:df7:bfc0::/48 list=INv6 } on-error={}
 :do { add address=2001:df7:c340::/48 list=INv6 } on-error={}
 :do { add address=2001:df7:c580::/48 list=INv6 } on-error={}
+:do { add address=2001:df7:c5c0::/48 list=INv6 } on-error={}
+:do { add address=2001:df7:c640::/48 list=INv6 } on-error={}
 :do { add address=2001:df7:c680::/48 list=INv6 } on-error={}
+:do { add address=2001:df7:c6c0::/48 list=INv6 } on-error={}
+:do { add address=2001:df7:c7c0::/48 list=INv6 } on-error={}
 :do { add address=2001:df7:c800::/48 list=INv6 } on-error={}
+:do { add address=2001:df7:c840::/48 list=INv6 } on-error={}
 :do { add address=2001:df7:c880::/48 list=INv6 } on-error={}
 :do { add address=2001:df7:c980::/48 list=INv6 } on-error={}
 :do { add address=2001:df7:cb80::/48 list=INv6 } on-error={}
@@ -3034,6 +3039,11 @@
 :do { add address=27.56.0.0/13 list=IP-IN } on-error={}
 :do { add address=27.96.88.0/22 list=IP-IN } on-error={}
 :do { add address=27.97.0.0/16 list=IP-IN } on-error={}
+:do { add address=27.98.194.0/23 list=IP-IN } on-error={}
+:do { add address=27.98.196.0/23 list=IP-IN } on-error={}
+:do { add address=27.98.198.0/23 list=IP-IN } on-error={}
+:do { add address=27.98.204.0/23 list=IP-IN } on-error={}
+:do { add address=27.98.206.0/23 list=IP-IN } on-error={}
 :do { add address=27.100.12.0/22 list=IP-IN } on-error={}
 :do { add address=27.100.24.0/22 list=IP-IN } on-error={}
 :do { add address=27.107.0.0/16 list=IP-IN } on-error={}
@@ -11315,6 +11325,7 @@
 :do { add address=180.211.96.0/19 list=IP-IN } on-error={}
 :do { add address=180.214.128.0/19 list=IP-IN } on-error={}
 :do { add address=180.214.166.0/24 list=IP-IN } on-error={}
+:do { add address=180.214.167.0/24 list=IP-IN } on-error={}
 :do { add address=180.222.212.0/22 list=IP-IN } on-error={}
 :do { add address=180.233.120.0/22 list=IP-IN } on-error={}
 :do { add address=180.233.148.0/22 list=IP-IN } on-error={}

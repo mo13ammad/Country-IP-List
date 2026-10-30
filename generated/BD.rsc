@@ -1,4 +1,4 @@
-# Last update: 2026-10-30 16:19:31 UTC
+# Last update: 2026-10-30 21:11:16 UTC
 # Country: BD
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BD&v4_format=prefix
 
@@ -296,7 +296,6 @@
 :do { add address=2001:df1:e340::/48 list=BDv6 } on-error={}
 :do { add address=2001:df1:e940::/48 list=BDv6 } on-error={}
 :do { add address=2001:df1:eb00::/48 list=BDv6 } on-error={}
-:do { add address=2001:df1:eb40::/48 list=BDv6 } on-error={}
 :do { add address=2001:df1:ebc0::/48 list=BDv6 } on-error={}
 :do { add address=2001:df1:ec40::/48 list=BDv6 } on-error={}
 :do { add address=2001:df1:f040::/48 list=BDv6 } on-error={}
@@ -962,6 +961,7 @@
 :do { add address=2001:df7:c280::/48 list=BDv6 } on-error={}
 :do { add address=2001:df7:c440::/48 list=BDv6 } on-error={}
 :do { add address=2001:df7:c480::/48 list=BDv6 } on-error={}
+:do { add address=2001:df7:c740::/48 list=BDv6 } on-error={}
 :do { add address=2001:df7:ca80::/48 list=BDv6 } on-error={}
 :do { add address=2001:df7:d000::/48 list=BDv6 } on-error={}
 :do { add address=2001:df7:d001::/48 list=BDv6 } on-error={}
@@ -1705,6 +1705,7 @@
 :do { add address=14.128.12.0/22 list=IP-BD } on-error={}
 :do { add address=27.54.144.0/22 list=IP-BD } on-error={}
 :do { add address=27.54.148.0/22 list=IP-BD } on-error={}
+:do { add address=27.98.200.0/24 list=IP-BD } on-error={}
 :do { add address=27.123.224.0/23 list=IP-BD } on-error={}
 :do { add address=27.123.252.0/22 list=IP-BD } on-error={}
 :do { add address=27.124.70.0/23 list=IP-BD } on-error={}
