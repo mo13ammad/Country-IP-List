@@ -1,4 +1,4 @@
-# Last update: 2026-10-31 07:39:00 UTC
+# Last update: 2026-10-31 13:57:52 UTC
 # Country: CZ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CZ&v4_format=prefix
 
