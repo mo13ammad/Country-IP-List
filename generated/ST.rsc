@@ -1,4 +1,4 @@
-# Last update: 2026-11-03 16:41:15 UTC
+# Last update: 2026-11-03 22:07:14 UTC
 # Country: ST
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=ST&v4_format=prefix
 
