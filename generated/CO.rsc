@@ -1,4 +1,4 @@
-# Last update: 2026-11-04 10:03:59 UTC
+# Last update: 2026-11-04 18:17:53 UTC
 # Country: CO
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CO&v4_format=prefix
 
@@ -773,6 +773,9 @@
 /ip firewall address-list
 :do { add address=2.152.8.0/21 list=IP-CO } on-error={}
 :do { add address=2.152.33.0/24 list=IP-CO } on-error={}
+:do { add address=2.152.224.0/20 list=IP-CO } on-error={}
+:do { add address=2.152.240.0/22 list=IP-CO } on-error={}
+:do { add address=2.152.244.0/23 list=IP-CO } on-error={}
 :do { add address=24.152.56.0/24 list=IP-CO } on-error={}
 :do { add address=24.152.58.0/24 list=IP-CO } on-error={}
 :do { add address=24.152.59.0/24 list=IP-CO } on-error={}

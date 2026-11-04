@@ -1,9 +1,10 @@
-# Last update: 2026-11-04 10:03:59 UTC
+# Last update: 2026-11-04 18:17:53 UTC
 # Country: VU
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=VU&v4_format=prefix
 
 /ipv6 firewall address-list remove [/ipv6 firewall address-list find list=VUv6]
 /ipv6 firewall address-list
+:do { add address=2001:de9:2000::/48 list=VUv6 } on-error={}
 :do { add address=2001:dec::/48 list=VUv6 } on-error={}
 :do { add address=2001:df0:410::/48 list=VUv6 } on-error={}
 :do { add address=2001:df2:a700::/48 list=VUv6 } on-error={}
@@ -31,6 +32,7 @@
 :do { add address=103.226.22.0/23 list=IP-VU } on-error={}
 :do { add address=113.11.240.0/21 list=IP-VU } on-error={}
 :do { add address=160.187.44.0/23 list=IP-VU } on-error={}
+:do { add address=163.61.162.64/26 list=IP-VU } on-error={}
 :do { add address=163.128.190.0/24 list=IP-VU } on-error={}
 :do { add address=180.222.208.0/22 list=IP-VU } on-error={}
 :do { add address=194.127.164.0/22 list=IP-VU } on-error={}
