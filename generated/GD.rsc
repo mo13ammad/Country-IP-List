@@ -1,4 +1,4 @@
-# Last update: 2026-11-06 16:25:19 UTC
+# Last update: 2026-11-06 21:50:04 UTC
 # Country: GD
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GD&v4_format=prefix
 
