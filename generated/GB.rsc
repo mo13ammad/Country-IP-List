@@ -1,4 +1,4 @@
-# Last update: 2026-11-07 14:28:44 UTC
+# Last update: 2026-11-08 16:48:31 UTC
 # Country: GB
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GB&v4_format=prefix
 
@@ -111,6 +111,7 @@
 :do { add address=2001:678:139c::/48 list=GBv6 } on-error={}
 :do { add address=2001:678:13a8::/48 list=GBv6 } on-error={}
 :do { add address=2001:678:13b8::/48 list=GBv6 } on-error={}
+:do { add address=2001:678:13d8::/48 list=GBv6 } on-error={}
 :do { add address=2001:67c:30::/48 list=GBv6 } on-error={}
 :do { add address=2001:67c:80::/48 list=GBv6 } on-error={}
 :do { add address=2001:67c:90::/48 list=GBv6 } on-error={}
@@ -1640,7 +1641,6 @@
 :do { add address=2a0d:4880::/29 list=GBv6 } on-error={}
 :do { add address=2a0d:4900::/32 list=GBv6 } on-error={}
 :do { add address=2a0d:5080::/29 list=GBv6 } on-error={}
-:do { add address=2a0d:5140::/32 list=GBv6 } on-error={}
 :do { add address=2a0d:5400::/29 list=GBv6 } on-error={}
 :do { add address=2a0d:54c0::/32 list=GBv6 } on-error={}
 :do { add address=2a0d:5700::/29 list=GBv6 } on-error={}
@@ -1659,7 +1659,6 @@
 :do { add address=2a0d:7dc0::/29 list=GBv6 } on-error={}
 :do { add address=2a0d:8100::/32 list=GBv6 } on-error={}
 :do { add address=2a0d:8a80::/29 list=GBv6 } on-error={}
-:do { add address=2a0d:8dc0::/29 list=GBv6 } on-error={}
 :do { add address=2a0d:9780::/29 list=GBv6 } on-error={}
 :do { add address=2a0d:9b80::/29 list=GBv6 } on-error={}
 :do { add address=2a0d:9d40::/29 list=GBv6 } on-error={}
@@ -1687,7 +1686,6 @@
 :do { add address=2a0d:e100::/29 list=GBv6 } on-error={}
 :do { add address=2a0d:ea00::/29 list=GBv6 } on-error={}
 :do { add address=2a0d:ebc0::/32 list=GBv6 } on-error={}
-:do { add address=2a0d:ef80::/32 list=GBv6 } on-error={}
 :do { add address=2a0d:f200::/29 list=GBv6 } on-error={}
 :do { add address=2a0d:f280::/29 list=GBv6 } on-error={}
 :do { add address=2a0d:f900::/29 list=GBv6 } on-error={}
@@ -1876,7 +1874,6 @@
 :do { add address=2a11:7840::/29 list=GBv6 } on-error={}
 :do { add address=2a11:7b40::/29 list=GBv6 } on-error={}
 :do { add address=2a11:9840::/29 list=GBv6 } on-error={}
-:do { add address=2a11:9c00::/29 list=GBv6 } on-error={}
 :do { add address=2a11:9d00::/29 list=GBv6 } on-error={}
 :do { add address=2a11:a000::/29 list=GBv6 } on-error={}
 :do { add address=2a11:ae00::/32 list=GBv6 } on-error={}

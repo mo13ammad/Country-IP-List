@@ -1,4 +1,4 @@
-# Last update: 2026-11-07 14:28:44 UTC
+# Last update: 2026-11-08 16:48:31 UTC
 # Country: UA
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=UA&v4_format=prefix
 
@@ -462,6 +462,7 @@
 :do { add address=2a0d:2180::/32 list=UAv6 } on-error={}
 :do { add address=2a0d:3e00::/29 list=UAv6 } on-error={}
 :do { add address=2a0d:46c0::/32 list=UAv6 } on-error={}
+:do { add address=2a0d:5140::/32 list=UAv6 } on-error={}
 :do { add address=2a0d:5d00::/29 list=UAv6 } on-error={}
 :do { add address=2a0d:6500::/29 list=UAv6 } on-error={}
 :do { add address=2a0d:6540::/29 list=UAv6 } on-error={}
@@ -477,6 +478,7 @@
 :do { add address=2a0d:d980::/29 list=UAv6 } on-error={}
 :do { add address=2a0d:e580::/29 list=UAv6 } on-error={}
 :do { add address=2a0d:e740::/29 list=UAv6 } on-error={}
+:do { add address=2a0d:ef80::/32 list=UAv6 } on-error={}
 :do { add address=2a0d:fc00::/29 list=UAv6 } on-error={}
 :do { add address=2a0e:280::/29 list=UAv6 } on-error={}
 :do { add address=2a0e:880::/29 list=UAv6 } on-error={}
@@ -552,6 +554,7 @@
 :do { add address=2a11:8e40::/29 list=UAv6 } on-error={}
 :do { add address=2a11:95c0::/29 list=UAv6 } on-error={}
 :do { add address=2a11:9600::/29 list=UAv6 } on-error={}
+:do { add address=2a11:9c00::/29 list=UAv6 } on-error={}
 :do { add address=2a11:a600::/29 list=UAv6 } on-error={}
 :do { add address=2a11:aa00::/29 list=UAv6 } on-error={}
 :do { add address=2a11:b100::/32 list=UAv6 } on-error={}
