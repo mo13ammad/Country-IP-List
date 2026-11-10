@@ -1,4 +1,4 @@
-# Last update: 2026-11-10 15:53:29 UTC
+# Last update: 2026-11-10 21:30:59 UTC
 # Country: NL
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=NL&v4_format=prefix
 
@@ -163,6 +163,7 @@
 :do { add address=2001:67c:874::/48 list=NLv6 } on-error={}
 :do { add address=2001:67c:910::/48 list=NLv6 } on-error={}
 :do { add address=2001:67c:994::/48 list=NLv6 } on-error={}
+:do { add address=2001:67c:998::/48 list=NLv6 } on-error={}
 :do { add address=2001:67c:9b0::/48 list=NLv6 } on-error={}
 :do { add address=2001:67c:9d8::/48 list=NLv6 } on-error={}
 :do { add address=2001:67c:a3c::/48 list=NLv6 } on-error={}
@@ -4522,7 +4523,8 @@
 :do { add address=145.9.0.0/16 list=IP-NL } on-error={}
 :do { add address=145.10.0.0/16 list=IP-NL } on-error={}
 :do { add address=145.11.48.0/20 list=IP-NL } on-error={}
-:do { add address=145.11.128.0/17 list=IP-NL } on-error={}
+:do { add address=145.11.128.0/19 list=IP-NL } on-error={}
+:do { add address=145.11.192.0/18 list=IP-NL } on-error={}
 :do { add address=145.12.0.0/16 list=IP-NL } on-error={}
 :do { add address=145.13.0.0/16 list=IP-NL } on-error={}
 :do { add address=145.14.0.0/22 list=IP-NL } on-error={}
@@ -4766,6 +4768,7 @@
 :do { add address=152.89.152.0/22 list=IP-NL } on-error={}
 :do { add address=152.89.200.0/22 list=IP-NL } on-error={}
 :do { add address=152.114.192.0/22 list=IP-NL } on-error={}
+:do { add address=153.78.128.0/17 list=IP-NL } on-error={}
 :do { add address=155.2.176.0/20 list=IP-NL } on-error={}
 :do { add address=155.2.192.0/19 list=IP-NL } on-error={}
 :do { add address=155.115.0.0/16 list=IP-NL } on-error={}
@@ -7627,6 +7630,7 @@
 :do { add address=195.10.212.0/24 list=IP-NL } on-error={}
 :do { add address=195.10.224.0/23 list=IP-NL } on-error={}
 :do { add address=195.10.228.0/22 list=IP-NL } on-error={}
+:do { add address=195.10.245.0/24 list=IP-NL } on-error={}
 :do { add address=195.12.60.0/22 list=IP-NL } on-error={}
 :do { add address=195.14.1.0/24 list=IP-NL } on-error={}
 :do { add address=195.14.29.0/24 list=IP-NL } on-error={}

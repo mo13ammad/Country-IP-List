@@ -1,4 +1,4 @@
-# Last update: 2026-11-10 15:53:29 UTC
+# Last update: 2026-11-10 21:30:59 UTC
 # Country: AD
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=AD&v4_format=prefix
 
@@ -35,5 +35,6 @@
 :do { add address=185.194.56.0/22 list=IP-AD } on-error={}
 :do { add address=185.247.24.0/22 list=IP-AD } on-error={}
 :do { add address=188.241.26.0/23 list=IP-AD } on-error={}
+:do { add address=193.227.113.0/24 list=IP-AD } on-error={}
 :do { add address=194.158.64.0/19 list=IP-AD } on-error={}
 :do { add address=213.236.8.0/21 list=IP-AD } on-error={}

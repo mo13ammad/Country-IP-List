@@ -1,4 +1,4 @@
-# Last update: 2026-11-10 15:53:29 UTC
+# Last update: 2026-11-10 21:30:59 UTC
 # Country: UA
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=UA&v4_format=prefix
 
@@ -88,6 +88,7 @@
 :do { add address=2001:678:135c::/48 list=UAv6 } on-error={}
 :do { add address=2001:678:136c::/48 list=UAv6 } on-error={}
 :do { add address=2001:678:1398::/48 list=UAv6 } on-error={}
+:do { add address=2001:678:13dc::/48 list=UAv6 } on-error={}
 :do { add address=2001:67c:28::/48 list=UAv6 } on-error={}
 :do { add address=2001:67c:f8::/48 list=UAv6 } on-error={}
 :do { add address=2001:67c:108::/48 list=UAv6 } on-error={}
