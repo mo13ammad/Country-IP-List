@@ -1,4 +1,4 @@
-# Last update: 2026-11-11 08:32:41 UTC
+# Last update: 2026-11-11 16:46:26 UTC
 # Country: CM
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CM&v4_format=prefix
 
@@ -69,7 +69,6 @@
 :do { add address=102.218.164.0/22 list=IP-CM } on-error={}
 :do { add address=102.218.252.0/22 list=IP-CM } on-error={}
 :do { add address=102.219.44.0/22 list=IP-CM } on-error={}
-:do { add address=102.219.68.0/22 list=IP-CM } on-error={}
 :do { add address=102.220.16.0/22 list=IP-CM } on-error={}
 :do { add address=102.220.222.0/24 list=IP-CM } on-error={}
 :do { add address=102.223.6.0/24 list=IP-CM } on-error={}

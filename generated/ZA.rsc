@@ -1,4 +1,4 @@
-# Last update: 2026-11-11 08:32:41 UTC
+# Last update: 2026-11-11 16:46:26 UTC
 # Country: ZA
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=ZA&v4_format=prefix
 
@@ -203,7 +203,6 @@
 :do { add address=2c0f:3c80::/32 list=ZAv6 } on-error={}
 :do { add address=2c0f:3cc0::/32 list=ZAv6 } on-error={}
 :do { add address=2c0f:3f40::/32 list=ZAv6 } on-error={}
-:do { add address=2c0f:4000::/32 list=ZAv6 } on-error={}
 :do { add address=2c0f:4040::/32 list=ZAv6 } on-error={}
 :do { add address=2c0f:40a0::/32 list=ZAv6 } on-error={}
 :do { add address=2c0f:40c0::/32 list=ZAv6 } on-error={}
@@ -1285,7 +1284,6 @@
 :do { add address=102.217.196.0/22 list=IP-ZA } on-error={}
 :do { add address=102.217.200.0/22 list=IP-ZA } on-error={}
 :do { add address=102.217.216.0/22 list=IP-ZA } on-error={}
-:do { add address=102.217.220.0/22 list=IP-ZA } on-error={}
 :do { add address=102.217.224.0/22 list=IP-ZA } on-error={}
 :do { add address=102.217.228.0/22 list=IP-ZA } on-error={}
 :do { add address=102.217.232.0/22 list=IP-ZA } on-error={}
@@ -1726,7 +1724,6 @@
 :do { add address=169.239.8.0/22 list=IP-ZA } on-error={}
 :do { add address=169.239.28.0/22 list=IP-ZA } on-error={}
 :do { add address=169.239.44.0/22 list=IP-ZA } on-error={}
-:do { add address=169.239.60.0/22 list=IP-ZA } on-error={}
 :do { add address=169.239.68.0/22 list=IP-ZA } on-error={}
 :do { add address=169.239.80.0/22 list=IP-ZA } on-error={}
 :do { add address=169.239.84.0/22 list=IP-ZA } on-error={}

@@ -1,4 +1,4 @@
-# Last update: 2026-11-11 08:32:41 UTC
+# Last update: 2026-11-11 16:46:26 UTC
 # Country: NL
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=NL&v4_format=prefix
 
@@ -4609,32 +4609,9 @@
 :do { add address=145.136.0.0/13 list=IP-NL } on-error={}
 :do { add address=145.144.0.0/12 list=IP-NL } on-error={}
 :do { add address=145.160.0.0/12 list=IP-NL } on-error={}
-:do { add address=145.192.0.0/16 list=IP-NL } on-error={}
-:do { add address=145.193.0.0/16 list=IP-NL } on-error={}
-:do { add address=145.194.0.0/16 list=IP-NL } on-error={}
-:do { add address=145.195.0.0/16 list=IP-NL } on-error={}
-:do { add address=145.196.0.0/16 list=IP-NL } on-error={}
-:do { add address=145.197.0.0/16 list=IP-NL } on-error={}
-:do { add address=145.198.0.0/16 list=IP-NL } on-error={}
-:do { add address=145.199.0.0/16 list=IP-NL } on-error={}
-:do { add address=145.200.0.0/16 list=IP-NL } on-error={}
-:do { add address=145.201.0.0/16 list=IP-NL } on-error={}
-:do { add address=145.202.0.0/16 list=IP-NL } on-error={}
-:do { add address=145.203.0.0/16 list=IP-NL } on-error={}
-:do { add address=145.204.0.0/16 list=IP-NL } on-error={}
-:do { add address=145.205.0.0/16 list=IP-NL } on-error={}
-:do { add address=145.206.0.0/16 list=IP-NL } on-error={}
-:do { add address=145.207.0.0/16 list=IP-NL } on-error={}
-:do { add address=145.208.0.0/16 list=IP-NL } on-error={}
-:do { add address=145.209.0.0/16 list=IP-NL } on-error={}
-:do { add address=145.210.0.0/16 list=IP-NL } on-error={}
-:do { add address=145.211.0.0/16 list=IP-NL } on-error={}
-:do { add address=145.212.0.0/16 list=IP-NL } on-error={}
-:do { add address=145.213.0.0/16 list=IP-NL } on-error={}
-:do { add address=145.214.0.0/16 list=IP-NL } on-error={}
-:do { add address=145.215.0.0/16 list=IP-NL } on-error={}
-:do { add address=145.216.0.0/16 list=IP-NL } on-error={}
-:do { add address=145.217.0.0/16 list=IP-NL } on-error={}
+:do { add address=145.192.0.0/12 list=IP-NL } on-error={}
+:do { add address=145.208.0.0/13 list=IP-NL } on-error={}
+:do { add address=145.216.0.0/15 list=IP-NL } on-error={}
 :do { add address=145.219.0.0/16 list=IP-NL } on-error={}
 :do { add address=145.220.0.0/16 list=IP-NL } on-error={}
 :do { add address=145.221.0.0/16 list=IP-NL } on-error={}
@@ -4720,7 +4697,8 @@
 :do { add address=149.245.128.0/18 list=IP-NL } on-error={}
 :do { add address=149.245.192.0/20 list=IP-NL } on-error={}
 :do { add address=149.245.211.0/24 list=IP-NL } on-error={}
-:do { add address=149.245.212.0/22 list=IP-NL } on-error={}
+:do { add address=149.245.212.0/24 list=IP-NL } on-error={}
+:do { add address=149.245.214.0/23 list=IP-NL } on-error={}
 :do { add address=149.245.216.0/24 list=IP-NL } on-error={}
 :do { add address=149.245.217.0/24 list=IP-NL } on-error={}
 :do { add address=149.245.218.0/23 list=IP-NL } on-error={}
@@ -4742,7 +4720,6 @@
 :do { add address=150.237.112.0/21 list=IP-NL } on-error={}
 :do { add address=150.237.120.0/24 list=IP-NL } on-error={}
 :do { add address=150.251.32.0/21 list=IP-NL } on-error={}
-:do { add address=150.251.40.0/22 list=IP-NL } on-error={}
 :do { add address=150.251.44.0/23 list=IP-NL } on-error={}
 :do { add address=150.251.49.0/24 list=IP-NL } on-error={}
 :do { add address=150.251.50.0/24 list=IP-NL } on-error={}
