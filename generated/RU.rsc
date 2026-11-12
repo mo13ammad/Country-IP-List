@@ -1,4 +1,4 @@
-# Last update: 2026-11-12 13:23:40 UTC
+# Last update: 2026-11-12 21:11:52 UTC
 # Country: RU
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=RU&v4_format=prefix
 
@@ -2098,6 +2098,7 @@
 :do { add address=2a12:e840::/29 list=RUv6 } on-error={}
 :do { add address=2a12:ebc0::/29 list=RUv6 } on-error={}
 :do { add address=2a12:f580::/29 list=RUv6 } on-error={}
+:do { add address=2a13:480::/29 list=RUv6 } on-error={}
 :do { add address=2a13:840::/29 list=RUv6 } on-error={}
 :do { add address=2a13:c80::/32 list=RUv6 } on-error={}
 :do { add address=2a13:1340::/29 list=RUv6 } on-error={}
@@ -8235,7 +8236,8 @@
 :do { add address=152.89.132.0/22 list=IP-RU } on-error={}
 :do { add address=152.89.196.0/24 list=IP-RU } on-error={}
 :do { add address=152.89.216.0/22 list=IP-RU } on-error={}
-:do { add address=152.228.112.0/20 list=IP-RU } on-error={}
+:do { add address=152.228.112.0/21 list=IP-RU } on-error={}
+:do { add address=152.228.120.0/21 list=IP-RU } on-error={}
 :do { add address=153.51.32.0/19 list=IP-RU } on-error={}
 :do { add address=153.51.64.0/19 list=IP-RU } on-error={}
 :do { add address=153.51.96.0/19 list=IP-RU } on-error={}
@@ -8311,6 +8313,7 @@
 :do { add address=157.186.0.0/16 list=IP-RU } on-error={}
 :do { add address=157.228.73.0/24 list=IP-RU } on-error={}
 :do { add address=157.228.76.0/22 list=IP-RU } on-error={}
+:do { add address=157.228.80.0/22 list=IP-RU } on-error={}
 :do { add address=157.228.96.0/24 list=IP-RU } on-error={}
 :do { add address=157.228.97.0/24 list=IP-RU } on-error={}
 :do { add address=157.228.98.0/24 list=IP-RU } on-error={}
@@ -13251,6 +13254,7 @@
 :do { add address=213.168.128.0/19 list=IP-RU } on-error={}
 :do { add address=213.170.64.0/19 list=IP-RU } on-error={}
 :do { add address=213.170.96.0/19 list=IP-RU } on-error={}
+:do { add address=213.170.192.0/22 list=IP-RU } on-error={}
 :do { add address=213.170.220.0/22 list=IP-RU } on-error={}
 :do { add address=213.171.0.0/20 list=IP-RU } on-error={}
 :do { add address=213.171.16.0/21 list=IP-RU } on-error={}

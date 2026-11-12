@@ -1,4 +1,4 @@
-# Last update: 2026-11-12 13:23:40 UTC
+# Last update: 2026-11-12 21:11:52 UTC
 # Country: ID
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=ID&v4_format=prefix
 
@@ -2000,7 +2000,9 @@
 :do { add address=2001:df7:d4c0::/48 list=IDv6 } on-error={}
 :do { add address=2001:df7:d540::/48 list=IDv6 } on-error={}
 :do { add address=2001:df7:d5c0::/48 list=IDv6 } on-error={}
+:do { add address=2001:df7:d6c0::/48 list=IDv6 } on-error={}
 :do { add address=2001:df7:d700::/48 list=IDv6 } on-error={}
+:do { add address=2001:df7:d740::/48 list=IDv6 } on-error={}
 :do { add address=2001:df7:d900::/48 list=IDv6 } on-error={}
 :do { add address=2001:df7:da00::/48 list=IDv6 } on-error={}
 :do { add address=2001:df7:de80::/48 list=IDv6 } on-error={}
@@ -7493,6 +7495,7 @@
 :do { add address=140.213.0.0/16 list=IP-ID } on-error={}
 :do { add address=141.229.2.0/23 list=IP-ID } on-error={}
 :do { add address=141.229.4.0/23 list=IP-ID } on-error={}
+:do { add address=141.229.8.0/23 list=IP-ID } on-error={}
 :do { add address=144.48.12.0/22 list=IP-ID } on-error={}
 :do { add address=144.79.9.0/24 list=IP-ID } on-error={}
 :do { add address=144.79.17.0/24 list=IP-ID } on-error={}
@@ -8952,6 +8955,7 @@
 :do { add address=203.15.128.0/24 list=IP-ID } on-error={}
 :do { add address=203.16.11.0/24 list=IP-ID } on-error={}
 :do { add address=203.17.21.0/24 list=IP-ID } on-error={}
+:do { add address=203.17.38.0/24 list=IP-ID } on-error={}
 :do { add address=203.17.80.0/21 list=IP-ID } on-error={}
 :do { add address=203.17.189.0/24 list=IP-ID } on-error={}
 :do { add address=203.18.39.0/24 list=IP-ID } on-error={}

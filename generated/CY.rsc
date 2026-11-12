@@ -1,4 +1,4 @@
-# Last update: 2026-11-12 13:23:40 UTC
+# Last update: 2026-11-12 21:11:52 UTC
 # Country: CY
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CY&v4_format=prefix
 
@@ -26,7 +26,6 @@
 :do { add address=2a02:540::/32 list=CYv6 } on-error={}
 :do { add address=2a02:640::/29 list=CYv6 } on-error={}
 :do { add address=2a02:be0::/32 list=CYv6 } on-error={}
-:do { add address=2a02:4780::/32 list=CYv6 } on-error={}
 :do { add address=2a02:76c0::/32 list=CYv6 } on-error={}
 :do { add address=2a02:7cc0::/32 list=CYv6 } on-error={}
 :do { add address=2a03:1740::/32 list=CYv6 } on-error={}
@@ -401,7 +400,6 @@
 :do { add address=2.56.172.0/22 list=IP-CY } on-error={}
 :do { add address=2.56.176.0/22 list=IP-CY } on-error={}
 :do { add address=2.56.212.0/22 list=IP-CY } on-error={}
-:do { add address=2.57.88.0/22 list=IP-CY } on-error={}
 :do { add address=5.42.205.0/24 list=IP-CY } on-error={}
 :do { add address=5.180.20.0/22 list=IP-CY } on-error={}
 :do { add address=5.180.24.0/22 list=IP-CY } on-error={}
@@ -422,11 +420,7 @@
 :do { add address=31.14.238.0/24 list=IP-CY } on-error={}
 :do { add address=31.25.224.0/21 list=IP-CY } on-error={}
 :do { add address=31.153.0.0/16 list=IP-CY } on-error={}
-:do { add address=31.170.160.0/21 list=IP-CY } on-error={}
 :do { add address=31.216.64.0/18 list=IP-CY } on-error={}
-:do { add address=31.220.16.0/21 list=IP-CY } on-error={}
-:do { add address=31.220.48.0/20 list=IP-CY } on-error={}
-:do { add address=31.220.104.0/21 list=IP-CY } on-error={}
 :do { add address=31.222.229.0/24 list=IP-CY } on-error={}
 :do { add address=36.255.76.0/22 list=IP-CY } on-error={}
 :do { add address=37.9.176.0/21 list=IP-CY } on-error={}
@@ -451,9 +445,7 @@
 :do { add address=45.12.140.0/22 list=IP-CY } on-error={}
 :do { add address=45.12.144.0/22 list=IP-CY } on-error={}
 :do { add address=45.12.148.0/22 list=IP-CY } on-error={}
-:do { add address=45.13.132.0/22 list=IP-CY } on-error={}
 :do { add address=45.13.220.0/22 list=IP-CY } on-error={}
-:do { add address=45.13.252.0/22 list=IP-CY } on-error={}
 :do { add address=45.15.124.0/22 list=IP-CY } on-error={}
 :do { add address=45.15.128.0/22 list=IP-CY } on-error={}
 :do { add address=45.15.140.0/22 list=IP-CY } on-error={}
@@ -485,7 +477,6 @@
 :do { add address=45.86.68.0/22 list=IP-CY } on-error={}
 :do { add address=45.86.72.0/22 list=IP-CY } on-error={}
 :do { add address=45.86.76.0/22 list=IP-CY } on-error={}
-:do { add address=45.87.80.0/22 list=IP-CY } on-error={}
 :do { add address=45.88.148.0/22 list=IP-CY } on-error={}
 :do { add address=45.88.160.0/22 list=IP-CY } on-error={}
 :do { add address=45.88.168.0/22 list=IP-CY } on-error={}
@@ -502,7 +493,6 @@
 :do { add address=45.92.160.0/22 list=IP-CY } on-error={}
 :do { add address=45.92.164.0/22 list=IP-CY } on-error={}
 :do { add address=45.92.192.0/22 list=IP-CY } on-error={}
-:do { add address=45.93.136.0/22 list=IP-CY } on-error={}
 :do { add address=45.94.184.0/22 list=IP-CY } on-error={}
 :do { add address=45.128.48.0/22 list=IP-CY } on-error={}
 :do { add address=45.128.52.0/22 list=IP-CY } on-error={}
@@ -648,7 +638,6 @@
 :do { add address=93.115.18.0/23 list=IP-CY } on-error={}
 :do { add address=93.115.20.0/23 list=IP-CY } on-error={}
 :do { add address=93.115.22.0/23 list=IP-CY } on-error={}
-:do { add address=93.188.160.0/21 list=IP-CY } on-error={}
 :do { add address=94.46.196.0/22 list=IP-CY } on-error={}
 :do { add address=94.46.200.0/22 list=IP-CY } on-error={}
 :do { add address=94.46.208.0/21 list=IP-CY } on-error={}
@@ -691,20 +680,9 @@
 :do { add address=141.98.160.0/22 list=IP-CY } on-error={}
 :do { add address=141.98.164.0/22 list=IP-CY } on-error={}
 :do { add address=141.98.188.0/22 list=IP-CY } on-error={}
-:do { add address=141.136.33.0/24 list=IP-CY } on-error={}
-:do { add address=141.136.34.0/23 list=IP-CY } on-error={}
-:do { add address=141.136.36.0/24 list=IP-CY } on-error={}
-:do { add address=141.136.39.0/24 list=IP-CY } on-error={}
-:do { add address=141.136.41.0/24 list=IP-CY } on-error={}
-:do { add address=141.136.42.0/23 list=IP-CY } on-error={}
-:do { add address=141.136.44.0/22 list=IP-CY } on-error={}
 :do { add address=146.19.202.0/24 list=IP-CY } on-error={}
 :do { add address=149.245.209.0/24 list=IP-CY } on-error={}
 :do { add address=149.245.213.0/24 list=IP-CY } on-error={}
-:do { add address=153.92.0.0/20 list=IP-CY } on-error={}
-:do { add address=153.92.208.0/20 list=IP-CY } on-error={}
-:do { add address=156.67.64.0/20 list=IP-CY } on-error={}
-:do { add address=156.67.208.0/20 list=IP-CY } on-error={}
 :do { add address=157.173.36.0/23 list=IP-CY } on-error={}
 :do { add address=159.200.210.0/24 list=IP-CY } on-error={}
 :do { add address=159.200.220.0/24 list=IP-CY } on-error={}
@@ -748,7 +726,6 @@
 :do { add address=185.8.180.0/22 list=IP-CY } on-error={}
 :do { add address=185.20.212.0/22 list=IP-CY } on-error={}
 :do { add address=185.23.111.0/24 list=IP-CY } on-error={}
-:do { add address=185.28.20.0/22 list=IP-CY } on-error={}
 :do { add address=185.42.32.0/22 list=IP-CY } on-error={}
 :do { add address=185.50.68.0/22 list=IP-CY } on-error={}
 :do { add address=185.52.88.0/22 list=IP-CY } on-error={}
@@ -870,8 +847,6 @@
 :do { add address=194.5.30.0/23 list=IP-CY } on-error={}
 :do { add address=194.5.36.0/22 list=IP-CY } on-error={}
 :do { add address=194.9.62.0/24 list=IP-CY } on-error={}
-:do { add address=194.11.154.0/23 list=IP-CY } on-error={}
-:do { add address=194.11.214.0/23 list=IP-CY } on-error={}
 :do { add address=194.26.213.0/24 list=IP-CY } on-error={}
 :do { add address=194.26.223.0/24 list=IP-CY } on-error={}
 :do { add address=194.30.128.0/19 list=IP-CY } on-error={}
@@ -930,7 +905,6 @@
 :do { add address=195.85.59.0/24 list=IP-CY } on-error={}
 :do { add address=195.88.176.0/23 list=IP-CY } on-error={}
 :do { add address=195.95.138.0/24 list=IP-CY } on-error={}
-:do { add address=195.110.58.0/23 list=IP-CY } on-error={}
 :do { add address=195.137.173.0/24 list=IP-CY } on-error={}
 :do { add address=195.179.96.0/20 list=IP-CY } on-error={}
 :do { add address=195.200.238.0/23 list=IP-CY } on-error={}
@@ -954,7 +928,6 @@
 :do { add address=203.29.53.0/24 list=IP-CY } on-error={}
 :do { add address=203.29.60.0/24 list=IP-CY } on-error={}
 :do { add address=203.30.33.0/24 list=IP-CY } on-error={}
-:do { add address=212.1.208.0/21 list=IP-CY } on-error={}
 :do { add address=212.23.210.0/24 list=IP-CY } on-error={}
 :do { add address=212.31.96.0/19 list=IP-CY } on-error={}
 :do { add address=212.32.16.0/21 list=IP-CY } on-error={}

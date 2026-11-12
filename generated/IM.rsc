@@ -1,4 +1,4 @@
-# Last update: 2026-11-12 13:23:40 UTC
+# Last update: 2026-11-12 21:11:52 UTC
 # Country: IM
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=IM&v4_format=prefix
 
@@ -35,7 +35,6 @@
 :do { add address=37.25.88.0/21 list=IP-IM } on-error={}
 :do { add address=43.225.112.0/22 list=IP-IM } on-error={}
 :do { add address=45.85.4.0/22 list=IP-IM } on-error={}
-:do { add address=45.85.196.0/22 list=IP-IM } on-error={}
 :do { add address=46.31.200.0/21 list=IP-IM } on-error={}
 :do { add address=46.226.184.0/21 list=IP-IM } on-error={}
 :do { add address=46.247.38.0/23 list=IP-IM } on-error={}
