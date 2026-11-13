@@ -1,4 +1,4 @@
-# Last update: 2026-11-13 10:13:23 UTC
+# Last update: 2026-11-13 18:13:40 UTC
 # Country: GB
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GB&v4_format=prefix
 
@@ -1813,7 +1813,6 @@
 :do { add address=2a10:6440::/29 list=GBv6 } on-error={}
 :do { add address=2a10:6740::/29 list=GBv6 } on-error={}
 :do { add address=2a10:6940::/29 list=GBv6 } on-error={}
-:do { add address=2a10:7780::/29 list=GBv6 } on-error={}
 :do { add address=2a10:7f80::/29 list=GBv6 } on-error={}
 :do { add address=2a10:85c0::/29 list=GBv6 } on-error={}
 :do { add address=2a10:8700::/29 list=GBv6 } on-error={}
@@ -1927,6 +1926,7 @@
 :do { add address=2a13:1040::/29 list=GBv6 } on-error={}
 :do { add address=2a13:1100::/29 list=GBv6 } on-error={}
 :do { add address=2a13:1500::/29 list=GBv6 } on-error={}
+:do { add address=2a13:1980::/29 list=GBv6 } on-error={}
 :do { add address=2a13:1d40::/29 list=GBv6 } on-error={}
 :do { add address=2a13:2180::/29 list=GBv6 } on-error={}
 :do { add address=2a13:2480::/29 list=GBv6 } on-error={}
@@ -5165,7 +5165,6 @@
 :do { add address=94.247.142.0/24 list=IP-GB } on-error={}
 :do { add address=94.247.152.0/21 list=IP-GB } on-error={}
 :do { add address=94.250.224.0/20 list=IP-GB } on-error={}
-:do { add address=94.250.244.0/22 list=IP-GB } on-error={}
 :do { add address=95.36.72.0/21 list=IP-GB } on-error={}
 :do { add address=95.36.128.0/18 list=IP-GB } on-error={}
 :do { add address=95.85.80.0/21 list=IP-GB } on-error={}

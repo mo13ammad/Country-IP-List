@@ -1,4 +1,4 @@
-# Last update: 2026-11-13 10:13:23 UTC
+# Last update: 2026-11-13 18:13:40 UTC
 # Country: IT
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=IT&v4_format=prefix
 
@@ -1798,7 +1798,8 @@
 :do { add address=81.208.0.0/17 list=IP-IT } on-error={}
 :do { add address=82.48.0.0/14 list=IP-IT } on-error={}
 :do { add address=82.52.0.0/17 list=IP-IT } on-error={}
-:do { add address=82.52.128.0/18 list=IP-IT } on-error={}
+:do { add address=82.52.128.0/19 list=IP-IT } on-error={}
+:do { add address=82.52.160.0/19 list=IP-IT } on-error={}
 :do { add address=82.52.192.0/19 list=IP-IT } on-error={}
 :do { add address=82.52.224.0/20 list=IP-IT } on-error={}
 :do { add address=82.52.240.0/21 list=IP-IT } on-error={}
