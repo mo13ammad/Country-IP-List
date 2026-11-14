@@ -1,4 +1,4 @@
-# Last update: 2026-11-14 11:56:07 UTC
+# Last update: 2026-11-14 17:28:25 UTC
 # Country: SV
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SV&v4_format=prefix
 
@@ -53,6 +53,7 @@
 
 /ip firewall address-list remove [/ip firewall address-list find list=IP-SV]
 /ip firewall address-list
+:do { add address=2.152.200.0/22 list=IP-SV } on-error={}
 :do { add address=45.5.12.0/24 list=IP-SV } on-error={}
 :do { add address=45.152.216.0/22 list=IP-SV } on-error={}
 :do { add address=45.161.24.0/22 list=IP-SV } on-error={}

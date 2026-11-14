@@ -1,4 +1,4 @@
-# Last update: 2026-11-14 11:56:07 UTC
+# Last update: 2026-11-14 17:28:25 UTC
 # Country: LI
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=LI&v4_format=prefix
 
@@ -30,6 +30,7 @@
 :do { add address=2a10:4140::/29 list=LIv6 } on-error={}
 :do { add address=2a10:8940::/29 list=LIv6 } on-error={}
 :do { add address=2a10:d2c0::/32 list=LIv6 } on-error={}
+:do { add address=2a13:3480::/32 list=LIv6 } on-error={}
 :do { add address=2a13:7c40::/32 list=LIv6 } on-error={}
 :do { add address=2a13:8500::/29 list=LIv6 } on-error={}
 :do { add address=2a13:a880::/29 list=LIv6 } on-error={}

@@ -1,4 +1,4 @@
-# Last update: 2026-11-14 11:56:07 UTC
+# Last update: 2026-11-14 17:28:25 UTC
 # Country: CL
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CL&v4_format=prefix
 
@@ -458,6 +458,7 @@
 :do { add address=45.239.120.0/22 list=IP-CL } on-error={}
 :do { add address=45.239.208.0/22 list=IP-CL } on-error={}
 :do { add address=45.239.216.0/22 list=IP-CL } on-error={}
+:do { add address=74.120.192.0/21 list=IP-CL } on-error={}
 :do { add address=128.201.116.0/22 list=IP-CL } on-error={}
 :do { add address=128.201.224.0/22 list=IP-CL } on-error={}
 :do { add address=131.0.108.0/22 list=IP-CL } on-error={}
@@ -466,7 +467,6 @@
 :do { add address=131.72.236.0/22 list=IP-CL } on-error={}
 :do { add address=131.108.68.0/22 list=IP-CL } on-error={}
 :do { add address=131.108.208.0/22 list=IP-CL } on-error={}
-:do { add address=131.161.200.0/22 list=IP-CL } on-error={}
 :do { add address=131.196.176.0/22 list=IP-CL } on-error={}
 :do { add address=131.221.32.0/22 list=IP-CL } on-error={}
 :do { add address=131.221.164.0/22 list=IP-CL } on-error={}
@@ -477,7 +477,6 @@
 :do { add address=138.0.122.0/23 list=IP-CL } on-error={}
 :do { add address=138.36.252.0/22 list=IP-CL } on-error={}
 :do { add address=138.84.32.0/19 list=IP-CL } on-error={}
-:do { add address=138.99.176.0/22 list=IP-CL } on-error={}
 :do { add address=138.99.224.0/22 list=IP-CL } on-error={}
 :do { add address=138.117.68.0/22 list=IP-CL } on-error={}
 :do { add address=138.117.148.0/22 list=IP-CL } on-error={}
@@ -495,7 +494,6 @@
 :do { add address=138.255.100.0/22 list=IP-CL } on-error={}
 :do { add address=143.202.12.0/22 list=IP-CL } on-error={}
 :do { add address=143.202.140.0/22 list=IP-CL } on-error={}
-:do { add address=143.208.52.0/22 list=IP-CL } on-error={}
 :do { add address=143.255.24.0/22 list=IP-CL } on-error={}
 :do { add address=143.255.104.0/22 list=IP-CL } on-error={}
 :do { add address=143.255.176.0/22 list=IP-CL } on-error={}
@@ -565,7 +563,6 @@
 :do { add address=170.81.28.0/22 list=IP-CL } on-error={}
 :do { add address=170.82.128.0/22 list=IP-CL } on-error={}
 :do { add address=170.82.188.0/22 list=IP-CL } on-error={}
-:do { add address=170.82.224.0/22 list=IP-CL } on-error={}
 :do { add address=170.84.208.0/22 list=IP-CL } on-error={}
 :do { add address=170.150.120.0/22 list=IP-CL } on-error={}
 :do { add address=170.150.140.0/22 list=IP-CL } on-error={}
@@ -608,7 +605,6 @@
 :do { add address=179.61.96.0/20 list=IP-CL } on-error={}
 :do { add address=179.63.224.0/21 list=IP-CL } on-error={}
 :do { add address=179.63.232.0/22 list=IP-CL } on-error={}
-:do { add address=179.63.244.0/22 list=IP-CL } on-error={}
 :do { add address=179.189.216.0/23 list=IP-CL } on-error={}
 :do { add address=179.189.220.0/23 list=IP-CL } on-error={}
 :do { add address=179.238.0.0/16 list=IP-CL } on-error={}
@@ -735,7 +731,6 @@
 :do { add address=190.110.253.0/24 list=IP-CL } on-error={}
 :do { add address=190.112.48.0/22 list=IP-CL } on-error={}
 :do { add address=190.113.0.0/19 list=IP-CL } on-error={}
-:do { add address=190.113.244.0/22 list=IP-CL } on-error={}
 :do { add address=190.114.32.0/19 list=IP-CL } on-error={}
 :do { add address=190.114.103.0/24 list=IP-CL } on-error={}
 :do { add address=190.114.252.0/22 list=IP-CL } on-error={}
@@ -1132,7 +1127,6 @@
 :do { add address=201.215.0.0/16 list=IP-CL } on-error={}
 :do { add address=201.217.240.0/22 list=IP-CL } on-error={}
 :do { add address=201.217.248.0/21 list=IP-CL } on-error={}
-:do { add address=201.218.128.0/19 list=IP-CL } on-error={}
 :do { add address=201.219.128.0/19 list=IP-CL } on-error={}
 :do { add address=201.219.232.0/21 list=IP-CL } on-error={}
 :do { add address=201.220.27.0/24 list=IP-CL } on-error={}
