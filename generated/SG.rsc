@@ -1,4 +1,4 @@
-# Last update: 2026-11-15 15:56:55 UTC
+# Last update: 2026-11-15 20:41:21 UTC
 # Country: SG
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SG&v4_format=prefix
 
@@ -261,6 +261,7 @@
 :do { add address=2401:d00::/32 list=SGv6 } on-error={}
 :do { add address=2401:1120::/32 list=SGv6 } on-error={}
 :do { add address=2401:17a0::/32 list=SGv6 } on-error={}
+:do { add address=2401:17e0::/32 list=SGv6 } on-error={}
 :do { add address=2401:1f80::/32 list=SGv6 } on-error={}
 :do { add address=2401:2020::/32 list=SGv6 } on-error={}
 :do { add address=2401:2120::/32 list=SGv6 } on-error={}
@@ -1257,6 +1258,7 @@
 :do { add address=103.236.119.0/24 list=IP-SG } on-error={}
 :do { add address=103.236.196.0/22 list=IP-SG } on-error={}
 :do { add address=103.237.80.0/24 list=IP-SG } on-error={}
+:do { add address=103.237.94.0/23 list=IP-SG } on-error={}
 :do { add address=103.237.132.0/23 list=IP-SG } on-error={}
 :do { add address=103.237.142.0/24 list=IP-SG } on-error={}
 :do { add address=103.237.143.0/24 list=IP-SG } on-error={}

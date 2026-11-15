@@ -1,4 +1,4 @@
-# Last update: 2026-11-15 15:56:55 UTC
+# Last update: 2026-11-15 20:41:21 UTC
 # Country: US
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=US&v4_format=prefix
 
@@ -1218,6 +1218,9 @@
 :do { add address=2602:81f:d000::/44 list=USv6 } on-error={}
 :do { add address=2602:81f:e000::/44 list=USv6 } on-error={}
 :do { add address=2602:81f:f000::/44 list=USv6 } on-error={}
+:do { add address=2602:f25c::/36 list=USv6 } on-error={}
+:do { add address=2602:f25e::/36 list=USv6 } on-error={}
+:do { add address=2602:f25f::/40 list=USv6 } on-error={}
 :do { add address=2602:f261::/40 list=USv6 } on-error={}
 :do { add address=2602:f262::/40 list=USv6 } on-error={}
 :do { add address=2602:f263::/40 list=USv6 } on-error={}
@@ -4723,6 +4726,7 @@
 :do { add address=2604:c640::/32 list=USv6 } on-error={}
 :do { add address=2604:c680::/32 list=USv6 } on-error={}
 :do { add address=2604:c6c0::/32 list=USv6 } on-error={}
+:do { add address=2604:c700::/32 list=USv6 } on-error={}
 :do { add address=2604:c740::/32 list=USv6 } on-error={}
 :do { add address=2604:c780::/32 list=USv6 } on-error={}
 :do { add address=2604:c7c0::/32 list=USv6 } on-error={}
@@ -43035,6 +43039,7 @@
 :do { add address=192.5.55.0/24 list=IP-US } on-error={}
 :do { add address=192.5.56.0/24 list=IP-US } on-error={}
 :do { add address=192.5.57.0/24 list=IP-US } on-error={}
+:do { add address=192.5.58.0/24 list=IP-US } on-error={}
 :do { add address=192.5.64.0/24 list=IP-US } on-error={}
 :do { add address=192.5.65.0/24 list=IP-US } on-error={}
 :do { add address=192.5.66.0/24 list=IP-US } on-error={}
@@ -63419,7 +63424,6 @@
 :do { add address=199.88.241.0/24 list=IP-US } on-error={}
 :do { add address=199.88.242.0/24 list=IP-US } on-error={}
 :do { add address=199.88.243.0/24 list=IP-US } on-error={}
-:do { add address=199.88.244.0/24 list=IP-US } on-error={}
 :do { add address=199.88.245.0/24 list=IP-US } on-error={}
 :do { add address=199.88.246.0/23 list=IP-US } on-error={}
 :do { add address=199.88.248.0/24 list=IP-US } on-error={}
