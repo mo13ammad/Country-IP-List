@@ -1,4 +1,4 @@
-# Last update: 2026-11-16 07:26:11 UTC
+# Last update: 2026-11-16 17:36:34 UTC
 # Country: SZ
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SZ&v4_format=prefix
 
@@ -11,6 +11,7 @@
 :do { add address=2c0f:1580::/32 list=SZv6 } on-error={}
 :do { add address=2c0f:2780::/32 list=SZv6 } on-error={}
 :do { add address=2c0f:4620::/32 list=SZv6 } on-error={}
+:do { add address=2c0f:5c20::/32 list=SZv6 } on-error={}
 :do { add address=2c0f:e908::/32 list=SZv6 } on-error={}
 :do { add address=2c0f:ebc8::/32 list=SZv6 } on-error={}
 

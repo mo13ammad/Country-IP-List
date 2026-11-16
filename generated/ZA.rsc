@@ -1,4 +1,4 @@
-# Last update: 2026-11-16 07:26:11 UTC
+# Last update: 2026-11-16 17:36:34 UTC
 # Country: ZA
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=ZA&v4_format=prefix
 
@@ -164,7 +164,7 @@
 :do { add address=2c0f:1ac0::/32 list=ZAv6 } on-error={}
 :do { add address=2c0f:1b40::/32 list=ZAv6 } on-error={}
 :do { add address=2c0f:1b80::/32 list=ZAv6 } on-error={}
-:do { add address=2c0f:1c00::/32 list=ZAv6 } on-error={}
+:do { add address=2c0f:1ca0::/32 list=ZAv6 } on-error={}
 :do { add address=2c0f:1d00::/32 list=ZAv6 } on-error={}
 :do { add address=2c0f:1d40::/32 list=ZAv6 } on-error={}
 :do { add address=2c0f:2040::/32 list=ZAv6 } on-error={}
@@ -203,7 +203,6 @@
 :do { add address=2c0f:3c80::/32 list=ZAv6 } on-error={}
 :do { add address=2c0f:3cc0::/32 list=ZAv6 } on-error={}
 :do { add address=2c0f:3f40::/32 list=ZAv6 } on-error={}
-:do { add address=2c0f:4040::/32 list=ZAv6 } on-error={}
 :do { add address=2c0f:40a0::/32 list=ZAv6 } on-error={}
 :do { add address=2c0f:40c0::/32 list=ZAv6 } on-error={}
 :do { add address=2c0f:41c0::/32 list=ZAv6 } on-error={}
@@ -258,9 +257,9 @@
 :do { add address=2c0f:5980::/32 list=ZAv6 } on-error={}
 :do { add address=2c0f:5a00::/32 list=ZAv6 } on-error={}
 :do { add address=2c0f:5b00::/32 list=ZAv6 } on-error={}
+:do { add address=2c0f:5ca0::/32 list=ZAv6 } on-error={}
 :do { add address=2c0f:5d00::/32 list=ZAv6 } on-error={}
 :do { add address=2c0f:5e00::/32 list=ZAv6 } on-error={}
-:do { add address=2c0f:5e40::/32 list=ZAv6 } on-error={}
 :do { add address=2c0f:5f00::/32 list=ZAv6 } on-error={}
 :do { add address=2c0f:5f80::/32 list=ZAv6 } on-error={}
 :do { add address=2c0f:6000::/32 list=ZAv6 } on-error={}
@@ -280,7 +279,6 @@
 :do { add address=2c0f:6940::/32 list=ZAv6 } on-error={}
 :do { add address=2c0f:6a00::/32 list=ZAv6 } on-error={}
 :do { add address=2c0f:6ac0::/32 list=ZAv6 } on-error={}
-:do { add address=2c0f:6b00::/32 list=ZAv6 } on-error={}
 :do { add address=2c0f:6b80::/32 list=ZAv6 } on-error={}
 :do { add address=2c0f:6d40::/32 list=ZAv6 } on-error={}
 :do { add address=2c0f:6ec0::/32 list=ZAv6 } on-error={}
@@ -916,6 +914,7 @@
 :do { add address=102.177.128.0/18 list=IP-ZA } on-error={}
 :do { add address=102.182.0.0/16 list=IP-ZA } on-error={}
 :do { add address=102.200.20.0/22 list=IP-ZA } on-error={}
+:do { add address=102.200.148.0/22 list=IP-ZA } on-error={}
 :do { add address=102.200.164.0/22 list=IP-ZA } on-error={}
 :do { add address=102.200.188.0/22 list=IP-ZA } on-error={}
 :do { add address=102.200.196.0/22 list=IP-ZA } on-error={}
@@ -1106,10 +1105,8 @@
 :do { add address=102.210.204.0/22 list=IP-ZA } on-error={}
 :do { add address=102.210.210.0/23 list=IP-ZA } on-error={}
 :do { add address=102.210.224.0/22 list=IP-ZA } on-error={}
-:do { add address=102.210.232.0/22 list=IP-ZA } on-error={}
 :do { add address=102.210.243.0/24 list=IP-ZA } on-error={}
 :do { add address=102.210.248.0/22 list=IP-ZA } on-error={}
-:do { add address=102.211.16.0/22 list=IP-ZA } on-error={}
 :do { add address=102.211.28.0/22 list=IP-ZA } on-error={}
 :do { add address=102.211.36.0/22 list=IP-ZA } on-error={}
 :do { add address=102.211.44.0/22 list=IP-ZA } on-error={}
@@ -1162,7 +1159,6 @@
 :do { add address=102.212.156.0/22 list=IP-ZA } on-error={}
 :do { add address=102.212.162.0/24 list=IP-ZA } on-error={}
 :do { add address=102.212.164.0/22 list=IP-ZA } on-error={}
-:do { add address=102.212.172.0/24 list=IP-ZA } on-error={}
 :do { add address=102.212.173.0/24 list=IP-ZA } on-error={}
 :do { add address=102.212.184.0/22 list=IP-ZA } on-error={}
 :do { add address=102.212.192.0/22 list=IP-ZA } on-error={}
@@ -1277,7 +1273,6 @@
 :do { add address=102.217.152.0/22 list=IP-ZA } on-error={}
 :do { add address=102.217.160.0/22 list=IP-ZA } on-error={}
 :do { add address=102.217.164.0/22 list=IP-ZA } on-error={}
-:do { add address=102.217.174.0/23 list=IP-ZA } on-error={}
 :do { add address=102.217.176.0/22 list=IP-ZA } on-error={}
 :do { add address=102.217.184.0/22 list=IP-ZA } on-error={}
 :do { add address=102.217.188.0/22 list=IP-ZA } on-error={}
@@ -1361,7 +1356,6 @@
 :do { add address=102.220.100.0/24 list=IP-ZA } on-error={}
 :do { add address=102.220.102.0/23 list=IP-ZA } on-error={}
 :do { add address=102.220.104.0/22 list=IP-ZA } on-error={}
-:do { add address=102.220.112.0/22 list=IP-ZA } on-error={}
 :do { add address=102.220.120.0/23 list=IP-ZA } on-error={}
 :do { add address=102.220.122.0/23 list=IP-ZA } on-error={}
 :do { add address=102.220.126.0/24 list=IP-ZA } on-error={}
@@ -1372,7 +1366,6 @@
 :do { add address=102.220.176.0/22 list=IP-ZA } on-error={}
 :do { add address=102.220.208.0/22 list=IP-ZA } on-error={}
 :do { add address=102.220.216.0/22 list=IP-ZA } on-error={}
-:do { add address=102.220.224.0/22 list=IP-ZA } on-error={}
 :do { add address=102.220.232.0/22 list=IP-ZA } on-error={}
 :do { add address=102.220.248.0/24 list=IP-ZA } on-error={}
 :do { add address=102.220.252.0/22 list=IP-ZA } on-error={}
@@ -2157,7 +2150,6 @@
 :do { add address=196.6.224.0/24 list=IP-ZA } on-error={}
 :do { add address=196.6.225.0/24 list=IP-ZA } on-error={}
 :do { add address=196.6.231.0/24 list=IP-ZA } on-error={}
-:do { add address=196.6.232.0/22 list=IP-ZA } on-error={}
 :do { add address=196.6.237.0/24 list=IP-ZA } on-error={}
 :do { add address=196.6.238.0/23 list=IP-ZA } on-error={}
 :do { add address=196.6.240.0/23 list=IP-ZA } on-error={}

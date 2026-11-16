@@ -1,4 +1,4 @@
-# Last update: 2026-11-16 07:26:11 UTC
+# Last update: 2026-11-16 17:36:34 UTC
 # Country: GM
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GM&v4_format=prefix
 
@@ -27,7 +27,6 @@
 :do { add address=102.211.12.0/22 list=IP-GM } on-error={}
 :do { add address=102.211.244.0/22 list=IP-GM } on-error={}
 :do { add address=102.213.220.0/22 list=IP-GM } on-error={}
-:do { add address=102.216.248.0/22 list=IP-GM } on-error={}
 :do { add address=102.221.64.0/22 list=IP-GM } on-error={}
 :do { add address=146.196.128.0/17 list=IP-GM } on-error={}
 :do { add address=155.251.0.0/16 list=IP-GM } on-error={}

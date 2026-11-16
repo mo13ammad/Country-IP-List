@@ -1,4 +1,4 @@
-# Last update: 2026-11-16 07:26:11 UTC
+# Last update: 2026-11-16 17:36:34 UTC
 # Country: CD
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=CD&v4_format=prefix
 
@@ -71,7 +71,6 @@
 :do { add address=102.210.164.0/22 list=IP-CD } on-error={}
 :do { add address=102.210.170.0/24 list=IP-CD } on-error={}
 :do { add address=102.210.253.0/24 list=IP-CD } on-error={}
-:do { add address=102.212.12.0/24 list=IP-CD } on-error={}
 :do { add address=102.212.212.0/22 list=IP-CD } on-error={}
 :do { add address=102.213.120.0/22 list=IP-CD } on-error={}
 :do { add address=102.213.196.0/22 list=IP-CD } on-error={}

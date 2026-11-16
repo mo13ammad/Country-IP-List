@@ -1,4 +1,4 @@
-# Last update: 2026-11-16 07:26:11 UTC
+# Last update: 2026-11-16 17:36:34 UTC
 # Country: NG
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=NG&v4_format=prefix
 
@@ -66,7 +66,6 @@
 :do { add address=2c0f:3d80::/32 list=NGv6 } on-error={}
 :do { add address=2c0f:3e80::/32 list=NGv6 } on-error={}
 :do { add address=2c0f:4180::/32 list=NGv6 } on-error={}
-:do { add address=2c0f:4380::/32 list=NGv6 } on-error={}
 :do { add address=2c0f:45c0::/32 list=NGv6 } on-error={}
 :do { add address=2c0f:4720::/32 list=NGv6 } on-error={}
 :do { add address=2c0f:4800::/32 list=NGv6 } on-error={}
@@ -173,8 +172,6 @@
 :do { add address=41.78.252.0/22 list=IP-NG } on-error={}
 :do { add address=41.79.4.0/22 list=IP-NG } on-error={}
 :do { add address=41.79.64.0/22 list=IP-NG } on-error={}
-:do { add address=41.79.116.0/22 list=IP-NG } on-error={}
-:do { add address=41.79.152.0/22 list=IP-NG } on-error={}
 :do { add address=41.79.204.0/22 list=IP-NG } on-error={}
 :do { add address=41.86.128.0/19 list=IP-NG } on-error={}
 :do { add address=41.87.64.0/19 list=IP-NG } on-error={}
@@ -426,7 +423,6 @@
 :do { add address=102.223.36.0/22 list=IP-NG } on-error={}
 :do { add address=102.223.52.0/22 list=IP-NG } on-error={}
 :do { add address=102.223.101.0/24 list=IP-NG } on-error={}
-:do { add address=102.223.180.0/23 list=IP-NG } on-error={}
 :do { add address=102.223.255.0/24 list=IP-NG } on-error={}
 :do { add address=105.112.0.0/12 list=IP-NG } on-error={}
 :do { add address=105.235.192.0/20 list=IP-NG } on-error={}
@@ -499,7 +495,6 @@
 :do { add address=196.40.192.0/18 list=IP-NG } on-error={}
 :do { add address=196.41.80.0/24 list=IP-NG } on-error={}
 :do { add address=196.41.84.0/24 list=IP-NG } on-error={}
-:do { add address=196.41.94.0/24 list=IP-NG } on-error={}
 :do { add address=196.43.215.0/24 list=IP-NG } on-error={}
 :do { add address=196.43.232.0/24 list=IP-NG } on-error={}
 :do { add address=196.43.235.0/24 list=IP-NG } on-error={}
