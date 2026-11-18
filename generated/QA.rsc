@@ -1,4 +1,4 @@
-# Last update: 2026-11-18 09:23:06 UTC
+# Last update: 2026-11-18 18:29:25 UTC
 # Country: QA
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=QA&v4_format=prefix
 
@@ -22,6 +22,7 @@
 :do { add address=2a0c:a640::/29 list=QAv6 } on-error={}
 :do { add address=2a0c:b2c0::/29 list=QAv6 } on-error={}
 :do { add address=2a0d:bc0::/29 list=QAv6 } on-error={}
+:do { add address=2a13:b580::/29 list=QAv6 } on-error={}
 :do { add address=2a14:4700::/29 list=QAv6 } on-error={}
 :do { add address=2a14:4b40::/29 list=QAv6 } on-error={}
 :do { add address=2a14:5480::/29 list=QAv6 } on-error={}

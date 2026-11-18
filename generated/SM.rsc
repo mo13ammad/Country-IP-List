@@ -1,4 +1,4 @@
-# Last update: 2026-11-18 09:23:06 UTC
+# Last update: 2026-11-18 18:29:25 UTC
 # Country: SM
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=SM&v4_format=prefix
 
@@ -46,3 +46,4 @@
 :do { add address=192.145.48.0/22 list=IP-SM } on-error={}
 :do { add address=194.0.27.0/24 list=IP-SM } on-error={}
 :do { add address=194.183.64.0/19 list=IP-SM } on-error={}
+:do { add address=217.172.200.0/21 list=IP-SM } on-error={}
