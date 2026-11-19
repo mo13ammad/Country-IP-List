@@ -1,4 +1,4 @@
-# Last update: 2026-11-19 08:05:54 UTC
+# Last update: 2026-11-19 17:47:50 UTC
 # Country: AL
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=AL&v4_format=prefix
 
@@ -205,8 +205,6 @@
 :do { add address=109.69.160.0/21 list=IP-AL } on-error={}
 :do { add address=109.74.28.0/22 list=IP-AL } on-error={}
 :do { add address=109.104.128.0/22 list=IP-AL } on-error={}
-:do { add address=109.104.132.0/23 list=IP-AL } on-error={}
-:do { add address=109.104.134.0/24 list=IP-AL } on-error={}
 :do { add address=109.104.140.0/23 list=IP-AL } on-error={}
 :do { add address=109.104.144.0/23 list=IP-AL } on-error={}
 :do { add address=109.234.232.0/21 list=IP-AL } on-error={}

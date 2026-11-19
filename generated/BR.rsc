@@ -1,4 +1,4 @@
-# Last update: 2026-11-19 08:05:54 UTC
+# Last update: 2026-11-19 17:47:50 UTC
 # Country: BR
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BR&v4_format=prefix
 
@@ -35,6 +35,7 @@
 :do { add address=2001:12f8:c::/47 list=BRv6 } on-error={}
 :do { add address=2001:12fe::/32 list=BRv6 } on-error={}
 :do { add address=2001:12ff::/32 list=BRv6 } on-error={}
+:do { add address=2602:f266::/40 list=BRv6 } on-error={}
 :do { add address=2801:80::/48 list=BRv6 } on-error={}
 :do { add address=2801:80:10::/48 list=BRv6 } on-error={}
 :do { add address=2801:80:30::/48 list=BRv6 } on-error={}
@@ -8971,11 +8972,16 @@
 :do { add address=2804:9b1c::/32 list=BRv6 } on-error={}
 :do { add address=2804:9b20::/32 list=BRv6 } on-error={}
 :do { add address=2804:9b24::/32 list=BRv6 } on-error={}
+:do { add address=2804:9b28::/32 list=BRv6 } on-error={}
+:do { add address=2804:9b2c::/32 list=BRv6 } on-error={}
+:do { add address=2804:9b30::/32 list=BRv6 } on-error={}
+:do { add address=2804:9b34::/32 list=BRv6 } on-error={}
 :do { add address=2a00:aee0::/29 list=BRv6 } on-error={}
 :do { add address=2a06:b700::/29 list=BRv6 } on-error={}
 
 /ip firewall address-list remove [/ip firewall address-list find list=IP-BR]
 /ip firewall address-list
+:do { add address=23.167.244.0/24 list=IP-BR } on-error={}
 :do { add address=24.152.0.0/22 list=IP-BR } on-error={}
 :do { add address=24.152.4.0/22 list=IP-BR } on-error={}
 :do { add address=24.152.8.0/22 list=IP-BR } on-error={}

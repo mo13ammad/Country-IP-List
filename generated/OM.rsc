@@ -1,4 +1,4 @@
-# Last update: 2026-11-19 08:05:54 UTC
+# Last update: 2026-11-19 17:47:50 UTC
 # Country: OM
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=OM&v4_format=prefix
 
@@ -28,7 +28,6 @@
 :do { add address=2a11:96c0::/29 list=OMv6 } on-error={}
 :do { add address=2a11:b400::/29 list=OMv6 } on-error={}
 :do { add address=2a12:5ac0::/32 list=OMv6 } on-error={}
-:do { add address=2a13:39c0::/32 list=OMv6 } on-error={}
 
 /ip firewall address-list remove [/ip firewall address-list find list=IP-OM]
 /ip firewall address-list
