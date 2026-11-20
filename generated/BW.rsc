@@ -1,4 +1,4 @@
-# Last update: 2026-11-20 14:30:34 UTC
+# Last update: 2026-11-20 22:01:18 UTC
 # Country: BW
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=BW&v4_format=prefix
 
@@ -12,6 +12,7 @@
 :do { add address=2c0f:1020::/32 list=BWv6 } on-error={}
 :do { add address=2c0f:1340::/32 list=BWv6 } on-error={}
 :do { add address=2c0f:1840::/32 list=BWv6 } on-error={}
+:do { add address=2c0f:1d20::/32 list=BWv6 } on-error={}
 :do { add address=2c0f:30c0::/32 list=BWv6 } on-error={}
 :do { add address=2c0f:33c0::/32 list=BWv6 } on-error={}
 :do { add address=2c0f:4780::/32 list=BWv6 } on-error={}
@@ -49,6 +50,7 @@
 :do { add address=102.134.160.0/20 list=IP-BW } on-error={}
 :do { add address=102.141.112.0/21 list=IP-BW } on-error={}
 :do { add address=102.165.128.0/19 list=IP-BW } on-error={}
+:do { add address=102.200.144.0/22 list=IP-BW } on-error={}
 :do { add address=102.201.232.0/22 list=IP-BW } on-error={}
 :do { add address=102.202.66.0/23 list=IP-BW } on-error={}
 :do { add address=102.202.190.0/24 list=IP-BW } on-error={}
