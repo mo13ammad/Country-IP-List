@@ -1,4 +1,4 @@
-# Last update: 2026-11-21 11:52:42 UTC
+# Last update: 2026-11-21 18:22:59 UTC
 # Country: PK
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PK&v4_format=prefix
 
@@ -106,6 +106,7 @@
 :do { add address=2001:df3:b200::/48 list=PKv6 } on-error={}
 :do { add address=2001:df3:ddc0::/48 list=PKv6 } on-error={}
 :do { add address=2001:df3:ec40::/48 list=PKv6 } on-error={}
+:do { add address=2001:df4:e80::/48 list=PKv6 } on-error={}
 :do { add address=2001:df4:23c0::/48 list=PKv6 } on-error={}
 :do { add address=2001:df4:2840::/48 list=PKv6 } on-error={}
 :do { add address=2001:df4:4100::/48 list=PKv6 } on-error={}
@@ -190,6 +191,7 @@
 :do { add address=2001:df7:c380::/48 list=PKv6 } on-error={}
 :do { add address=2001:df7:d380::/48 list=PKv6 } on-error={}
 :do { add address=2001:df7:d480::/48 list=PKv6 } on-error={}
+:do { add address=2001:df7:e240::/48 list=PKv6 } on-error={}
 :do { add address=2001:df7:f180::/48 list=PKv6 } on-error={}
 :do { add address=2001:df7:f380::/48 list=PKv6 } on-error={}
 :do { add address=2001:fe8::/32 list=PKv6 } on-error={}
@@ -654,6 +656,7 @@
 :do { add address=103.151.236.0/23 list=IP-PK } on-error={}
 :do { add address=103.152.42.0/23 list=IP-PK } on-error={}
 :do { add address=103.152.100.0/23 list=IP-PK } on-error={}
+:do { add address=103.152.116.0/23 list=IP-PK } on-error={}
 :do { add address=103.152.254.0/23 list=IP-PK } on-error={}
 :do { add address=103.153.14.0/23 list=IP-PK } on-error={}
 :do { add address=103.153.38.0/23 list=IP-PK } on-error={}
@@ -875,7 +878,9 @@
 :do { add address=115.167.96.0/19 list=IP-PK } on-error={}
 :do { add address=115.186.0.0/23 list=IP-PK } on-error={}
 :do { add address=115.186.4.0/22 list=IP-PK } on-error={}
-:do { add address=115.186.8.0/21 list=IP-PK } on-error={}
+:do { add address=115.186.8.0/24 list=IP-PK } on-error={}
+:do { add address=115.186.10.0/23 list=IP-PK } on-error={}
+:do { add address=115.186.12.0/22 list=IP-PK } on-error={}
 :do { add address=115.186.16.0/20 list=IP-PK } on-error={}
 :do { add address=115.186.32.0/19 list=IP-PK } on-error={}
 :do { add address=115.186.64.0/21 list=IP-PK } on-error={}
@@ -936,6 +941,7 @@
 :do { add address=139.190.72.0/21 list=IP-PK } on-error={}
 :do { add address=139.190.80.0/20 list=IP-PK } on-error={}
 :do { add address=139.190.192.0/18 list=IP-PK } on-error={}
+:do { add address=141.229.50.0/23 list=IP-PK } on-error={}
 :do { add address=144.48.0.0/22 list=IP-PK } on-error={}
 :do { add address=144.48.120.0/22 list=IP-PK } on-error={}
 :do { add address=144.48.128.0/21 list=IP-PK } on-error={}
