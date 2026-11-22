@@ -1,4 +1,4 @@
-# Last update: 2026-11-22 12:05:16 UTC
+# Last update: 2026-11-22 20:01:09 UTC
 # Country: GN
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=GN&v4_format=prefix
 
