@@ -1,4 +1,4 @@
-# Last update: 2026-11-26 13:19:01 UTC
+# Last update: 2026-11-26 22:40:14 UTC
 # Country: IT
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=IT&v4_format=prefix
 
@@ -73,7 +73,6 @@
 :do { add address=2001:3a40::/29 list=ITv6 } on-error={}
 :do { add address=2001:3c40::/29 list=ITv6 } on-error={}
 :do { add address=2001:3e40::/29 list=ITv6 } on-error={}
-:do { add address=2001:3e80::/29 list=ITv6 } on-error={}
 :do { add address=2001:40d0::/32 list=ITv6 } on-error={}
 :do { add address=2001:41a0::/32 list=ITv6 } on-error={}
 :do { add address=2001:41a8::/32 list=ITv6 } on-error={}
