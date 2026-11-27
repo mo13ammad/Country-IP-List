@@ -1,4 +1,4 @@
-# Last update: 2026-11-27 14:28:59 UTC
+# Last update: 2026-11-27 23:02:57 UTC
 # Country: PH
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PH&v4_format=prefix
 
@@ -28,11 +28,9 @@
 :do { add address=2001:df0:fec0::/48 list=PHv6 } on-error={}
 :do { add address=2001:df1:d80::/48 list=PHv6 } on-error={}
 :do { add address=2001:df1:1280::/48 list=PHv6 } on-error={}
-:do { add address=2001:df1:1680::/48 list=PHv6 } on-error={}
 :do { add address=2001:df1:2400::/48 list=PHv6 } on-error={}
 :do { add address=2001:df1:2401::/48 list=PHv6 } on-error={}
 :do { add address=2001:df1:2a40::/48 list=PHv6 } on-error={}
-:do { add address=2001:df1:3440::/48 list=PHv6 } on-error={}
 :do { add address=2001:df1:3f80::/48 list=PHv6 } on-error={}
 :do { add address=2001:df1:4e00::/48 list=PHv6 } on-error={}
 :do { add address=2001:df1:5a80::/48 list=PHv6 } on-error={}
@@ -334,7 +332,6 @@
 :do { add address=2403:5e00::/32 list=PHv6 } on-error={}
 :do { add address=2403:a000::/32 list=PHv6 } on-error={}
 :do { add address=2403:cd00::/32 list=PHv6 } on-error={}
-:do { add address=2403:cd80::/32 list=PHv6 } on-error={}
 :do { add address=2403:f640::/32 list=PHv6 } on-error={}
 :do { add address=2404:d0::/32 list=PHv6 } on-error={}
 :do { add address=2404:d8::/32 list=PHv6 } on-error={}
@@ -786,7 +783,6 @@
 :do { add address=103.208.67.0/24 list=IP-PH } on-error={}
 :do { add address=103.208.88.0/23 list=IP-PH } on-error={}
 :do { add address=103.210.8.0/23 list=IP-PH } on-error={}
-:do { add address=103.210.114.0/23 list=IP-PH } on-error={}
 :do { add address=103.210.222.0/24 list=IP-PH } on-error={}
 :do { add address=103.214.12.0/22 list=IP-PH } on-error={}
 :do { add address=103.218.96.0/22 list=IP-PH } on-error={}
@@ -1278,7 +1274,6 @@
 :do { add address=203.177.240.0/21 list=IP-PH } on-error={}
 :do { add address=203.177.248.0/22 list=IP-PH } on-error={}
 :do { add address=203.177.252.0/22 list=IP-PH } on-error={}
-:do { add address=203.189.8.0/21 list=IP-PH } on-error={}
 :do { add address=203.189.116.0/22 list=IP-PH } on-error={}
 :do { add address=203.190.218.0/23 list=IP-PH } on-error={}
 :do { add address=203.201.180.0/24 list=IP-PH } on-error={}

@@ -1,4 +1,4 @@
-# Last update: 2026-11-27 14:28:59 UTC
+# Last update: 2026-11-27 23:02:57 UTC
 # Country: PT
 # Source: https://stat.ripe.net/data/country-resource-list/data.json?resource=PT&v4_format=prefix
 
@@ -128,6 +128,7 @@
 /ip firewall address-list remove [/ip firewall address-list find list=IP-PT]
 /ip firewall address-list
 :do { add address=2.80.0.0/14 list=IP-PT } on-error={}
+:do { add address=2.152.90.0/23 list=IP-PT } on-error={}
 :do { add address=5.43.0.0/18 list=IP-PT } on-error={}
 :do { add address=5.158.0.0/18 list=IP-PT } on-error={}
 :do { add address=5.183.96.0/24 list=IP-PT } on-error={}
